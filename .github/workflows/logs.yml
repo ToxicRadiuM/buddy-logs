@@ -1,0 +1,36 @@
+# Haalt elk uur de logs van alle Buddy-telefoons op bij de Worker en zet ze in deze privé-repo:
+# logs/<datum>/<naam>-<id>.txt  (de Worker bewaart ze 14 dagen, hier blijven ze staan)
+name: Logs ophalen
+on:
+  schedule:
+    - cron: '23 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: logs
+jobs:
+  haal:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Ophalen
+        env:
+          LOG_KEY: ${{ secrets.LOG_KEY }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re, urllib.request
+          u = 'https://ndw.ricardoboegheim19.workers.dev/logs?key=' + os.environ['LOG_KEY']
+          j = json.load(urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'buddy-logs'}), timeout=60))
+          for l in j.get('logs', []):
+              naam = re.sub(r'[^A-Za-z0-9-]', '', (l.get('naam') or 'onbekend').replace(' ', '-')) or 'onbekend'
+              map_ = os.path.join('logs', l['datum']); os.makedirs(map_, exist_ok=True)
+              open(os.path.join(map_, naam + '-' + l['id'] + '.txt'), 'w').write(l['tekst'])
+          print(len(j.get('logs', [])), 'logs')
+          PY
+      - name: Bewaren
+        run: |
+          git add -A logs || true
+          if git diff --cached --quiet; then echo "niets nieuws"; exit 0; fi
+          git -c user.name="Buddy-bot" -c user.email="buddy-bot@users.noreply.github.com" commit -q -m "Logs $(date -u +%F\ %H:%M)"
+          git push -q
