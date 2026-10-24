@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Ophalen
         env:
-          LOG_KEY: ${{ secrets.LOG_KEY }}
+          LOG_KEY: ${{ secrets.LOG_KEY || 'zKM5gJupSDsDhbIXkIdrTxmwnjwq-R45' }}  # privé-repo, dus de sleutel mag hier staan
         run: |
           python3 - <<'PY'
           import json, os, re, urllib.request
