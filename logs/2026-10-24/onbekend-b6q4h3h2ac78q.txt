@@ -529,3 +529,18 @@
 11:27:26 leaderboard: bb959ptfw4elc samengevoegd met jou
 11:27:28 leaderboard: b1lj2fsfs6tu1 samengevoegd met jou
 11:27:32 v=0 nauwk=4m limiet=30 wegen=2748 draai=0 vaste=68/0 gemeld=11 stemming=neutral
+--- v72 · Linux; Android 10; K ---
+12:10:40 scherm-aan-slot gekregen
+--- v72 · Linux; Android 10; K ---
+12:10:40 scherm-aan-slot gekregen
+12:10:40 ev happy: Goedemiddag!
+12:10:41 terug na 1256 s zonder GPS
+12:10:41 v=0 nauwk=12m limiet=30 wegen=2748 draai=0 vaste=68/0 gemeld=11 stemming=happy
+12:10:41 groep ververst: 4
+12:10:41 weer: 11.5 graden, code 2, neerslag 0, wind 25
+12:10:41 bruggen geladen: 9
+12:10:41 ANWB verkeer geladen: 47 meldingen in de buurt (van 98)
+12:10:41 NDW geladen: 451 meldingen in de buurt {"closure":297,"speed":50,"lane":94,"jam":6,"accident":4}
+12:10:42 flitsers via /flitsers: 9/9
+12:10:47 ev clock: Het is 12:10.
+12:10:51 v=0 nauwk=8m limiet=30 wegen=2748 draai=0 vaste=68/0 gemeld=9 stemming=clock
