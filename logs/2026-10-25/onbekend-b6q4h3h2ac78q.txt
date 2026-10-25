@@ -1,0 +1,38 @@
+--- v72 · Linux; Android 10; K ---
+12:10:55 osm werk Worker: Failed to fetch, ik probeer Overpass rechtstreeks
+13:52:31 start v72
+13:52:32 groep ververst: 4
+13:52:32 GPS automatisch aan
+13:52:32 scherm-aan-slot gekregen
+13:52:32 voelen: sensor-teken gewoon
+13:52:33 bewegingssensor: granted
+13:52:34 geklopt (3×)
+13:52:38 voelen: geleerde richting van vorige keer meegedraaid
+13:52:40 back-up (dag) 45 kB
+13:52:40 geklopt (3×)
+--- v72 · Linux; Android 10; K ---
+13:53:01 voelen: telefoon gedraaid (26°), richting meegedraaid
+13:53:41 voelen: telefoon gedraaid (34°), richting meegedraaid
+13:54:00 voelen: telefoon gedraaid (49°), richting meegedraaid
+13:54:07 voelen: telefoon gedraaid (46°), richting meegedraaid
+13:54:13 geklopt (3×)
+13:54:27 voelen: telefoon gedraaid (31°), richting meegedraaid
+13:54:52 voelen: telefoon gedraaid (29°), richting meegedraaid
+13:54:59 voelen: telefoon gedraaid (39°), richting meegedraaid
+13:55:07 autostand aan
+13:55:13 voelen: telefoon gedraaid (98°), richting meegedraaid
+13:55:26 voelen: telefoon gedraaid (30°), richting meegedraaid
+13:55:40 groepsbericht verstuurd: zwaai
+13:55:49 autostand uit
+13:55:53 rond scherm aan
+13:55:59 voelen: telefoon gedraaid (29°), richting meegedraaid
+--- v72 · Linux; Android 10; K ---
+13:56:20 start v72
+13:56:20 groep ververst: 4
+13:56:21 rond scherm aan
+13:56:21 GPS automatisch aan
+13:56:21 scherm-aan-slot gekregen
+13:56:21 voelen: geleerde richting van vorige keer overgenomen
+13:56:23 bewegingssensor: granted
+13:56:24 rond scherm uit
+13:56:25 voelen: sensor-teken gewoon
