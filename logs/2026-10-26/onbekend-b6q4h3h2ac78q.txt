@@ -1,0 +1,5 @@
+--- v72 · Linux; Android 10; K ---
+08:22:50 start v72
+08:22:50 FOUT Uncaught TypeError: Cannot read properties of undefined (reading '6') @5052
+--- v72 · Linux; Android 10; K ---
+08:22:59 bewegingssensor: granted

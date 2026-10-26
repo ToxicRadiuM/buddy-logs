@@ -1,0 +1,79 @@
+--- v72 · Linux; Android 10; K ---
+08:23:00 start v72
+08:23:00 groep ververst: 4
+08:23:01 GPS automatisch aan
+08:23:01 scherm-aan-slot gekregen
+08:23:01 ev bored: Maandagochtend… dapper blijven.
+08:23:02 bewegingssensor: granted
+08:23:02 ev excited: Joepie! Nu voel ik elke bocht.
+08:23:02 limiet geschat uit je snelheid: 30
+08:23:02 matrix-locaties geladen: 6442
+08:23:02 ev happy: Goedemorgen! een collega is ook al onderweg.
+08:23:02 briefing: Goedemorgen! een collega is ook al onderweg.
+08:23:02 osm wegen via Worker (bewaard): 520 stuks
+08:23:02 wegen geladen: 520 wegen
+08:23:02 ANWB verkeer geladen: 43 meldingen in de buurt (van 117)
+08:23:02 bruggen geladen: 10
+08:23:02 weer: 8.5 graden, code 3, neerslag 0, wind 19
+08:23:02 NDW geladen: 336 meldingen in de buurt {"speed":29,"lane":67,"closure":200,"jam":36,"accident":4}
+08:23:02 rws tegel 1733_95 (internet): 876 wegvakken, versie 01-10-2026
+08:23:03 flitsers via /flitsers: 7/7
+08:23:03 vaste flitsers NL: 515, trajectcontroles: 76 (versie 24-10-2026)
+08:23:05 ev happy: Winnaar weekchallenge “Rustigste rijstijl (minstens 3 ritten)”: Henk met 57/100!
+08:23:08 back-up (dag) 38 kB
+08:23:10 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=0/0 gemeld=7 stemming=anticipate
+08:23:13 voelen: sensor-teken gewoon
+--- v72 · Linux; Android 10; K ---
+08:23:21 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=0/0 gemeld=7 stemming=anticipate
+08:23:31 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=0/0 gemeld=7 stemming=happy
+08:23:33 ev startled: Wiee, ik zweef!
+08:23:34 ev content: Ah, weer lekker vast.
+08:23:34 osm flits via Worker (overpass): 153 stuks
+08:23:34 flitsdata geladen: 70 flitsers, 0 trajecten (totaal 68/0)
+--- v72 · Linux; Android 10; K ---
+08:23:38 osm werk via Worker (overpass): 400 stuks
+08:23:38 wegwerkzaamheden geladen: 398
+08:23:40 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+08:24:14 scherm-aan-slot gekregen
+08:24:14 scherm-aan-slot gekregen
+08:24:15 terug na 38 s zonder GPS
+08:24:15 v=0 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=7 stemming=content
+--- v73 · Linux; Android 10; K ---
+08:26:42 start v73
+08:26:42 groep ververst: 4
+08:26:43 GPS automatisch aan
+08:26:43 scherm-aan-slot gekregen
+08:26:43 bewegingssensor: granted
+08:26:43 ev excited: Joepie! Nu voel ik elke bocht.
+08:26:44 limiet geschat uit je snelheid: 30
+08:26:44 flitsers via /flitsers: 8/8
+08:26:44 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+08:26:44 ANWB verkeer geladen: 38 meldingen in de buurt (van 110)
+08:26:44 bruggen geladen: 10
+08:26:44 NDW geladen: 343 meldingen in de buurt {"accident":4,"speed":29,"lane":67,"closure":201,"jam":42}
+08:26:44 weer: 8.5 graden, code 3, neerslag 0, wind 19
+08:26:44 matrix-locaties geladen: 6442
+08:26:47 voelen: sensor-teken gewoon
+--- v73 · Linux; Android 10; K ---
+09:08:43 start v73
+09:08:44 groep ververst: 4
+09:08:44 GPS automatisch aan
+09:08:44 scherm-aan-slot gekregen
+09:08:44 bewegingssensor: granted
+09:08:44 ev excited: Joepie! Nu voel ik elke bocht.
+09:08:45 limiet geschat uit je snelheid: 30
+09:08:45 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+09:08:45 osm werk via Worker (bewaard): 400 stuks
+09:08:45 wegwerkzaamheden geladen: 398
+09:08:45 weer: 8.9 graden, code 3, neerslag 0, wind 18
+09:08:45 matrix-locaties geladen: 6442
+09:08:45 bruggen geladen: 9
+09:08:45 ANWB verkeer geladen: 32 meldingen in de buurt (van 82)
+09:08:45 NDW geladen: 320 meldingen in de buurt {"speed":29,"lane":67,"closure":205,"jam":17,"accident":2}
+09:08:46 flitsers via /flitsers: 14/14
+09:08:47 autostand aan
+09:08:48 voelen: sensor-teken gewoon
+09:08:49 ev happy: Zo zie ik het ook.
+09:08:50 ev startled: Hé! Waar gaan we heen?
+09:08:52 ev content: Klik! Ik zit weer.
+09:08:54 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=content
