@@ -546,3 +546,52 @@
 05:45:15 start v72
 05:45:15 FOUT TypeError: undefined is not an object (evaluating 'DAGEN[d.getDay()]') @5052
 05:45:16 voelen: sensor-teken gewoon
+--- v72 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+06:19:53 start v72
+06:19:53 FOUT TypeError: undefined is not an object (evaluating 'DAGEN[d.getDay()]') @5052
+06:19:57 bewegingssensor: granted
+06:19:58 scherm-aan-slot gekregen
+06:19:59 voelen: sensor-teken gewoon
+06:19:59 limiet geschat uit je snelheid: 100
+06:19:59 rws tegel 1717_95 (telefoon): 426 wegvakken, versie 01-10-2026
+06:19:59 osm wegen uit telefoongeheugen: 301 stuks
+06:19:59 wegen geladen: 301 wegen
+06:19:59 groep ververst: 4
+06:20:00 bruggen geladen: 0
+06:20:00 ev happy: Goedemorgen Henk!
+06:20:00 ANWB verkeer geladen: 7 meldingen in de buurt (van 51)
+06:20:00 NDW geladen: 124 meldingen in de buurt {"closure":81,"speed":13,"lane":29,"accident":1}
+06:20:00 matrix-locaties geladen: 6442
+06:20:00 matrix geladen: 353 snelheid, 194 kruis
+06:20:00 flitsers via /flitsers: 3/3
+06:20:01 voelen: geleerde richting van vorige keer meegedraaid
+--- v72 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+06:43:07 osm flits Worker: te traag, ik probeer Overpass rechtstreeks
+06:43:07 osm werk Worker: te traag, ik probeer Overpass rechtstreeks
+06:43:08 overpass overpass-api.de: Load failed
+06:43:08 overpass overpass-api.de: Load failed
+06:43:08 overpass overpass.private.coffee: Load failed
+06:43:08 overpass overpass.private.coffee: Load failed
+06:43:08 overpass overpass.kumi.systems: Load failed
+06:43:08 overpass overpass.kumi.systems: Load failed
+06:43:08 overpass maps.mail.ru: Load failed
+06:43:08 FOUT flitsdata laden mislukt (maps.mail.ru: Load failed) volgende poging over 15 s
+06:43:08 overpass maps.mail.ru: Load failed
+--- v72 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+06:43:08 start v72
+06:43:08 FOUT TypeError: undefined is not an object (evaluating 'DAGEN[d.getDay()]') @5052
+06:43:10 voelen: geleerde richting van vorige keer overgenomen
+06:43:10 bewegingssensor: granted
+06:43:16 scherm-aan-slot gekregen
+06:43:17 limiet geschat uit je snelheid: 80
+06:43:17 rws tegel 1717_103 (telefoon): 553 wegvakken, versie 01-10-2026
+06:43:17 rws tegel 1717_104 (telefoon): 193 wegvakken, versie 01-10-2026
+06:43:17 matrix-locaties geladen: 6442
+06:43:17 groep ververst: 4
+06:43:17 ANWB verkeer geladen: 6 meldingen in de buurt (van 66)
+06:43:17 bruggen geladen: 0
+06:43:17 NDW geladen: 143 meldingen in de buurt {"lane":39,"closure":73,"speed":23,"jam":7,"accident":1}
+06:43:17 ev happy: Goedemorgen Henk!
+06:43:17 flitsers via /flitsers: 5/5
+06:43:18 matrix geladen: 572 snelheid, 101 kruis
+06:43:19 voelen: sensor-teken gewoon
