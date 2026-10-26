@@ -1063,3 +1063,53 @@
 11:02:34 voelen: sensor-teken gewoon
 11:02:37 ev worried: Voetje van het gas?
 11:02:42 v=104 nauwk=2m limiet=90 wegen=1981 draai=-0 vaste=81/7 gemeld=19 stemming=focused
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+11:02:50 ev happy: Wiee, ander uitzicht!
+11:18:23 scherm-aan-slot geweigerd: NotAllowedError
+11:18:23 scherm-aan-slot geweigerd: NotAllowedError
+11:18:23 voelen: telefoon gedraaid (49°), richting meegedraaid
+11:18:23 terug na 933 s zonder GPS
+11:18:23 limiet geschat uit je snelheid: 100
+11:18:23 v=101 nauwk=10m limiet=100~ wegen=0 draai=0 vaste=81/7 gemeld=19 stemming=happy
+11:18:23 drempel/schok sterkte 13.0 bij 101 km/h
+11:18:23 ev worried: Au! Wat een gat.
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+11:18:23 rws tegel 1707_116 (telefoon): 440 wegvakken, versie 01-10-2026
+11:18:23 weer: 9.5 graden, code 3, neerslag 0, wind 14
+11:18:23 ev happy: Goedemorgen Henk!
+11:18:24 groep ververst: 4
+11:18:24 bruggen geladen: 0
+11:18:24 NDW geladen: 85 meldingen in de buurt {"lane":9,"closure":74,"accident":1,"speed":1}
+11:18:24 ANWB verkeer geladen: 1 meldingen in de buurt (van 46)
+11:18:25 flitsers via /flitsers: 22/22
+11:19:00 scherm-aan-slot geweigerd: NotAllowedError
+11:19:00 scherm-aan-slot geweigerd: NotAllowedError
+11:19:00 terug na 37 s zonder GPS
+11:19:00 v=101 nauwk=35m limiet=100 wegen=440 draai=0 vaste=81/7 gemeld=22 stemming=alert
+11:19:00 drempel/schok sterkte 10.0 bij 101 km/h
+11:19:00 ev worried: Au! Wat een gat.
+11:19:00 voelen: telefoon gedraaid (31°), richting meegedraaid
+11:19:00 osm wegen via Worker (bewaard): 329 stuks
+11:19:00 wegen geladen: 329 wegen
+11:19:00 osm flits via Worker (bewaard): 41 stuks
+11:19:00 flitsdata geladen: 11 flitsers, 6 trajecten (totaal 91/13)
+11:19:11 v=103 nauwk=4m limiet=100 wegen=769 draai=-0 vaste=91/13 gemeld=22 stemming=focused
+11:19:11 scherm-aan-slot geweigerd: NotAllowedError
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+11:20:24 osm werk Worker: te traag, ik probeer Overpass rechtstreeks
+11:20:24 scherm-aan-slot geweigerd: NotAllowedError
+11:20:24 scherm-aan-slot geweigerd: NotAllowedError
+11:20:24 terug na 73 s zonder GPS
+11:20:24 v=100 nauwk=14m limiet=100 wegen=769 draai=0 vaste=91/13 gemeld=22 stemming=alert
+11:20:24 rws tegel 1707_115 (telefoon): 435 wegvakken, versie 01-10-2026
+11:20:25 ANWB verkeer geladen: 1 meldingen in de buurt (van 46)
+11:20:25 flitsers via /flitsers: 20/20
+11:20:27 rws tegel 1708_115 (telefoon): 420 wegvakken, versie 01-10-2026
+11:20:28 voelen: telefoon gedraaid (51°), richting meegedraaid
+11:20:29 ev happy: Wiee, ander uitzicht!
+11:20:30 ev alert: Werk aan de weg over 400 m. Rustig aan!
+11:20:30 NDW melding lane 440 m: Werk aan de weg over 400 m. Rustig aan!
+11:20:32 voelen: telefoon gedraaid (46°), richting meegedraaid
+11:20:35 v=103 nauwk=4m limiet=100 wegen=1624 draai=0 vaste=91/13 gemeld=20 stemming=focused
+11:20:45 v=102 nauwk=5m limiet=100 wegen=1624 draai=0 vaste=91/13 gemeld=20 stemming=focused
+11:20:54 overpass overpass-api.de: te traag
