@@ -1113,3 +1113,40 @@
 11:20:35 v=103 nauwk=4m limiet=100 wegen=1624 draai=0 vaste=91/13 gemeld=20 stemming=focused
 11:20:45 v=102 nauwk=5m limiet=100 wegen=1624 draai=0 vaste=91/13 gemeld=20 stemming=focused
 11:20:54 overpass overpass-api.de: te traag
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+13:04:46 start v73
+13:04:46 groep ververst: 4
+13:04:46 rond scherm aan
+13:04:47 GPS automatisch aan
+13:04:47 scherm-aan-slot geweigerd: NotAllowedError
+13:04:48 limiet geschat uit je snelheid: 30
+13:04:48 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+13:04:48 matrix-locaties geladen: 6442
+13:04:48 weer: 11.1 graden, code 3, neerslag 0, wind 16
+13:04:48 flitsers via /flitsers: 20/20
+13:04:48 ANWB verkeer geladen: 10 meldingen in de buurt (van 46)
+13:04:48 bruggen geladen: 0
+13:04:48 NDW geladen: 220 meldingen in de buurt {"lane":77,"closure":106,"speed":37}
+13:04:49 scherm-aan-slot geweigerd: NotAllowedError
+13:04:49 wakker blijven: filmpje-truc aan
+13:04:49 FOUT bewegingssensor Requesting device motion access requires a user gesture to prompt
+13:04:50 scherm-aan-slot geweigerd: NotAllowedError
+13:04:51 FOUT bewegingssensor Requesting device motion access requires a user gesture to prompt
+13:04:52 ev excited: Whoeeh, optrekken!
+13:04:53 ev worried: Rustig in de bocht!
+13:04:53 ev startled: Oef, stevig remmen!
+13:04:54 scherm-aan-slot geweigerd: NotAllowedError
+13:04:55 ev excited: Helemaal rond! Wheee, ik word draaierig.
+13:04:55 rotonde: helemaal rond (300°)
+13:04:55 FOUT bewegingssensor Requesting device motion access requires a user gesture to prompt
+13:04:57 v=0 nauwk=4m limiet=30~ wegen=2466 draai=-172 vaste=81/6 gemeld=20 stemming=excited
+13:04:57 scherm-aan-slot geweigerd: NotAllowedError
+13:04:58 bewegingssensor: granted
+13:04:58 ev excited: Joepie! Nu voel ik elke bocht.
+13:04:59 scherm-aan-slot gekregen
+13:05:01 ev alert: Werk aan de weg over 100 m. Rustig aan!
+13:05:01 NDW melding lane 88 m: Werk aan de weg over 100 m. Rustig aan!
+13:05:01 ev excited: Whoeeh, optrekken!
+13:05:01 ev worried: Rustig in de bocht!
+13:05:01 voelen: geleerde richting van vorige keer meegedraaid
+13:05:02 ev startled: Oef, stevig remmen!

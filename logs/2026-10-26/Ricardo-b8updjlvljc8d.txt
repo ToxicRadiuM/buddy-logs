@@ -1130,3 +1130,57 @@
 10:53:38 overpass maps.mail.ru: Failed to fetch
 10:59:18 scherm-aan-slot gekregen
 10:59:18 scherm-aan-slot gekregen
+--- v73 · Linux; Android 10; K ---
+13:04:47 start v73
+13:04:47 groep ververst: 4
+13:04:48 GPS automatisch aan
+13:04:48 scherm-aan-slot gekregen
+13:04:49 limiet geschat uit je snelheid: 30
+13:04:49 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+13:04:49 bewegingssensor: granted
+13:04:49 ev excited: Joepie! Nu voel ik elke bocht.
+13:04:49 matrix-locaties geladen: 6442
+13:04:49 ANWB verkeer geladen: 10 meldingen in de buurt (van 46)
+13:04:49 flitsers via /flitsers: 20/20
+13:04:49 weer: 11.1 graden, code 3, neerslag 0, wind 16
+13:04:49 bruggen geladen: 0
+13:04:49 NDW geladen: 220 meldingen in de buurt {"lane":77,"closure":106,"speed":37}
+13:04:50 voelen: sensor-teken gewoon
+13:04:54 voelen: geleerde richting van vorige keer meegedraaid
+13:04:57 v=0 nauwk=13m limiet=30~ wegen=2163 draai=0 vaste=112/12 gemeld=20 stemming=neutral
+13:04:58 ev startled: Hé! Waar gaan we heen?
+13:05:03 voelen: telefoon gedraaid (26°), richting meegedraaid
+13:05:03 ev content: Ah, weer lekker vast.
+--- v73 · Linux; Android 10; K ---
+13:05:08 v=0 nauwk=3m limiet=30~ wegen=2163 draai=0 vaste=112/12 gemeld=20 stemming=bored
+13:05:13 osm wegen via Worker (overpass): 958 stuks
+13:05:13 wegen geladen: 958 wegen
+13:05:15 osm werk via Worker (overpass): 400 stuks
+13:05:15 wegwerkzaamheden geladen: 400
+13:05:18 v=0 nauwk=3m limiet=30~ wegen=3121 draai=0 vaste=112/12 gemeld=20 stemming=neutral
+13:05:29 v=0 nauwk=3m limiet=30~ wegen=3121 draai=0 vaste=112/12 gemeld=20 stemming=neutral
+13:05:33 ev clock: Het is 13:05.
+13:05:39 ev startled: Wiee, ik zweef!
+13:05:39 v=0 nauwk=3m limiet=30~ wegen=3121 draai=0 vaste=112/12 gemeld=20 stemming=startled
+13:05:41 voelen: telefoon gedraaid (30°), richting meegedraaid
+13:05:41 ev content: Zo, mijn uitzicht is terug.
+13:05:41 ev happy: Drie keer kloppen: feestje!
+13:05:41 geklopt (3×)
+13:05:50 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=112/12 gemeld=20 stemming=bored
+13:05:55 autostand aan
+13:05:55 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+13:05:56 autostand uit
+13:05:58 voelen: telefoon gedraaid (40°), richting meegedraaid
+13:06:00 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=112/12 gemeld=20 stemming=alert
+13:06:06 autostand aan
+13:06:08 autostand uit
+13:06:11 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=112/12 gemeld=20 stemming=bored
+13:06:21 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=112/12 gemeld=20 stemming=bored
+13:06:26 ev startled: Wiee, ik zweef!
+13:06:30 ev content: Klik! Ik zit weer.
+13:06:32 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=112/12 gemeld=20 stemming=content
+13:06:43 v=0 nauwk=6m limiet=30~ wegen=3121 draai=0 vaste=112/12 gemeld=20 stemming=yawn
+13:06:50 ANWB verkeer geladen: 10 meldingen in de buurt (van 47)
+13:06:50 flitsers via /flitsers: 20/20
+13:06:54 v=0 nauwk=6m limiet=30~ wegen=3121 draai=0 vaste=112/12 gemeld=20 stemming=bored
+13:07:05 v=0 nauwk=7m limiet=30~ wegen=3121 draai=0 vaste=112/12 gemeld=20 stemming=yawn
