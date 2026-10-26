@@ -595,3 +595,47 @@
 06:43:17 flitsers via /flitsers: 5/5
 06:43:18 matrix geladen: 572 snelheid, 101 kruis
 06:43:19 voelen: sensor-teken gewoon
+--- v72 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+07:15:50 osm flits Worker: te traag, ik probeer Overpass rechtstreeks
+07:15:50 osm werk Worker: te traag, ik probeer Overpass rechtstreeks
+07:15:50 osm wegen Worker: te traag, ik probeer Overpass rechtstreeks
+07:15:51 scherm-aan-slot gekregen
+07:15:51 rws tegel 1710_111 (telefoon): 360 wegvakken, versie 01-10-2026
+07:15:51 overpass overpass-api.de: http 429
+07:15:51 overpass overpass-api.de: http 502
+07:15:51 overpass overpass-api.de: http 502
+07:15:51 bruggen geladen: 0
+07:15:51 NDW geladen: 84 meldingen in de buurt {"lane":19,"closure":46,"speed":15,"accident":1,"jam":3}
+07:15:51 ANWB verkeer geladen: 6 meldingen in de buurt (van 75)
+07:15:51 ev happy: Goedemorgen Henk!
+07:15:52 wakker blijven: filmpje-truc aan
+07:15:52 overpass overpass.private.coffee: Load failed
+07:15:52 overpass overpass.private.coffee: Load failed
+07:15:52 overpass overpass.private.coffee: Load failed
+07:15:52 overpass overpass.kumi.systems: Load failed
+07:15:52 overpass overpass.kumi.systems: Load failed
+07:15:52 overpass overpass.kumi.systems: Load failed
+07:15:52 overpass maps.mail.ru: Load failed
+07:15:52 FOUT wegenlimiet laden mislukt (maps.mail.ru: Load failed) opnieuw over 8 s
+07:15:52 overpass maps.mail.ru: Load failed
+07:15:52 overpass maps.mail.ru: Load failed
+07:15:52 FOUT flitsdata laden mislukt (maps.mail.ru: Load failed) volgende poging over 15 s
+--- v72 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+07:15:52 start v72
+07:15:52 FOUT TypeError: undefined is not an object (evaluating 'DAGEN[d.getDay()]') @5052
+07:15:53 voelen: geleerde richting van vorige keer overgenomen
+07:15:55 bewegingssensor: granted
+07:15:58 scherm-aan-slot gekregen
+07:15:59 ev happy: Goedemorgen Henk!
+07:15:59 limiet geschat uit je snelheid: 30
+07:15:59 rws tegel 1710_111 (telefoon): 360 wegvakken, versie 01-10-2026
+07:15:59 osm wegen uit telefoongeheugen: 283 stuks
+07:15:59 wegen geladen: 283 wegen
+07:15:59 matrix-locaties geladen: 6442
+07:15:59 ANWB verkeer geladen: 6 meldingen in de buurt (van 75)
+07:15:59 bruggen geladen: 0
+07:15:59 NDW geladen: 84 meldingen in de buurt {"lane":19,"closure":46,"speed":15,"accident":1,"jam":3}
+07:15:59 groep ververst: 4
+07:16:00 flitsers via /flitsers: 5/5
+07:16:00 wakker blijven: filmpje-truc aan
+07:16:04 voelen: sensor-teken gewoon
