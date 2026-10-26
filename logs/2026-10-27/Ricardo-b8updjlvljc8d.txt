@@ -1,0 +1,13 @@
+--- v73 · Linux; Android 10; K ---
+23:19:39 start v73
+23:19:39 nachtstand aan
+23:19:39 groep ververst: 5
+23:19:40 GPS automatisch aan
+23:19:40 scherm-aan-slot gekregen
+23:19:40 bewegingssensor: granted
+23:19:41 voelen: geleerde richting van vorige keer meegedraaid
+23:19:52 voelen: sensor-teken gewoon
+--- v73 · Linux; Android 10; K ---
+23:21:44 GPS automatisch aan
+23:21:44 scherm-aan-slot gekregen
+23:21:54 geklopt (2×)
