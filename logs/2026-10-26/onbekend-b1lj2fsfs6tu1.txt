@@ -1,0 +1,8 @@
+--- v73 · Linux; Android 10; K ---
+18:47:26 start v73
+18:47:26 nachtstand aan
+18:47:26 groep ververst: 5
+18:47:27 GPS automatisch aan
+18:47:27 ev sleepy: Ik ben moe… mijn telefoon heeft stroom nodig.
+18:47:27 scherm-aan-slot gekregen
+18:47:27 bewegingssensor: granted
