@@ -1989,3 +1989,21 @@
 16:02:00 ev excited: Groen! Daar gaan we.
 16:02:02 v=0 nauwk=2m limiet=70 wegen=2466 draai=0 vaste=163/18 gemeld=14 stemming=excited
 16:02:03 ev excited: Whoeeh, optrekken!
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+17:02:53 scherm-aan-slot geweigerd: NotAllowedError
+17:02:53 scherm-aan-slot geweigerd: NotAllowedError
+17:02:53 terug na 3650 s zonder GPS
+17:02:53 v=3 nauwk=2m limiet=70 wegen=0 draai=0 vaste=163/18 gemeld=14 stemming=neutral
+17:02:53 voelen: telefoon gedraaid (59°), richting meegedraaid
+17:02:53 rws tegel 1730_95 (telefoon): 514 wegvakken, versie 01-10-2026
+17:02:53 osm wegen uit telefoongeheugen: 426 stuks
+17:02:53 wegen geladen: 426 wegen
+17:02:53 weer: 14 graden, code 3, neerslag 0, wind 18
+17:02:53 groep ververst: 5
+17:02:53 bruggen geladen: 0
+17:02:53 NDW geladen: 360 meldingen in de buurt {"speed":31,"lane":75,"jam":63,"closure":179,"accident":12}
+17:02:53 ANWB verkeer geladen: 63 meldingen in de buurt (van 153)
+17:02:53 ev happy: Goedemiddag Henk!
+17:02:54 flitsers via /flitsers: 17/17
+17:02:56 voelen: telefoon gedraaid (42°), richting meegedraaid
+17:02:57 scherm-aan-slot geweigerd: NotAllowedError
