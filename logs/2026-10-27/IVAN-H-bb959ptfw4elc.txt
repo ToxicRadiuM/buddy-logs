@@ -58,3 +58,36 @@
 10:29:48 ev startled: Zet je me straks terug in de houder?
 10:29:49 ev content: Ah, weer lekker vast.
 10:29:57 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=53/2 gemeld=20 stemming=sleepy
+--- v73 · Linux; Android 10; K ---
+21:40:03 start v73
+21:40:03 nachtstand aan
+21:40:03 groep ververst: 5
+21:40:04 GPS automatisch aan
+21:40:04 ev happy: Goedenavond IVAN H!
+21:40:04 scherm-aan-slot gekregen
+21:40:05 limiet geschat uit je snelheid: 30
+21:40:05 weer: 12.1 graden, code 2, neerslag 0, wind 10
+21:40:05 matrix-locaties geladen: 6442
+21:40:06 ANWB verkeer geladen: 17 meldingen in de buurt (van 72)
+21:40:06 bruggen geladen: 0
+21:40:06 NDW geladen: 212 meldingen in de buurt {"lane":55,"closure":119,"speed":37,"accident":1}
+21:40:06 rws tegel 1725_114 (internet): 1090 wegvakken, versie 01-10-2026
+21:40:06 bewegingssensor: granted
+21:40:06 ev excited: Joepie! Nu voel ik elke bocht.
+21:40:07 voelen: geleerde richting van vorige keer overgenomen
+21:40:07 flitsers via /flitsers: 14/14
+21:40:11 back-up (dag) 45 kB
+21:40:13 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+21:40:14 v=0 nauwk=54m limiet=30~ wegen=0 draai=0 vaste=53/2 gemeld=14 stemming=content
+21:40:18 voelen: sensor-teken gewoon
+--- v73 · Linux; Android 10; K ---
+21:40:25 v=0 nauwk=10m limiet=30 wegen=1090 draai=0 vaste=53/2 gemeld=14 stemming=neutral
+21:40:35 v=2 nauwk=4m limiet=30 wegen=1090 draai=0 vaste=53/2 gemeld=14 stemming=neutral
+21:40:36 osm werk Worker: http 503, ik probeer Overpass rechtstreeks
+21:40:36 osm flits Worker: http 503, ik probeer Overpass rechtstreeks
+21:40:37 overpass overpass-api.de: http 502
+21:40:37 overpass overpass-api.de: http 502
+21:40:43 osm wegen Worker: http 503, ik probeer Overpass rechtstreeks
+21:40:46 v=0 nauwk=4m limiet=30 wegen=1090 draai=0 vaste=53/2 gemeld=14 stemming=neutral
+21:40:52 overpass maps.mail.ru: http 504
+21:40:52 overpass maps.mail.ru: http 504
