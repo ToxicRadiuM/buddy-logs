@@ -1,0 +1,86 @@
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+06:27:34 start v73
+06:27:34 nachtstand aan
+06:27:34 groep ververst: 5
+06:27:34 GPS automatisch aan
+06:27:34 scherm-aan-slot geweigerd: NotAllowedError
+06:27:36 scherm-aan-slot geweigerd: NotAllowedError
+06:27:36 FOUT bewegingssensor Requesting device motion access requires a user gesture to prompt
+06:27:36 wakker blijven: filmpje-truc aan
+06:27:38 limiet geschat uit je snelheid: 50
+06:27:38 rws tegel 1730_92 (telefoon): 2618 wegvakken, versie 01-10-2026
+06:27:38 rws tegel 1730_91 (telefoon): 4608 wegvakken, versie 01-10-2026
+06:27:38 ev excited: Whoeeh, optrekken!
+06:27:38 ANWB verkeer geladen: 25 meldingen in de buurt (van 58)
+06:27:38 flitsers via /flitsers: 16/16
+06:27:38 matrix-locaties geladen: 6442
+06:27:38 bruggen geladen: 0
+06:27:38 weer: 13.7 graden, code 3, neerslag 0, wind 24
+06:27:38 NDW geladen: 302 meldingen in de buurt {"closure":180,"speed":33,"lane":77,"jam":11,"accident":1}
+06:27:38 scherm-aan-slot geweigerd: NotAllowedError
+06:27:38 autostand aan
+06:27:40 ev happy: Goedemorgen Henk! Het is 14 graden, bewolkt. Ricardo is ook al onderweg. Let op: een afsluiting op de A27 op je gewone route.
+06:27:40 briefing: Goedemorgen Henk! Het is 14 graden, bewolkt. Ricardo is ook al onderweg. Let op: een afsluiting op de A27 op je gewone route.
+06:27:40 bewegingssensor: granted
+06:27:40 ev excited: Joepie! Nu voel ik elke bocht.
+06:27:41 drempel/schok sterkte 4.2 bij 45 km/h
+06:27:41 ev startled: Boing!
+06:27:41 drempel/schok sterkte 6.3 bij 45 km/h (tweede klap)
+06:27:41 ev excited: Dubbele boing! Dat was een drempel.
+06:27:41 matrix geladen: 482 snelheid, 186 kruis
+06:27:41 voelen: sensor-teken gewoon
+06:27:42 drempel/schok sterkte 8.2 bij 41 km/h
+06:27:42 ev startled: Drempel! Boing!
+06:27:42 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+06:27:42 hobbelige weg (4 klappen in 20 s)
+06:27:43 drempel/schok sterkte 9.5 bij 40 km/h (tweede klap)
+06:27:43 ev excited: Dubbele boing! Dat was een drempel.
+06:27:44 v=41 nauwk=8m limiet=50 wegen=8758 draai=2 vaste=93/6 gemeld=16 stemming=excited
+06:27:45 voelen: geleerde richting van vorige keer meegedraaid
+06:27:46 ev worried: Iets te snel, hè.
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+06:27:55 v=38 nauwk=5m limiet=30 wegen=8758 draai=0 vaste=93/6 gemeld=16 stemming=worried
+06:27:59 ev worried: Let op: een afsluiting op de A27 bij Industriegebied Avelingen op je gewone route.
+06:27:59 vertrekcheck (rit): 1 meldingen op route
+06:28:00 flitsevent cam_pass v=37 limiet=30
+06:28:00 ev startled: Flitser gepasseerd met 37 bij limiet 30.
+06:28:05 v=41 nauwk=5m limiet=50 wegen=8758 draai=0 vaste=93/6 gemeld=16 stemming=alert
+06:28:06 flitsevent cam_pass v=40 limiet=50
+06:28:06 ev happy: Netjes! Flitser gepasseerd.
+06:28:15 osm werk Worker: http 503, ik probeer Overpass rechtstreeks
+06:28:16 v=43 nauwk=2m limiet=50 wegen=8758 draai=0 vaste=93/6 gemeld=16 stemming=alert
+06:28:18 osm flits via Worker (overpass): 375 stuks
+06:28:18 flitsdata geladen: 113 flitsers, 12 trajecten (totaal 174/18)
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+06:33:53 overpass overpass-api.de: te traag
+06:33:53 overpass overpass.private.coffee: te traag
+06:33:53 scherm-aan-slot geweigerd: NotAllowedError
+06:33:53 scherm-aan-slot geweigerd: NotAllowedError
+06:33:53 terug na 336 s zonder GPS
+06:33:53 v=6 nauwk=2m limiet=50 wegen=4608 draai=0 vaste=174/18 gemeld=16 stemming=alert
+06:33:53 flitsevent cam_pass v=43 limiet=50
+06:33:53 ev happy: Netjes! Flitser gepasseerd.
+06:33:54 ANWB verkeer geladen: 24 meldingen in de buurt (van 57)
+06:33:54 flitsers via /flitsers: 16/16
+06:33:54 groep ververst: 5
+06:33:54 NDW geladen: 303 meldingen in de buurt {"closure":181,"speed":31,"lane":73,"jam":17,"accident":1}
+06:33:59 ev excited: Whoeeh, optrekken!
+06:34:00 rws tegel 1731_91 (telefoon): 5503 wegvakken, versie 01-10-2026
+06:34:00 drempel/schok sterkte 2.3 bij 17 km/h
+06:34:00 ev startled: Boing!
+06:34:00 drempel/schok sterkte 2.6 bij 20 km/h (tweede klap)
+06:34:00 ev excited: Dubbele boing! Dat was een drempel.
+06:34:01 matrix geladen: 556 snelheid, 178 kruis
+06:34:01 overpass maps.mail.ru: http 504
+06:34:02 voelen: ik weet nu waar vooruit is (67%)
+06:34:04 v=41 nauwk=2m limiet=50 wegen=10111 draai=-1 vaste=174/18 gemeld=16 stemming=alert
+06:34:08 flitsevent cam_pass v=41 limiet=50
+06:34:08 ev happy: Netjes! Flitser gepasseerd.
+06:34:15 v=42 nauwk=2m limiet=50 wegen=10111 draai=-8 vaste=174/18 gemeld=16 stemming=happy
+06:34:16 drempel/schok sterkte 4.4 bij 42 km/h
+06:34:16 ev startled: Boing!
+06:34:17 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+06:34:17 hobbelige weg (4 klappen in 20 s)
+06:34:19 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+06:34:23 overpass overpass.kumi.systems: te traag
+06:34:25 v=46 nauwk=2m limiet=50 wegen=10111 draai=10 vaste=174/18 gemeld=16 stemming=relaxed
