@@ -1017,3 +1017,71 @@
 07:54:58 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=excited
 07:55:07 ev clock: Het is 07:55.
 07:55:09 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=clock
+--- v73 · Linux; Android 10; K ---
+10:23:24 start v73
+10:23:24 groep ververst: 5
+10:23:25 GPS automatisch aan
+10:23:25 scherm-aan-slot gekregen
+10:23:25 bewegingssensor: granted
+10:23:25 ev excited: Joepie! Nu voel ik elke bocht.
+10:23:26 limiet geschat uit je snelheid: 30
+10:23:26 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+10:23:26 osm werk via Worker (bewaard): 400 stuks
+10:23:26 wegwerkzaamheden geladen: 400
+10:23:26 bruggen geladen: 0
+10:23:26 weer: 15 graden, code 3, neerslag 0, wind 22
+10:23:26 ANWB verkeer geladen: 20 meldingen in de buurt (van 59)
+10:23:26 matrix-locaties geladen: 6442
+10:23:26 NDW geladen: 214 meldingen in de buurt {"lane":77,"closure":96,"speed":37,"accident":3,"jam":1}
+10:23:26 flitsers via /flitsers: 20/20
+10:23:29 voelen: sensor-teken gewoon
+10:23:31 voelen: geleerde richting van vorige keer overgenomen
+10:23:33 ev excited: Groen! Daar gaan we.
+10:23:33 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=excited
+10:23:37 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+10:23:42 ev startled: Wiee, ik zweef!
+10:23:43 ev content: Klik! Ik zit weer.
+10:23:43 v=0 nauwk=7m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=content
+--- v73 · Linux; Android 10; K ---
+10:23:49 ev worried: Let op: een afsluiting op de A15 bij knp. Gorinchem op je gewone route. En nog 1 melding.
+10:23:49 vertrekcheck (rit): 2 meldingen op route
+--- v73 · Linux; Android 10; K ---
+10:25:43 scherm-aan-slot gekregen
+10:25:43 scherm-aan-slot gekregen
+--- v73 · Linux; Android 10; K ---
+10:25:46 scherm-aan-slot gekregen
+10:25:46 scherm-aan-slot gekregen
+--- v73 · Linux; Android 10; K ---
+10:26:11 scherm-aan-slot gekregen
+10:26:11 scherm-aan-slot gekregen
+10:26:12 terug na 44 s zonder GPS
+10:26:12 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+10:26:12 ANWB verkeer geladen: 21 meldingen in de buurt (van 61)
+10:26:17 voelen: telefoon gedraaid (24°), richting meegedraaid
+--- v73 · Linux; Android 10; K ---
+10:26:26 scherm-aan-slot gekregen
+10:26:26 scherm-aan-slot gekregen
+10:26:27 terug na 7 s zonder GPS
+10:26:27 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+10:26:38 ev clock: Het is 10:26.
+10:26:38 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=clock
+10:26:49 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=blow
+10:26:54 weekrapport: 4 ritten, 231 km, cijfer 4.1
+10:27:00 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+10:27:03 flitsers via /flitsers: 18/18
+10:27:03 ev excited: Ja? Ik ben er!
+10:27:03 geklopt (2×)
+10:27:09 ev startled: Wiee, ik zweef!
+10:27:11 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=startled
+--- v73 · Linux; Android 10; K ---
+10:59:46 start v73
+10:59:47 groep ververst: 5
+10:59:47 GPS automatisch aan
+10:59:47 scherm-aan-slot gekregen
+10:59:48 voelen: sensor-teken gewoon
+10:59:49 geklopt (2×)
+10:59:50 bewegingssensor: granted
+10:59:52 voelen: geleerde richting van vorige keer overgenomen
+--- v73 · Linux; Android 10; K ---
+11:00:12 vertrekcheck (rit): 2 meldingen op route
+11:00:25 geklopt (2×)
