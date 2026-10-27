@@ -1949,3 +1949,9 @@
 --- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
 10:19:32 scherm-aan-slot gekregen
 10:19:32 scherm-aan-slot gekregen
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+12:08:53 terug na 311 s zonder GPS
+12:08:53 v=0 nauwk=20m limiet=70 wegen=2466 draai=0 vaste=163/18 gemeld=18 stemming=happy
+12:08:53 scherm-aan-slot gekregen
+12:08:53 scherm-aan-slot gekregen
+12:08:54 ev happy: Goedemiddag Henk!
