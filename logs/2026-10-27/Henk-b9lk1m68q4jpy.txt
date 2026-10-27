@@ -1955,3 +1955,37 @@
 12:08:53 scherm-aan-slot gekregen
 12:08:53 scherm-aan-slot gekregen
 12:08:54 ev happy: Goedemiddag Henk!
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+16:01:21 start v73
+16:01:21 groep ververst: 5
+16:01:22 GPS automatisch aan
+16:01:22 scherm-aan-slot geweigerd: NotAllowedError
+16:01:23 limiet geschat uit je snelheid: 30
+16:01:23 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+16:01:23 scherm-aan-slot geweigerd: NotAllowedError
+16:01:23 weer: 15.5 graden, code 3, neerslag 0, wind 14
+16:01:23 matrix-locaties geladen: 6442
+16:01:23 ANWB verkeer geladen: 25 meldingen in de buurt (van 100)
+16:01:23 FOUT bewegingssensor Requesting device motion access requires a user gesture to prompt
+16:01:23 NDW geladen: 226 meldingen in de buurt {"lane":67,"closure":89,"speed":35,"jam":30,"accident":5}
+16:01:23 wakker blijven: filmpje-truc aan
+16:01:23 bruggen geladen: 0
+16:01:24 flitsers via /flitsers: 14/14
+16:01:27 scherm-aan-slot geweigerd: NotAllowedError
+16:01:27 autostand aan
+16:01:29 bewegingssensor: granted
+16:01:29 ev excited: Joepie! Nu voel ik elke bocht.
+16:01:31 v=6 nauwk=2m limiet=70 wegen=2466 draai=0 vaste=163/18 gemeld=14 stemming=excited
+16:01:33 voelen: sensor-teken gewoon
+16:01:34 ev happy: Draaien! Hoei!
+16:01:38 voelen: geleerde richting van vorige keer meegedraaid
+16:01:41 v=0 nauwk=2m limiet=70 wegen=2466 draai=0 vaste=163/18 gemeld=14 stemming=neutral
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+16:01:46 ev worried: Let op: een afsluiting op de A27 bij Noordeloos (+6 min) op je gewone route.
+16:01:46 vertrekcheck (rit): 1 meldingen op route
+16:01:52 v=0 nauwk=2m limiet=70 wegen=2466 draai=0 vaste=163/18 gemeld=14 stemming=blow
+16:02:00 osm werk via Worker (oud): 400 stuks
+16:02:00 wegwerkzaamheden geladen: 400
+16:02:00 ev excited: Groen! Daar gaan we.
+16:02:02 v=0 nauwk=2m limiet=70 wegen=2466 draai=0 vaste=163/18 gemeld=14 stemming=excited
+16:02:03 ev excited: Whoeeh, optrekken!
