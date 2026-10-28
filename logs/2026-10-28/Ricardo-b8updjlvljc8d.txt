@@ -1933,3 +1933,38 @@
 16:11:37 weer: 13.4 graden, code 0, neerslag 0, wind 16
 16:11:37 NDW geladen: 363 meldingen in de buurt {"jam":48,"speed":30,"lane":71,"closure":206,"accident":8}
 16:11:39 voelen: geleerde richting van vorige keer meegedraaid
+--- v73 · Linux; Android 10; K ---
+16:33:31 scherm-aan-slot gekregen
+16:33:31 scherm-aan-slot gekregen
+--- v73 · Linux; Android 10; K ---
+16:33:34 start v73
+16:33:35 groep ververst: 5
+16:33:35 bewegingssensor: granted
+16:33:35 GPS automatisch aan
+16:33:35 scherm-aan-slot gekregen
+16:33:40 voelen: geleerde richting van vorige keer meegedraaid
+16:33:41 voelen: sensor-teken gewoon
+16:33:41 terug na 6 s zonder GPS
+16:33:41 limiet geschat uit je snelheid: 30
+16:33:41 flitsers via /flitsers: 24/24
+16:33:41 ANWB verkeer geladen: 46 meldingen in de buurt (van 102)
+16:33:41 bruggen geladen: 9
+16:33:41 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+16:33:41 NDW geladen: 367 meldingen in de buurt {"jam":52,"accident":13,"speed":29,"lane":69,"closure":204}
+16:33:41 weer: 12.9 graden, code 1, neerslag 0, wind 13
+16:33:41 matrix-locaties geladen: 6442
+--- v73 · Linux; Android 10; K ---
+16:50:17 scherm-aan-slot gekregen
+16:50:17 scherm-aan-slot gekregen
+16:50:17 ev worried: Let op: file op de A2 bij Nieuwegein (+4 min) op je gewone route. En nog 4 meldingen.
+16:50:17 vertrekcheck (rit): 5 meldingen op route
+16:50:18 ev happy: Goedemiddag Ricardo!
+16:50:18 terug na 493 s zonder GPS
+16:50:18 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=24 stemming=happy
+16:50:18 ANWB verkeer geladen: 50 meldingen in de buurt (van 105)
+16:50:18 groep ververst: 5
+16:50:18 osm werk via Worker (bewaard): 400 stuks
+16:50:18 wegwerkzaamheden geladen: 398
+16:50:18 flitsers via /flitsers: 24/24
+16:50:19 bruggen geladen: 9
+16:50:19 NDW geladen: 361 meldingen in de buurt {"jam":53,"speed":29,"lane":68,"closure":202,"accident":9}
