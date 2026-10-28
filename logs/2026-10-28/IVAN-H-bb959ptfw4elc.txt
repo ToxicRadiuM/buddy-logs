@@ -272,3 +272,11 @@
 06:35:31 weer: 8.2 graden, code 3, neerslag 0, wind 10
 06:35:31 bruggen geladen: 0
 06:35:31 NDW geladen: 207 meldingen in de buurt {"lane":61,"closure":97,"speed":36,"jam":8,"accident":5}
+--- v73 · Linux; Android 10; K ---
+06:35:31 flitsers via /flitsers: 16/16
+06:36:11 osm werk Worker: Failed to fetch, ik probeer Overpass rechtstreeks
+06:36:11 overpass maps.mail.ru: Failed to fetch
+06:36:18 overpass overpass.private.coffee: Failed to fetch
+06:36:26 overpass overpass.kumi.systems: Failed to fetch
+07:36:54 scherm-aan-slot gekregen
+07:36:54 overpass overpass-api.de: Failed to fetch
