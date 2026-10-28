@@ -1,0 +1,501 @@
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+16:14:20 FOUT gemelde controles: rechtstreeks
+16:14:29 v=0 nauwk=10m limiet=- draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:14:39 v=0 nauwk=10m limiet=- draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:14:45 autostand aan
+16:14:50 v=0 nauwk=10m limiet=- draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:15:00 v=95 nauwk=4m limiet=- draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:15:00 ev worried: Rustig in de bocht!
+16:15:11 v=0 nauwk=4m limiet=- draai=0 vaste=16/0 gemeld=0 stemming=sleepy
+16:15:18 FOUT flitsdata laden mislukt
+16:15:22 v=30 nauwk=2m limiet=80 draai=-0 vaste=16/0 gemeld=0 stemming=excited
+16:15:33 v=27 nauwk=2m limiet=80 draai=7 vaste=16/0 gemeld=0 stemming=sleepy
+16:15:43 v=49 nauwk=10m limiet=80 draai=9 vaste=16/0 gemeld=0 stemming=sleepy
+16:15:54 v=76 nauwk=10m limiet=80 draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:16:00 FOUT gemelde controles: rechtstreeks
+16:16:02 FOUT wegenlimiet laden mislukt
+16:16:05 v=78 nauwk=10m limiet=80 draai=-2 vaste=16/0 gemeld=0 stemming=sleepy
+16:16:16 v=74 nauwk=10m limiet=80 draai=0 vaste=16/0 gemeld=0 stemming=sleepy
+16:16:18 FOUT flitsdata laden mislukt
+16:16:26 v=65 nauwk=10m limiet=80 draai=0 vaste=16/0 gemeld=0 stemming=sleepy
+16:16:36 v=49 nauwk=10m limiet=80 draai=0 vaste=16/0 gemeld=0 stemming=happy
+16:16:46 v=13 nauwk=10m limiet=80 draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:16:57 v=28 nauwk=10m limiet=80 draai=-26 vaste=16/0 gemeld=0 stemming=sleepy
+16:17:03 FOUT wegenlimiet laden mislukt
+16:17:07 v=74 nauwk=10m limiet=80 draai=2 vaste=16/0 gemeld=0 stemming=sleepy
+16:17:17 v=74 nauwk=10m limiet=80 draai=0 vaste=16/0 gemeld=0 stemming=sleepy
+16:17:19 FOUT flitsdata laden mislukt
+16:17:28 v=83 nauwk=10m limiet=80 draai=0 vaste=16/0 gemeld=0 stemming=sleepy
+16:17:38 v=85 nauwk=10m limiet=80 draai=-1 vaste=16/0 gemeld=0 stemming=neutral
+16:17:40 FOUT gemelde controles: rechtstreeks
+16:17:48 v=86 nauwk=10m limiet=- draai=1 vaste=16/0 gemeld=0 stemming=sleepy
+16:17:58 v=89 nauwk=10m limiet=- draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:18:05 FOUT wegenlimiet laden mislukt
+16:18:09 v=91 nauwk=10m limiet=- draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:18:19 v=88 nauwk=10m limiet=- draai=2 vaste=16/0 gemeld=0 stemming=sleepy
+16:18:20 FOUT flitsdata laden mislukt
+16:18:29 v=88 nauwk=10m limiet=- draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:18:39 v=84 nauwk=10m limiet=- draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:18:50 v=85 nauwk=10m limiet=- draai=1 vaste=16/0 gemeld=0 stemming=sleepy
+16:19:00 v=90 nauwk=10m limiet=- draai=3 vaste=16/0 gemeld=0 stemming=sleepy
+16:19:07 FOUT gemelde controles: rechtstreeks
+16:19:08 autostand uit
+16:19:12 v=86 nauwk=10m limiet=- draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:19:23 v=81 nauwk=10m limiet=- draai=-3 vaste=16/0 gemeld=0 stemming=sleepy
+16:19:35 FOUT wegenlimiet laden mislukt
+16:19:36 v=77 nauwk=10m limiet=- draai=-3 vaste=16/0 gemeld=0 stemming=neutral
+16:19:43 autostand aan
+16:19:46 v=86 nauwk=10m limiet=- draai=-1 vaste=16/0 gemeld=0 stemming=sleepy
+16:19:51 FOUT flitsdata laden mislukt
+16:19:57 v=78 nauwk=10m limiet=- draai=-1 vaste=16/0 gemeld=0 stemming=sleepy
+16:20:08 v=61 nauwk=10m limiet=- draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:27:42 v=44 nauwk=10m limiet=- draai=-0 vaste=16/0 gemeld=0 stemming=happy
+16:27:43 FOUT flitsdata laden mislukt
+16:27:43 FOUT wegenlimiet laden mislukt
+16:27:53 v=42 nauwk=10m limiet=- draai=12 vaste=16/0 gemeld=0 stemming=sleepy
+16:28:02 FOUT gemelde controles: rechtstreeks
+16:28:05 v=44 nauwk=10m limiet=- draai=1 vaste=16/0 gemeld=0 stemming=sleepy
+16:28:15 v=45 nauwk=10m limiet=- draai=0 vaste=16/0 gemeld=0 stemming=sleepy
+16:28:25 v=41 nauwk=10m limiet=- draai=-1 vaste=16/0 gemeld=0 stemming=sleepy
+16:28:35 v=44 nauwk=10m limiet=- draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:28:44 FOUT flitsdata laden mislukt
+16:28:45 v=46 nauwk=10m limiet=- draai=0 vaste=16/0 gemeld=0 stemming=sleepy
+16:28:55 v=38 nauwk=10m limiet=50 draai=4 vaste=16/0 gemeld=0 stemming=sleepy
+16:29:05 v=16 nauwk=10m limiet=50 draai=-8 vaste=16/0 gemeld=0 stemming=happy
+16:29:16 v=30 nauwk=10m limiet=30 draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:29:27 v=34 nauwk=10m limiet=30 draai=3 vaste=16/0 gemeld=0 stemming=sleepy
+16:29:33 FOUT gemelde controles: rechtstreeks
+16:29:37 v=34 nauwk=10m limiet=30 draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:29:45 FOUT flitsdata laden mislukt
+16:29:48 v=33 nauwk=10m limiet=30 draai=-9 vaste=16/0 gemeld=0 stemming=sleepy
+16:29:59 v=11 nauwk=10m limiet=30 draai=-0 vaste=16/0 gemeld=0 stemming=sleepy
+16:30:09 v=3 nauwk=10m limiet=30 draai=0 vaste=16/0 gemeld=0 stemming=sleepy
+16:30:19 ev happy: Zachte rit, rijstijl 91. Top!
+16:30:20 v=0 nauwk=10m limiet=30 draai=0 vaste=16/0 gemeld=0 stemming=happy
+16:30:23 ev happy: Onze eerste rit samen!
+16:30:30 v=0 nauwk=10m limiet=30 draai=0 vaste=16/0 gemeld=0 stemming=sleepy
+16:30:40 v=0 nauwk=10m limiet=30 draai=0 vaste=16/0 gemeld=0 stemming=sleepy
+16:30:51 v=0 nauwk=10m limiet=30 draai=0 vaste=16/0 gemeld=0 stemming=sleepy
+16:31:01 v=0 nauwk=10m limiet=30 draai=0 vaste=16/0 gemeld=0 stemming=sleepy
+16:31:07 autostand uit
+16:31:13 FOUT gemelde controles: rechtstreeks
+16:31:16 v=0 nauwk=10m limiet=30 draai=0 vaste=16/0 gemeld=0 stemming=sleepy
+16:31:16 FOUT flitsdata laden mislukt
+16:31:26 v=0 nauwk=10m limiet=30 draai=0 vaste=16/0 gemeld=0 stemming=happy
+16:31:37 v=0 nauwk=10m limiet=30 draai=0 vaste=16/0 gemeld=0 stemming=bored
+06:33:47 autostand aan
+06:33:53 autostand uit
+06:33:55 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=16/0 gemeld=0 stemming=neutral
+06:33:56 weer: 5.6 graden, code 0, neerslag 0, wind 19
+06:33:56 feed via rechtstreeks: Load failed
+06:33:58 autostand aan
+06:34:01 autostand uit
+06:34:04 feed via api.allorigins.win: Load failed
+06:34:04 feed via corsproxy.io: http 403
+06:34:08 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=16/0 gemeld=0 stemming=alert
+06:34:09 overpass overpass-api.de: te traag
+06:34:17 wegen geladen: 961 wegen
+06:34:18 v=0 nauwk=10m limiet=- wegen=961 draai=0 vaste=16/0 gemeld=0 stemming=neutral
+06:34:20 flitsdata geladen: 53 flitsers, 4 trajecten (totaal 67/4)
+06:34:24 feed via api.codetabs.com: Load failed
+06:34:24 FOUT gemelde controles: rechtstreeks
+06:34:25 ev clock: Het is 06:34.
+06:34:27 autostand aan
+06:34:28 v=0 nauwk=10m limiet=30 wegen=961 draai=0 vaste=67/4 gemeld=0 stemming=clock
+06:34:33 ev excited: Groen! Daar gaan we.
+06:34:39 v=17 nauwk=3m limiet=30 wegen=961 draai=-1 vaste=67/4 gemeld=0 stemming=neutral
+06:34:49 v=31 nauwk=10m limiet=30 wegen=961 draai=7 vaste=67/4 gemeld=0 stemming=relaxed
+06:34:59 v=31 nauwk=10m limiet=30 wegen=961 draai=0 vaste=67/4 gemeld=0 stemming=relaxed
+06:35:09 v=34 nauwk=10m limiet=30 wegen=961 draai=-12 vaste=67/4 gemeld=0 stemming=relaxed
+06:35:19 v=35 nauwk=10m limiet=30 wegen=961 draai=-0 vaste=67/4 gemeld=0 stemming=happy
+06:35:25 feed via rechtstreeks: Load failed
+06:35:30 v=30 nauwk=10m limiet=50 wegen=961 draai=-31 vaste=67/4 gemeld=0 stemming=neutral
+06:35:30 ev excited: Whoeeh, optrekken!
+06:35:40 v=44 nauwk=10m limiet=50 wegen=961 draai=-21 vaste=67/4 gemeld=0 stemming=relaxed
+06:35:44 feed via api.allorigins.win: Load failed
+06:35:44 feed via corsproxy.io: http 403
+06:35:50 v=45 nauwk=10m limiet=50 wegen=961 draai=-0 vaste=67/4 gemeld=0 stemming=relaxed
+06:36:01 v=44 nauwk=10m limiet=50 wegen=961 draai=-4 vaste=67/4 gemeld=0 stemming=relaxed
+06:36:03 feed via api.codetabs.com: Load failed
+06:36:03 FOUT gemelde controles: rechtstreeks
+06:36:11 v=44 nauwk=10m limiet=50 wegen=961 draai=2 vaste=67/4 gemeld=0 stemming=relaxed
+06:36:22 v=48 nauwk=10m limiet=50 wegen=961 draai=-1 vaste=67/4 gemeld=0 stemming=relaxed
+06:36:24 overpass overpass-api.de: te traag
+06:36:33 v=48 nauwk=10m limiet=50 wegen=961 draai=0 vaste=67/4 gemeld=0 stemming=relaxed
+06:36:38 overpass overpass.private.coffee: te traag
+06:36:43 v=48 nauwk=10m limiet=50 wegen=961 draai=3 vaste=67/4 gemeld=0 stemming=relaxed
+06:36:52 overpass overpass.kumi.systems: te traag
+06:36:53 v=39 nauwk=10m limiet=50 wegen=961 draai=14 vaste=67/4 gemeld=0 stemming=relaxed
+06:36:53 overpass maps.mail.ru: http 504
+06:36:53 FOUT wegenlimiet laden mislukt (maps.mail.ru: http 504) opnieuw over 8 s
+06:37:04 v=15 nauwk=10m limiet=50 wegen=961 draai=1 vaste=67/4 gemeld=0 stemming=alert
+06:37:04 feed via rechtstreeks: Load failed
+06:37:15 v=41 nauwk=10m limiet=50 wegen=961 draai=9 vaste=67/4 gemeld=0 stemming=relaxed
+06:37:16 overpass overpass-api.de: te traag
+06:37:20 feed via api.allorigins.win: Load failed
+06:37:20 feed via corsproxy.io: http 403
+06:37:26 v=45 nauwk=10m limiet=50 wegen=961 draai=-14 vaste=67/4 gemeld=0 stemming=relaxed
+06:37:30 overpass overpass.private.coffee: te traag
+06:37:36 v=49 nauwk=10m limiet=50 wegen=961 draai=-1 vaste=67/4 gemeld=0 stemming=relaxed
+06:37:40 feed via api.codetabs.com: Fetch is aborted
+06:37:40 FOUT gemelde controles: rechtstreeks
+06:37:44 overpass overpass.kumi.systems: te traag
+06:37:45 overpass maps.mail.ru: http 504
+06:37:45 FOUT wegenlimiet laden mislukt (maps.mail.ru: http 504) opnieuw over 16 s
+06:37:47 v=49 nauwk=10m limiet=50 wegen=961 draai=-0 vaste=67/4 gemeld=0 stemming=relaxed
+06:37:57 v=46 nauwk=10m limiet=50 wegen=961 draai=-0 vaste=67/4 gemeld=0 stemming=relaxed
+06:38:08 v=41 nauwk=10m limiet=50 wegen=961 draai=-0 vaste=67/4 gemeld=0 stemming=happy
+06:38:16 overpass overpass-api.de: te traag
+06:38:18 v=40 nauwk=10m limiet=50 wegen=961 draai=0 vaste=67/4 gemeld=0 stemming=relaxed
+06:38:28 v=41 nauwk=10m limiet=50 wegen=961 draai=0 vaste=67/4 gemeld=0 stemming=relaxed
+06:38:30 overpass overpass.private.coffee: te traag
+06:38:38 v=46 nauwk=10m limiet=50 wegen=961 draai=-0 vaste=67/4 gemeld=0 stemming=relaxed
+06:38:41 feed via rechtstreeks: Load failed
+06:38:41 feed via api.allorigins.win: Load failed
+06:38:41 feed via corsproxy.io: http 403
+06:38:44 overpass overpass.kumi.systems: te traag
+06:38:49 v=47 nauwk=10m limiet=50 wegen=961 draai=-0 vaste=67/4 gemeld=0 stemming=neutral
+06:38:58 overpass maps.mail.ru: te traag
+06:38:58 FOUT wegenlimiet laden mislukt (maps.mail.ru: te traag) opnieuw over 32 s
+06:39:00 v=47 nauwk=10m limiet=50 wegen=961 draai=3 vaste=67/4 gemeld=0 stemming=relaxed
+06:39:00 feed via api.codetabs.com: Load failed
+06:39:00 FOUT gemelde controles: rechtstreeks
+06:39:10 v=45 nauwk=10m limiet=50 wegen=961 draai=6 vaste=67/4 gemeld=0 stemming=relaxed
+06:39:20 v=50 nauwk=10m limiet=50 wegen=961 draai=1 vaste=67/4 gemeld=0 stemming=relaxed
+06:39:30 v=51 nauwk=10m limiet=50 wegen=961 draai=3 vaste=67/4 gemeld=0 stemming=relaxed
+06:39:40 v=43 nauwk=10m limiet=50 wegen=961 draai=-1 vaste=67/4 gemeld=0 stemming=alert
+06:39:44 overpass overpass-api.de: te traag
+06:39:50 v=11 nauwk=10m limiet=50 wegen=961 draai=1 vaste=67/4 gemeld=0 stemming=neutral
+06:39:57 ev happy: Zachte rit, rijstijl 97. Top!
+06:39:58 overpass overpass.private.coffee: te traag
+06:40:00 v=0 nauwk=10m limiet=50 wegen=961 draai=0 vaste=67/4 gemeld=0 stemming=happy
+06:40:01 feed via rechtstreeks: Load failed
+06:40:03 ev excited: Groen! Daar gaan we.
+06:40:04 ev excited: Whoeeh, optrekken!
+06:40:11 v=36 nauwk=10m limiet=50 wegen=961 draai=-0 vaste=67/4 gemeld=0 stemming=relaxed
+06:40:12 overpass overpass.kumi.systems: te traag
+06:40:17 ev worried: Rustig in de bocht!
+06:40:21 feed via api.allorigins.win: Load failed
+06:40:21 feed via corsproxy.io: http 403
+06:40:22 v=47 nauwk=10m limiet=50 wegen=961 draai=2 vaste=67/4 gemeld=0 stemming=content
+06:40:26 overpass maps.mail.ru: te traag
+06:40:26 FOUT wegenlimiet laden mislukt (maps.mail.ru: te traag) opnieuw over 64 s
+06:40:32 v=40 nauwk=10m limiet=50 wegen=961 draai=-9 vaste=67/4 gemeld=0 stemming=relaxed
+06:40:35 ev worried: Rustig in de bocht!
+06:40:40 feed via api.codetabs.com: Load failed
+06:40:40 FOUT gemelde controles: rechtstreeks
+06:40:42 v=57 nauwk=10m limiet=50 wegen=961 draai=0 vaste=67/4 gemeld=0 stemming=relaxed
+06:40:47 ev worried: Oei, we gaan net iets te hard.
+06:40:52 v=59 nauwk=10m limiet=50 wegen=961 draai=0 vaste=67/4 gemeld=0 stemming=alert
+06:41:03 v=61 nauwk=10m limiet=50 wegen=961 draai=1 vaste=67/4 gemeld=0 stemming=relaxed
+06:41:14 v=57 nauwk=10m limiet=50 wegen=961 draai=-0 vaste=67/4 gemeld=0 stemming=relaxed
+06:41:24 v=50 nauwk=10m limiet=50 wegen=961 draai=-8 vaste=67/4 gemeld=0 stemming=relaxed
+06:41:34 v=45 nauwk=10m limiet=- wegen=961 draai=0 vaste=67/4 gemeld=0 stemming=focused
+06:41:41 feed via rechtstreeks: Load failed
+06:41:45 overpass overpass-api.de: te traag
+06:41:45 v=32 nauwk=10m limiet=- wegen=961 draai=-3 vaste=67/4 gemeld=0 stemming=relaxed
+06:41:54 feed via api.allorigins.win: http 408
+06:41:54 feed via corsproxy.io: http 403
+06:41:56 v=0 nauwk=10m limiet=- wegen=961 draai=-0 vaste=67/4 gemeld=0 stemming=neutral
+06:41:56 ev happy: Zachte rit, rijstijl 85. Top!
+06:41:59 overpass overpass.private.coffee: te traag
+06:42:03 ev excited: Whoeeh, optrekken!
+06:42:07 v=47 nauwk=10m limiet=- wegen=961 draai=0 vaste=67/4 gemeld=0 stemming=relaxed
+06:42:13 overpass overpass.kumi.systems: te traag
+06:42:13 feed via api.codetabs.com: Load failed
+06:42:13 FOUT gemelde controles: rechtstreeks
+06:42:17 v=51 nauwk=10m limiet=- wegen=961 draai=2 vaste=67/4 gemeld=0 stemming=relaxed
+06:42:27 overpass maps.mail.ru: te traag
+06:42:27 FOUT wegenlimiet laden mislukt (maps.mail.ru: te traag) opnieuw over 120 s
+06:42:27 v=49 nauwk=10m limiet=- wegen=0 draai=1 vaste=67/4 gemeld=0 stemming=relaxed
+06:42:37 v=42 nauwk=10m limiet=- wegen=0 draai=1 vaste=67/4 gemeld=0 stemming=relaxed
+06:42:47 v=43 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=relaxed
+06:42:58 v=47 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=relaxed
+06:43:09 v=47 nauwk=10m limiet=- wegen=0 draai=-3 vaste=67/4 gemeld=0 stemming=relaxed
+06:43:14 feed via rechtstreeks: Load failed
+06:43:19 v=35 nauwk=10m limiet=- wegen=0 draai=-1 vaste=67/4 gemeld=0 stemming=alert
+06:43:29 v=39 nauwk=10m limiet=- wegen=0 draai=1 vaste=67/4 gemeld=0 stemming=alert
+06:43:30 ev worried: Rustig in de bocht!
+06:43:33 feed via api.allorigins.win: Load failed
+06:43:33 feed via corsproxy.io: http 403
+06:43:39 v=43 nauwk=10m limiet=- wegen=0 draai=2 vaste=67/4 gemeld=0 stemming=alert
+06:43:50 v=0 nauwk=10m limiet=- wegen=0 draai=-0 vaste=67/4 gemeld=0 stemming=alert
+06:43:53 ev excited: Whoeeh, optrekken!
+06:43:53 feed via api.codetabs.com: Load failed
+06:43:53 FOUT gemelde controles: rechtstreeks
+06:44:01 v=43 nauwk=10m limiet=- wegen=0 draai=-1 vaste=67/4 gemeld=0 stemming=alert
+06:44:03 flitsevent cam_pass v=43 limiet=50
+06:44:03 ev happy: Netjes! Flitser gepasseerd.
+06:44:11 v=45 nauwk=10m limiet=- wegen=0 draai=-4 vaste=67/4 gemeld=0 stemming=relaxed
+06:44:22 v=51 nauwk=10m limiet=- wegen=0 draai=4 vaste=67/4 gemeld=0 stemming=relaxed
+06:44:33 v=51 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=relaxed
+06:44:41 overpass overpass-api.de: te traag
+06:44:43 v=22 nauwk=10m limiet=- wegen=0 draai=-0 vaste=67/4 gemeld=0 stemming=happy
+06:44:53 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=neutral
+06:44:53 feed via rechtstreeks: Load failed
+06:44:55 ev happy: Zachte rit, rijstijl 88. Top!
+06:44:55 overpass overpass.private.coffee: te traag
+06:45:03 v=6 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=content
+06:45:04 ev excited: Groen! Daar gaan we.
+06:45:04 ev excited: Whoeeh, optrekken!
+06:45:09 overpass overpass.kumi.systems: te traag
+06:45:13 feed via api.allorigins.win: Load failed
+06:45:13 feed via corsproxy.io: http 403
+06:45:14 v=33 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=relaxed
+06:45:23 overpass maps.mail.ru: te traag
+06:45:23 FOUT wegenlimiet laden mislukt (maps.mail.ru: te traag) opnieuw over 120 s
+06:45:24 v=35 nauwk=10m limiet=- wegen=0 draai=1 vaste=67/4 gemeld=0 stemming=content
+06:45:32 feed via api.codetabs.com: Load failed
+06:45:32 FOUT gemelde controles: rechtstreeks
+06:45:35 v=37 nauwk=10m limiet=- wegen=0 draai=-0 vaste=67/4 gemeld=0 stemming=relaxed
+06:45:46 v=36 nauwk=10m limiet=- wegen=0 draai=-2 vaste=67/4 gemeld=0 stemming=relaxed
+06:45:57 v=22 nauwk=10m limiet=- wegen=0 draai=2 vaste=67/4 gemeld=0 stemming=relaxed
+06:46:06 autostand uit
+06:46:08 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=content
+06:46:08 ev happy: Zachte rit, rijstijl 97. Top!
+06:46:14 autostand aan
+06:46:19 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=happy
+06:46:29 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=content
+06:46:33 feed via rechtstreeks: Load failed
+06:46:34 ev excited: Whoeeh, optrekken!
+06:46:39 v=29 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=relaxed
+06:46:48 ev excited: Whoeeh, optrekken!
+06:46:49 v=67 nauwk=10m limiet=- wegen=0 draai=4 vaste=67/4 gemeld=0 stemming=excited
+06:46:50 feed via api.allorigins.win: Load failed
+06:46:50 feed via corsproxy.io: http 403
+06:46:59 v=62 nauwk=10m limiet=- wegen=0 draai=2 vaste=67/4 gemeld=0 stemming=content
+06:47:09 v=61 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=relaxed
+06:47:10 feed via api.codetabs.com: Load failed
+06:47:10 FOUT gemelde controles: rechtstreeks
+06:47:19 v=37 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=relaxed
+06:47:29 v=0 nauwk=10m limiet=- wegen=0 draai=-0 vaste=67/4 gemeld=0 stemming=content
+06:47:32 ev happy: Zachte rit, rijstijl 94. Top!
+06:47:38 overpass overpass-api.de: te traag
+06:47:40 v=0 nauwk=10m limiet=- wegen=0 draai=-0 vaste=67/4 gemeld=0 stemming=content
+06:47:50 v=3 nauwk=10m limiet=- wegen=0 draai=-0 vaste=67/4 gemeld=0 stemming=content
+06:47:51 ev excited: Groen! Daar gaan we.
+06:47:51 ev excited: Whoeeh, optrekken!
+06:47:52 overpass overpass.private.coffee: te traag
+06:48:00 v=54 nauwk=10m limiet=- wegen=0 draai=-0 vaste=67/4 gemeld=0 stemming=content
+06:48:06 overpass overpass.kumi.systems: te traag
+06:48:10 feed via rechtstreeks: Load failed
+06:48:11 v=51 nauwk=10m limiet=- wegen=0 draai=1 vaste=67/4 gemeld=0 stemming=relaxed
+06:48:20 overpass maps.mail.ru: te traag
+06:48:20 FOUT wegenlimiet laden mislukt (maps.mail.ru: te traag) opnieuw over 120 s
+06:48:22 v=31 nauwk=10m limiet=- wegen=0 draai=-0 vaste=67/4 gemeld=0 stemming=relaxed
+06:48:30 feed via api.allorigins.win: Load failed
+06:48:30 feed via corsproxy.io: http 403
+06:48:32 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=alert
+06:48:36 ev happy: Zachte rit, rijstijl 97. Top!
+06:48:42 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=alert
+06:48:50 feed via api.codetabs.com: Load failed
+06:48:50 FOUT gemelde controles: rechtstreeks
+06:48:53 v=10 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=alert
+06:48:54 ev excited: Whoeeh, optrekken!
+06:48:56 weer: 5.9 graden, code 0, neerslag 0, wind 18
+06:49:04 v=44 nauwk=10m limiet=- wegen=0 draai=-0 vaste=67/4 gemeld=0 stemming=alert
+06:49:14 v=42 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=alert
+06:49:24 v=49 nauwk=10m limiet=- wegen=0 draai=1 vaste=67/4 gemeld=0 stemming=alert
+06:49:35 v=25 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=alert
+06:49:45 v=0 nauwk=10m limiet=- wegen=0 draai=-0 vaste=67/4 gemeld=0 stemming=alert
+06:49:46 ev happy: Zachte rit, rijstijl 97. Top!
+06:49:50 feed via rechtstreeks: Load failed
+06:49:56 v=0 nauwk=10m limiet=- wegen=0 draai=-0 vaste=67/4 gemeld=0 stemming=alert
+06:50:03 ev excited: Groen! Daar gaan we.
+06:50:04 ev excited: Whoeeh, optrekken!
+06:50:06 v=32 nauwk=10m limiet=- wegen=0 draai=-1 vaste=67/4 gemeld=0 stemming=excited
+06:50:10 feed via api.allorigins.win: Load failed
+06:50:10 feed via corsproxy.io: http 403
+06:50:14 flitsevent cam_pass v=32 limiet=50
+06:50:14 ev happy: Netjes! Flitser gepasseerd.
+06:50:16 v=48 nauwk=10m limiet=- wegen=0 draai=-3 vaste=67/4 gemeld=0 stemming=happy
+06:50:27 v=45 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=relaxed
+06:50:29 feed via api.codetabs.com: Load failed
+06:50:29 FOUT gemelde controles: rechtstreeks
+06:50:35 overpass overpass-api.de: te traag
+06:50:37 v=46 nauwk=10m limiet=- wegen=0 draai=-0 vaste=67/4 gemeld=0 stemming=relaxed
+06:50:48 v=51 nauwk=10m limiet=- wegen=0 draai=-3 vaste=67/4 gemeld=0 stemming=relaxed
+06:50:49 overpass overpass.private.coffee: te traag
+06:50:59 v=55 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=worried
+06:51:03 overpass overpass.kumi.systems: te traag
+06:51:09 v=51 nauwk=10m limiet=- wegen=0 draai=0 vaste=67/4 gemeld=0 stemming=worried
+06:51:17 overpass maps.mail.ru: te traag
+06:51:17 FOUT wegenlimiet laden mislukt (maps.mail.ru: te traag) opnieuw over 120 s
+06:51:19 v=51 nauwk=10m limiet=- wegen=0 draai=-0 vaste=67/4 gemeld=0 stemming=worried
+06:51:28 flitsdata geladen: 64 flitsers, 9 trajecten (totaal 90/9)
+06:51:29 v=33 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=alert
+06:51:30 feed via rechtstreeks: Load failed
+06:51:39 v=0 nauwk=10m limiet=- wegen=0 draai=-0 vaste=90/9 gemeld=0 stemming=alert
+06:51:40 ev happy: Zachte rit, rijstijl 97. Top!
+06:51:50 v=0 nauwk=10m limiet=- wegen=0 draai=-0 vaste=90/9 gemeld=0 stemming=alert
+06:51:50 feed via api.allorigins.win: Load failed
+06:51:50 feed via corsproxy.io: http 403
+06:51:54 ev excited: Whoeeh, optrekken!
+06:52:01 v=34 nauwk=10m limiet=- wegen=0 draai=-2 vaste=90/9 gemeld=0 stemming=alert
+06:52:03 ev worried: Rustig in de bocht!
+06:52:03 flitsevent cam_pass v=30 limiet=50
+06:52:03 ev happy: Netjes! Flitser gepasseerd.
+06:52:10 feed via api.codetabs.com: Load failed
+06:52:10 FOUT gemelde controles: rechtstreeks
+06:52:11 v=49 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=content
+06:52:21 v=25 nauwk=10m limiet=- wegen=0 draai=-0 vaste=90/9 gemeld=0 stemming=neutral
+06:52:31 v=48 nauwk=10m limiet=- wegen=0 draai=-0 vaste=90/9 gemeld=0 stemming=relaxed
+06:52:42 v=42 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=happy
+06:52:52 v=49 nauwk=10m limiet=- wegen=0 draai=-0 vaste=90/9 gemeld=0 stemming=relaxed
+06:52:55 autostand uit
+06:53:02 ev happy: Daar is het licht weer!
+06:53:02 v=45 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=happy
+06:53:05 autostand aan
+06:53:10 feed via rechtstreeks: Load failed
+06:53:12 v=26 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=happy
+06:53:23 v=48 nauwk=10m limiet=- wegen=0 draai=-0 vaste=90/9 gemeld=0 stemming=relaxed
+06:53:30 feed via api.allorigins.win: Load failed
+06:53:30 feed via corsproxy.io: http 403
+06:53:31 overpass overpass-api.de: te traag
+06:53:34 v=27 nauwk=10m limiet=- wegen=0 draai=-0 vaste=90/9 gemeld=0 stemming=relaxed
+06:53:45 v=17 nauwk=10m limiet=- wegen=0 draai=-2 vaste=90/9 gemeld=0 stemming=neutral
+06:53:45 overpass overpass.private.coffee: te traag
+06:53:49 feed via api.codetabs.com: Load failed
+06:53:49 FOUT gemelde controles: rechtstreeks
+06:53:55 v=14 nauwk=10m limiet=- wegen=0 draai=4 vaste=90/9 gemeld=0 stemming=neutral
+06:53:56 ev excited: Whoeeh, optrekken!
+06:53:59 overpass overpass.kumi.systems: te traag
+06:54:05 v=27 nauwk=10m limiet=- wegen=0 draai=-1 vaste=90/9 gemeld=0 stemming=relaxed
+06:54:13 overpass maps.mail.ru: te traag
+06:54:13 FOUT wegenlimiet laden mislukt (maps.mail.ru: te traag) opnieuw over 120 s
+06:54:15 v=23 nauwk=10m limiet=- wegen=0 draai=2 vaste=90/9 gemeld=0 stemming=happy
+06:54:25 v=19 nauwk=10m limiet=- wegen=0 draai=1 vaste=90/9 gemeld=0 stemming=neutral
+06:54:35 v=20 nauwk=10m limiet=- wegen=0 draai=-2 vaste=90/9 gemeld=0 stemming=neutral
+06:54:46 v=19 nauwk=10m limiet=- wegen=0 draai=-31 vaste=90/9 gemeld=0 stemming=neutral
+06:54:50 feed via rechtstreeks: Load failed
+06:54:57 v=6 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=neutral
+06:55:02 feed via api.allorigins.win: Load failed
+06:55:02 feed via corsproxy.io: http 403
+06:55:04 ev happy: Zachte rit, rijstijl 88. Top!
+06:55:07 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=happy
+06:55:08 ev happy: 10 ritten samen. Wat een team!
+06:55:17 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=love
+06:55:20 ev laugh: Haha, kriebels! Stop, stop!
+06:55:22 feed via api.codetabs.com: Load failed
+06:55:22 FOUT gemelde controles: rechtstreeks
+06:55:27 autostand uit
+06:55:28 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=content
+06:55:40 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=content
+06:55:52 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=content
+06:56:03 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=content
+06:56:04 ev clock: Het is 06:56.
+06:56:13 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=bored
+13:48:36 ev happy: Al 10 ritten samen!
+13:48:37 v=0 nauwk=20m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=happy
+13:48:37 FOUT NDW: Load failed
+13:48:37 weer: 11.7 graden, code 3, neerslag 0, wind 22
+13:48:37 feed via rechtstreeks: Load failed
+13:48:40 autostand aan
+13:48:50 v=0 nauwk=14m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=happy
+13:48:57 feed via api.allorigins.win: Load failed
+13:48:57 feed via corsproxy.io: http 403
+13:48:59 overpass maps.mail.ru: http 504
+13:49:02 overpass overpass-api.de: te traag
+13:49:19 overpass overpass-api.de: te traag
+13:49:19 overpass overpass.private.coffee: te traag
+13:49:19 overpass overpass.private.coffee: te traag
+13:49:19 overpass overpass.kumi.systems: te traag
+13:49:19 feed via api.codetabs.com: Fetch is aborted
+13:49:19 FOUT gemelde controles: rechtstreeks
+13:49:19 overpass maps.mail.ru: Load failed
+13:49:19 FOUT wegenlimiet laden mislukt (maps.mail.ru: Load failed) opnieuw over 8 s
+13:49:19 overpass overpass.kumi.systems: Load failed
+13:49:19 v=0 nauwk=14m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=happy
+13:49:26 ev clock: Het is 13:49.
+13:49:29 ev love: Mmm, zacht…
+13:49:40 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=focused
+13:50:02 overpass maps.mail.ru: http 504
+13:50:02 v=0 nauwk=8m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=content
+13:50:05 overpass overpass-api.de: te traag
+13:50:12 overpass overpass.private.coffee: te traag
+13:50:17 v=0 nauwk=8m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=alert
+13:50:19 overpass overpass.kumi.systems: te traag
+13:50:19 FOUT wegenlimiet laden mislukt (overpass.kumi.systems: te traag) opnieuw over 16 s
+13:50:32 v=0 nauwk=7m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=alert
+13:50:47 v=0 nauwk=7m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=bored
+13:50:47 FOUT NDW: Load failed
+13:51:01 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+13:51:02 v=0 nauwk=7m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=sad
+13:51:12 overpass overpass-api.de: te traag
+13:51:17 v=0 nauwk=7m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=bored
+13:51:19 overpass overpass.private.coffee: te traag
+13:51:26 overpass overpass.kumi.systems: te traag
+13:51:32 v=0 nauwk=7m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=sleepy
+13:51:33 overpass maps.mail.ru: te traag
+13:51:33 FOUT wegenlimiet laden mislukt (maps.mail.ru: te traag) opnieuw over 32 s
+13:51:47 v=0 nauwk=6m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=content
+13:52:02 v=0 nauwk=6m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=blow
+14:28:26 start v29
+14:28:31 ev happy: Al 10 ritten samen!
+14:28:32 FOUT NDW: Load failed
+14:28:32 feed via rechtstreeks: Load failed
+14:28:32 weer: 12.3 graden, code 3, neerslag 0, wind 22
+14:28:34 autostand aan
+14:28:38 v=4 nauwk=9m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=neutral
+14:28:42 ev excited: Whoeeh, optrekken!
+14:28:49 v=0 nauwk=8m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=neutral
+14:28:52 feed via api.allorigins.win: Fetch is aborted
+14:28:52 feed via corsproxy.io: http 403
+14:28:54 overpass maps.mail.ru: http 504
+14:28:57 overpass overpass-api.de: te traag
+14:29:00 v=0 nauwk=8m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=content
+14:29:02 overpass overpass-api.de: te traag
+14:29:04 overpass overpass.private.coffee: te traag
+14:29:09 overpass overpass.private.coffee: te traag
+14:29:10 v=0 nauwk=10m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=content
+14:29:11 overpass overpass.kumi.systems: te traag
+14:29:11 ev excited: Whoeeh, optrekken!
+14:29:11 feed via api.codetabs.com: Load failed
+14:29:11 FOUT gemelde controles: rechtstreeks
+14:29:16 overpass overpass.kumi.systems: te traag
+14:29:18 overpass maps.mail.ru: te traag
+14:29:18 FOUT wegenlimiet laden mislukt (maps.mail.ru: te traag) opnieuw over 8 s
+14:29:20 v=0 nauwk=7m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=content
+14:29:26 ev excited: Whoeeh, optrekken!
+14:29:27 overpass overpass-api.de: http 502
+14:29:30 v=3 nauwk=7m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=content
+14:29:32 ev excited: Whoeeh, optrekken!
+14:29:40 ev excited: Whoeeh, optrekken!
+14:29:41 v=7 nauwk=5m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=excited
+14:29:45 ev excited: Whoeeh, optrekken!
+14:29:51 v=0 nauwk=3m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=content
+14:29:52 overpass overpass.private.coffee: te traag
+14:29:59 overpass overpass.kumi.systems: te traag
+14:30:02 v=0 nauwk=4m limiet=- wegen=0 draai=0 vaste=90/9 gemeld=0 stemming=happy
+14:30:03 wegen geladen: 551 wegen
+14:30:12 v=0 nauwk=4m limiet=- wegen=551 draai=0 vaste=90/9 gemeld=0 stemming=content
+14:42:02 v=0 nauwk=13m limiet=- wegen=551 draai=0 vaste=90/9 gemeld=0 stemming=content
+10:40:05 start v73
+10:40:05 groep ververst: 5
+10:40:06 GPS automatisch aan
+10:40:06 scherm-aan-slot geweigerd: NotAllowedError
+10:40:06 ev happy: Al 10 ritten samen!
+10:40:06 limiet geschat uit je snelheid: 30
+10:40:06 matrix-locaties geladen: 6442
+10:40:06 osm werk via Worker (bewaard): 400 stuks
+10:40:06 wegwerkzaamheden geladen: 400
+10:40:06 flitsers via /flitsers: 18/18
+10:40:06 ANWB verkeer geladen: 14 meldingen in de buurt (van 52)
+10:40:07 bruggen geladen: 0
+10:40:07 NDW geladen: 211 meldingen in de buurt {"lane":76,"closure":95,"speed":37,"accident":2,"jam":1}
+10:40:07 weer: 11 graden, code 0, neerslag 0, wind 12
+10:40:07 rws tegel 1723_103 (internet): 1509 wegvakken, versie 01-10-2026
+10:40:07 ev happy: Goedemorgen Henk! Het is 11 graden, zonnig. Ricardo is ook al onderweg.
+10:40:07 briefing: Goedemorgen Henk! Het is 11 graden, zonnig. Ricardo is ook al onderweg.
+10:40:08 scherm-aan-slot geweigerd: NotAllowedError
+10:40:08 vaste flitsers NL: 515, trajectcontroles: 76 (versie 24-10-2026)
+10:40:08 wakker blijven: filmpje-truc aan
+10:40:10 bewegingssensor: granted
+10:40:10 ev excited: Joepie! Nu voel ik elke bocht.
+10:40:10 ev happy: Winnaar weekchallenge “Rustigste rijstijl (minstens 3 ritten)”: Henk met 57/100!
+10:40:13 terug na 6 s zonder GPS
+10:40:13 back-up (dag) 41 kB
+10:40:14 voelen: sensor-teken gewoon
+10:40:15 v=0 nauwk=11m limiet=30~ wegen=2060 draai=0 vaste=90/9 gemeld=18 stemming=happy
+10:40:17 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+10:40:19 scherm-aan-slot geweigerd: NotAllowedError

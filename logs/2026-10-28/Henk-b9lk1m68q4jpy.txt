@@ -744,3 +744,65 @@
 07:44:34 v=67 nauwk=2m limiet=100 wegen=3788 draai=0 vaste=163/18 gemeld=16 stemming=content
 07:44:35 ev content: Hier rijden we vaak. Ik ken dit stukje.
 07:44:45 v=84 nauwk=2m limiet=100 wegen=3788 draai=0 vaste=163/18 gemeld=16 stemming=relaxed
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+10:41:09 start v73
+10:41:09 groep ververst: 5
+10:41:09 GPS automatisch aan
+10:41:09 scherm-aan-slot geweigerd: NotAllowedError
+10:41:10 limiet geschat uit je snelheid: 30
+10:41:10 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+10:41:11 matrix-locaties geladen: 6442
+10:41:11 flitsers via /flitsers: 18/18
+10:41:11 osm werk via Worker (bewaard): 400 stuks
+10:41:11 wegwerkzaamheden geladen: 400
+10:41:11 ANWB verkeer geladen: 14 meldingen in de buurt (van 51)
+10:41:11 bruggen geladen: 0
+10:41:11 weer: 11 graden, code 0, neerslag 0, wind 12
+10:41:13 scherm-aan-slot geweigerd: NotAllowedError
+10:41:13 wakker blijven: filmpje-truc aan
+10:41:14 FOUT bewegingssensor Requesting device motion access requires a user gesture to prompt
+10:41:16 terug na 5 s zonder GPS
+10:41:17 FOUT NDW: Load failed
+10:41:17 FOUT groepsberichten: Load failed
+10:41:19 v=0 nauwk=14m limiet=30~ wegen=2466 draai=0 vaste=163/18 gemeld=18 stemming=content
+10:41:20 scherm-aan-slot geweigerd: NotAllowedError
+10:41:22 bewegingssensor: granted
+10:41:22 ev excited: Joepie! Nu voel ik elke bocht.
+10:41:22 scherm-aan-slot gekregen
+10:41:23 voelen: geleerde richting van vorige keer meegedraaid
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+10:41:29 v=0 nauwk=4m limiet=30~ wegen=2466 draai=0 vaste=163/18 gemeld=18 stemming=neutral
+10:41:34 ev worried: Let op: een afsluiting op de A27 bij Industriegebied Avelingen op je gewone route.
+10:41:34 vertrekcheck (rit): 1 meldingen op route
+10:41:39 leaderboard: Henk samengevoegd met jou
+10:41:39 v=0 nauwk=2m limiet=30~ wegen=2466 draai=0 vaste=163/18 gemeld=18 stemming=worried
+10:41:42 voelen: sensor-teken gewoon
+10:41:49 v=0 nauwk=2m limiet=30~ wegen=2466 draai=0 vaste=163/18 gemeld=18 stemming=neutral
+10:41:55 ev excited: Whoeeh, optrekken!
+10:41:56 ev startled: Oef, stevig remmen!
+10:41:57 ev worried: Rustig in de bocht!
+10:41:59 v=3 nauwk=5m limiet=30~ wegen=2466 draai=1 vaste=163/18 gemeld=18 stemming=worried
+10:42:02 ev excited: Whoeeh, optrekken!
+10:42:02 ev startled: Wiee, ik zweef!
+10:42:10 v=2 nauwk=11m limiet=30~ wegen=2466 draai=0 vaste=163/18 gemeld=18 stemming=neutral
+10:42:13 ev content: Zo, mijn uitzicht is terug.
+10:42:20 v=2 nauwk=11m limiet=30~ wegen=2466 draai=0 vaste=163/18 gemeld=18 stemming=neutral
+10:42:31 v=2 nauwk=13m limiet=30~ wegen=2466 draai=0 vaste=163/18 gemeld=18 stemming=happy
+10:42:32 ev excited: Whoeeh, optrekken!
+10:42:34 ev worried: Rustig in de bocht!
+10:42:35 ev startled: Oef, stevig remmen!
+10:42:38 ev happy: Rondje! Wheee.
+10:42:38 rotonde: rondje (261°)
+10:42:41 v=0 nauwk=6m limiet=30~ wegen=2466 draai=-179 vaste=163/18 gemeld=18 stemming=neutral
+10:42:43 ev excited: Whoeeh, optrekken!
+10:42:43 ev worried: Rustig in de bocht!
+10:42:43 drempel/schok sterkte 5.7 bij 63 km/h
+10:42:43 ev startled: Drempel! Boing!
+10:42:45 drempel/schok sterkte 4.4 bij 57 km/h
+10:42:45 ev startled: Boing!
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+10:43:18 terug na 17 s zonder GPS
+10:43:18 v=55 nauwk=21m limiet=30~ wegen=2466 draai=0 vaste=163/18 gemeld=18 stemming=alert
+10:43:18 scherm-aan-slot gekregen
+10:43:18 scherm-aan-slot gekregen
+10:43:19 ANWB verkeer geladen: 14 meldingen in de buurt (van 51)
