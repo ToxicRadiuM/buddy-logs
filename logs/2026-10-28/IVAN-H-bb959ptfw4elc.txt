@@ -258,3 +258,17 @@
 05:34:05 v=65 nauwk=1m limiet=80 wegen=1574 draai=-0 vaste=55/2 gemeld=16 stemming=focused
 05:34:06 flitsers via /flitsers: 14/14
 05:34:07 ANWB verkeer geladen: 9 meldingen in de buurt (van 50)
+--- v73 · Linux; Android 10; K ---
+06:35:30 scherm-aan-slot gekregen
+06:35:30 scherm-aan-slot gekregen
+--- v73 · Linux; Android 10; K ---
+06:35:30 voelen: telefoon gedraaid (31°), richting meegedraaid
+06:35:30 ev happy: Goedemorgen IVAN H!
+06:35:30 terug na 2162 s zonder GPS
+06:35:30 v=0 nauwk=12m limiet=80 wegen=958 draai=0 vaste=55/2 gemeld=14 stemming=happy
+06:35:30 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+06:35:30 groep ververst: 5
+06:35:31 ANWB verkeer geladen: 18 meldingen in de buurt (van 59)
+06:35:31 weer: 8.2 graden, code 3, neerslag 0, wind 10
+06:35:31 bruggen geladen: 0
+06:35:31 NDW geladen: 207 meldingen in de buurt {"lane":61,"closure":97,"speed":36,"jam":8,"accident":5}
