@@ -2017,3 +2017,9 @@
 19:02:05 scherm-aan-slot gekregen
 19:02:05 bewegingssensor: granted
 19:02:05 ev excited: Joepie! Nu voel ik elke bocht.
+--- v73 · Linux; Android 10; K ---
+19:04:06 start v73
+19:04:06 nachtstand aan
+19:04:06 groep ververst: 5
+19:04:07 GPS automatisch aan
+19:04:07 scherm-aan-slot gekregen
