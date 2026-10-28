@@ -1,0 +1,924 @@
+--- v73 · Linux; Android 10; K ---
+09:02:03 start v73
+09:02:03 groep ververst: 5
+09:02:04 GPS automatisch aan
+09:02:04 scherm-aan-slot gekregen
+09:02:04 bewegingssensor: granted
+09:02:04 ev excited: Joepie! Nu voel ik elke bocht.
+09:02:05 limiet geschat uit je snelheid: 30
+09:02:05 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+09:02:05 ev excited: Whoeeh, optrekken!
+09:02:05 osm werk via Worker (bewaard): 400 stuks
+09:02:05 wegwerkzaamheden geladen: 398
+09:02:05 voelen: sensor-teken gewoon
+09:02:05 weer: 8.8 graden, code 0, neerslag 0, wind 12
+09:02:05 bruggen geladen: 9
+09:02:05 ANWB verkeer geladen: 35 meldingen in de buurt (van 77)
+09:02:05 NDW geladen: 343 meldingen in de buurt {"speed":30,"lane":68,"closure":213,"jam":24,"accident":8}
+09:02:05 ev happy: Goedemorgen Ricardo! Het is 9 graden, zonnig. Let op: file op de A2 op je gewone route.
+09:02:05 briefing: Goedemorgen Ricardo! Het is 9 graden, zonnig. Let op: file op de A2 op je gewone route.
+09:02:05 flitsers via /flitsers: 14/14
+09:02:05 matrix-locaties geladen: 6442
+09:02:06 voelen: geleerde richting van vorige keer meegedraaid
+09:02:08 drempel/schok sterkte 2.3 bij 22 km/h
+09:02:08 ev startled: Boing!
+09:02:12 drempel/schok sterkte 4.1 bij 20 km/h
+09:02:12 ev startled: Boing!
+09:02:12 drempel/schok sterkte 4.3 bij 20 km/h (tweede klap)
+09:02:12 ev excited: Dubbele boing! Dat was een drempel.
+09:02:13 v=21 nauwk=4m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=14 stemming=excited
+09:02:14 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+09:02:14 hobbelige weg (4 klappen in 20 s)
+--- v73 · Linux; Android 10; K ---
+09:02:31 scherm-aan-slot gekregen
+09:02:31 scherm-aan-slot gekregen
+09:02:31 terug na 15 s zonder GPS
+09:02:31 v=45 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=alert
+09:02:31 ev content: Hier rijden we vaak. Ik ken dit stukje.
+09:02:33 ev worried: Let op: file op de A2 bij afrit Sint-Michielsgestel (+25 min) op je gewone route. En nog 4 meldingen.
+09:02:33 vertrekcheck (rit): 5 meldingen op route
+09:02:36 autostand aan
+09:02:37 ev angry: Hé! Dat is veel te hard. Gas eraf!
+09:02:41 voelen: telefoon gedraaid (79°), richting meegedraaid
+09:02:41 v=39 nauwk=4m limiet=30 wegen=1396 draai=1 vaste=117/12 gemeld=14 stemming=relaxed
+09:02:41 ev happy: Daar is weer de Schansspringer! Hou je vast!
+09:02:41 bekende plek: de Schansspringer
+09:02:45 ev worried: Oei, we gaan net iets te hard.
+09:02:50 ev happy: Daar is weer het Rondje Pret! Wiee!
+09:02:50 bekende plek: het Rondje Pret
+09:02:51 v=46 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=happy
+09:03:01 v=44 nauwk=4m limiet=30 wegen=1396 draai=-1 vaste=117/12 gemeld=14 stemming=happy
+09:03:12 v=40 nauwk=4m limiet=50 wegen=1396 draai=22 vaste=117/12 gemeld=14 stemming=relaxed
+09:03:22 drempel/schok sterkte 3.8 bij 56 km/h
+09:03:22 ev startled: Boing!
+09:03:22 v=56 nauwk=4m limiet=50 wegen=1396 draai=2 vaste=117/12 gemeld=14 stemming=startled
+09:03:27 ev worried: Voetje van het gas?
+09:03:32 v=59 nauwk=4m limiet=50 wegen=1396 draai=2 vaste=117/12 gemeld=14 stemming=relaxed
+09:03:43 v=54 nauwk=4m limiet=50 wegen=1396 draai=-1 vaste=117/12 gemeld=14 stemming=relaxed
+09:03:53 v=56 nauwk=4m limiet=50 wegen=1396 draai=-1 vaste=117/12 gemeld=14 stemming=happy
+09:04:04 v=52 nauwk=4m limiet=50 wegen=1396 draai=-4 vaste=117/12 gemeld=14 stemming=relaxed
+09:04:06 flitsers via /flitsers: 14/14
+09:04:06 ANWB verkeer geladen: 33 meldingen in de buurt (van 75)
+09:04:14 v=65 nauwk=4m limiet=60 wegen=1396 draai=-3 vaste=117/12 gemeld=14 stemming=focused
+09:04:25 v=64 nauwk=4m limiet=60 wegen=1396 draai=1 vaste=117/12 gemeld=14 stemming=relaxed
+09:04:33 rws tegel 1733_96 (telefoon): 120 wegvakken, versie 01-10-2026
+09:04:36 v=61 nauwk=4m limiet=60 wegen=1516 draai=-0 vaste=117/12 gemeld=14 stemming=relaxed
+09:04:46 v=62 nauwk=4m limiet=60 wegen=1516 draai=-0 vaste=117/12 gemeld=14 stemming=relaxed
+09:04:57 v=60 nauwk=4m limiet=60 wegen=1516 draai=-1 vaste=117/12 gemeld=14 stemming=relaxed
+09:05:03 drempel/schok sterkte 6.2 bij 61 km/h
+09:05:03 ev startled: Drempel! Boing!
+09:05:04 groep ververst: 5
+09:05:08 v=62 nauwk=4m limiet=60 wegen=1516 draai=2 vaste=117/12 gemeld=14 stemming=relaxed
+09:05:19 v=64 nauwk=4m limiet=60 wegen=1516 draai=-1 vaste=117/12 gemeld=14 stemming=relaxed
+09:05:30 v=60 nauwk=4m limiet=60 wegen=1516 draai=1 vaste=117/12 gemeld=14 stemming=focused
+09:05:40 v=61 nauwk=4m limiet=60 wegen=1516 draai=-1 vaste=117/12 gemeld=14 stemming=relaxed
+09:05:47 drempel/schok sterkte 5.9 bij 60 km/h
+09:05:47 ev startled: Drempel! Boing!
+09:05:50 v=59 nauwk=4m limiet=60 wegen=1516 draai=-0 vaste=117/12 gemeld=14 stemming=relaxed
+09:06:01 v=63 nauwk=4m limiet=60 wegen=1516 draai=0 vaste=117/12 gemeld=14 stemming=relaxed
+09:06:07 ANWB verkeer geladen: 33 meldingen in de buurt (van 73)
+09:06:07 flitsers via /flitsers: 16/16
+09:06:12 v=60 nauwk=4m limiet=60 wegen=1516 draai=-0 vaste=117/12 gemeld=16 stemming=relaxed
+09:06:22 v=60 nauwk=4m limiet=60 wegen=1516 draai=-0 vaste=117/12 gemeld=16 stemming=relaxed
+09:06:33 v=61 nauwk=4m limiet=60 wegen=1516 draai=-1 vaste=117/12 gemeld=16 stemming=relaxed
+09:06:44 v=64 nauwk=4m limiet=60 wegen=1516 draai=-1 vaste=117/12 gemeld=16 stemming=content
+09:06:54 v=57 nauwk=4m limiet=60 wegen=1516 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+09:07:05 v=59 nauwk=4m limiet=60 wegen=1516 draai=4 vaste=117/12 gemeld=16 stemming=neutral
+09:07:06 drempel/schok sterkte 3.7 bij 58 km/h
+09:07:06 ev startled: Boing!
+09:07:06 NDW geladen: 342 meldingen in de buurt {"speed":29,"lane":68,"closure":214,"jam":23,"accident":8}
+09:07:07 zon in je ogen (hoogte 12°)
+09:07:15 v=64 nauwk=4m limiet=60 wegen=1516 draai=-3 vaste=117/12 gemeld=16 stemming=relaxed
+09:07:23 ev worried: Iets te snel, hè.
+09:07:26 v=67 nauwk=4m limiet=60 wegen=1516 draai=-0 vaste=117/12 gemeld=16 stemming=relaxed
+09:07:36 v=59 nauwk=4m limiet=60 wegen=1516 draai=-1 vaste=117/12 gemeld=16 stemming=relaxed
+09:07:46 v=53 nauwk=4m limiet=60 wegen=120 draai=5 vaste=117/12 gemeld=16 stemming=focused
+09:07:47 voelen: ik weet nu waar vooruit is (52%)
+09:07:56 v=72 nauwk=4m limiet=60 wegen=120 draai=-2 vaste=117/12 gemeld=16 stemming=relaxed
+09:08:05 groep ververst: 5
+09:08:07 v=70 nauwk=4m limiet=60 wegen=120 draai=-2 vaste=117/12 gemeld=16 stemming=focused
+09:08:08 ANWB verkeer geladen: 30 meldingen in de buurt (van 67)
+09:08:08 flitsers via /flitsers: 14/14
+09:08:10 rws tegel 1733_97 (telefoon): 416 wegvakken, versie 01-10-2026
+09:08:17 v=62 nauwk=4m limiet=60 wegen=536 draai=-0 vaste=117/12 gemeld=14 stemming=relaxed
+09:08:28 v=61 nauwk=4m limiet=60 wegen=536 draai=-3 vaste=117/12 gemeld=14 stemming=content
+09:08:29 rws tegel 1734_97 (telefoon): 667 wegvakken, versie 01-10-2026
+09:08:38 v=57 nauwk=4m limiet=60 wegen=1203 draai=-1 vaste=117/12 gemeld=14 stemming=relaxed
+09:08:45 osm wegen via Worker (overpass): 282 stuks
+09:08:45 wegen geladen: 282 wegen
+09:08:48 v=64 nauwk=4m limiet=60 wegen=1485 draai=6 vaste=117/12 gemeld=14 stemming=relaxed
+09:08:58 v=66 nauwk=4m limiet=60 wegen=1485 draai=0 vaste=117/12 gemeld=14 stemming=relaxed
+09:09:08 v=65 nauwk=4m limiet=60 wegen=1485 draai=-4 vaste=117/12 gemeld=14 stemming=relaxed
+09:09:09 ev content: Hier rijden we vaak. Ik ken dit stukje.
+09:09:19 v=63 nauwk=4m limiet=60 wegen=1485 draai=1 vaste=117/12 gemeld=14 stemming=relaxed
+09:09:29 v=65 nauwk=4m limiet=60 wegen=1485 draai=-0 vaste=117/12 gemeld=14 stemming=relaxed
+09:09:39 v=49 nauwk=4m limiet=50 wegen=1485 draai=2 vaste=117/12 gemeld=14 stemming=relaxed
+09:09:50 v=48 nauwk=4m limiet=50 wegen=1485 draai=4 vaste=117/12 gemeld=14 stemming=relaxed
+09:10:00 osm werk via Worker (overpass): 400 stuks
+09:10:00 wegwerkzaamheden geladen: 397
+09:10:00 v=45 nauwk=4m limiet=50 wegen=1485 draai=-2 vaste=117/12 gemeld=14 stemming=relaxed
+09:10:08 flitsers via /flitsers: 16/16
+09:10:09 ANWB verkeer geladen: 26 meldingen in de buurt (van 66)
+09:10:10 v=20 nauwk=4m limiet=50 wegen=1485 draai=6 vaste=117/12 gemeld=16 stemming=neutral
+09:10:14 drempel/schok sterkte 3.5 bij 21 km/h
+09:10:14 ev startled: Boing!
+09:10:20 v=32 nauwk=4m limiet=50 wegen=1485 draai=5 vaste=117/12 gemeld=16 stemming=relaxed
+09:10:27 ev happy: Nieuw outfit vrijgespeeld: Koptelefoon! Kies hem bij 🎲 Plezier, Outfit.
+09:10:30 v=31 nauwk=4m limiet=50 wegen=1485 draai=-3 vaste=117/12 gemeld=16 stemming=happy
+09:10:41 v=41 nauwk=4m limiet=50 wegen=1485 draai=-5 vaste=117/12 gemeld=16 stemming=relaxed
+09:10:51 v=48 nauwk=4m limiet=50 wegen=1485 draai=2 vaste=117/12 gemeld=16 stemming=relaxed
+09:10:58 drempel/schok sterkte 5.4 bij 51 km/h
+09:10:58 ev startled: Drempel! Boing!
+09:11:01 v=54 nauwk=4m limiet=50 wegen=1485 draai=-2 vaste=117/12 gemeld=16 stemming=relaxed
+09:11:05 groep ververst: 5
+09:11:11 v=47 nauwk=4m limiet=50 wegen=1485 draai=-2 vaste=117/12 gemeld=16 stemming=relaxed
+09:11:22 v=37 nauwk=4m limiet=50 wegen=1485 draai=-5 vaste=117/12 gemeld=16 stemming=relaxed
+09:11:33 v=49 nauwk=4m limiet=50 wegen=1365 draai=1 vaste=117/12 gemeld=16 stemming=content
+09:11:44 v=50 nauwk=4m limiet=50 wegen=1365 draai=-3 vaste=117/12 gemeld=16 stemming=relaxed
+09:11:54 v=50 nauwk=4m limiet=60 wegen=1365 draai=-4 vaste=117/12 gemeld=16 stemming=relaxed
+--- v73 · Linux; Android 10; K ---
+09:12:03 drempel/schok sterkte 3.9 bij 56 km/h
+09:12:03 ev startled: Boing!
+09:12:05 drempel/schok sterkte 4.5 bij 56 km/h
+09:12:05 ev startled: Boing!
+09:12:05 v=56 nauwk=4m limiet=60 wegen=1365 draai=-3 vaste=117/12 gemeld=16 stemming=startled
+09:12:06 bruggen geladen: 8
+09:12:07 NDW geladen: 342 meldingen in de buurt {"speed":29,"lane":69,"closure":212,"jam":24,"accident":8}
+09:12:09 flitsers via /flitsers: 18/18
+09:12:10 ANWB verkeer geladen: 24 meldingen in de buurt (van 63)
+09:12:15 v=59 nauwk=4m limiet=60 wegen=1365 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+09:12:25 v=54 nauwk=4m limiet=60 wegen=1365 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+09:12:26 drempel/schok sterkte 4.8 bij 54 km/h
+09:12:26 ev startled: Boing!
+09:12:35 v=56 nauwk=4m limiet=60 wegen=1365 draai=3 vaste=117/12 gemeld=18 stemming=content
+09:12:42 drempel/schok sterkte 4.2 bij 57 km/h
+09:12:42 ev startled: Boing!
+09:12:44 drempel/schok sterkte 4.9 bij 57 km/h
+09:12:44 ev startled: Boing!
+09:12:46 v=59 nauwk=4m limiet=60 wegen=1365 draai=-1 vaste=117/12 gemeld=18 stemming=relaxed
+09:12:50 rws tegel 1734_98 (telefoon): 731 wegvakken, versie 01-10-2026
+09:12:56 v=54 nauwk=4m limiet=60 wegen=2096 draai=3 vaste=117/12 gemeld=18 stemming=relaxed
+09:13:06 v=58 nauwk=4m limiet=60 wegen=2096 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+09:13:10 drempel/schok sterkte 5.0 bij 56 km/h
+09:13:10 ev startled: Drempel! Boing!
+09:13:12 drempel/schok sterkte 6.0 bij 56 km/h
+09:13:12 ev startled: Drempel! Boing!
+09:13:13 drempel/schok sterkte 4.3 bij 56 km/h
+09:13:13 ev startled: Boing!
+09:13:16 v=58 nauwk=4m limiet=60 wegen=2096 draai=-0 vaste=117/12 gemeld=18 stemming=content
+09:13:22 osm wegen Worker: http 503, ik probeer Overpass rechtstreeks
+09:13:22 overpass overpass-api.de: http 502
+09:13:27 v=60 nauwk=4m limiet=60 wegen=2096 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+09:13:37 v=52 nauwk=4m limiet=60 wegen=2096 draai=1 vaste=117/12 gemeld=18 stemming=relaxed
+09:13:38 drempel/schok sterkte 7.5 bij 52 km/h
+09:13:38 ev startled: Drempel! Boing!
+09:13:40 drempel/schok sterkte 4.5 bij 51 km/h
+09:13:40 ev startled: Boing!
+09:13:47 overpass overpass.private.coffee: te traag
+09:13:47 v=58 nauwk=4m limiet=60 wegen=2096 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+09:13:54 overpass overpass.kumi.systems: te traag
+09:13:57 v=58 nauwk=4m limiet=60 wegen=2096 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+09:14:01 overpass maps.mail.ru: te traag
+09:14:01 FOUT wegenlimiet laden mislukt (maps.mail.ru: te traag) opnieuw over 8 s
+09:14:06 groep ververst: 5
+09:14:08 v=62 nauwk=4m limiet=60 wegen=2096 draai=1 vaste=117/12 gemeld=18 stemming=alert
+09:14:10 flitsers via /flitsers: 18/18
+09:14:11 ANWB verkeer geladen: 29 meldingen in de buurt (van 65)
+09:14:16 drempel/schok sterkte 4.4 bij 60 km/h
+09:14:16 ev startled: Boing!
+09:14:18 v=62 nauwk=4m limiet=60 wegen=2096 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+09:14:28 v=64 nauwk=4m limiet=60 wegen=2096 draai=-1 vaste=117/12 gemeld=18 stemming=content
+09:14:39 v=59 nauwk=4m limiet=60 wegen=2096 draai=6 vaste=117/12 gemeld=18 stemming=relaxed
+09:14:49 v=59 nauwk=4m limiet=60 wegen=2096 draai=-5 vaste=117/12 gemeld=18 stemming=content
+09:14:56 drempel/schok sterkte 4.6 bij 58 km/h
+09:14:56 ev startled: Boing!
+09:14:59 v=59 nauwk=4m limiet=60 wegen=1398 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+09:15:09 v=61 nauwk=4m limiet=60 wegen=1398 draai=-1 vaste=117/12 gemeld=18 stemming=content
+09:15:20 v=58 nauwk=4m limiet=60 wegen=1398 draai=-2 vaste=117/12 gemeld=18 stemming=relaxed
+09:15:22 drempel/schok sterkte 3.7 bij 57 km/h
+09:15:22 ev startled: Boing!
+09:15:30 v=57 nauwk=4m limiet=60 wegen=731 draai=-4 vaste=117/12 gemeld=18 stemming=relaxed
+09:15:40 v=56 nauwk=4m limiet=60 wegen=731 draai=-2 vaste=117/12 gemeld=18 stemming=alert
+09:15:42 drempel/schok sterkte 4.2 bij 56 km/h
+09:15:42 ev startled: Boing!
+09:15:43 drempel/schok sterkte 4.3 bij 53 km/h
+09:15:43 ev startled: Boing!
+09:15:51 v=49 nauwk=4m limiet=60 wegen=731 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+09:16:02 v=39 nauwk=4m limiet=60 wegen=731 draai=-1 vaste=117/12 gemeld=18 stemming=relaxed
+09:16:05 drempel/schok sterkte 3.7 bij 41 km/h
+09:16:05 ev startled: Boing!
+09:16:09 flitsers via /flitsers: 18/18
+09:16:10 drempel/schok sterkte 4.1 bij 48 km/h
+09:16:10 ev startled: Boing!
+09:16:12 ANWB verkeer geladen: 31 meldingen in de buurt (van 67)
+09:16:12 v=50 nauwk=4m limiet=60 wegen=731 draai=-1 vaste=117/12 gemeld=18 stemming=relaxed
+09:16:14 drempel/schok sterkte 4.4 bij 49 km/h
+09:16:14 ev startled: Boing!
+09:16:22 v=49 nauwk=4m limiet=60 wegen=731 draai=-1 vaste=117/12 gemeld=18 stemming=content
+09:16:33 v=45 nauwk=4m limiet=60 wegen=731 draai=-1 vaste=117/12 gemeld=18 stemming=relaxed
+09:16:35 drempel/schok sterkte 4.0 bij 45 km/h
+09:16:35 ev startled: Boing!
+09:16:36 drempel/schok sterkte 4.6 bij 46 km/h
+09:16:36 ev startled: Boing!
+09:16:37 drempel/schok sterkte 4.2 bij 46 km/h (tweede klap)
+09:16:37 ev excited: Dubbele boing! Dat was een drempel.
+09:16:37 plek kreeg een naam: de Hobbelberg
+09:16:39 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+09:16:39 hobbelige weg (4 klappen in 20 s)
+09:16:43 v=48 nauwk=4m limiet=60 wegen=731 draai=-5 vaste=117/12 gemeld=18 stemming=relaxed
+09:16:53 v=24 nauwk=4m limiet=60 wegen=731 draai=4 vaste=117/12 gemeld=18 stemming=relaxed
+09:17:04 v=6 nauwk=4m limiet=60 wegen=731 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+09:17:06 groep ververst: 5
+09:17:06 weer: 9.1 graden, code 0, neerslag 0, wind 13
+09:17:08 NDW geladen: 325 meldingen in de buurt {"speed":29,"lane":66,"closure":200,"jam":20,"accident":10}
+09:17:15 v=22 nauwk=4m limiet=60 wegen=731 draai=1 vaste=117/12 gemeld=18 stemming=alert
+09:17:25 v=15 nauwk=4m limiet=60 wegen=731 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+09:17:33 ev excited: Whoeeh, optrekken!
+09:17:35 v=4 nauwk=4m limiet=60 wegen=731 draai=3 vaste=117/12 gemeld=18 stemming=neutral
+09:17:40 ev excited: Whoeeh, optrekken!
+09:17:45 ev excited: Whoeeh, optrekken!
+09:17:45 v=61 nauwk=4m limiet=80 wegen=731 draai=1 vaste=117/12 gemeld=18 stemming=excited
+09:17:55 v=62 nauwk=4m limiet=80 wegen=731 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+09:18:06 v=61 nauwk=4m limiet=80 wegen=731 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+09:18:10 flitsers via /flitsers: 16/16
+09:18:13 ANWB verkeer geladen: 30 meldingen in de buurt (van 67)
+09:18:16 v=71 nauwk=4m limiet=80 wegen=731 draai=1 vaste=117/12 gemeld=16 stemming=relaxed
+09:18:26 v=77 nauwk=4m limiet=80 wegen=731 draai=-0 vaste=117/12 gemeld=16 stemming=content
+09:18:34 osm werk via Worker (bewaard): 400 stuks
+09:18:34 wegwerkzaamheden geladen: 397
+09:18:37 v=73 nauwk=4m limiet=80 wegen=731 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+09:18:42 rws tegel 1734_99 (telefoon): 607 wegvakken, versie 01-10-2026
+09:18:47 v=64 nauwk=4m limiet=80 wegen=1572 draai=-0 vaste=117/12 gemeld=16 stemming=relaxed
+09:18:57 v=22 nauwk=4m limiet=80 wegen=1572 draai=-1 vaste=117/12 gemeld=16 stemming=happy
+09:18:57 rws tegel 1733_98 (telefoon): 118 wegvakken, versie 01-10-2026
+09:19:04 ev excited: Rotonde!
+09:19:04 rotonde: herkend op de kaart
+09:19:05 rws tegel 1733_99 (telefoon): 343 wegvakken, versie 01-10-2026
+09:19:08 v=43 nauwk=4m limiet=80 wegen=2033 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+09:19:19 v=59 nauwk=4m limiet=80 wegen=2033 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+09:19:29 v=72 nauwk=4m limiet=80 wegen=2033 draai=0 vaste=117/12 gemeld=16 stemming=content
+09:19:39 v=71 nauwk=4m limiet=80 wegen=2033 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+09:19:50 drempel/schok sterkte 5.4 bij 75 km/h
+09:19:50 ev startled: Oei, een hobbel.
+09:19:50 v=75 nauwk=4m limiet=80 wegen=2033 draai=0 vaste=117/12 gemeld=16 stemming=startled
+09:19:55 drempel/schok sterkte 6.3 bij 74 km/h
+09:19:55 ev startled: Hobbel!
+09:20:01 v=71 nauwk=4m limiet=80 wegen=2033 draai=-1 vaste=117/12 gemeld=16 stemming=relaxed
+09:20:06 groep ververst: 5
+09:20:10 flitsers via /flitsers: 16/16
+09:20:12 v=73 nauwk=4m limiet=80 wegen=2033 draai=-0 vaste=117/12 gemeld=16 stemming=relaxed
+09:20:14 ANWB verkeer geladen: 31 meldingen in de buurt (van 64)
+09:20:22 v=74 nauwk=4m limiet=80 wegen=2033 draai=1 vaste=117/12 gemeld=16 stemming=content
+09:20:32 v=78 nauwk=4m limiet=80 wegen=2033 draai=-1 vaste=117/12 gemeld=16 stemming=relaxed
+09:20:39 drempel/schok sterkte 5.4 bij 78 km/h
+09:20:39 ev startled: Wat een voeg!
+09:20:43 v=76 nauwk=4m limiet=80 wegen=2033 draai=0 vaste=117/12 gemeld=16 stemming=alert
+09:20:53 v=69 nauwk=4m limiet=80 wegen=1302 draai=-0 vaste=117/12 gemeld=16 stemming=alert
+09:21:04 v=65 nauwk=4m limiet=80 wegen=1302 draai=-0 vaste=117/12 gemeld=16 stemming=alert
+09:21:09 voelen: ik weet nu waar vooruit is (53%)
+09:21:14 v=22 nauwk=4m limiet=80 wegen=1302 draai=1 vaste=117/12 gemeld=16 stemming=alert
+09:21:17 drempel/schok sterkte 4.9 bij 29 km/h
+09:21:17 ev startled: Boing!
+09:21:17 drempel/schok sterkte 5.8 bij 32 km/h (tweede klap)
+09:21:17 ev excited: Dubbele boing! Dat was een drempel.
+09:21:17 flitsevent cam_pass v=22 limiet=80
+09:21:17 ev happy: Netjes! Flitser gepasseerd.
+09:21:24 v=58 nauwk=4m limiet=80 wegen=1302 draai=-0 vaste=117/12 gemeld=16 stemming=happy
+09:21:31 drempel/schok sterkte 5.2 bij 64 km/h
+09:21:31 ev startled: Drempel! Boing!
+09:21:35 v=72 nauwk=4m limiet=80 wegen=1302 draai=1 vaste=117/12 gemeld=16 stemming=relaxed
+09:21:45 drempel/schok sterkte 5.7 bij 74 km/h
+09:21:45 ev startled: Hobbel!
+09:21:45 v=73 nauwk=4m limiet=80 wegen=1302 draai=1 vaste=117/12 gemeld=16 stemming=startled
+09:21:56 v=73 nauwk=4m limiet=80 wegen=695 draai=-1 vaste=117/12 gemeld=16 stemming=relaxed
+--- v73 · Linux; Android 10; K ---
+09:22:06 v=67 nauwk=4m limiet=80 wegen=695 draai=-2 vaste=117/12 gemeld=16 stemming=relaxed
+09:22:07 bruggen geladen: 0
+09:22:09 NDW geladen: 314 meldingen in de buurt {"speed":30,"lane":72,"closure":186,"accident":7,"jam":19}
+09:22:11 flitsers via /flitsers: 16/16
+09:22:15 ANWB verkeer geladen: 31 meldingen in de buurt (van 64)
+09:22:17 v=64 nauwk=4m limiet=80 wegen=695 draai=1 vaste=117/12 gemeld=16 stemming=relaxed
+09:22:21 rws tegel 1732_99 (telefoon): 585 wegvakken, versie 01-10-2026
+09:22:25 drempel/schok sterkte 4.6 bij 57 km/h
+09:22:25 ev startled: Boing!
+09:22:27 v=56 nauwk=4m limiet=80 wegen=1280 draai=-5 vaste=117/12 gemeld=16 stemming=relaxed
+09:22:34 ev worried: Rustig in de bocht!
+09:22:36 ev excited: Rotonde!
+09:22:36 rotonde: herkend op de kaart
+09:22:36 plek kreeg een naam: de Draaimolen
+09:22:38 v=44 nauwk=4m limiet=80 wegen=1280 draai=-11 vaste=117/12 gemeld=16 stemming=relaxed
+09:22:48 v=85 nauwk=4m limiet=80 wegen=1280 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+09:22:54 ev worried: Voetje van het gas?
+09:22:59 v=85 nauwk=4m limiet=80 wegen=1280 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+09:23:07 groep ververst: 5
+09:23:09 v=79 nauwk=4m limiet=80 wegen=1280 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+09:23:20 v=77 nauwk=4m limiet=80 wegen=1280 draai=0 vaste=117/12 gemeld=16 stemming=alert
+09:23:31 v=79 nauwk=4m limiet=80 wegen=1162 draai=-0 vaste=117/12 gemeld=16 stemming=alert
+09:23:39 flitsevent cam_pass v=79 limiet=80
+09:23:39 ev happy: Netjes! Flitser gepasseerd.
+09:23:42 v=80 nauwk=4m limiet=80 wegen=1162 draai=0 vaste=117/12 gemeld=16 stemming=alert
+09:23:47 rws tegel 1733_100 (telefoon): 1658 wegvakken, versie 01-10-2026
+09:23:53 v=85 nauwk=4m limiet=80 wegen=2820 draai=1 vaste=117/12 gemeld=16 stemming=relaxed
+09:24:03 v=82 nauwk=4m limiet=80 wegen=2820 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+09:24:05 ev happy: Daar is weer het Rondje Pret! Wiee!
+09:24:05 bekende plek: het Rondje Pret
+09:24:12 flitsers via /flitsers: 18/18
+09:24:13 v=64 nauwk=4m limiet=80 wegen=2820 draai=-2 vaste=117/12 gemeld=18 stemming=alert
+09:24:16 ANWB verkeer geladen: 36 meldingen in de buurt (van 69)
+09:24:24 v=41 nauwk=4m limiet=80 wegen=2820 draai=11 vaste=117/12 gemeld=18 stemming=relaxed
+09:24:35 v=83 nauwk=4m limiet=80 wegen=2820 draai=-2 vaste=117/12 gemeld=18 stemming=relaxed
+09:24:45 v=80 nauwk=4m limiet=80 wegen=2820 draai=-1 vaste=117/12 gemeld=18 stemming=relaxed
+09:24:55 v=76 nauwk=4m limiet=80 wegen=2820 draai=-1 vaste=117/12 gemeld=18 stemming=relaxed
+09:25:06 v=77 nauwk=4m limiet=80 wegen=2235 draai=1 vaste=117/12 gemeld=18 stemming=relaxed
+09:25:14 matrix geladen: 631 snelheid, 81 kruis
+09:25:16 v=73 nauwk=4m limiet=80 wegen=2235 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+09:25:26 v=78 nauwk=4m limiet=80 wegen=2235 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+09:25:37 v=74 nauwk=4m limiet=80 wegen=2235 draai=0 vaste=117/12 gemeld=18 stemming=content
+09:25:47 v=77 nauwk=4m limiet=80 wegen=2235 draai=-1 vaste=117/12 gemeld=18 stemming=relaxed
+09:25:58 v=81 nauwk=4m limiet=80 wegen=4420 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+09:26:08 groep ververst: 5
+09:26:08 v=67 nauwk=4m limiet=80 wegen=4420 draai=1 vaste=117/12 gemeld=18 stemming=relaxed
+09:26:09 osm werk via Worker (overpass): 400 stuks
+09:26:09 wegwerkzaamheden geladen: 400
+09:26:13 flitsers via /flitsers: 20/20
+09:26:17 ANWB verkeer geladen: 31 meldingen in de buurt (van 67)
+09:26:19 v=42 nauwk=4m limiet=80 wegen=4420 draai=-1 vaste=117/12 gemeld=20 stemming=relaxed
+09:26:29 v=44 nauwk=4m limiet=80 wegen=3843 draai=17 vaste=117/12 gemeld=20 stemming=happy
+09:26:40 v=80 nauwk=4m limiet=80 wegen=3843 draai=-1 vaste=117/12 gemeld=20 stemming=relaxed
+09:26:47 ev happy: Daar is weer het Rondje Pret! Wiee!
+09:26:47 bekende plek: het Rondje Pret
+09:26:48 rws tegel 1733_101 (telefoon): 3098 wegvakken, versie 01-10-2026
+09:26:50 v=70 nauwk=4m limiet=80 wegen=6941 draai=-0 vaste=117/12 gemeld=20 stemming=content
+09:27:00 v=31 nauwk=4m limiet=80 wegen=6941 draai=-1 vaste=117/12 gemeld=20 stemming=relaxed
+09:27:10 NDW geladen: 280 meldingen in de buurt {"speed":28,"lane":67,"closure":159,"jam":18,"accident":8}
+09:27:10 v=29 nauwk=4m limiet=80 wegen=6941 draai=-22 vaste=117/12 gemeld=20 stemming=relaxed
+09:27:12 ev excited: Rotonde!
+09:27:12 rotonde: herkend op de kaart
+09:27:20 v=65 nauwk=4m limiet=80 wegen=6941 draai=-1 vaste=117/12 gemeld=20 stemming=alert
+09:27:30 v=79 nauwk=4m limiet=80 wegen=6941 draai=0 vaste=117/12 gemeld=20 stemming=relaxed
+09:27:40 v=85 nauwk=4m limiet=80 wegen=6941 draai=0 vaste=117/12 gemeld=20 stemming=relaxed
+09:27:45 matrix geladen: 598 snelheid, 75 kruis
+09:27:47 drempel/schok sterkte 6.0 bij 82 km/h
+09:27:47 ev startled: Oei, een hobbel.
+09:27:51 v=80 nauwk=4m limiet=80 wegen=6941 draai=0 vaste=117/12 gemeld=20 stemming=alert
+09:28:02 v=77 nauwk=4m limiet=80 wegen=6941 draai=-1 vaste=117/12 gemeld=20 stemming=alert
+09:28:13 v=74 nauwk=4m limiet=80 wegen=6941 draai=-1 vaste=117/12 gemeld=20 stemming=alert
+09:28:14 flitsers via /flitsers: 18/18
+09:28:14 flitsevent cam_pass v=73 limiet=80
+09:28:14 ev happy: Netjes! Flitser gepasseerd.
+09:28:18 ANWB verkeer geladen: 33 meldingen in de buurt (van 69)
+09:28:23 v=68 nauwk=4m limiet=80 wegen=6941 draai=-3 vaste=117/12 gemeld=18 stemming=happy
+09:28:33 v=66 nauwk=4m limiet=80 wegen=6941 draai=-4 vaste=117/12 gemeld=18 stemming=relaxed
+09:28:44 v=65 nauwk=4m limiet=80 wegen=6941 draai=-1 vaste=117/12 gemeld=18 stemming=relaxed
+09:28:51 ev happy: Daar is weer de Carrousel! Wiee!
+09:28:51 bekende plek: de Carrousel
+09:28:52 rws tegel 1734_101 (telefoon): 4487 wegvakken, versie 01-10-2026
+09:28:54 v=62 nauwk=4m limiet=80 wegen=11428 draai=-1 vaste=117/12 gemeld=18 stemming=relaxed
+09:28:54 ev happy: Daar is weer de Gatenkaas! Voorzichtig!
+09:28:54 bekende plek: de Gatenkaas
+09:29:05 v=32 nauwk=4m limiet=80 wegen=11428 draai=4 vaste=117/12 gemeld=18 stemming=content
+09:29:09 groep ververst: 5
+09:29:11 ev excited: Rotonde!
+09:29:11 rotonde: herkend op de kaart
+09:29:12 drempel/schok sterkte 8.6 bij 34 km/h
+09:29:12 ev startled: Drempel! Boing!
+09:29:15 v=56 nauwk=4m limiet=80 wegen=11428 draai=1 vaste=117/12 gemeld=18 stemming=relaxed
+09:29:26 drempel/schok sterkte 5.3 bij 76 km/h
+09:29:26 ev startled: Hobbel!
+09:29:26 v=74 nauwk=4m limiet=80 wegen=11428 draai=-0 vaste=117/12 gemeld=18 stemming=startled
+09:29:36 v=51 nauwk=4m limiet=80 wegen=11428 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+09:29:37 drempel/schok sterkte 4.4 bij 53 km/h
+09:29:37 ev startled: Boing!
+09:29:41 ev worried: Rustig in de bocht!
+09:29:43 ev excited: Whoeeh, optrekken!
+09:29:46 v=68 nauwk=4m limiet=100 wegen=11428 draai=1 vaste=117/12 gemeld=18 stemming=relaxed
+09:29:50 ev worried: Rustig in de bocht!
+09:29:53 zon in je ogen (hoogte 15°)
+09:29:57 v=87 nauwk=4m limiet=100 wegen=11428 draai=2 vaste=117/12 gemeld=18 stemming=content
+09:29:59 drempel/schok sterkte 5.7 bij 88 km/h
+09:29:59 ev startled: Oei, een hobbel.
+09:30:08 v=98 nauwk=4m limiet=100 wegen=11428 draai=-1 vaste=117/12 gemeld=18 stemming=worried
+09:30:14 flitsers via /flitsers: 20/20
+09:30:16 matrix geladen: 559 snelheid, 80 kruis
+09:30:18 v=111 nauwk=4m limiet=100 wegen=11428 draai=0 vaste=117/12 gemeld=20 stemming=worried
+09:30:19 ev worried: Iets te snel, hè.
+09:30:19 ANWB verkeer geladen: 31 meldingen in de buurt (van 65)
+09:30:29 v=110 nauwk=4m limiet=100 wegen=11428 draai=-0 vaste=117/12 gemeld=20 stemming=worried
+09:30:40 v=107 nauwk=4m limiet=100 wegen=11428 draai=0 vaste=117/12 gemeld=20 stemming=content
+09:30:50 v=111 nauwk=4m limiet=100 wegen=11428 draai=0 vaste=117/12 gemeld=20 stemming=focused
+09:31:00 ev angry: Hé! Dat is veel te hard. Gas eraf!
+09:31:00 v=122 nauwk=4m limiet=100 wegen=11428 draai=1 vaste=117/12 gemeld=20 stemming=angry
+09:31:11 v=113 nauwk=4m limiet=100 wegen=6941 draai=-0 vaste=117/12 gemeld=20 stemming=focused
+09:31:22 v=108 nauwk=4m limiet=100 wegen=5283 draai=0 vaste=117/12 gemeld=20 stemming=focused
+09:31:28 rws tegel 1732_101 (telefoon): 1293 wegvakken, versie 01-10-2026
+09:31:32 v=108 nauwk=4m limiet=100 wegen=6576 draai=0 vaste=117/12 gemeld=20 stemming=focused
+09:31:43 v=110 nauwk=4m limiet=100 wegen=6576 draai=-1 vaste=117/12 gemeld=20 stemming=focused
+09:31:53 v=108 nauwk=4m limiet=100 wegen=7353 draai=-1 vaste=117/12 gemeld=20 stemming=happy
+--- v73 · Linux; Android 10; K ---
+09:32:04 v=108 nauwk=4m limiet=100 wegen=7353 draai=-2 vaste=117/12 gemeld=20 stemming=focused
+09:32:07 weer: 9.4 graden, code 0, neerslag 0, wind 13
+09:32:08 bruggen geladen: 0
+09:32:09 groep ververst: 5
+09:32:11 NDW geladen: 251 meldingen in de buurt {"speed":27,"lane":67,"closure":140,"jam":12,"accident":5}
+09:32:13 ev alert: Tijdelijk max 90 over 900 m. Let op!
+09:32:13 NDW melding speed 896 m: Tijdelijk max 90 over 900 m. Let op!
+09:32:14 v=108 nauwk=4m limiet=100 wegen=7353 draai=-1 vaste=117/12 gemeld=20 stemming=alert
+09:32:15 flitsers via /flitsers: 18/18
+09:32:20 ANWB verkeer geladen: 29 meldingen in de buurt (van 68)
+09:32:24 v=109 nauwk=4m limiet=100 wegen=7353 draai=0 vaste=117/12 gemeld=18 stemming=focused
+09:32:26 ev alert: Werk aan de weg over 500 m. Rustig aan!
+09:32:26 NDW melding lane 509 m: Werk aan de weg over 500 m. Rustig aan!
+09:32:27 rws tegel 1732_102 (telefoon): 1110 wegvakken, versie 01-10-2026
+09:32:35 v=105 nauwk=4m limiet=100 wegen=8463 draai=0 vaste=117/12 gemeld=18 stemming=focused
+09:32:43 tijdelijke limiet 90 (NDW)
+09:32:45 ev alert: Tijdelijk max 70 over 400 m. Let op!
+09:32:45 NDW melding speed 447 m: Tijdelijk max 70 over 400 m. Let op!
+09:32:45 tijdelijke limiet 90 (NDW)
+09:32:45 v=102 nauwk=4m limiet=90 wegen=8463 draai=1 vaste=117/12 gemeld=18 stemming=alert
+09:32:47 matrix geladen: 536 snelheid, 98 kruis
+09:32:47 tijdelijke limiet 90 (NDW)
+09:32:49 tijdelijke limiet 90 (NDW)
+09:32:51 tijdelijke limiet 90 (NDW)
+09:32:53 tijdelijke limiet 90 (NDW)
+09:32:55 tijdelijke limiet 90 (NDW)
+09:32:55 v=100 nauwk=4m limiet=90 wegen=8463 draai=-0 vaste=117/12 gemeld=18 stemming=focused
+09:32:57 ev alert: Werk aan de weg over 100 m. Rustig aan!
+09:32:57 NDW melding lane 133 m: Werk aan de weg over 100 m. Rustig aan!
+09:32:57 tijdelijke limiet 90 (NDW)
+09:32:59 tijdelijke limiet 90 (NDW)
+09:33:01 tijdelijke limiet 90 (NDW)
+09:33:03 tijdelijke limiet 90 (NDW)
+09:33:05 tijdelijke limiet 90 (NDW)
+09:33:05 v=103 nauwk=4m limiet=90 wegen=3180 draai=-1 vaste=117/12 gemeld=18 stemming=focused
+09:33:07 tijdelijke limiet 90 (NDW)
+09:33:09 tijdelijke limiet 90 (NDW)
+09:33:10 ev alert: Tijdelijk max 70 over 100 m. Let op!
+09:33:10 NDW melding speed 43 m: Tijdelijk max 70 over 100 m. Let op!
+09:33:11 tijdelijke limiet 90 (NDW)
+09:33:13 tijdelijke limiet 90 (NDW)
+09:33:15 tijdelijke limiet 70 (NDW)
+09:33:16 tijdelijke limiet 90 (NDW)
+09:33:16 v=103 nauwk=4m limiet=90 wegen=3180 draai=2 vaste=117/12 gemeld=18 stemming=focused
+09:33:17 tijdelijke limiet 90 (NDW)
+09:33:19 tijdelijke limiet 90 (NDW)
+09:33:21 ev worried: Iets te snel, hè.
+09:33:21 tijdelijke limiet 90 (NDW)
+09:33:22 osm werk via Worker (overpass): 400 stuks
+09:33:22 wegwerkzaamheden geladen: 400
+09:33:23 tijdelijke limiet 90 (NDW)
+09:33:25 tijdelijke limiet 90 (NDW)
+09:33:26 v=103 nauwk=4m limiet=90 wegen=3180 draai=0 vaste=117/12 gemeld=18 stemming=focused
+09:33:27 tijdelijke limiet 90 (NDW)
+09:33:29 tijdelijke limiet 90 (NDW)
+09:33:36 v=103 nauwk=4m limiet=100 wegen=3180 draai=0 vaste=117/12 gemeld=18 stemming=focused
+09:33:45 ev alert: Werk aan de weg over 900 m. Rustig aan!
+09:33:45 NDW melding lane 889 m: Werk aan de weg over 900 m. Rustig aan!
+09:33:47 v=107 nauwk=4m limiet=100 wegen=3180 draai=-1 vaste=117/12 gemeld=18 stemming=alert
+09:33:53 rws tegel 1731_102 (telefoon): 259 wegvakken, versie 01-10-2026
+09:33:58 v=106 nauwk=4m limiet=100 wegen=3439 draai=0 vaste=117/12 gemeld=18 stemming=focused
+09:34:09 v=107 nauwk=4m limiet=100 wegen=3439 draai=-0 vaste=117/12 gemeld=18 stemming=blow
+09:34:16 flitsers via /flitsers: 18/18
+09:34:19 ev alert: Werk aan de weg over 900 m. Rustig aan!
+09:34:19 NDW melding lane 881 m: Werk aan de weg over 900 m. Rustig aan!
+09:34:19 v=105 nauwk=4m limiet=100 wegen=3439 draai=0 vaste=117/12 gemeld=18 stemming=focused
+09:34:21 ANWB verkeer geladen: 29 meldingen in de buurt (van 68)
+09:34:29 v=100 nauwk=4m limiet=100 wegen=2146 draai=-0 vaste=117/12 gemeld=18 stemming=focused
+09:34:40 v=108 nauwk=4m limiet=100 wegen=2146 draai=-2 vaste=117/12 gemeld=18 stemming=focused
+09:34:50 v=106 nauwk=4m limiet=100 wegen=2146 draai=-0 vaste=117/12 gemeld=18 stemming=focused
+09:35:01 v=105 nauwk=4m limiet=100 wegen=2146 draai=-1 vaste=117/12 gemeld=18 stemming=focused
+09:35:10 groep ververst: 5
+09:35:11 v=106 nauwk=4m limiet=100 wegen=2146 draai=1 vaste=117/12 gemeld=18 stemming=happy
+09:35:18 matrix geladen: 544 snelheid, 110 kruis
+09:35:21 v=110 nauwk=4m limiet=100 wegen=2146 draai=1 vaste=117/12 gemeld=18 stemming=focused
+09:35:32 v=108 nauwk=4m limiet=100 wegen=2146 draai=-0 vaste=117/12 gemeld=18 stemming=focused
+09:35:37 rws tegel 1731_103 (telefoon): 1030 wegvakken, versie 01-10-2026
+09:35:37 osm wegen uit telefoongeheugen: 625 stuks
+09:35:37 wegen geladen: 625 wegen
+09:35:42 v=109 nauwk=4m limiet=100 wegen=1914 draai=-0 vaste=117/12 gemeld=18 stemming=focused
+09:35:53 v=112 nauwk=4m limiet=100 wegen=1914 draai=-0 vaste=117/12 gemeld=18 stemming=alert
+09:36:03 v=111 nauwk=4m limiet=100 wegen=2179 draai=-0 vaste=117/12 gemeld=18 stemming=focused
+09:36:14 v=109 nauwk=4m limiet=100 wegen=2179 draai=-0 vaste=117/12 gemeld=18 stemming=focused
+09:36:17 flitsers via /flitsers: 20/20
+09:36:21 ev worried: Iets te snel, hè.
+09:36:22 ANWB verkeer geladen: 26 meldingen in de buurt (van 65)
+09:36:24 v=110 nauwk=4m limiet=100 wegen=2179 draai=1 vaste=117/12 gemeld=20 stemming=worried
+09:36:26 rws tegel 1730_103 (telefoon): 304 wegvakken, versie 01-10-2026
+09:36:35 v=106 nauwk=4m limiet=100 wegen=2483 draai=1 vaste=117/12 gemeld=20 stemming=focused
+09:36:45 v=103 nauwk=4m limiet=100 wegen=2483 draai=-0 vaste=117/12 gemeld=20 stemming=focused
+09:36:54 osm werk Worker: http 503, ik probeer Overpass rechtstreeks
+09:36:55 v=106 nauwk=4m limiet=100 wegen=2483 draai=-0 vaste=117/12 gemeld=20 stemming=happy
+09:37:05 v=106 nauwk=4m limiet=100 wegen=2483 draai=-0 vaste=117/12 gemeld=20 stemming=focused
+09:37:12 NDW geladen: 247 meldingen in de buurt {"closure":134,"speed":28,"lane":65,"jam":15,"accident":5}
+09:37:15 v=106 nauwk=4m limiet=100 wegen=2483 draai=-1 vaste=117/12 gemeld=20 stemming=focused
+09:37:16 overpass maps.mail.ru: http 504
+09:37:24 overpass overpass-api.de: te traag
+09:37:26 v=105 nauwk=4m limiet=100 wegen=2224 draai=-0 vaste=117/12 gemeld=20 stemming=focused
+09:37:31 overpass overpass.private.coffee: te traag
+09:37:36 v=111 nauwk=4m limiet=100 wegen=2224 draai=0 vaste=117/12 gemeld=20 stemming=focused
+09:37:38 overpass overpass.kumi.systems: te traag
+09:37:46 v=112 nauwk=4m limiet=100 wegen=2224 draai=1 vaste=117/12 gemeld=20 stemming=alert
+09:37:49 matrix geladen: 537 snelheid, 113 kruis
+09:37:50 bruggen geladen: 0
+09:37:57 v=110 nauwk=4m limiet=100 wegen=2224 draai=-0 vaste=117/12 gemeld=20 stemming=focused
+09:38:08 v=107 nauwk=4m limiet=100 wegen=2224 draai=-0 vaste=117/12 gemeld=20 stemming=happy
+09:38:10 groep ververst: 5
+09:38:17 flitsers via /flitsers: 20/20
+09:38:18 v=107 nauwk=4m limiet=100 wegen=569 draai=0 vaste=117/12 gemeld=20 stemming=focused
+09:38:23 ANWB verkeer geladen: 24 meldingen in de buurt (van 63)
+09:38:28 v=108 nauwk=4m limiet=100 wegen=569 draai=0 vaste=117/12 gemeld=20 stemming=focused
+09:38:31 rws tegel 1729_103 (telefoon): 568 wegvakken, versie 01-10-2026
+09:38:39 v=108 nauwk=4m limiet=100 wegen=1563 draai=-0 vaste=117/12 gemeld=20 stemming=focused
+09:38:49 v=105 nauwk=4m limiet=100 wegen=1563 draai=-0 vaste=117/12 gemeld=20 stemming=focused
+09:38:59 v=104 nauwk=4m limiet=100 wegen=1563 draai=-1 vaste=117/12 gemeld=20 stemming=focused
+09:39:09 v=106 nauwk=4m limiet=100 wegen=1563 draai=1 vaste=117/12 gemeld=20 stemming=focused
+09:39:19 rws tegel 1729_104 (telefoon): 525 wegvakken, versie 01-10-2026
+09:39:20 v=103 nauwk=4m limiet=100 wegen=2088 draai=0 vaste=117/12 gemeld=20 stemming=focused
+--- v73 · Linux; Android 10; K ---
+09:39:27 ev happy: Zo zie ik het ook.
+09:40:32 scherm-aan-slot gekregen
+09:40:32 scherm-aan-slot gekregen
+09:40:32 terug na 66 s zonder GPS
+09:40:32 v=103 nauwk=4m limiet=100 wegen=1519 draai=0 vaste=117/12 gemeld=20 stemming=alert
+09:40:32 ANWB verkeer geladen: 24 meldingen in de buurt (van 62)
+09:40:32 flitsers via /flitsers: 20/20
+09:40:33 matrix geladen: 502 snelheid, 142 kruis
+09:40:42 v=102 nauwk=4m limiet=100 wegen=1519 draai=-0 vaste=117/12 gemeld=20 stemming=focused
+09:40:47 rws tegel 1728_104 (telefoon): 269 wegvakken, versie 01-10-2026
+09:40:52 ev worried: File voor je, over 1,8 km (3,7 km lang, +6 min). Rustig aan.
+09:40:52 ANWB melding jam 1786 m: File voor je, over 1,8 km (3,7 km lang, +6 min). Rustig aan.
+09:40:52 v=106 nauwk=4m limiet=100 wegen=1788 draai=-0 vaste=117/12 gemeld=20 stemming=focused
+09:40:53 ev worried: Iets te snel, hè.
+09:41:03 v=106 nauwk=4m limiet=100 wegen=1788 draai=1 vaste=117/12 gemeld=20 stemming=focused
+09:41:05 ev worried: Matrixbord: max 70 over 1,4 km! Je rijdt nu 107.
+09:41:05 matrix 1388 m: Matrixbord: max 70 over 1,4 km! Je rijdt nu 107.
+09:41:10 groep ververst: 5
+09:41:13 v=107 nauwk=4m limiet=100 wegen=1788 draai=1 vaste=117/12 gemeld=20 stemming=focused
+09:41:17 ev worried: Matrixbord: max 50 over 1,5 km! Je rijdt nu 107.
+09:41:17 matrix 1456 m: Matrixbord: max 50 over 1,5 km! Je rijdt nu 107.
+09:41:22 osm werk via Worker (oud): 400 stuks
+09:41:22 wegwerkzaamheden geladen: 400
+09:41:23 v=102 nauwk=4m limiet=100 wegen=1220 draai=-0 vaste=117/12 gemeld=20 stemming=focused
+09:41:29 ev worried: Matrixbord: max 50 over 1,5 km! Je rijdt nu 91.
+09:41:29 matrix 1484 m: Matrixbord: max 50 over 1,5 km! Je rijdt nu 91.
+09:41:34 v=79 nauwk=4m limiet=100 wegen=1220 draai=0 vaste=117/12 gemeld=20 stemming=worried
+09:41:41 ev worried: Nog even: Matrixbord: max 70 over 400 m! Je rijdt nu 78.
+09:41:41 matrix herinnering 437 m: Matrixbord: max 70 over 400 m! Je rijdt nu 78.
+09:41:44 v=75 nauwk=4m limiet=100 wegen=1220 draai=-0 vaste=117/12 gemeld=20 stemming=relaxed
+09:41:54 ev worried: Nog even: Matrixbord: max 50 over 600 m! Je rijdt nu 70.
+09:41:54 matrix herinnering 598 m: Matrixbord: max 50 over 600 m! Je rijdt nu 70.
+09:41:55 v=70 nauwk=4m limiet=100 wegen=1220 draai=0 vaste=117/12 gemeld=20 stemming=worried
+--- v73 · Linux; Android 10; K ---
+09:42:05 v=51 nauwk=4m limiet=70 wegen=1220 draai=-1 vaste=117/12 gemeld=20 stemming=relaxed
+09:42:06 ev alert: Matrixbord: max 50 over 1,3 km.
+09:42:06 matrix 1293 m: Matrixbord: max 50 over 1,3 km.
+09:42:13 NDW geladen: 235 meldingen in de buurt {"closure":117,"speed":35,"lane":73,"jam":7,"accident":3}
+09:42:15 v=22 nauwk=4m limiet=70 wegen=1220 draai=0 vaste=117/12 gemeld=20 stemming=relaxed
+--- v73 · Linux; Android 10; K ---
+09:42:20 ev happy: Wiee, ander uitzicht!
+09:42:46 scherm-aan-slot gekregen
+09:42:46 scherm-aan-slot gekregen
+09:42:46 terug na 28 s zonder GPS
+09:42:46 v=18 nauwk=4m limiet=70 wegen=1220 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+09:42:47 ANWB verkeer geladen: 22 meldingen in de buurt (van 62)
+09:42:47 flitsers via /flitsers: 20/20
+09:42:57 v=8 nauwk=4m limiet=70 wegen=1220 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+09:43:07 v=11 nauwk=4m limiet=70 wegen=1220 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+09:43:17 v=15 nauwk=4m limiet=70 wegen=1220 draai=1 vaste=117/12 gemeld=20 stemming=focused
+09:43:28 file herkend
+09:43:28 v=10 nauwk=4m limiet=70 wegen=1220 draai=-0 vaste=117/12 gemeld=20 stemming=bored
+09:43:39 v=13 nauwk=4m limiet=70 wegen=1220 draai=-0 vaste=117/12 gemeld=20 stemming=neutral
+09:43:49 v=12 nauwk=4m limiet=70 wegen=1220 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+09:43:59 v=10 nauwk=4m limiet=70 wegen=1220 draai=-1 vaste=117/12 gemeld=20 stemming=neutral
+09:44:10 v=18 nauwk=4m limiet=70 wegen=1220 draai=0 vaste=117/12 gemeld=20 stemming=alert
+09:44:11 groep ververst: 5
+09:44:21 v=9 nauwk=4m limiet=70 wegen=1220 draai=1 vaste=117/12 gemeld=20 stemming=neutral
+09:44:31 v=7 nauwk=4m limiet=70 wegen=1220 draai=-0 vaste=117/12 gemeld=20 stemming=neutral
+09:44:41 v=6 nauwk=4m limiet=70 wegen=1220 draai=-0 vaste=117/12 gemeld=20 stemming=neutral
+09:44:48 ANWB verkeer geladen: 20 meldingen in de buurt (van 62)
+09:44:49 flitsers via /flitsers: 20/20
+09:44:52 v=6 nauwk=4m limiet=70 wegen=1220 draai=-0 vaste=117/12 gemeld=20 stemming=neutral
+09:45:02 v=7 nauwk=4m limiet=70 wegen=1220 draai=-0 vaste=117/12 gemeld=20 stemming=neutral
+09:45:12 v=10 nauwk=4m limiet=70 wegen=1220 draai=-1 vaste=117/12 gemeld=20 stemming=neutral
+09:45:22 v=9 nauwk=4m limiet=70 wegen=1220 draai=1 vaste=117/12 gemeld=20 stemming=neutral
+09:45:32 v=7 nauwk=4m limiet=70 wegen=1220 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+09:45:43 v=7 nauwk=4m limiet=70 wegen=1220 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+09:45:53 v=7 nauwk=4m limiet=70 wegen=1220 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+09:46:03 v=21 nauwk=4m limiet=70 wegen=1220 draai=-2 vaste=117/12 gemeld=20 stemming=alert
+09:46:07 ev alert: Nog even: Matrixbord: max 50 over 500 m.
+09:46:07 matrix herinnering 486 m: Matrixbord: max 50 over 500 m.
+09:46:08 matrix geladen: 481 snelheid, 142 kruis
+09:46:14 v=37 nauwk=4m limiet=100 wegen=1220 draai=-0 vaste=117/12 gemeld=20 stemming=relaxed
+09:46:25 v=29 nauwk=4m limiet=100 wegen=1220 draai=-0 vaste=117/12 gemeld=20 stemming=happy
+09:46:26 ev alert: Matrixbord: max 50 over 1,0 km.
+09:46:26 matrix 964 m: Matrixbord: max 50 over 1,0 km.
+09:46:35 v=46 nauwk=4m limiet=100 wegen=1220 draai=-0 vaste=117/12 gemeld=20 stemming=relaxed
+09:46:45 v=56 nauwk=4m limiet=50 wegen=1220 draai=-0 vaste=117/12 gemeld=20 stemming=alert
+09:46:48 flitsers via /flitsers: 20/20
+09:46:49 ANWB verkeer geladen: 19 meldingen in de buurt (van 58)
+09:46:50 ev worried: Oei, we gaan net iets te hard.
+09:46:52 ev worried: Nog even: Matrixbord: max 50 over 600 m! Je rijdt nu 67.
+09:46:52 matrix herinnering 600 m: Matrixbord: max 50 over 600 m! Je rijdt nu 67.
+09:46:56 v=74 nauwk=4m limiet=50 wegen=269 draai=-0 vaste=117/12 gemeld=20 stemming=relaxed
+09:46:57 file voorbij na 3 min
+09:46:57 ev excited: Eindelijk! We rijden weer. 3 minuten file, pfff.
+09:46:57 ev angry: Hé! Dat is veel te hard. Gas eraf!
+09:47:06 v=71 nauwk=4m limiet=50 wegen=269 draai=-0 vaste=117/12 gemeld=20 stemming=content
+09:47:08 weer: 9.4 graden, code 0, neerslag 0, wind 12
+09:47:12 groep ververst: 5
+09:47:14 NDW geladen: 234 meldingen in de buurt {"closure":117,"speed":36,"lane":72,"jam":7,"accident":2}
+09:47:16 v=58 nauwk=4m limiet=50 wegen=269 draai=0 vaste=117/12 gemeld=20 stemming=relaxed
+09:47:21 rws tegel 1727_104 (telefoon): 1191 wegvakken, versie 01-10-2026
+09:47:21 osm wegen uit telefoongeheugen: 734 stuks
+09:47:21 wegen geladen: 734 wegen
+09:47:26 v=62 nauwk=4m limiet=50 wegen=2194 draai=0 vaste=117/12 gemeld=20 stemming=relaxed
+09:47:37 v=72 nauwk=4m limiet=50 wegen=2194 draai=-0 vaste=117/12 gemeld=20 stemming=relaxed
+09:47:47 v=82 nauwk=4m limiet=50 wegen=2194 draai=0 vaste=117/12 gemeld=20 stemming=blow
+09:47:51 bruggen geladen: 0
+09:47:53 drempel/schok sterkte 6.2 bij 86 km/h
+09:47:53 ev startled: Wat een voeg!
+09:47:53 rws tegel 1727_105 (telefoon): 1016 wegvakken, versie 01-10-2026
+09:47:57 v=90 nauwk=4m limiet=50 wegen=3210 draai=-1 vaste=117/12 gemeld=20 stemming=relaxed
+09:48:08 v=93 nauwk=4m limiet=50 wegen=3210 draai=1 vaste=117/12 gemeld=20 stemming=relaxed
+09:48:14 matrixlimiet losgelaten na 1119 m
+09:48:18 v=96 nauwk=4m limiet=100 wegen=3210 draai=-1 vaste=117/12 gemeld=20 stemming=focused
+09:48:28 v=93 nauwk=4m limiet=100 wegen=3210 draai=1 vaste=117/12 gemeld=20 stemming=happy
+09:48:38 v=91 nauwk=4m limiet=100 wegen=3210 draai=1 vaste=117/12 gemeld=20 stemming=relaxed
+09:48:39 matrix geladen: 432 snelheid, 130 kruis
+09:48:49 flitsers via /flitsers: 18/18
+09:48:49 v=93 nauwk=4m limiet=100 wegen=3210 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+09:48:50 ANWB verkeer geladen: 18 meldingen in de buurt (van 59)
+09:48:59 v=95 nauwk=4m limiet=100 wegen=2941 draai=0 vaste=117/12 gemeld=18 stemming=focused
+09:49:09 drempel/schok sterkte 7.2 bij 94 km/h
+09:49:09 ev startled: Hobbel!
+09:49:09 v=94 nauwk=4m limiet=100 wegen=2941 draai=1 vaste=117/12 gemeld=18 stemming=startled
+09:49:14 osm werk via Worker (overpass): 400 stuks
+09:49:14 wegwerkzaamheden geladen: 400
+09:49:20 v=92 nauwk=4m limiet=100 wegen=2941 draai=1 vaste=117/12 gemeld=18 stemming=content
+09:49:30 drempel/schok sterkte 8.6 bij 95 km/h
+09:49:30 ev startled: Oei, een hobbel.
+09:49:31 v=96 nauwk=4m limiet=100 wegen=2941 draai=0 vaste=117/12 gemeld=18 stemming=startled
+09:49:41 v=99 nauwk=4m limiet=100 wegen=2941 draai=0 vaste=117/12 gemeld=18 stemming=focused
+09:49:45 drempel/schok sterkte 8.2 bij 99 km/h
+09:49:45 ev startled: Wat een voeg!
+09:49:46 rws tegel 1726_105 (telefoon): 1134 wegvakken, versie 01-10-2026
+09:49:46 osm wegen uit telefoongeheugen: 750 stuks
+09:49:46 wegen geladen: 750 wegen
+09:49:51 v=100 nauwk=4m limiet=100 wegen=4825 draai=1 vaste=117/12 gemeld=18 stemming=focused
+09:50:01 v=98 nauwk=4m limiet=100 wegen=4825 draai=1 vaste=117/12 gemeld=18 stemming=content
+09:50:12 v=100 nauwk=4m limiet=100 wegen=4825 draai=0 vaste=117/12 gemeld=18 stemming=focused
+09:50:13 groep ververst: 5
+09:50:22 drempel/schok sterkte 7.1 bij 100 km/h
+09:50:22 ev startled: Wat een voeg!
+09:50:23 v=100 nauwk=4m limiet=100 wegen=4825 draai=-0 vaste=117/12 gemeld=18 stemming=focused
+09:50:33 v=101 nauwk=4m limiet=100 wegen=4825 draai=1 vaste=117/12 gemeld=18 stemming=focused
+09:50:44 v=98 nauwk=4m limiet=100 wegen=4825 draai=-1 vaste=117/12 gemeld=18 stemming=focused
+09:50:49 flitsers via /flitsers: 18/18
+09:50:51 ANWB verkeer geladen: 18 meldingen in de buurt (van 59)
+09:50:54 v=98 nauwk=4m limiet=100 wegen=4825 draai=0 vaste=117/12 gemeld=18 stemming=focused
+09:51:05 v=99 nauwk=4m limiet=100 wegen=2900 draai=0 vaste=117/12 gemeld=18 stemming=alert
+09:51:10 matrix geladen: 410 snelheid, 130 kruis
+09:51:15 v=100 nauwk=4m limiet=100 wegen=2900 draai=0 vaste=117/12 gemeld=18 stemming=focused
+09:51:25 v=100 nauwk=4m limiet=100 wegen=1884 draai=0 vaste=117/12 gemeld=18 stemming=focused
+09:51:36 v=96 nauwk=4m limiet=100 wegen=1884 draai=-1 vaste=117/12 gemeld=18 stemming=content
+09:51:46 v=98 nauwk=4m limiet=100 wegen=1884 draai=-1 vaste=117/12 gemeld=18 stemming=focused
+09:51:48 rws tegel 1725_105 (telefoon): 668 wegvakken, versie 01-10-2026
+09:51:56 v=97 nauwk=4m limiet=100 wegen=2552 draai=-0 vaste=117/12 gemeld=18 stemming=happy
+--- v73 · Linux; Android 10; K ---
+09:52:06 v=99 nauwk=4m limiet=100 wegen=2552 draai=-0 vaste=117/12 gemeld=18 stemming=focused
+09:52:15 NDW geladen: 232 meldingen in de buurt {"lane":78,"closure":108,"speed":38,"accident":4,"jam":4}
+09:52:16 v=99 nauwk=4m limiet=100 wegen=2552 draai=-0 vaste=117/12 gemeld=18 stemming=focused
+09:52:27 v=99 nauwk=4m limiet=100 wegen=2552 draai=-1 vaste=117/12 gemeld=18 stemming=focused
+09:52:37 v=99 nauwk=4m limiet=100 wegen=2552 draai=-1 vaste=117/12 gemeld=18 stemming=focused
+09:52:48 v=98 nauwk=4m limiet=100 wegen=2552 draai=-1 vaste=117/12 gemeld=18 stemming=focused
+09:52:50 flitsers via /flitsers: 20/20
+09:52:52 ANWB verkeer geladen: 19 meldingen in de buurt (van 58)
+09:52:58 v=100 nauwk=4m limiet=100 wegen=2552 draai=-0 vaste=117/12 gemeld=20 stemming=focused
+09:53:08 v=102 nauwk=4m limiet=100 wegen=2552 draai=-1 vaste=117/12 gemeld=20 stemming=happy
+09:53:12 osm werk via Worker (oud): 400 stuks
+09:53:12 wegwerkzaamheden geladen: 400
+09:53:14 groep ververst: 5
+09:53:18 v=100 nauwk=4m limiet=100 wegen=2552 draai=-0 vaste=117/12 gemeld=20 stemming=focused
+09:53:22 drempel/schok sterkte 9.4 bij 100 km/h
+09:53:22 ev worried: Au! Wat een gat.
+09:53:28 v=100 nauwk=4m limiet=100 wegen=2552 draai=1 vaste=117/12 gemeld=20 stemming=focused
+09:53:39 v=97 nauwk=4m limiet=100 wegen=2552 draai=1 vaste=117/12 gemeld=20 stemming=focused
+09:53:41 matrix geladen: 401 snelheid, 104 kruis
+09:53:50 v=94 nauwk=4m limiet=100 wegen=668 draai=0 vaste=117/12 gemeld=20 stemming=relaxed
+09:54:00 v=94 nauwk=4m limiet=100 wegen=668 draai=0 vaste=117/12 gemeld=20 stemming=relaxed
+09:54:10 v=91 nauwk=4m limiet=100 wegen=668 draai=0 vaste=117/12 gemeld=20 stemming=focused
+09:54:20 v=91 nauwk=4m limiet=100 wegen=668 draai=0 vaste=117/12 gemeld=20 stemming=relaxed
+09:54:23 rws tegel 1724_105 (telefoon): 1907 wegvakken, versie 01-10-2026
+09:54:23 osm wegen uit telefoongeheugen: 1331 stuks
+09:54:23 wegen geladen: 1331 wegen
+09:54:25 bruggen geladen: 0
+09:54:27 voelen: ik weet nu waar vooruit is (53%)
+09:54:30 v=66 nauwk=4m limiet=100 wegen=3906 draai=-0 vaste=117/12 gemeld=20 stemming=relaxed
+09:54:41 v=64 nauwk=4m limiet=100 wegen=3906 draai=0 vaste=117/12 gemeld=20 stemming=relaxed
+09:54:50 flitsers via /flitsers: 18/18
+09:54:51 v=79 nauwk=4m limiet=100 wegen=3906 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+09:54:53 ANWB verkeer geladen: 13 meldingen in de buurt (van 56)
+09:55:02 v=91 nauwk=4m limiet=100 wegen=3906 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+09:55:08 rws tegel 1724_106 (telefoon): 2450 wegvakken, versie 01-10-2026
+09:55:12 v=96 nauwk=4m limiet=100 wegen=6356 draai=-0 vaste=117/12 gemeld=18 stemming=focused
+09:55:22 v=98 nauwk=4m limiet=100 wegen=6356 draai=1 vaste=117/12 gemeld=18 stemming=alert
+09:55:25 ev alert: Werk aan de weg over 900 m. Rustig aan!
+09:55:25 NDW melding lane 886 m: Werk aan de weg over 900 m. Rustig aan!
+09:55:32 v=99 nauwk=4m limiet=100 wegen=6356 draai=-0 vaste=117/12 gemeld=18 stemming=focused
+09:55:36 drempel/schok sterkte 7.2 bij 99 km/h
+09:55:36 ev startled: Oei, een hobbel.
+09:55:42 v=98 nauwk=4m limiet=100 wegen=6356 draai=1 vaste=117/12 gemeld=18 stemming=focused
+09:55:53 v=91 nauwk=4m limiet=100 wegen=6356 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+09:56:00 drempel/schok sterkte 5.3 bij 86 km/h
+09:56:00 ev startled: Wat een voeg!
+09:56:03 v=86 nauwk=4m limiet=100 wegen=6356 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+09:56:10 drempel/schok sterkte 6.0 bij 88 km/h
+09:56:10 ev startled: Hobbel!
+09:56:12 matrix geladen: 386 snelheid, 102 kruis
+09:56:14 v=85 nauwk=4m limiet=100 wegen=5688 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+09:56:15 groep ververst: 5
+09:56:24 v=82 nauwk=4m limiet=100 wegen=5688 draai=1 vaste=117/12 gemeld=18 stemming=relaxed
+09:56:34 v=78 nauwk=4m limiet=100 wegen=5688 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+09:56:44 v=78 nauwk=4m limiet=100 wegen=5688 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+09:56:51 flitsers via /flitsers: 18/18
+09:56:54 ANWB verkeer geladen: 13 meldingen in de buurt (van 54)
+09:56:55 v=78 nauwk=4m limiet=100 wegen=5688 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+09:57:01 osm werk via Worker (overpass): 400 stuks
+09:57:01 wegwerkzaamheden geladen: 400
+09:57:05 v=78 nauwk=4m limiet=100 wegen=5688 draai=-0 vaste=117/12 gemeld=18 stemming=alert
+09:57:12 drempel/schok sterkte 5.2 bij 74 km/h
+09:57:12 ev startled: Oei, een hobbel.
+09:57:15 v=68 nauwk=4m limiet=100 wegen=5688 draai=1 vaste=117/12 gemeld=18 stemming=relaxed
+09:57:16 NDW geladen: 199 meldingen in de buurt {"lane":74,"closure":86,"speed":35,"accident":3,"jam":1}
+09:57:19 rws tegel 1723_106 (telefoon): 4630 wegvakken, versie 01-10-2026
+09:57:25 v=68 nauwk=4m limiet=100 wegen=10318 draai=5 vaste=117/12 gemeld=18 stemming=relaxed
+09:57:36 v=65 nauwk=4m limiet=100 wegen=10318 draai=1 vaste=117/12 gemeld=18 stemming=relaxed
+09:57:46 v=69 nauwk=4m limiet=100 wegen=10318 draai=4 vaste=117/12 gemeld=18 stemming=relaxed
+09:57:56 v=78 nauwk=4m limiet=100 wegen=10318 draai=1 vaste=117/12 gemeld=18 stemming=blow
+09:57:57 osm wegen Worker: http 503, ik probeer Overpass rechtstreeks
+09:57:59 drempel/schok sterkte 5.7 bij 80 km/h
+09:57:59 ev startled: Wat een voeg!
+09:58:07 v=82 nauwk=4m limiet=100 wegen=10318 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+09:58:08 ev happy: Daar is weer de Grote Boing! Voorzichtig!
+09:58:08 bekende plek: de Grote Boing
+09:58:15 rws tegel 1723_105 (telefoon): 3106 wegvakken, versie 01-10-2026
+09:58:17 v=87 nauwk=4m limiet=100 wegen=13424 draai=0 vaste=117/12 gemeld=18 stemming=content
+09:58:19 drempel/schok sterkte 7.6 bij 86 km/h
+09:58:19 ev startled: Wat een voeg!
+09:58:22 overpass overpass-api.de: te traag
+09:58:28 v=90 nauwk=4m limiet=100 wegen=13424 draai=1 vaste=117/12 gemeld=18 stemming=relaxed
+09:58:29 overpass overpass.private.coffee: te traag
+09:58:32 drempel/schok sterkte 10.1 bij 90 km/h
+09:58:32 ev worried: Au! Wat een gat.
+09:58:34 wegen geladen: 1482 wegen
+09:58:39 v=89 nauwk=4m limiet=100 wegen=14906 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+09:58:43 matrix geladen: 359 snelheid, 102 kruis
+09:58:49 v=89 nauwk=4m limiet=100 wegen=14906 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+09:58:51 flitsers via /flitsers: 18/18
+09:58:55 ANWB verkeer geladen: 14 meldingen in de buurt (van 54)
+09:59:00 v=89 nauwk=4m limiet=100 wegen=14906 draai=0 vaste=117/12 gemeld=18 stemming=alert
+09:59:11 v=89 nauwk=4m limiet=100 wegen=14906 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+09:59:15 groep ververst: 5
+09:59:21 v=87 nauwk=4m limiet=100 wegen=14906 draai=-0 vaste=117/12 gemeld=18 stemming=content
+09:59:23 drempel/schok sterkte 5.2 bij 87 km/h
+09:59:23 ev startled: Hobbel!
+09:59:31 v=86 nauwk=4m limiet=100 wegen=14906 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+09:59:41 v=85 nauwk=4m limiet=100 wegen=12456 draai=-1 vaste=117/12 gemeld=18 stemming=alert
+09:59:45 ev happy: Daar is weer de Grote Boing! Voorzichtig!
+09:59:45 bekende plek: de Grote Boing
+09:59:51 drempel/schok sterkte 8.4 bij 82 km/h
+09:59:51 ev startled: Wat een voeg!
+09:59:52 v=82 nauwk=4m limiet=100 wegen=12456 draai=-0 vaste=117/12 gemeld=18 stemming=startled
+09:59:53 drempel/schok sterkte 10.4 bij 82 km/h
+09:59:53 ev worried: Au! Wat een gat.
+09:59:55 drempel/schok sterkte 7.9 bij 82 km/h
+09:59:55 ev startled: Wat een voeg!
+09:59:57 ev happy: Daar is weer de Grote Boing! Voorzichtig!
+09:59:57 bekende plek: de Grote Boing
+09:59:59 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+09:59:59 hobbelige weg (4 klappen in 20 s)
+10:00:03 v=86 nauwk=4m limiet=100 wegen=7826 draai=-1 vaste=117/12 gemeld=18 stemming=relaxed
+10:00:04 drempel/schok sterkte 10.6 bij 86 km/h
+10:00:04 ev worried: Au! Wat een gat.
+10:00:14 v=90 nauwk=4m limiet=100 wegen=7826 draai=-1 vaste=117/12 gemeld=18 stemming=content
+10:00:24 v=89 nauwk=4m limiet=100 wegen=6344 draai=-1 vaste=117/12 gemeld=18 stemming=relaxed
+10:00:35 v=96 nauwk=4m limiet=100 wegen=6344 draai=-0 vaste=117/12 gemeld=18 stemming=relaxed
+10:00:45 v=99 nauwk=4m limiet=100 wegen=6344 draai=-0 vaste=117/12 gemeld=18 stemming=content
+10:00:52 flitsers via /flitsers: 18/18
+10:00:55 v=102 nauwk=4m limiet=100 wegen=6344 draai=-1 vaste=117/12 gemeld=18 stemming=focused
+10:00:56 ANWB verkeer geladen: 17 meldingen in de buurt (van 54)
+10:01:05 v=99 nauwk=4m limiet=100 wegen=6344 draai=-0 vaste=117/12 gemeld=18 stemming=focused
+10:01:10 rws tegel 1723_104 (telefoon): 1549 wegvakken, versie 01-10-2026
+10:01:10 osm wegen uit telefoongeheugen: 875 stuks
+10:01:10 wegen geladen: 875 wegen
+10:01:14 matrix geladen: 337 snelheid, 86 kruis
+10:01:16 v=93 nauwk=4m limiet=100 wegen=5530 draai=0 vaste=117/12 gemeld=18 stemming=relaxed
+10:01:26 v=93 nauwk=4m limiet=100 wegen=5530 draai=1 vaste=117/12 gemeld=18 stemming=relaxed
+10:01:36 v=98 nauwk=4m limiet=100 wegen=5530 draai=1 vaste=117/12 gemeld=18 stemming=focused
+10:01:46 osm werk via Worker (bewaard): 400 stuks
+10:01:46 wegwerkzaamheden geladen: 400
+10:01:47 v=100 nauwk=4m limiet=100 wegen=5530 draai=1 vaste=117/12 gemeld=18 stemming=content
+10:01:58 v=99 nauwk=4m limiet=100 wegen=5530 draai=1 vaste=117/12 gemeld=18 stemming=focused
+--- v73 · Linux; Android 10; K ---
+10:02:08 v=99 nauwk=4m limiet=100 wegen=5530 draai=1 vaste=117/12 gemeld=18 stemming=focused
+10:02:09 weer: 10.1 graden, code 1, neerslag 0, wind 11
+10:02:15 groep ververst: 5
+10:02:17 NDW geladen: 206 meldingen in de buurt {"lane":72,"closure":93,"speed":34,"accident":4,"jam":3}
+10:02:18 v=101 nauwk=4m limiet=100 wegen=5530 draai=0 vaste=117/12 gemeld=18 stemming=focused
+10:02:29 v=99 nauwk=4m limiet=100 wegen=5530 draai=-2 vaste=117/12 gemeld=18 stemming=focused
+10:02:34 rws tegel 1722_104 (telefoon): 804 wegvakken, versie 01-10-2026
+10:02:39 v=99 nauwk=4m limiet=100 wegen=6334 draai=1 vaste=117/12 gemeld=18 stemming=focused
+10:02:49 v=100 nauwk=4m limiet=100 wegen=6334 draai=2 vaste=117/12 gemeld=18 stemming=alert
+10:02:53 flitsers via /flitsers: 20/20
+10:02:57 ANWB verkeer geladen: 19 meldingen in de buurt (van 54)
+10:02:59 v=98 nauwk=4m limiet=100 wegen=3228 draai=2 vaste=117/12 gemeld=20 stemming=focused
+10:03:10 v=100 nauwk=4m limiet=100 wegen=3228 draai=-0 vaste=117/12 gemeld=20 stemming=neutral
+10:03:19 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+10:03:21 v=99 nauwk=4m limiet=100 wegen=4737 draai=-0 vaste=117/12 gemeld=20 stemming=focused
+10:03:32 v=93 nauwk=4m limiet=100 wegen=4737 draai=-1 vaste=117/12 gemeld=20 stemming=relaxed
+10:03:42 v=73 nauwk=4m limiet=100 wegen=4737 draai=0 vaste=117/12 gemeld=20 stemming=relaxed
+10:03:42 ev happy: Daar is weer de Schansspringer! Hou je vast!
+10:03:42 bekende plek: de Schansspringer
+10:03:52 drempel/schok sterkte 4.9 bij 32 km/h
+10:03:52 ev startled: Boing!
+10:03:53 v=18 nauwk=4m limiet=80 wegen=4737 draai=11 vaste=117/12 gemeld=20 stemming=neutral
+10:04:03 v=0 nauwk=6m limiet=80 wegen=4737 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+10:04:13 v=0 nauwk=4m limiet=80 wegen=4737 draai=0 vaste=117/12 gemeld=20 stemming=content
+10:04:17 ev excited: Groen! Daar gaan we.
+10:04:24 v=0 nauwk=4m limiet=50 wegen=4737 draai=1 vaste=117/12 gemeld=20 stemming=neutral
+10:04:26 bruggen geladen: 0
+10:04:33 drempel/schok sterkte 4.0 bij 8 km/h
+10:04:33 ev startled: Boing!
+10:04:33 drempel/schok sterkte 3.4 bij 10 km/h (tweede klap)
+10:04:33 ev excited: Dubbele boing! Dat was een drempel.
+10:04:34 v=23 nauwk=4m limiet=50 wegen=4737 draai=-22 vaste=117/12 gemeld=20 stemming=excited
+10:04:36 drempel/schok sterkte 3.2 bij 27 km/h
+10:04:36 ev startled: Boing!
+10:04:36 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+10:04:36 hobbelige weg (4 klappen in 20 s)
+10:04:41 ev happy: Daar is weer de Hobbelberg! Hou je vast!
+10:04:41 bekende plek: de Hobbelberg
+10:04:44 ev happy: Daar is weer de Draaimolen! Wiee!
+10:04:44 bekende plek: de Draaimolen
+10:04:45 v=45 nauwk=4m limiet=50 wegen=4737 draai=1 vaste=117/12 gemeld=20 stemming=happy
+10:04:53 flitsers via /flitsers: 20/20
+10:04:55 v=27 nauwk=4m limiet=50 wegen=4737 draai=-1 vaste=117/12 gemeld=20 stemming=relaxed
+10:04:58 ANWB verkeer geladen: 17 meldingen in de buurt (van 50)
+10:05:05 v=10 nauwk=4m limiet=50 wegen=4737 draai=-0 vaste=117/12 gemeld=20 stemming=neutral
+10:05:15 groep ververst: 5
+10:05:15 v=9 nauwk=4m limiet=50 wegen=4737 draai=-0 vaste=117/12 gemeld=20 stemming=neutral
+10:05:26 v=0 nauwk=4m limiet=50 wegen=4737 draai=-0 vaste=117/12 gemeld=20 stemming=neutral
+10:05:32 drempel/schok sterkte 2.6 bij 8 km/h
+10:05:32 ev startled: Boing!
+10:05:32 drempel/schok sterkte 2.6 bij 10 km/h (tweede klap)
+10:05:32 ev excited: Dubbele boing! Dat was een drempel.
+10:05:34 rws tegel 1722_103 (telefoon): 964 wegvakken, versie 01-10-2026
+10:05:34 osm wegen uit telefoongeheugen: 654 stuks
+10:05:34 wegen geladen: 654 wegen
+10:05:36 drempel/schok sterkte 6.1 bij 26 km/h
+10:05:36 ev startled: Drempel! Boing!
+10:05:37 v=30 nauwk=4m limiet=50 wegen=6355 draai=-0 vaste=117/12 gemeld=20 stemming=relaxed
+10:05:38 voelen: ik weet nu waar vooruit is (50%)
+10:05:47 v=24 nauwk=4m limiet=50 wegen=6355 draai=-15 vaste=117/12 gemeld=20 stemming=neutral
+10:05:58 v=48 nauwk=4m limiet=70 wegen=6355 draai=-8 vaste=117/12 gemeld=20 stemming=relaxed
+10:06:08 v=71 nauwk=4m limiet=70 wegen=6355 draai=0 vaste=117/12 gemeld=20 stemming=relaxed
+10:06:18 v=61 nauwk=4m limiet=70 wegen=6355 draai=0 vaste=117/12 gemeld=20 stemming=relaxed
+10:06:28 v=61 nauwk=4m limiet=70 wegen=6355 draai=-0 vaste=117/12 gemeld=20 stemming=happy
+10:06:38 v=68 nauwk=4m limiet=70 wegen=6355 draai=0 vaste=117/12 gemeld=20 stemming=relaxed
+10:06:48 v=64 nauwk=4m limiet=70 wegen=6355 draai=-0 vaste=117/12 gemeld=20 stemming=relaxed
+10:06:53 flitsers via /flitsers: 20/20
+10:06:58 v=64 nauwk=4m limiet=70 wegen=5551 draai=-0 vaste=117/12 gemeld=20 stemming=happy
+10:06:59 ANWB verkeer geladen: 17 meldingen in de buurt (van 50)
+10:07:02 voelen: ik weet nu waar vooruit is (52%)
+10:07:09 v=51 nauwk=4m limiet=70 wegen=5551 draai=1 vaste=117/12 gemeld=20 stemming=relaxed
+10:07:18 NDW geladen: 214 meldingen in de buurt {"lane":76,"closure":95,"speed":37,"accident":4,"jam":2}
+10:07:20 v=44 nauwk=4m limiet=70 wegen=5551 draai=-0 vaste=117/12 gemeld=20 stemming=relaxed
+10:07:22 drempel/schok sterkte 4.4 bij 44 km/h
+10:07:22 ev startled: Boing!
+10:07:24 drempel/schok sterkte 5.5 bij 42 km/h
+10:07:24 ev startled: Drempel! Boing!
+10:07:31 v=3 nauwk=4m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+10:07:38 drempel/schok sterkte 3.2 bij 8 km/h
+10:07:38 ev startled: Boing!
+10:07:40 ev excited: Whoeeh, optrekken!
+10:07:40 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+10:07:40 hobbelige weg (4 klappen in 20 s)
+10:07:41 v=23 nauwk=4m limiet=50 wegen=3127 draai=-17 vaste=117/12 gemeld=20 stemming=neutral
+10:07:49 ev happy: Rondje! Wheee.
+10:07:49 rotonde: rondje (201°)
+10:07:51 v=21 nauwk=4m limiet=70 wegen=3127 draai=2 vaste=117/12 gemeld=20 stemming=neutral
+10:08:02 v=11 nauwk=4m limiet=70 wegen=3127 draai=-1 vaste=117/12 gemeld=20 stemming=neutral
+10:08:12 v=0 nauwk=5m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+10:08:16 groep ververst: 5
+10:08:22 v=0 nauwk=4m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+10:08:31 file herkend
+10:08:33 v=0 nauwk=4m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=20 stemming=bored
+10:08:44 v=0 nauwk=4m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+10:08:52 ev clock: Het is 10:08.
+10:08:54 flitsers via /flitsers: 18/18
+10:08:54 v=0 nauwk=4m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=18 stemming=clock
+10:09:00 ANWB verkeer geladen: 17 meldingen in de buurt (van 52)
+10:09:04 ev happy: Wiee, ander uitzicht!
+10:09:05 ev startled: Wiee, ik zweef!
+10:09:05 v=0 nauwk=5m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=18 stemming=startled
+10:09:06 voelen: telefoon gedraaid (69°), richting meegedraaid
+10:09:06 ev content: Ah, weer lekker vast.
