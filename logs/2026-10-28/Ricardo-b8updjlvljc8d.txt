@@ -1968,3 +1968,52 @@
 16:50:18 flitsers via /flitsers: 24/24
 16:50:19 bruggen geladen: 9
 16:50:19 NDW geladen: 361 meldingen in de buurt {"jam":53,"speed":29,"lane":68,"closure":202,"accident":9}
+--- v73 · Linux; Android 10; K ---
+18:52:53 start v73
+18:52:53 nachtstand aan
+18:52:53 groep ververst: 5
+18:52:54 GPS automatisch aan
+18:52:54 scherm-aan-slot gekregen
+18:52:55 bewegingssensor: granted
+18:52:55 ev excited: Joepie! Nu voel ik elke bocht.
+18:52:55 limiet geschat uit je snelheid: 30
+18:52:55 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+18:52:55 osm werk via Worker (bewaard): 400 stuks
+18:52:55 wegwerkzaamheden geladen: 398
+18:52:55 matrix-locaties geladen: 6442
+18:52:55 weer: 10.4 graden, code 3, neerslag 0, wind 12
+18:52:55 bruggen geladen: 4
+18:52:55 ANWB verkeer geladen: 29 meldingen in de buurt (van 61)
+18:52:55 NDW geladen: 313 meldingen in de buurt {"speed":29,"lane":69,"closure":197,"jam":6,"accident":12}
+18:52:55 flitsers via /flitsers: 20/20
+18:52:58 voelen: sensor-teken gewoon
+18:53:00 voelen: geleerde richting van vorige keer meegedraaid
+18:53:02 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=20 stemming=bored
+--- v73 · Linux; Android 10; K ---
+18:53:13 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+18:53:18 ev worried: Let op: een ongeluk op de A2 bij afrit Veghel (+7 min) op je gewone route. En nog 3 meldingen.
+18:53:18 vertrekcheck (rit): 4 meldingen op route
+18:53:23 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+18:53:25 ev clock: Het is 18:53.
+--- v73 · Linux; Android 10; K ---
+18:53:29 start v73
+18:53:29 nachtstand aan
+18:53:29 groep ververst: 5
+18:53:30 GPS automatisch aan
+18:53:30 scherm-aan-slot gekregen
+18:53:30 limiet geschat uit je snelheid: 30
+18:53:30 flitsers via /flitsers: 20/20
+18:53:30 ANWB verkeer geladen: 29 meldingen in de buurt (van 61)
+18:53:30 bruggen geladen: 4
+18:53:30 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+18:53:30 NDW geladen: 313 meldingen in de buurt {"speed":29,"lane":69,"closure":197,"jam":6,"accident":12}
+18:53:30 weer: 10.4 graden, code 3, neerslag 0, wind 12
+18:53:30 matrix-locaties geladen: 6442
+--- v73 · Linux; Android 10; K ---
+19:02:04 start v73
+19:02:04 nachtstand aan
+19:02:04 groep ververst: 5
+19:02:05 GPS automatisch aan
+19:02:05 scherm-aan-slot gekregen
+19:02:05 bewegingssensor: granted
+19:02:05 ev excited: Joepie! Nu voel ik elke bocht.
