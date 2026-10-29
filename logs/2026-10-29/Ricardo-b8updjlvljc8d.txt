@@ -1,0 +1,3 @@
+--- v73 · Linux; Android 10; K ---
+19:04:10 start v73
+13:51:57 start v73
