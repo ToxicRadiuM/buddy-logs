@@ -1,3 +1,110 @@
 --- v73 · Linux; Android 10; K ---
 19:04:10 start v73
 13:51:57 start v73
+--- v73 · Linux; Android 10; K ---
+13:51:57 groep ververst: 5
+13:51:58 GPS automatisch aan
+13:51:58 scherm-aan-slot geweigerd: NotAllowedError
+13:52:05 back-up (dag) 100 kB
+20:27:41 start v73
+20:27:41 nachtstand aan
+20:27:41 groep ververst: 5
+20:27:42 GPS automatisch aan
+20:27:42 scherm-aan-slot gekregen
+20:27:42 limiet geschat uit je snelheid: 30
+20:27:42 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+20:27:42 ev excited: Whoeeh, optrekken!
+20:27:42 weer: 8.7 graden, code 0, neerslag 0, wind 8
+20:27:42 matrix-locaties geladen: 6442
+20:27:42 ANWB verkeer geladen: 23 meldingen in de buurt (van 65)
+20:27:42 voelen: sensor-teken gewoon
+20:27:42 bewegingssensor: granted
+20:27:42 ev excited: Joepie! Nu voel ik elke bocht.
+20:27:42 bruggen geladen: 2
+20:27:42 NDW geladen: 311 meldingen in de buurt {"speed":35,"lane":78,"closure":194,"accident":4}
+20:27:43 ev happy: Goedenavond Ricardo! Het is 9 graden, helder. Geen files op je gewone route.
+20:27:43 briefing: Goedenavond Ricardo! Het is 9 graden, helder. Geen files op je gewone route.
+20:27:43 flitsers via /flitsers: 16/16
+20:27:44 voelen: geleerde richting van vorige keer meegedraaid
+20:27:45 autostand aan
+20:27:48 voelen: telefoon gedraaid (85°), richting meegedraaid
+20:27:50 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+20:27:50 v=27 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=content
+20:27:52 drempel/schok sterkte 3.1 bij 24 km/h
+20:27:52 ev startled: Boing!
+20:27:52 drempel/schok sterkte 3.5 bij 24 km/h (tweede klap)
+20:27:52 ev excited: Dubbele boing! Dat was een drempel.
+20:27:53 drempel/schok sterkte 5.0 bij 23 km/h
+20:27:53 ev startled: Boing!
+20:27:57 ev happy: Daar is weer de Schansspringer! Hou je vast!
+20:27:57 bekende plek: de Schansspringer
+20:27:59 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+20:27:59 hobbelige weg (4 klappen in 20 s)
+20:27:59 voelen: ik weet nu waar vooruit is (66%)
+20:28:00 v=14 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+--- v73 · Linux; Android 10; K ---
+20:28:06 vertrekcheck (rit): 0 meldingen op route
+20:28:10 ev excited overgeslagen (show bezig): Whoeeh, optrekken!
+20:28:11 v=37 nauwk=4m limiet=30 wegen=1396 draai=-1 vaste=117/12 gemeld=16 stemming=excited
+20:28:15 ev content: Hier rijden we vaak. Ik ken dit stukje.
+20:28:15 ev excited: Whoeeh, optrekken!
+20:28:15 nieuw 0-80 record: 5.9 s
+20:28:17 voelen: ik weet nu waar vooruit is (53%)
+20:28:19 ev angry: Hé! Dat is veel te hard. Gas eraf!
+20:28:19 osm werk via Worker (oud): 400 stuks
+20:28:19 wegwerkzaamheden geladen: 398
+20:28:22 v=24 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+20:28:30 ev happy: Daar is weer de Hobbelberg! Hou je vast!
+20:28:30 bekende plek: de Hobbelberg
+20:28:32 autostand uit
+20:28:32 v=19 nauwk=4m limiet=30 wegen=1396 draai=-1 vaste=117/12 gemeld=16 stemming=happy
+20:28:43 v=21 nauwk=4m limiet=30 wegen=1396 draai=-1 vaste=117/12 gemeld=16 stemming=neutral
+20:28:54 v=19 nauwk=4m limiet=30 wegen=1396 draai=-3 vaste=117/12 gemeld=16 stemming=neutral
+20:29:02 drempel/schok sterkte 3.9 bij 13 km/h
+20:29:02 ev startled: Boing!
+20:29:04 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+20:29:04 hobbelige weg (4 klappen in 20 s)
+20:29:04 v=15 nauwk=4m limiet=30 wegen=1396 draai=24 vaste=117/12 gemeld=16 stemming=neutral
+20:29:14 v=6 nauwk=4m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=neutral
+20:29:24 v=0 nauwk=4m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=neutral
+20:29:34 v=0 nauwk=4m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=neutral
+20:29:43 ANWB verkeer geladen: 23 meldingen in de buurt (van 65)
+20:29:44 flitsers via /flitsers: 18/18
+20:29:45 v=0 nauwk=4m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=18 stemming=neutral
+--- v73 · Linux; Android 10; K ---
+20:30:39 scherm-aan-slot gekregen
+20:30:39 scherm-aan-slot gekregen
+20:30:40 ev happy: Zo zie ik het ook.
+20:30:41 terug na 44 s zonder GPS
+20:30:41 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=happy
+20:30:42 voelen: telefoon gedraaid (71°), richting meegedraaid
+20:30:47 groep ververst: 5
+20:30:51 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+20:31:02 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+20:31:13 voelen: telefoon gedraaid (29°), richting meegedraaid
+20:31:13 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=alert
+20:31:23 ev clock: Het is 20:31.
+20:31:23 v=0 nauwk=9m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=clock
+20:31:34 v=0 nauwk=9m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=happy
+20:31:44 ANWB verkeer geladen: 23 meldingen in de buurt (van 65)
+20:31:44 v=0 nauwk=9m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=bored
+20:31:49 flitsers via /flitsers: 18/18
+20:31:54 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=bored
+20:32:05 v=0 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=bored
+20:32:07 ev happy: Zo zie ik het ook.
+--- v73 · Linux; Android 10; K ---
+20:36:04 scherm-aan-slot gekregen
+20:36:04 scherm-aan-slot gekregen
+20:36:05 terug na 117 s zonder GPS
+20:36:05 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=yawn
+20:36:05 groep ververst: 5
+20:36:05 NDW geladen: 317 meldingen in de buurt {"speed":37,"lane":79,"closure":196,"accident":5}
+20:36:05 ANWB verkeer geladen: 23 meldingen in de buurt (van 65)
+20:36:06 voelen: telefoon gedraaid (35°), richting meegedraaid
+20:36:07 flitsers via /flitsers: 16/16
+--- v73 · Linux; Android 10; K ---
+20:36:55 scherm-aan-slot gekregen
+20:36:55 scherm-aan-slot gekregen
+20:36:55 ev clock: Het is 20:36.
+20:36:56 terug na 48 s zonder GPS
+20:36:56 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=clock
