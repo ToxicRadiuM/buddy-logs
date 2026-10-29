@@ -108,3 +108,22 @@
 20:36:55 ev clock: Het is 20:36.
 20:36:56 terug na 48 s zonder GPS
 20:36:56 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=clock
+--- v73 · Linux; Android 10; K ---
+22:02:48 scherm-aan-slot gekregen
+--- v73 · Linux; Android 10; K ---
+22:02:48 scherm-aan-slot gekregen
+22:02:48 ev happy: Goedenavond Ricardo!
+22:02:48 terug na 2801 s zonder GPS
+22:02:48 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=happy
+22:02:49 weer: 7 graden, code 0, neerslag 0, wind 4
+22:02:49 groep ververst: 5
+22:02:49 bruggen geladen: 1
+22:02:49 ANWB verkeer geladen: 35 meldingen in de buurt (van 95)
+22:02:49 NDW geladen: 362 meldingen in de buurt {"speed":47,"lane":91,"closure":221,"accident":3}
+22:02:50 flitsers via /flitsers: 18/18
+22:02:59 ev clock: Het is 22:02.
+22:02:59 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=clock
+22:03:10 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=bored
+22:03:20 osm werk via Worker (oud): 400 stuks
+22:03:20 wegwerkzaamheden geladen: 398
+22:03:20 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=bored
