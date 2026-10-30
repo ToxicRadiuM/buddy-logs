@@ -292,3 +292,145 @@
 06:05:52 v=96 nauwk=4m limiet=80 wegen=3264 draai=0 vaste=117/12 gemeld=16 stemming=worried
 06:05:53 matrix geladen: 245 snelheid, 237 kruis
 06:06:02 v=89 nauwk=4m limiet=80 wegen=3264 draai=-1 vaste=117/12 gemeld=16 stemming=happy
+--- v73 · Linux; Android 10; K ---
+06:06:12 v=90 nauwk=4m limiet=80 wegen=3264 draai=-1 vaste=117/12 gemeld=16 stemming=relaxed
+06:06:12 bruggen geladen: 0
+06:06:14 NDW geladen: 269 meldingen in de buurt {"closure":162,"speed":31,"lane":74,"accident":2}
+06:06:16 flitsers via /flitsers: 14/14
+06:06:20 ANWB verkeer geladen: 17 meldingen in de buurt (van 45)
+06:06:22 v=95 nauwk=4m limiet=80 wegen=3264 draai=0 vaste=117/12 gemeld=14 stemming=blow
+06:06:22 ev angry: Hé! Dat is veel te hard. Gas eraf!
+06:06:33 v=95 nauwk=4m limiet=80 wegen=2687 draai=0 vaste=117/12 gemeld=14 stemming=focused
+06:06:43 v=79 nauwk=4m limiet=80 wegen=2687 draai=-1 vaste=117/12 gemeld=14 stemming=content
+06:06:46 voelen: ik weet nu waar vooruit is (58%)
+06:06:53 ev worried: Rustig in de bocht!
+06:06:54 v=37 nauwk=4m limiet=80 wegen=2687 draai=-29 vaste=117/12 gemeld=14 stemming=worried
+06:06:56 voelen: ik weet nu waar vooruit is (52%)
+06:06:57 ev excited: Whoeeh, optrekken!
+06:06:57 osm werk via Worker (oud): 400 stuks
+06:06:57 wegwerkzaamheden geladen: 400
+06:07:04 v=76 nauwk=4m limiet=80 wegen=2687 draai=-4 vaste=117/12 gemeld=14 stemming=relaxed
+06:07:15 v=73 nauwk=4m limiet=80 wegen=2687 draai=0 vaste=117/12 gemeld=14 stemming=relaxed
+06:07:15 ev happy: Daar is weer het Rondje Pret! Wiee!
+06:07:15 bekende plek: het Rondje Pret
+06:07:15 rws tegel 1733_101 (telefoon): 3098 wegvakken, versie 01-10-2026
+06:07:22 groep ververst: 5
+06:07:26 v=47 nauwk=4m limiet=80 wegen=5785 draai=1 vaste=117/12 gemeld=14 stemming=relaxed
+06:07:34 ev excited: Rotonde!
+06:07:34 rotonde: herkend op de kaart
+06:07:36 v=45 nauwk=4m limiet=80 wegen=5785 draai=13 vaste=117/12 gemeld=14 stemming=excited
+06:07:37 ev excited: Whoeeh, optrekken!
+06:07:47 v=64 nauwk=4m limiet=80 wegen=5785 draai=3 vaste=117/12 gemeld=14 stemming=relaxed
+06:07:57 v=79 nauwk=4m limiet=80 wegen=5785 draai=0 vaste=117/12 gemeld=14 stemming=focused
+06:08:07 v=84 nauwk=4m limiet=80 wegen=5785 draai=1 vaste=117/12 gemeld=14 stemming=relaxed
+06:08:16 flitsers via /flitsers: 14/14
+06:08:18 v=73 nauwk=4m limiet=80 wegen=5785 draai=0 vaste=117/12 gemeld=14 stemming=alert
+06:08:21 ANWB verkeer geladen: 17 meldingen in de buurt (van 46)
+06:08:24 matrix geladen: 250 snelheid, 236 kruis
+06:08:28 v=75 nauwk=4m limiet=80 wegen=5785 draai=-0 vaste=117/12 gemeld=14 stemming=alert
+06:08:39 v=71 nauwk=4m limiet=80 wegen=5785 draai=-0 vaste=117/12 gemeld=14 stemming=alert
+06:08:39 flitsevent cam_pass v=74 limiet=80
+06:08:39 ev happy: Netjes! Flitser gepasseerd.
+06:08:43 drempel/schok sterkte 5.5 bij 72 km/h
+06:08:43 ev startled: Hobbel!
+06:08:47 ev happy: Nieuwe badge: Netjes-ster 😇!
+06:08:49 v=71 nauwk=4m limiet=80 wegen=5785 draai=-7 vaste=117/12 gemeld=14 stemming=happy
+06:08:59 v=75 nauwk=4m limiet=80 wegen=5785 draai=-4 vaste=117/12 gemeld=14 stemming=neutral
+06:09:09 v=68 nauwk=4m limiet=80 wegen=5785 draai=-0 vaste=117/12 gemeld=14 stemming=relaxed
+06:09:14 ev happy: Daar is weer de Carrousel! Wiee!
+06:09:14 bekende plek: de Carrousel
+06:09:14 rws tegel 1734_101 (telefoon): 4487 wegvakken, versie 01-10-2026
+06:09:17 ev happy: Daar is weer de Gatenkaas! Voorzichtig!
+06:09:17 bekende plek: de Gatenkaas
+06:09:20 v=67 nauwk=4m limiet=80 wegen=10272 draai=0 vaste=117/12 gemeld=14 stemming=alert
+06:09:23 voelen: ik weet nu waar vooruit is (50%)
+06:09:31 v=29 nauwk=4m limiet=80 wegen=10272 draai=-19 vaste=117/12 gemeld=14 stemming=relaxed
+06:09:31 ev excited: Rotonde!
+06:09:31 rotonde: herkend op de kaart
+06:09:34 ev excited: Whoeeh, optrekken!
+06:09:41 v=98 nauwk=4m limiet=80 wegen=10272 draai=-1 vaste=117/12 gemeld=14 stemming=content
+06:09:41 ev excited: Whoeeh, optrekken!
+06:09:51 v=65 nauwk=4m limiet=80 wegen=10272 draai=-3 vaste=117/12 gemeld=14 stemming=relaxed
+06:09:51 osm wegen Worker: http 503, ik probeer Overpass rechtstreeks
+06:09:57 ev startled: Oef, stevig remmen!
+06:10:02 v=0 nauwk=4m limiet=80 wegen=10272 draai=0 vaste=117/12 gemeld=14 stemming=neutral
+06:10:12 v=0 nauwk=4m limiet=80 wegen=10272 draai=0 vaste=117/12 gemeld=14 stemming=excited
+06:10:16 overpass overpass-api.de: te traag
+06:10:17 flitsers via /flitsers: 14/14
+06:10:22 v=0 nauwk=4m limiet=80 wegen=10272 draai=0 vaste=117/12 gemeld=14 stemming=neutral
+06:10:22 groep ververst: 5
+06:10:22 ANWB verkeer geladen: 18 meldingen in de buurt (van 46)
+06:10:23 overpass overpass.private.coffee: te traag
+06:10:26 ev excited: Groen! Daar gaan we.
+06:10:26 ev excited: Whoeeh, optrekken!
+06:10:26 drempel/schok sterkte 4.7 bij 8 km/h
+06:10:26 ev startled: Boing!
+06:10:30 overpass overpass.kumi.systems: te traag
+06:10:32 v=54 nauwk=4m limiet=100 wegen=10272 draai=28 vaste=117/12 gemeld=14 stemming=focused
+06:10:32 ev excited: Whoeeh, optrekken!
+06:10:37 overpass maps.mail.ru: te traag
+06:10:37 FOUT wegenlimiet laden mislukt (maps.mail.ru: te traag) opnieuw over 8 s
+06:10:42 ev excited: Whoeeh, optrekken!
+06:10:43 v=107 nauwk=4m limiet=100 wegen=10272 draai=7 vaste=117/12 gemeld=14 stemming=excited
+06:10:46 drempel/schok sterkte 8.8 bij 122 km/h
+06:10:46 ev startled: Wat een voeg!
+06:10:48 drempel/schok sterkte 8.6 bij 118 km/h
+06:10:48 ev startled: Wat een voeg!
+06:10:51 ev angry: Hé! Dat is veel te hard. Gas eraf!
+06:10:52 voelen: ik weet nu waar vooruit is (52%)
+06:10:53 ev excited: Whoeeh, optrekken!
+06:10:54 v=143 nauwk=4m limiet=100 wegen=10272 draai=1 vaste=117/12 gemeld=14 stemming=excited
+06:10:55 matrix geladen: 246 snelheid, 227 kruis
+06:10:57 voelen: ik weet nu waar vooruit is (50%)
+06:11:04 v=133 nauwk=4m limiet=100 wegen=10272 draai=1 vaste=117/12 gemeld=14 stemming=worried
+06:11:14 v=129 nauwk=4m limiet=100 wegen=10272 draai=-0 vaste=117/12 gemeld=14 stemming=worried
+06:11:15 NDW geladen: 240 meldingen in de buurt {"closure":133,"speed":30,"lane":75,"accident":2}
+06:11:24 v=130 nauwk=4m limiet=100 wegen=10272 draai=1 vaste=117/12 gemeld=14 stemming=worried
+06:11:34 v=124 nauwk=4m limiet=100 wegen=10272 draai=0 vaste=117/12 gemeld=14 stemming=focused
+06:11:41 ev excited: Whoeeh, optrekken!
+06:11:45 v=148 nauwk=4m limiet=100 wegen=5785 draai=-1 vaste=117/12 gemeld=14 stemming=worried
+06:11:54 v=129 nauwk=4m limiet=100 wegen=4127 draai=0 vaste=117/12 gemeld=14 stemming=happy
+06:12:00 rws tegel 1732_101 (telefoon): 1293 wegvakken, versie 01-10-2026
+06:12:05 v=127 nauwk=4m limiet=100 wegen=5420 draai=1 vaste=117/12 gemeld=14 stemming=focused
+--- v73 · Linux; Android 10; K ---
+06:13:00 osm wegen Worker: te traag, ik probeer Overpass rechtstreeks
+06:46:15 scherm-aan-slot gekregen
+06:46:15 overpass overpass-api.de: Failed to fetch
+06:46:15 overpass overpass.private.coffee: Failed to fetch
+--- v73 · Linux; Android 10; K ---
+06:46:15 scherm-aan-slot gekregen
+06:46:15 ev happy: Draaien! Hoei!
+06:46:15 ev happy: Goedemorgen Ricardo! Mistig, let op.
+06:46:17 autostand uit
+06:46:17 terug na 2041 s zonder GPS
+06:46:17 v=0 nauwk=19m limiet=100 wegen=958 draai=0 vaste=117/12 gemeld=14 stemming=happy
+06:46:17 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+06:46:17 groep ververst: 5
+06:46:17 flitsers via /flitsers: 16/16
+06:46:17 ANWB verkeer geladen: 11 meldingen in de buurt (van 53)
+06:46:17 bruggen geladen: 0
+06:46:17 NDW geladen: 191 meldingen in de buurt {"lane":68,"closure":89,"speed":33,"jam":1}
+06:46:17 weer: 9.5 graden, code 3, neerslag 0, wind 9
+06:46:23 overpass maps.mail.ru: http 504
+06:46:24 autostand aan
+06:46:26 rit: {"t0":1793335570694,"t1":1793339186208,"km":28.9,"min":25,"stijl":24,"netjes":3,"vmax":157,"sec":1479,"g":0.54,"sch":3,"zacht":17}
+06:46:26 ev worried: Pittige rit, rijstijl 24. Rustiger mag ook.
+06:46:26 parkeerplek onthouden
+06:46:26 rit handmatig afgesloten
+06:46:27 v=0 nauwk=6m limiet=100 wegen=2467 draai=0 vaste=117/12 gemeld=16 stemming=worried
+06:46:28 voelen: telefoon gedraaid (71°), richting meegedraaid
+--- v73 · Linux; Android 10; K ---
+06:46:29 back-up (rit) 108 kB
+06:46:38 v=0 nauwk=5m limiet=100 wegen=2467 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+06:46:39 autostand uit
+06:46:40 overpass overpass.kumi.systems: te traag
+06:46:40 FOUT wegenlimiet laden mislukt (overpass.kumi.systems: te traag) opnieuw over 16 s
+06:46:45 ev excited: Ja? Ik ben er!
+06:46:45 geklopt (2×)
+06:46:46 osm werk via Worker (overpass): 400 stuks
+06:46:46 wegwerkzaamheden geladen: 400
+06:46:49 v=0 nauwk=4m limiet=100 wegen=2467 draai=0 vaste=117/12 gemeld=16 stemming=bored
+06:46:55 ev clock: Het is 06:46.
+06:46:58 ev excited: Klop klop… wie is daar? 😄
+06:46:58 geklopt (2×)
+06:47:00 v=0 nauwk=5m limiet=100 wegen=2467 draai=0 vaste=117/12 gemeld=16 stemming=blow

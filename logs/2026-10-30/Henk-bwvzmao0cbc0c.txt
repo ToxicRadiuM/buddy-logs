@@ -1,0 +1,37 @@
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+06:45:04 start v73
+06:45:04 nachtstand aan
+06:45:04 groep ververst: 5
+06:45:05 GPS automatisch aan
+06:45:05 scherm-aan-slot geweigerd: NotAllowedError
+06:45:05 ev happy: Al 10 ritten samen!
+06:45:05 limiet geschat uit je snelheid: 50
+06:45:05 ev excited: Whoeeh, optrekken!
+06:45:05 matrix-locaties geladen: 6442
+06:45:05 flitsers via /flitsers: 16/16
+06:45:05 ANWB verkeer geladen: 20 meldingen in de buurt (van 51)
+06:45:05 bruggen geladen: 0
+06:45:05 scherm-aan-slot geweigerd: NotAllowedError
+06:45:05 weer: 5.4 graden, code 45, neerslag 0, wind 7
+06:45:05 NDW geladen: 289 meldingen in de buurt {"closure":174,"speed":32,"lane":78,"jam":3,"accident":2}
+06:45:06 wakker blijven: filmpje-truc aan
+06:45:06 FOUT bewegingssensor Requesting device motion access requires a user gesture to prompt
+06:45:06 rws tegel 1730_92 (internet): 2618 wegvakken, versie 01-10-2026
+06:45:06 ev happy: Goedemorgen Henk! Het is 5 graden, mist. Henk is ook al onderweg.
+06:45:06 briefing: Goedemorgen Henk! Het is 5 graden, mist. Henk is ook al onderweg.
+06:45:08 matrix geladen: 401 snelheid, 260 kruis
+06:45:09 scherm-aan-slot geweigerd: NotAllowedError
+06:45:10 bewegingssensor: granted
+06:45:10 ev excited: Joepie! Nu voel ik elke bocht.
+06:45:11 ev worried: Iets te snel, hè.
+06:45:12 scherm-aan-slot gekregen
+06:45:12 autostand aan
+06:45:12 back-up (dag) 42 kB
+06:45:13 v=43 nauwk=10m limiet=50 wegen=3579 draai=-0 vaste=90/9 gemeld=16 stemming=worried
+06:45:13 voelen: sensor-teken gewoon
+06:45:18 drempel/schok sterkte 4.3 bij 41 km/h
+06:45:18 ev startled: Boing!
+06:45:18 drempel/schok sterkte 6.2 bij 41 km/h (tweede klap)
+06:45:18 ev excited: Dubbele boing! Dat was een drempel.
+06:45:20 rws tegel 1730_91 (internet): 4608 wegvakken, versie 01-10-2026
+06:45:23 v=34 nauwk=10m limiet=50 wegen=8187 draai=0 vaste=90/9 gemeld=16 stemming=worried
