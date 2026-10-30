@@ -434,3 +434,45 @@
 06:46:58 ev excited: Klop klop… wie is daar? 😄
 06:46:58 geklopt (2×)
 06:47:00 v=0 nauwk=5m limiet=100 wegen=2467 draai=0 vaste=117/12 gemeld=16 stemming=blow
+--- v73 · Linux; Android 10; K ---
+11:16:02 start v73
+11:16:02 groep ververst: 5
+11:16:03 GPS automatisch aan
+11:16:03 scherm-aan-slot gekregen
+11:16:03 limiet geschat uit je snelheid: 30
+11:16:03 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+11:16:03 matrix-locaties geladen: 6442
+11:16:03 osm werk via Worker (bewaard): 400 stuks
+11:16:03 wegwerkzaamheden geladen: 400
+11:16:03 weer: 12.9 graden, code 0, neerslag 0, wind 8
+11:16:03 ANWB verkeer geladen: 11 meldingen in de buurt (van 47)
+11:16:03 bruggen geladen: 0
+11:16:03 NDW geladen: 204 meldingen in de buurt {"lane":75,"closure":92,"speed":34,"accident":2,"jam":1}
+11:16:03 flitsers via /flitsers: 22/22
+11:16:04 bewegingssensor: granted
+11:16:04 ev excited: Joepie! Nu voel ik elke bocht.
+11:16:05 voelen: geleerde richting van vorige keer overgenomen
+11:16:08 voelen: sensor-teken gewoon
+11:16:12 v=0 nauwk=9m limiet=30~ wegen=2467 draai=0 vaste=117/12 gemeld=22 stemming=neutral
+11:16:13 ev startled: Zet je me straks terug in de houder?
+11:16:20 ev content: Ah, weer lekker vast.
+--- v73 · Linux; Android 10; K ---
+11:16:22 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=117/12 gemeld=22 stemming=bored
+11:16:27 vertrekcheck (rit): 0 meldingen op route
+11:16:33 v=0 nauwk=4m limiet=30~ wegen=2467 draai=0 vaste=117/12 gemeld=22 stemming=neutral
+11:16:43 v=0 nauwk=4m limiet=30~ wegen=2467 draai=0 vaste=117/12 gemeld=22 stemming=neutral
+11:16:45 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+11:16:51 ev happy: Drie keer kloppen: feestje!
+11:16:51 geklopt (3×)
+11:16:54 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=117/12 gemeld=22 stemming=excited
+11:16:56 ev startled: Zet je me straks terug in de houder?
+11:16:58 ev clock: Het is 11:16.
+11:17:04 v=0 nauwk=4m limiet=30~ wegen=2467 draai=0 vaste=117/12 gemeld=22 stemming=bored
+11:17:08 ev content: Zo, mijn uitzicht is terug.
+11:17:14 v=0 nauwk=4m limiet=30~ wegen=2467 draai=0 vaste=117/12 gemeld=22 stemming=bored
+11:17:25 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=117/12 gemeld=22 stemming=bored
+11:17:27 ev excited: Hoi! Zin om te rijden?
+11:17:27 geklopt (2×)
+--- v73 · Linux; Android 10; K ---
+11:18:58 scherm-aan-slot gekregen
+11:18:58 scherm-aan-slot gekregen

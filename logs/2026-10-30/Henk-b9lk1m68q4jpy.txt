@@ -669,3 +669,77 @@
 08:48:30 v=0 nauwk=30m limiet=70 wegen=2466 draai=0 vaste=174/18 gemeld=14 stemming=excited
 08:48:31 voelen: sensor-teken gewoon
 08:48:35 voelen: geleerde richting van vorige keer meegedraaid
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+11:15:52 start v73
+11:15:53 GPS automatisch aan
+11:15:53 scherm-aan-slot geweigerd: NotAllowedError
+11:15:53 limiet geschat uit je snelheid: 30
+11:15:53 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+11:15:53 matrix-locaties geladen: 6442
+11:15:53 weer: 12.9 graden, code 0, neerslag 0, wind 8
+11:15:53 scherm-aan-slot geweigerd: NotAllowedError
+11:15:53 wakker blijven: filmpje-truc aan
+11:15:55 bewegingssensor: granted
+11:15:55 ev excited: Joepie! Nu voel ik elke bocht.
+11:15:55 FOUT groep Load failed
+11:15:55 /flitsers mislukt (Load failed), terug naar RSS
+11:15:55 FOUT ANWB verkeer: Load failed
+11:15:55 FOUT NDW: Load failed
+11:15:55 FOUT bruggen Load failed
+11:15:55 osm werk Worker: Load failed, ik probeer Overpass rechtstreeks
+11:15:55 FOUT groepsberichten: Load failed
+11:15:55 FOUT leaderboard delen
+11:15:55 FOUT gemelde controles: eigen koppeling
+11:15:56 scherm-aan-slot gekregen
+11:15:58 voelen: sensor-teken gewoon
+11:15:58 overpass overpass-api.de: http 502
+11:16:00 FOUT groepsberichten: Load failed
+11:16:01 overpass overpass.private.coffee: Load failed
+11:16:02 v=0 nauwk=11m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=14 stemming=alert
+11:16:02 voelen: geleerde richting van vorige keer meegedraaid
+11:16:08 terug na 5 s zonder GPS
+11:16:09 overpass maps.mail.ru: http 504
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+11:16:12 v=0 nauwk=5m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=14 stemming=neutral
+11:16:17 vertrekcheck (rit): 0 meldingen op route
+11:16:23 v=0 nauwk=5m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=14 stemming=neutral
+11:16:25 ev excited: Groen! Daar gaan we.
+11:16:28 ev excited: Whoeeh, optrekken!
+11:16:31 overpass overpass.kumi.systems: te traag
+11:16:33 v=0 nauwk=7m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=14 stemming=neutral
+11:16:44 v=0 nauwk=7m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=14 stemming=love
+11:16:54 v=0 nauwk=9m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=14 stemming=neutral
+11:16:56 ev excited: Whoeeh, optrekken!
+11:16:56 ANWB verkeer geladen: 11 meldingen in de buurt (van 47)
+11:16:56 flitsers via /flitsers: 22/22
+11:16:58 ev startled: Oef, stevig remmen!
+11:17:05 v=0 nauwk=5m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=22 stemming=neutral
+11:17:16 v=0 nauwk=11m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=22 stemming=neutral
+11:17:20 voelen: ik weet nu waar vooruit is (55%)
+11:17:20 ev excited: Whoeeh, optrekken!
+11:17:21 ev startled: Oef, stevig remmen!
+11:17:25 ev excited: Whoeeh, optrekken!
+11:17:26 v=4 nauwk=7m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=22 stemming=excited
+11:17:31 voelen: ik weet nu waar vooruit is (51%)
+11:17:31 ev excited: Whoeeh, optrekken!
+11:17:36 v=0 nauwk=4m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=22 stemming=neutral
+11:17:47 v=0 nauwk=3m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=22 stemming=happy
+11:17:56 bruggen geladen: 0
+11:17:56 NDW geladen: 204 meldingen in de buurt {"lane":75,"closure":91,"speed":34,"jam":2,"accident":2}
+11:17:57 v=8 nauwk=11m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=22 stemming=neutral
+11:17:57 ev excited: Whoeeh, optrekken!
+11:18:03 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+11:18:08 v=0 nauwk=4m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=22 stemming=neutral
+11:18:18 voelen: telefoon gedraaid (34°), richting meegedraaid
+11:18:19 v=0 nauwk=10m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=22 stemming=neutral
+11:18:21 voelen: telefoon gedraaid (36°), richting meegedraaid
+11:18:27 ev startled: Hé! Waar gaan we heen?
+11:18:28 voelen: telefoon gedraaid (33°), richting meegedraaid
+11:18:28 ev content: Ah, weer lekker vast.
+11:18:29 v=0 nauwk=10m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=22 stemming=content
+11:18:40 v=0 nauwk=9m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=22 stemming=neutral
+11:18:47 voelen: telefoon gedraaid (27°), richting meegedraaid
+11:18:51 v=0 nauwk=9m limiet=30~ wegen=2466 draai=0 vaste=174/18 gemeld=22 stemming=neutral
+11:18:52 groep ververst: 5
+11:18:57 ANWB verkeer geladen: 11 meldingen in de buurt (van 47)
+11:18:57 flitsers via /flitsers: 20/20
