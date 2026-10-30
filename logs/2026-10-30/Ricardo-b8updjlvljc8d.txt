@@ -1379,3 +1379,16 @@
 15:19:21 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=28 stemming=excited
 15:19:32 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=28 stemming=bored
 15:19:43 v=0 nauwk=4m limiet=15 wegen=1396 draai=0 vaste=117/12 gemeld=28 stemming=happy
+--- v73 · Linux; Android 10; K ---
+20:31:55 start v73
+20:31:55 nachtstand aan
+20:31:55 groep ververst: 5
+20:31:56 GPS automatisch aan
+20:31:56 scherm-aan-slot gekregen
+20:31:56 bewegingssensor: granted
+20:31:56 voelen: geleerde richting van vorige keer overgenomen
+20:31:58 autostand aan
+20:32:09 voelen: sensor-teken gewoon
+20:32:13 autostand uit
+--- v73 · Linux; Android 10; K ---
+20:32:15 rond scherm aan
