@@ -1,0 +1,11 @@
+--- v73 · Linux; Android 10; K ---
+15:18:28 start v73
+15:18:28 groep ververst: 5
+15:18:29 GPS automatisch aan
+15:18:29 scherm-aan-slot gekregen
+15:18:30 bewegingssensor: granted
+15:18:36 back-up (dag) 38 kB
+--- v73 · Linux; Android 10; K ---
+15:19:10 voelen: sensor-teken gewoon
+15:19:38 leaderboard: Marsha samengevoegd met jou
+15:19:43 level 4
