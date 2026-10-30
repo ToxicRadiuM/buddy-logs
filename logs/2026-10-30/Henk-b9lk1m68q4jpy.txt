@@ -644,3 +644,28 @@
 07:29:41 v=99 nauwk=2m limiet=100 wegen=3914 draai=-1 vaste=174/18 gemeld=16 stemming=focused
 07:29:52 v=98 nauwk=2m limiet=100 wegen=3914 draai=2 vaste=174/18 gemeld=16 stemming=focused
 07:30:02 v=97 nauwk=2m limiet=100 wegen=3914 draai=0 vaste=174/18 gemeld=16 stemming=focused
+--- v73 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+08:48:20 start v73
+08:48:21 groep ververst: 5
+08:48:21 GPS automatisch aan
+08:48:21 scherm-aan-slot geweigerd: NotAllowedError
+08:48:21 scherm-aan-slot geweigerd: NotAllowedError
+08:48:22 FOUT bewegingssensor Requesting device motion access requires a user gesture to prompt
+08:48:22 wakker blijven: filmpje-truc aan
+08:48:26 limiet geschat uit je snelheid: 30
+08:48:26 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+08:48:26 osm werk via Worker (bewaard): 400 stuks
+08:48:26 wegwerkzaamheden geladen: 400
+08:48:26 bruggen geladen: 0
+08:48:26 ANWB verkeer geladen: 11 meldingen in de buurt (van 47)
+08:48:26 weer: 5.4 graden, code 45, neerslag 0, wind 4
+08:48:26 matrix-locaties geladen: 6442
+08:48:26 NDW geladen: 200 meldingen in de buurt {"lane":74,"closure":91,"speed":33,"accident":2}
+08:48:27 flitsers via /flitsers: 14/14
+08:48:27 scherm-aan-slot geweigerd: NotAllowedError
+08:48:29 bewegingssensor: granted
+08:48:29 ev excited: Joepie! Nu voel ik elke bocht.
+08:48:30 scherm-aan-slot gekregen
+08:48:30 v=0 nauwk=30m limiet=70 wegen=2466 draai=0 vaste=174/18 gemeld=14 stemming=excited
+08:48:31 voelen: sensor-teken gewoon
+08:48:35 voelen: geleerde richting van vorige keer meegedraaid
