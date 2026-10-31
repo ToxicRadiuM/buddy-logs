@@ -1,0 +1,63 @@
+--- v80 · Linux; Android 10; K ---
+13:16:43 start v80
+13:16:43 groep ververst: 4
+13:16:44 GPS automatisch aan
+13:16:44 scherm-aan-slot gekregen
+13:16:44 bewegingssensor: granted
+13:16:44 ev excited: Joepie! Nu voel ik elke bocht.
+13:16:45 limiet geschat uit je snelheid: 30
+13:16:45 flitsers via /flitsers: 18/18
+13:16:45 ANWB verkeer geladen: 37 meldingen in de buurt (van 74)
+13:16:45 bruggen geladen: 8
+13:16:45 NDW geladen: 339 meldingen in de buurt {"speed":40,"lane":77,"closure":216,"jam":2,"accident":4}
+13:16:45 ev happy: Goedemiddag! Ricardo is ook al onderweg. Let op: een afsluiting op de A27 op je gewone route.
+13:16:45 briefing: Goedemiddag! Ricardo is ook al onderweg. Let op: een afsluiting op de A27 op je gewone route.
+13:16:45 matrix-locaties geladen: 6442
+13:16:45 ev happy: Goedemiddag!
+13:16:45 osm flits via Worker (bewaard): 153 stuks
+13:16:45 flitsdata geladen: 70 flitsers, 0 trajecten (totaal 68/0)
+13:16:45 osm werk via Worker (bewaard): 400 stuks
+13:16:45 wegwerkzaamheden geladen: 398
+13:16:45 osm wegen via Worker (bewaard): 520 stuks
+13:16:45 wegen geladen: 520 wegen
+13:16:45 weer: 8.5 graden, code 3, neerslag 0, wind 10
+13:16:45 rws tegel 1733_95 (internet): 876 wegvakken, versie 01-10-2026
+13:16:45 vaste flitsers NL: 515, trajectcontroles: 76 (versie 24-10-2026)
+13:16:48 ev happy: Winnaar weekchallenge “Rustigste rijstijl (minstens 3 ritten)”: Henk met 57/100!
+13:16:51 back-up (dag) 62 kB
+13:16:53 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=excited
+13:16:58 voelen: sensor-teken gewoon
+--- v80 · Linux; Android 10; K ---
+13:17:04 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=neutral
+13:17:05 ev startled: Hé! Waar gaan we heen?
+13:17:06 ev content: Ah, weer lekker vast.
+13:17:08 ev worried: Let op: een afsluiting op de A27 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+13:17:08 vertrekcheck (rit): 4 meldingen op route
+13:17:14 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=love
+13:17:17 ev clock: Het is 13:17.
+13:17:25 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=bored
+13:17:36 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=content
+13:17:46 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=bored
+13:17:57 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=excited
+13:18:08 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=bored
+13:18:19 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=bored
+13:18:29 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=bored
+13:18:33 leaderboard: Ricardo samengevoegd met jou
+13:18:38 level 7
+13:18:40 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=bored
+13:18:41 ev startled: Wiee, ik zweef!
+13:18:42 ev happy: Nieuw outfit vrijgespeeld: Koptelefoon! Kies hem bij 🎲 Plezier, Outfit.
+13:18:44 ev content: Klik! Ik zit weer.
+13:18:46 ANWB verkeer geladen: 36 meldingen in de buurt (van 74)
+13:18:46 flitsers via /flitsers: 18/18
+13:18:48 ev love: Aangenaam, Ricardo! Ik onthoud het.
+13:18:48 ev love: Aangenaam, Ricardo! Mooie Tesla Y.
+13:18:51 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=love
+13:19:02 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=happy
+13:19:09 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+13:19:13 osm laad via Worker (bewaard): 3 stuks
+13:19:13 laadpaal: niet gevonden in de buurt
+13:19:13 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=sad
+13:19:24 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=bored
+13:19:35 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=sleepy
+13:19:43 groep ververst: 4

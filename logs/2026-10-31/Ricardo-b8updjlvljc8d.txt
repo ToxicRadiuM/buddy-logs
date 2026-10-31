@@ -1294,3 +1294,40 @@
 12:54:08 v=0 nauwk=9m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=neutral
 12:54:10 voelen: telefoon gedraaid (23°), richting meegedraaid
 12:54:10 ev content: Zo, mijn uitzicht is terug.
+--- v77 · Linux; Android 10; K ---
+12:58:16 scherm-aan-slot gekregen
+12:58:16 scherm-aan-slot gekregen
+12:58:16 osm laad via Worker (bewaard): 3 stuks
+12:58:16 laadpaal: niet gevonden in de buurt
+12:58:16 terug na 74 s zonder GPS
+12:58:16 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+12:58:17 groep ververst: 4
+12:58:17 ANWB verkeer geladen: 33 meldingen in de buurt (van 71)
+12:58:17 NDW geladen: 339 meldingen in de buurt {"speed":40,"lane":77,"closure":216,"jam":3,"accident":3}
+--- v80 · Linux; Android 10; K ---
+13:16:19 start v80
+13:16:19 groep ververst: 4
+13:16:19 bewegingssensor: granted
+13:16:20 GPS automatisch aan
+13:16:20 scherm-aan-slot gekregen
+13:16:20 voelen: geleerde richting van vorige keer meegedraaid
+13:16:21 limiet geschat uit je snelheid: 30
+13:16:21 flitsers via /flitsers: 18/18
+13:16:21 ANWB verkeer geladen: 37 meldingen in de buurt (van 74)
+13:16:21 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+13:16:21 bruggen geladen: 8
+13:16:21 NDW geladen: 339 meldingen in de buurt {"speed":40,"lane":77,"closure":216,"jam":2,"accident":4}
+13:16:21 weer: 8.5 graden, code 3, neerslag 0, wind 10
+13:16:21 matrix-locaties geladen: 6442
+13:16:26 FOUT Script error. @
+13:16:28 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=bored
+13:16:33 ev startled: Zet je me straks terug in de houder?
+--- v80 · Linux; Android 10; K ---
+13:16:35 scherm-aan-slot gekregen
+13:16:35 scherm-aan-slot gekregen
+--- v80 · Linux; Android 10; K ---
+13:16:40 scherm-aan-slot gekregen
+13:16:40 scherm-aan-slot gekregen
+13:16:40 voelen: sensor-teken gewoon
+13:16:41 terug na 9 s zonder GPS
+13:16:41 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=neutral
