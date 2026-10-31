@@ -356,3 +356,13 @@
 21:49:19 voelen: sensor-teken gewoon
 21:49:59 bewegingssensor: granted
 21:50:19 geklopt (2×)
+--- v80 · Linux; Android 10; K ---
+22:33:02 GPS automatisch aan
+22:33:02 scherm-aan-slot gekregen
+--- v81 · Linux; Android 10; K ---
+22:33:05 start v81
+22:33:05 nachtstand aan
+22:33:05 groep ververst: 4
+22:33:07 GPS automatisch aan
+22:33:07 scherm-aan-slot geweigerd: NotAllowedError
+22:33:09 ev happy: Goedenavond Ricardo!
