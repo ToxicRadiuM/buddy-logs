@@ -61,3 +61,285 @@
 13:19:24 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=bored
 13:19:35 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=18 stemming=sleepy
 13:19:43 groep ververst: 4
+--- v80 · Linux; Android 10; K ---
+15:58:32 start v80
+15:58:32 groep ververst: 4
+15:58:33 GPS automatisch aan
+15:58:33 scherm-aan-slot gekregen
+15:58:33 bewegingssensor: granted
+--- v80 · Linux; Android 10; K ---
+15:59:04 voelen: sensor-teken gewoon
+15:59:29 geklopt (2×)
+15:59:45 Buddy-scherm verbonden
+15:59:46 wifi naar scherm gestuurd: Eversong
+15:59:49 wifi naar scherm gestuurd: Eversong
+15:59:57 Buddy-scherm verbonden
+16:00:10 scherm| 65
+16:00:10 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2212/0 | 0 km/u | tel nee | heap 142364 | licht 165
+16:00:10 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2932/0 | 0 km/u | tel nee | heap 142364 | licht 12 | SLAAPT
+16:00:10 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=3652/0 | 0 km/u | tel nee | heap 142364 | licht 12 | SLAAPT
+16:00:10 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4372/0 | 0 km/u | tel nee | heap 142364 | licht 12 | SLAAPT
+16:00:10 scherm| [00:07:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5092/0 | 0 km/u | tel nee | heap 142364 | licht 12 | SLAAPT
+16:00:10 scherm| [00:08:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5824/0 | 0 km/u | tel nee | heap 142364 | licht 12 | SLAAPT
+16:00:10 scherm| [00:09:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=6532/0 | 0 km/u | tel nee | heap 142364 | licht 12 | SLAAPT
+16:00:10 scherm| [00:10:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=7264/0 | 0 km/u | tel nee | heap 142364 | licht 12 | SLAAPT
+16:00:10 scherm| [00:10:20] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+16:00:10 scherm| [00:00:04] ===== OPSTART v27 | reden: uit diepe slaap | heap 143000 =====
+16:00:10 scherm| [00:00:04] wakker geworden door beweging (instappen?)
+16:00:10 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=712/0 | 0 km/u | tel nee | heap 142356 | licht 165
+16:00:10 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1444/0 | 0 km/u | tel nee | heap 142356 | licht 165
+16:00:10 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2159/0 | 0 km/u | tel nee | heap 142356 | licht 165
+16:00:10 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2884/0 | 0 km/u | tel nee | heap 142356 | licht 12 | SLAAPT
+16:00:10 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=3604/0 | 0 km/u | tel nee | heap 142356 | licht 12 | SLAAPT
+16:00:10 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4324/0 | 0 km/u | tel nee | heap 142356 | licht 12 | SLAAPT
+16:00:10 scherm| [00:07:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5044/0 | 0 km/u | tel nee | heap 142356 | licht 12 | SLAAPT
+16:00:10 scherm| [00:08:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5764/0 | 0 km/u | tel nee | heap 142356 | licht 12 | SLAAPT
+16:00:10 scherm| [00:09:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=6484/0 | 0 km/u | tel nee | heap 142356 | licht 12 | SLAAPT
+16:00:10 scherm| [00:10:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=7204/0 | 0 km/u | tel nee | heap 142356 | licht 12 | SLAAPT
+16:00:10 scherm| [00:10:20] uit (diepe slaap): 10 minuten niets. Wakker bij beweging.
+16:00:10 scherm| [00:00:04] ===== OPSTART v27 | reden: uit diepe slaap | heap 143000 =====
+16:00:10 scherm| [00:00:04] wakker geworden door beweging (instappen?)
+16:00:10 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=928/0 | 0 km/u | tel nee | heap 142364 | licht 165
+16:00:10 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1648/0 | 0 km/u | tel nee | heap 142364 | licht 165
+16:00:10 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2368/0 | 0 km/u | tel nee | heap 142364 | licht 165
+16:00:10 scherm| [00:00:04] ===== OPSTART v27 | reden: stroom aan | heap 142848 =====
+16:00:10 scherm| [00:00:16] ===== OPSTART v27 | reden: stroom aan | heap 142852 =====
+16:00:10 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=725/0 | 0 km/u | tel nee | heap 142224 | licht 165
+16:00:10 scherm| [00:01:47] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+16:00:10 scherm| [00:00:16] ===== OPSTART v27 | reden: uit diepe slaap | heap 142852 =====
+16:00:10 scherm| [00:00:16] wakker geworden door beweging (instappen?)
+16:00:10 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=582/0 | 0 km/u | tel nee | heap 142220 | licht 165
+16:00:10 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1312/0 | 0 km/u | tel nee | heap 142220 | licht 165
+16:00:10 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2032/0 | 0 km/u | tel nee | heap 142220 | licht 165
+16:00:10 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2752/0 | 0 km/u | tel nee | heap 142220 | licht 12 | SLAAPT
+16:00:10 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=3472/0 | 0 km/u | tel nee | heap 142220 | licht 12 | SLAAPT
+16:00:10 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4192/0 | 0 km/u | tel nee | heap 142220 | licht 12 | SLAAPT
+16:00:10 scherm| [00:07:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4912/0 | 0 km/u | tel nee | heap 142220 | licht 12 | SLAAPT
+16:00:10 scherm| [00:08:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5632/0 | 0 km/u | tel nee | heap 142220 | licht 12 | SLAAPT
+16:00:10 scherm| [00:09:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=6352/0 | 0 km/u | tel nee | heap 142220 | licht 12 | SLAAPT
+16:00:10 scherm| [00:10:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=7072/0 | 0 km/u | tel nee | heap 142220 | licht 12 | SLAAPT
+16:00:10 scherm| [00:10:16] uit (diepe slaap): 10 minuten niets. Wakker bij beweging.
+16:00:10 scherm| [00:00:16] ===== OPSTART v27 | reden: uit diepe slaap | heap 142852 =====
+16:00:10 scherm| [00:00:16] wakker geworden door beweging (instappen?)
+16:00:10 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=580/0 | 0 km/u | tel nee | heap 142216 | licht 165
+16:00:10 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1312/0 | 0 km/u | tel nee | heap 142216 | licht 165
+16:00:10 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2032/0 | 0 km/u | tel nee | heap 142216 | licht 165
+16:00:10 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2740/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:00:10 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=3472/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:00:10 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4180/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:00:10 scherm| [00:07:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4912/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:00:10 scherm| [00:08:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5632/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:00:10 scherm| [00:09:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=6352/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:00:10 scherm| [00:10:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=7072/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:00:10 scherm| [00:10:16] uit (diepe slaap): 10 minuten niets. Wakker bij beweging.
+16:00:10 scherm| [00:00:16] ===== OPSTART v27 | reden: uit diepe slaap | heap 142852 =====
+16:00:10 scherm| [00:00:16] wakker geworden door beweging (instappen?)
+16:00:10 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=628/0 | 0 km/u | tel nee | heap 137484 | licht 165
+16:00:10 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1348/0 | 0 km/u | tel nee | heap 142212 | licht 165
+16:00:10 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2080/0 | 0 km/u | tel nee | heap 142212 | licht 165
+16:00:10 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2800/0 | 0 km/u | tel nee | heap 142212 | licht 12 | SLAAPT
+16:00:10 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=3508/0 | 0 km/u | tel nee | heap 142212 | licht 12 | SLAAPT
+16:00:10 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4240/0 | 0 km/u | tel nee | heap 142212 | licht 12 | SLAAPT
+16:00:10 scherm| [00:07:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4948/0 | 0 km/u | tel nee | heap 142212 | licht 12 | SLAAPT
+16:00:10 scherm| [00:08:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5671/0 | 0 km/u | tel nee | heap 142212 | licht 12 | SLAAPT
+16:00:10 scherm| [00:09:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=6400/0 | 0 km/u | tel nee | heap 142212 | licht 12 | SLAAPT
+16:00:10 scherm| [00:10:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=7120/0 | 0 km/u | tel nee | heap 142212 | licht 12 | SLAAPT
+16:00:10 scherm| [00:10:37] uit (diepe slaap): 10 minuten niets. Wakker bij beweging.
+16:00:10 scherm| [00:00:16] ===== OPSTART v27 | reden: stroom aan | heap 142852 =====
+16:00:10 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=725/0 | 0 km/u | tel nee | heap 137252 | licht 255
+16:00:10 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1445/0 | 0 km/u | tel nee | heap 141980 | licht 255
+16:00:10 scherm| [00:02:11] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+16:00:10 scherm| [00:00:16] ===== OPSTART v27 | reden: uit diepe slaap | heap 142852 =====
+16:00:10 scherm| [00:00:16] wakker geworden door beweging (instappen?)
+16:00:10 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=640/0 | 0 km/u | tel nee | heap 137488 | licht 255
+16:00:10 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1348/0 | 0 km/u | tel nee | heap 142216 | licht 255
+16:00:10 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2080/0 | 0 km/u | tel nee | heap 142216 | licht 255
+16:00:10 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2788/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:00:10 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=3520/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:00:10 scherm| [00:05:15] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+16:00:10 scherm| [00:00:16] ===== OPSTART v27 | reden: uit diepe slaap | heap 142852 =====
+16:00:10 scherm| [00:00:16] wakker geworden door beweging (instappen?)
+16:00:10 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=756/0 | 0 km/u | tel nee | heap 142216 | licht 255
+16:00:10 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1476/0 | 0 km/u | tel nee | heap 142216 | licht 255
+16:00:10 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2196/0 | 0 km/u | tel nee | heap 142216 | licht 255
+16:00:10 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2916/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:00:10 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=3636/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:00:10 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4356/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:00:10 scherm| [00:00:16] ===== OPSTART v27 | reden: onbekend | heap 142700 =====
+16:00:10 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=720/0 | 0 km/u | tel nee | heap 142064 | licht 255
+16:00:10 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1440/0 | 0 km/u | tel nee | heap 142064 | licht 255
+16:00:10 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2172/0 | 0 km/u | tel nee | heap 142064 | licht 255
+16:00:10 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2892/0 | 0 km/u | tel nee | heap 142064 | licht 12 | SLAAPT
+16:00:10 scherm| [00:00:05] ===== OPSTART v30 | reden: onbekend | heap 135372 =====
+16:00:10 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=772/0 | 0 km/u | tel nee | heap 134752 | licht 255
+16:00:10 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1492/0 | 0 km/u | tel nee | heap 134752 | licht 255
+16:00:10 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2212/0 | 0 km/u | tel nee | heap 134752 | licht 255
+16:00:10 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2932/0 | 0 km/u | tel nee | heap 134752 | licht 12 | SLAAPT
+16:00:10 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=1 nmea=3652/0 | 0 km/u | tel nee | heap 134516 | licht 255
+16:00:10 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4372/0 | 0 km/u | tel nee | heap 134516 | licht 255
+16:00:10 scherm| [00:06:42] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+16:00:10 scherm| [00:00:04] ===== OPSTART v30 | reden: uit diepe slaap | heap 135372 =====
+16:00:10 scherm| [00:00:04] wakker geworden door beweging (instappen?)
+16:00:10 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=772/0 | 0 km/u | tel nee | heap 134900 | licht 255
+16:00:10 scherm| [00:01:12] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+16:00:10 scherm| [00:00:05] ===== OPSTART v30 | reden: uit diepe slaap | heap 135516 =====
+16:00:10 scherm| [00:00:05] wakker geworden door beweging (instappen?)
+16:00:10 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=772/0 | 0 km/u | tel nee | heap 134896 | licht 255
+16:00:10 scherm| [00:01:10] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+16:00:10 scherm| [00:00:04] ===== OPSTART v30 | reden: uit diepe slaap | heap 135516 =====
+16:00:10 scherm| [00:00:04] wakker geworden door beweging (instappen?)
+16:00:10 scherm| [00:00:07] BLE: telefoon verbonden
+16:00:10 scherm| [00:00:08] wifi ingesteld: Eversong
+16:00:10 scherm| [00:00:12] wifi ingesteld: Eversong
+16:00:10 scherm| [00:00:13] wifi verbonden (Eversong), IP 0.0.0.0
+16:00:10 scherm| [00:00:17] BLE: telefoon weg
+16:00:10 scherm| [00:00:19] BLE: telefoon verbonden
+16:00:10 scherm| [00:00:20] net: ToxicRadiuM/GeenIdee/snelheden/flitsers.json -> -1
+16:00:10 scherm| [00:00:23] groep/worker ingesteld (Ricardo)
+--- v80 · Linux; Android 10; K ---
+16:01:00 Buddy-scherm verbonden
+16:01:13 scherm| :00 | gps zoekt sat=0 zicht=0 nmea=3652/0 | 0 km/u | tel nee | heap 142364 | licht 12 | SLAAPT
+16:01:13 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4372/0 | 0 km/u | tel nee | heap 142364 | licht 12 | SLAAPT
+16:01:13 scherm| [00:07:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5092/0 | 0 km/u | tel nee | heap 142364 | licht 12 | SLAAPT
+16:01:13 scherm| [00:08:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5824/0 | 0 km/u | tel nee | heap 142364 | licht 12 | SLAAPT
+16:01:13 scherm| [00:09:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=6532/0 | 0 km/u | tel nee | heap 142364 | licht 12 | SLAAPT
+16:01:13 scherm| [00:10:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=7264/0 | 0 km/u | tel nee | heap 142364 | licht 12 | SLAAPT
+16:01:13 scherm| [00:10:20] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+16:01:13 scherm| [00:00:04] ===== OPSTART v27 | reden: uit diepe slaap | heap 143000 =====
+16:01:13 scherm| [00:00:04] wakker geworden door beweging (instappen?)
+16:01:13 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=712/0 | 0 km/u | tel nee | heap 142356 | licht 165
+16:01:13 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1444/0 | 0 km/u | tel nee | heap 142356 | licht 165
+16:01:13 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2159/0 | 0 km/u | tel nee | heap 142356 | licht 165
+16:01:13 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2884/0 | 0 km/u | tel nee | heap 142356 | licht 12 | SLAAPT
+16:01:13 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=3604/0 | 0 km/u | tel nee | heap 142356 | licht 12 | SLAAPT
+16:01:13 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4324/0 | 0 km/u | tel nee | heap 142356 | licht 12 | SLAAPT
+16:01:13 scherm| [00:07:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5044/0 | 0 km/u | tel nee | heap 142356 | licht 12 | SLAAPT
+16:01:13 scherm| [00:08:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5764/0 | 0 km/u | tel nee | heap 142356 | licht 12 | SLAAPT
+16:01:13 scherm| [00:09:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=6484/0 | 0 km/u | tel nee | heap 142356 | licht 12 | SLAAPT
+16:01:13 scherm| [00:10:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=7204/0 | 0 km/u | tel nee | heap 142356 | licht 12 | SLAAPT
+16:01:13 scherm| [00:10:20] uit (diepe slaap): 10 minuten niets. Wakker bij beweging.
+16:01:13 scherm| [00:00:04] ===== OPSTART v27 | reden: uit diepe slaap | heap 143000 =====
+16:01:13 scherm| [00:00:04] wakker geworden door beweging (instappen?)
+16:01:13 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=928/0 | 0 km/u | tel nee | heap 142364 | licht 165
+16:01:13 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1648/0 | 0 km/u | tel nee | heap 142364 | licht 165
+16:01:13 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2368/0 | 0 km/u | tel nee | heap 142364 | licht 165
+16:01:13 scherm| [00:00:04] ===== OPSTART v27 | reden: stroom aan | heap 142848 =====
+16:01:13 scherm| [00:00:16] ===== OPSTART v27 | reden: stroom aan | heap 142852 =====
+16:01:13 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=725/0 | 0 km/u | tel nee | heap 142224 | licht 165
+16:01:13 scherm| [00:01:47] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+16:01:13 scherm| [00:00:16] ===== OPSTART v27 | reden: uit diepe slaap | heap 142852 =====
+16:01:13 scherm| [00:00:16] wakker geworden door beweging (instappen?)
+16:01:13 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=582/0 | 0 km/u | tel nee | heap 142220 | licht 165
+16:01:13 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1312/0 | 0 km/u | tel nee | heap 142220 | licht 165
+16:01:13 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2032/0 | 0 km/u | tel nee | heap 142220 | licht 165
+16:01:13 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2752/0 | 0 km/u | tel nee | heap 142220 | licht 12 | SLAAPT
+16:01:13 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=3472/0 | 0 km/u | tel nee | heap 142220 | licht 12 | SLAAPT
+16:01:13 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4192/0 | 0 km/u | tel nee | heap 142220 | licht 12 | SLAAPT
+16:01:13 scherm| [00:07:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4912/0 | 0 km/u | tel nee | heap 142220 | licht 12 | SLAAPT
+16:01:13 scherm| [00:08:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5632/0 | 0 km/u | tel nee | heap 142220 | licht 12 | SLAAPT
+16:01:13 scherm| [00:09:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=6352/0 | 0 km/u | tel nee | heap 142220 | licht 12 | SLAAPT
+16:01:13 scherm| [00:10:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=7072/0 | 0 km/u | tel nee | heap 142220 | licht 12 | SLAAPT
+16:01:13 scherm| [00:10:16] uit (diepe slaap): 10 minuten niets. Wakker bij beweging.
+16:01:13 scherm| [00:00:16] ===== OPSTART v27 | reden: uit diepe slaap | heap 142852 =====
+16:01:13 scherm| [00:00:16] wakker geworden door beweging (instappen?)
+16:01:13 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=580/0 | 0 km/u | tel nee | heap 142216 | licht 165
+16:01:13 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1312/0 | 0 km/u | tel nee | heap 142216 | licht 165
+16:01:13 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2032/0 | 0 km/u | tel nee | heap 142216 | licht 165
+16:01:13 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2740/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:01:13 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=3472/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:01:13 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4180/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:01:13 scherm| [00:07:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4912/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:01:13 scherm| [00:08:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5632/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:01:13 scherm| [00:09:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=6352/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:01:13 scherm| [00:10:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=7072/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:01:13 scherm| [00:10:16] uit (diepe slaap): 10 minuten niets. Wakker bij beweging.
+16:01:13 scherm| [00:00:16] ===== OPSTART v27 | reden: uit diepe slaap | heap 142852 =====
+16:01:13 scherm| [00:00:16] wakker geworden door beweging (instappen?)
+16:01:13 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=628/0 | 0 km/u | tel nee | heap 137484 | licht 165
+16:01:13 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1348/0 | 0 km/u | tel nee | heap 142212 | licht 165
+16:01:13 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2080/0 | 0 km/u | tel nee | heap 142212 | licht 165
+16:01:13 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2800/0 | 0 km/u | tel nee | heap 142212 | licht 12 | SLAAPT
+16:01:13 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=3508/0 | 0 km/u | tel nee | heap 142212 | licht 12 | SLAAPT
+16:01:13 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4240/0 | 0 km/u | tel nee | heap 142212 | licht 12 | SLAAPT
+16:01:13 scherm| [00:07:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4948/0 | 0 km/u | tel nee | heap 142212 | licht 12 | SLAAPT
+16:01:13 scherm| [00:08:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5671/0 | 0 km/u | tel nee | heap 142212 | licht 12 | SLAAPT
+16:01:13 scherm| [00:09:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=6400/0 | 0 km/u | tel nee | heap 142212 | licht 12 | SLAAPT
+16:01:13 scherm| [00:10:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=7120/0 | 0 km/u | tel nee | heap 142212 | licht 12 | SLAAPT
+16:01:13 scherm| [00:10:37] uit (diepe slaap): 10 minuten niets. Wakker bij beweging.
+16:01:13 scherm| [00:00:16] ===== OPSTART v27 | reden: stroom aan | heap 142852 =====
+16:01:13 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=725/0 | 0 km/u | tel nee | heap 137252 | licht 255
+16:01:13 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1445/0 | 0 km/u | tel nee | heap 141980 | licht 255
+16:01:13 scherm| [00:02:11] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+16:01:13 scherm| [00:00:16] ===== OPSTART v27 | reden: uit diepe slaap | heap 142852 =====
+16:01:13 scherm| [00:00:16] wakker geworden door beweging (instappen?)
+16:01:13 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=640/0 | 0 km/u | tel nee | heap 137488 | licht 255
+16:01:13 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1348/0 | 0 km/u | tel nee | heap 142216 | licht 255
+16:01:13 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2080/0 | 0 km/u | tel nee | heap 142216 | licht 255
+16:01:13 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2788/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:01:13 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=3520/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:01:13 scherm| [00:05:15] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+16:01:13 scherm| [00:00:16] ===== OPSTART v27 | reden: uit diepe slaap | heap 142852 =====
+16:01:13 scherm| [00:00:16] wakker geworden door beweging (instappen?)
+16:01:13 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=756/0 | 0 km/u | tel nee | heap 142216 | licht 255
+16:01:13 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1476/0 | 0 km/u | tel nee | heap 142216 | licht 255
+16:01:13 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2196/0 | 0 km/u | tel nee | heap 142216 | licht 255
+16:01:13 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2916/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:01:13 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=3636/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:01:13 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4356/0 | 0 km/u | tel nee | heap 142216 | licht 12 | SLAAPT
+16:01:13 scherm| [00:00:16] ===== OPSTART v27 | reden: onbekend | heap 142700 =====
+16:01:13 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=720/0 | 0 km/u | tel nee | heap 142064 | licht 255
+16:01:13 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1440/0 | 0 km/u | tel nee | heap 142064 | licht 255
+16:01:13 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2172/0 | 0 km/u | tel nee | heap 142064 | licht 255
+16:01:13 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2892/0 | 0 km/u | tel nee | heap 142064 | licht 12 | SLAAPT
+16:01:13 scherm| [00:00:05] ===== OPSTART v30 | reden: onbekend | heap 135372 =====
+16:01:13 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=772/0 | 0 km/u | tel nee | heap 134752 | licht 255
+16:01:13 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1492/0 | 0 km/u | tel nee | heap 134752 | licht 255
+16:01:13 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2212/0 | 0 km/u | tel nee | heap 134752 | licht 255
+16:01:13 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2932/0 | 0 km/u | tel nee | heap 134752 | licht 12 | SLAAPT
+16:01:13 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=1 nmea=3652/0 | 0 km/u | tel nee | heap 134516 | licht 255
+16:01:13 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4372/0 | 0 km/u | tel nee | heap 134516 | licht 255
+16:01:13 scherm| [00:06:42] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+16:01:13 scherm| [00:00:04] ===== OPSTART v30 | reden: uit diepe slaap | heap 135372 =====
+16:01:13 scherm| [00:00:04] wakker geworden door beweging (instappen?)
+16:01:13 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=772/0 | 0 km/u | tel nee | heap 134900 | licht 255
+16:01:13 scherm| [00:01:12] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+16:01:13 scherm| [00:00:05] ===== OPSTART v30 | reden: uit diepe slaap | heap 135516 =====
+16:01:13 scherm| [00:00:05] wakker geworden door beweging (instappen?)
+16:01:13 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=772/0 | 0 km/u | tel nee | heap 134896 | licht 255
+16:01:13 scherm| [00:01:10] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+16:01:13 scherm| [00:00:04] ===== OPSTART v30 | reden: uit diepe slaap | heap 135516 =====
+16:01:13 scherm| [00:00:04] wakker geworden door beweging (instappen?)
+16:01:13 scherm| [00:00:07] BLE: telefoon verbonden
+16:01:13 scherm| [00:00:08] wifi ingesteld: Eversong
+16:01:13 scherm| [00:00:12] wifi ingesteld: Eversong
+16:01:13 scherm| [00:00:13] wifi verbonden (Eversong), IP 0.0.0.0
+16:01:13 scherm| [00:00:17] BLE: telefoon weg
+16:01:13 scherm| [00:00:19] BLE: telefoon verbonden
+16:01:13 scherm| [00:00:20] net: ToxicRadiuM/GeenIdee/snelheden/flitsers.json -> -1
+16:01:13 scherm| [00:00:23] groep/worker ingesteld (Ricardo)
+16:01:13 scherm| [00:00:40] BLE: telefoon weg
+16:01:13 scherm| [00:01:00] status | klok 16:00 | gps zoekt sat=0 zicht=0 nmea=724/0 | 0 km/u | tel nee | heap 90196 | licht 165
+16:01:13 scherm| [00:01:01] update: dit is de nieuwste (v30)
+16:01:13 scherm| [00:01:22] BLE: telefoon verbonden
+16:01:13 scherm| [00:01:26] groep/worker ingesteld (Ricardo)
+--- v80 · Linux; Android 10; K ---
+16:01:16 wifi naar scherm gestuurd: Eversong
+--- v80 · Linux; Android 10; K ---
+16:01:43 GPS automatisch aan
+16:01:43 scherm-aan-slot gekregen
+16:01:59 wifi naar scherm gestuurd: Sultra
+16:05:28 van het Buddy-scherm: MELD:cam
+16:05:31 van het Buddy-scherm: MELD:cam
+--- v80 · Linux; Android 10; K ---
+16:07:28 GPS automatisch aan
+16:07:28 scherm-aan-slot gekregen
+16:07:28 Buddy-scherm verbonden
+--- v80 · Linux; Android 10; K ---
+16:07:32 start v80
+16:07:32 groep ververst: 4
+16:07:33 GPS automatisch aan
+16:07:33 scherm-aan-slot gekregen
+16:07:40 bewegingssensor: granted
+--- v80 · Linux; Android 10; K ---
+16:07:56 Buddy-scherm verbonden
+16:08:04 wifi naar scherm gestuurd: Sultra
