@@ -940,3 +940,57 @@
 09:32:41 v=0 nauwk=14m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
 09:32:51 v=2 nauwk=13m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
 09:33:02 v=3 nauwk=15m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+--- v75 · Linux; Android 10; K ---
+10:42:47 scherm-aan-slot gekregen
+10:42:47 scherm-aan-slot gekregen
+--- v77 · Linux; Android 10; K ---
+10:43:15 start v77
+10:43:15 groep ververst: 4
+10:43:16 GPS automatisch aan
+10:43:16 scherm-aan-slot gekregen
+10:43:17 voelen: geleerde richting van vorige keer meegedraaid
+10:43:23 terug na 8 s zonder GPS
+10:43:23 limiet geschat uit je snelheid: 30
+10:43:24 ANWB verkeer geladen: 33 meldingen in de buurt (van 73)
+10:43:24 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+10:43:24 bruggen geladen: 10
+10:43:24 NDW geladen: 338 meldingen in de buurt {"speed":40,"lane":77,"closure":218,"jam":2,"accident":1}
+10:43:24 weer: 7.1 graden, code 3, neerslag 0, wind 10
+10:43:24 flitsers via /flitsers: 14/14
+10:43:24 matrix-locaties geladen: 6442
+10:43:26 bewegingssensor: granted
+10:43:29 FOUT Script error. @
+10:43:32 voelen: sensor-teken gewoon
+10:43:32 ev excited: Binnen!
+10:43:32 geklopt (2×)
+10:43:33 terug na 9 s zonder GPS
+10:43:33 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=excited
+--- v77 · Linux; Android 10; K ---
+10:43:37 ev excited: Ja? Ik ben er!
+10:43:37 geklopt (2×)
+10:43:40 ev worried: Let op: een afsluiting op de A27 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+10:43:40 vertrekcheck (rit): 4 meldingen op route
+10:43:42 terug na 9 s zonder GPS
+10:43:43 Buddy-scherm verbonden
+10:43:51 terug na 9 s zonder GPS
+10:43:51 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=neutral
+10:43:52 ev startled: Wooo, niet schudden! Ik word duizelig 😵
+10:44:00 terug na 7 s zonder GPS
+10:44:06 ev clock: Het is 10:44.
+10:44:10 terug na 9 s zonder GPS
+10:44:10 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=clock
+10:44:19 terug na 9 s zonder GPS
+10:44:20 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=bored
+10:44:20 ev happy: Draaien! Hoei!
+10:44:24 voelen: telefoon gedraaid (83°), richting meegedraaid
+10:44:33 voelen: telefoon gedraaid (83°), richting meegedraaid
+10:44:34 terug na 8 s zonder GPS
+10:44:34 v=0 nauwk=19m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=bored
+10:44:45 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=happy
+10:44:56 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=yawn
+--- v77 · Linux; Android 10; K ---
+10:55:53 start v77
+10:55:53 groep ververst: 4
+10:55:54 GPS automatisch aan
+10:55:54 scherm-aan-slot gekregen
+10:55:54 voelen: geleerde richting van vorige keer overgenomen
