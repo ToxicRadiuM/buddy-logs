@@ -343,3 +343,16 @@
 --- v80 · Linux; Android 10; K ---
 16:07:56 Buddy-scherm verbonden
 16:08:04 wifi naar scherm gestuurd: Sultra
+--- v80 · Linux; Android 10; K ---
+21:48:24 start v80
+21:48:24 nachtstand aan
+21:48:24 groep ververst: 4
+21:48:25 GPS automatisch aan
+21:48:25 scherm-aan-slot gekregen
+--- v80 · Linux; Android 10; K ---
+21:49:11 GPS automatisch aan
+21:49:11 scherm-aan-slot gekregen
+21:49:14 vertrekcheck (rit): 4 meldingen op route
+21:49:19 voelen: sensor-teken gewoon
+21:49:59 bewegingssensor: granted
+21:50:19 geklopt (2×)
