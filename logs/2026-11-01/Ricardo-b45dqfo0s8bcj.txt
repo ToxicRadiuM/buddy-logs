@@ -355,3 +355,1288 @@
 11:30:51 FOUT Script error. @
 11:30:57 rond scherm aan
 11:31:13 rond scherm uit
+--- v85 · Linux; Android 10; K ---
+13:07:35 scherm-aan-slot gekregen
+13:07:35 scherm-aan-slot gekregen
+13:07:36 flitsers via /flitsers: 14/14
+13:07:36 ev happy: Goedemiddag Ricardo!
+13:07:36 terug na 1549 s zonder GPS
+13:07:36 v=0 nauwk=16m limiet=30~ wegen=520 draai=0 vaste=68/0 gemeld=14 stemming=happy
+13:07:36 flitsers via /flitsers: 14/14
+13:07:36 ANWB verkeer geladen: 33 meldingen in de buurt (van 66)
+13:07:36 groep ververst: 5
+13:07:36 weer: 10.1 graden, code 3, neerslag 0, wind 1
+13:07:36 bruggen geladen: 13
+13:07:36 NDW geladen: 319 meldingen in de buurt {"speed":38,"lane":75,"closure":203,"accident":2,"jam":1}
+13:07:36 ev content: Klik! Ik zit weer.
+13:07:36 rws tegel 1733_94 (internet): 2875 wegvakken, versie 01-10-2026
+13:07:40 ev excited: Groen! Daar gaan we.
+13:07:40 retro meter: optrekken 0 -> 13
+13:07:41 retro meter: optrekken 0 -> 13
+13:07:41 retro meter: optrekken 0 -> 13
+13:07:41 retro meter: optrekken 0 -> 13
+13:07:41 retro meter: optrekken 0 -> 13
+13:07:41 retro meter: optrekken 0 -> 13
+13:07:41 retro meter: optrekken 0 -> 13
+13:07:41 retro meter: optrekken 0 -> 13
+13:07:41 retro meter: optrekken 0 -> 13
+13:07:41 retro meter: optrekken 0 -> 13
+13:07:41 retro meter: optrekken 0 -> 13
+13:07:41 retro meter: optrekken 0 -> 13
+13:07:41 retro meter: optrekken 0 -> 13
+13:07:41 retro meter: optrekken 0 -> 13
+13:07:41 retro meter: optrekken 0 -> 13
+13:07:46 v=0 nauwk=3m limiet=30~ wegen=3395 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+13:07:47 bewegingssensor: granted
+13:07:51 Buddy-scherm verbonden
+13:07:57 v=0 nauwk=3m limiet=30~ wegen=3395 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+13:08:05 ev happy: Lekker, stroom!
+13:08:07 v=0 nauwk=3m limiet=30~ wegen=3395 draai=0 vaste=68/0 gemeld=14 stemming=happy
+13:08:17 v=5 nauwk=3m limiet=30~ wegen=3395 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+13:08:19 osm wegen Worker: http 503, ik probeer Overpass rechtstreeks
+13:08:19 osm werk Worker: http 503, ik probeer Overpass rechtstreeks
+13:08:27 v=12 nauwk=4m limiet=30~ wegen=3395 draai=-40 vaste=68/0 gemeld=14 stemming=neutral
+13:08:37 v=9 nauwk=4m limiet=30~ wegen=3395 draai=-1 vaste=68/0 gemeld=14 stemming=neutral
+13:08:40 voelen: ik weet nu waar vooruit is (57%)
+13:08:41 overpass maps.mail.ru: http 504
+13:08:41 overpass maps.mail.ru: http 504
+13:08:44 overpass overpass-api.de: te traag
+13:08:48 v=3 nauwk=4m limiet=30~ wegen=3395 draai=-1 vaste=68/0 gemeld=14 stemming=neutral
+13:08:49 overpass overpass-api.de: te traag
+13:08:51 overpass overpass.private.coffee: te traag
+13:08:56 overpass overpass.private.coffee: te traag
+13:08:58 overpass overpass.kumi.systems: te traag
+13:08:58 FOUT wegenlimiet laden mislukt (overpass.kumi.systems: te traag) opnieuw over 120 s
+13:08:58 v=0 nauwk=9m limiet=30~ wegen=3395 draai=-1 vaste=68/0 gemeld=14 stemming=neutral
+13:09:03 overpass overpass.kumi.systems: te traag
+13:09:03 ev excited: Groen! Daar gaan we.
+13:09:08 drempel/schok sterkte 2.3 bij 8 km/h
+13:09:08 ev startled: Boing!
+13:09:08 v=16 nauwk=10m limiet=30 wegen=3395 draai=7 vaste=68/0 gemeld=14 stemming=startled
+13:09:12 drempel/schok sterkte 3.2 bij 31 km/h
+13:09:12 matrix geladen: 353 snelheid, 213 kruis
+13:09:17 ev worried: Oei, we gaan net iets te hard.
+13:09:18 v=35 nauwk=10m limiet=30 wegen=3395 draai=0 vaste=68/0 gemeld=14 stemming=worried
+13:09:29 v=29 nauwk=10m limiet=30 wegen=3395 draai=1 vaste=68/0 gemeld=14 stemming=relaxed
+13:09:37 flitsers via /flitsers: 14/14
+13:09:37 ANWB verkeer geladen: 34 meldingen in de buurt (van 67)
+13:09:40 voelen: ik weet nu waar vooruit is (58%)
+13:09:40 v=40 nauwk=10m limiet=30 wegen=3395 draai=-0 vaste=68/0 gemeld=14 stemming=relaxed
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:41 retro meter: optrekken 25 -> 37
+13:09:42 retro meter: optrekken 25 -> 37
+--- v85 · Linux; Android 10; K ---
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:23 retro meter: optrekken 30 -> 46
+13:10:24 retro meter: optrekken 30 -> 46
+13:10:24 retro meter: optrekken 30 -> 46
+13:10:27 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+13:10:32 v=29 nauwk=10m limiet=30 wegen=4271 draai=1 vaste=68/0 gemeld=14 stemming=relaxed
+13:10:33 drempel/schok sterkte 4.8 bij 28 km/h
+13:10:37 groep ververst: 5
+13:10:42 v=12 nauwk=10m limiet=30 wegen=4271 draai=1 vaste=68/0 gemeld=14 stemming=neutral
+13:10:53 v=32 nauwk=10m limiet=50 wegen=4271 draai=-7 vaste=68/0 gemeld=14 stemming=relaxed
+13:10:55 drempel/schok sterkte 2.6 bij 32 km/h
+13:10:55 ev startled: Boing!
+13:10:55 drempel/schok sterkte 2.6 bij 32 km/h (tweede klap)
+13:11:04 v=31 nauwk=10m limiet=50 wegen=4271 draai=6 vaste=68/0 gemeld=14 stemming=relaxed
+13:11:09 drempel/schok sterkte 5.3 bij 32 km/h
+13:11:09 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+13:11:09 hobbelige weg (4 klappen in 20 s)
+13:11:14 v=28 nauwk=10m limiet=50 wegen=4271 draai=4 vaste=68/0 gemeld=14 stemming=alert
+13:11:25 v=30 nauwk=10m limiet=50 wegen=4271 draai=-0 vaste=68/0 gemeld=14 stemming=relaxed
+13:11:35 v=31 nauwk=10m limiet=50 wegen=4271 draai=-0 vaste=68/0 gemeld=14 stemming=content
+13:11:38 flitsers via /flitsers: 16/16
+13:11:38 ANWB verkeer geladen: 34 meldingen in de buurt (van 67)
+13:11:45 v=3 nauwk=10m limiet=50 wegen=4271 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+13:11:56 v=0 nauwk=10m limiet=50 wegen=4271 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+13:12:01 ev excited: Groen! Daar gaan we.
+13:12:07 v=28 nauwk=10m limiet=50 wegen=4271 draai=19 vaste=68/0 gemeld=16 stemming=neutral
+13:12:17 v=49 nauwk=10m limiet=50 wegen=4271 draai=0 vaste=68/0 gemeld=16 stemming=relaxed
+13:12:25 drempel/schok sterkte 3.8 bij 46 km/h
+13:12:25 ev startled: Boing!
+13:12:26 drempel/schok sterkte 4.8 bij 46 km/h (tweede klap)
+13:12:27 drempel/schok sterkte 4.3 bij 46 km/h
+13:12:27 v=44 nauwk=10m limiet=80 wegen=4271 draai=1 vaste=68/0 gemeld=16 stemming=relaxed
+13:12:37 NDW geladen: 320 meldingen in de buurt {"speed":38,"lane":75,"closure":204,"jam":1,"accident":2}
+13:12:38 v=0 nauwk=10m limiet=80 wegen=4271 draai=-0 vaste=68/0 gemeld=16 stemming=neutral
+13:12:41 osm werk Worker: http 503, ik probeer Overpass rechtstreeks
+13:12:41 overpass overpass-api.de: http 502
+13:12:41 voelen: ik weet nu waar vooruit is (55%)
+13:12:43 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+13:12:43 hobbelige weg (4 klappen in 20 s)
+13:12:43 ev excited: Whoeeh, optrekken!
+13:12:48 v=28 nauwk=10m limiet=60 wegen=4271 draai=-20 vaste=68/0 gemeld=16 stemming=love
+13:12:58 v=60 nauwk=10m limiet=60 wegen=4271 draai=-2 vaste=68/0 gemeld=16 stemming=relaxed
+13:13:08 v=65 nauwk=10m limiet=60 wegen=4271 draai=-0 vaste=68/0 gemeld=16 stemming=relaxed
+13:13:11 overpass overpass.private.coffee: te traag
+13:13:18 overpass overpass.kumi.systems: te traag
+13:13:19 v=60 nauwk=10m limiet=60 wegen=4271 draai=-4 vaste=68/0 gemeld=16 stemming=relaxed
+13:13:25 overpass maps.mail.ru: te traag
+13:13:29 v=56 nauwk=10m limiet=60 wegen=4271 draai=3 vaste=68/0 gemeld=16 stemming=relaxed
+13:13:37 groep ververst: 5
+13:13:39 ANWB verkeer geladen: 36 meldingen in de buurt (van 69)
+13:13:39 flitsers via /flitsers: 16/16
+13:13:39 v=62 nauwk=10m limiet=60 wegen=4271 draai=0 vaste=68/0 gemeld=16 stemming=relaxed
+13:13:49 v=61 nauwk=10m limiet=60 wegen=4271 draai=-2 vaste=68/0 gemeld=16 stemming=relaxed
+13:13:59 v=58 nauwk=4m limiet=60 wegen=4271 draai=-2 vaste=68/0 gemeld=16 stemming=blow
+13:14:09 v=62 nauwk=4m limiet=60 wegen=4271 draai=2 vaste=68/0 gemeld=16 stemming=relaxed
+13:14:20 v=63 nauwk=4m limiet=60 wegen=4271 draai=-0 vaste=68/0 gemeld=16 stemming=relaxed
+13:14:30 v=54 nauwk=4m limiet=50 wegen=4271 draai=0 vaste=68/0 gemeld=16 stemming=relaxed
+13:14:40 v=52 nauwk=4m limiet=50 wegen=4271 draai=-2 vaste=68/0 gemeld=16 stemming=relaxed
+13:14:50 v=51 nauwk=4m limiet=50 wegen=4271 draai=-0 vaste=68/0 gemeld=16 stemming=relaxed
+13:15:01 v=47 nauwk=9m limiet=50 wegen=4271 draai=-0 vaste=68/0 gemeld=16 stemming=relaxed
+13:15:12 v=50 nauwk=10m limiet=50 wegen=4271 draai=2 vaste=68/0 gemeld=16 stemming=relaxed
+13:15:22 v=47 nauwk=10m limiet=50 wegen=4271 draai=-4 vaste=68/0 gemeld=16 stemming=relaxed
+13:15:26 voelen: ik weet nu waar vooruit is (50%)
+13:15:31 ev content: Hier rijden we vaak. Ik ken dit stukje.
+13:15:32 v=22 nauwk=10m limiet=50 wegen=4271 draai=2 vaste=68/0 gemeld=16 stemming=content
+13:15:39 flitsers via /flitsers: 16/16
+13:15:40 ANWB verkeer geladen: 34 meldingen in de buurt (van 67)
+13:15:42 v=32 nauwk=10m limiet=30 wegen=4271 draai=0 vaste=68/0 gemeld=16 stemming=relaxed
+13:15:53 v=2 nauwk=10m limiet=30 wegen=1396 draai=-0 vaste=68/0 gemeld=16 stemming=content
+13:16:00 drempel/schok sterkte 2.6 bij 24 km/h
+13:16:00 ev startled: Boing!
+13:16:00 drempel/schok sterkte 3.2 bij 24 km/h (tweede klap)
+13:16:03 v=31 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=relaxed
+13:16:13 v=32 nauwk=10m limiet=30 wegen=1396 draai=1 vaste=68/0 gemeld=16 stemming=relaxed
+13:16:14 drempel/schok sterkte 2.6 bij 32 km/h
+13:16:15 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+13:16:15 hobbelige weg (4 klappen in 20 s)
+13:16:24 v=39 nauwk=10m limiet=30 wegen=1396 draai=-0 vaste=68/0 gemeld=16 stemming=relaxed
+13:16:26 ev worried: Oei, we gaan net iets te hard.
+13:16:34 v=39 nauwk=10m limiet=30 wegen=1396 draai=-1 vaste=68/0 gemeld=16 stemming=happy
+13:16:38 groep ververst: 5
+13:16:40 voelen: ik weet nu waar vooruit is (51%)
+13:16:44 v=13 nauwk=10m limiet=30 wegen=1396 draai=12 vaste=68/0 gemeld=16 stemming=neutral
+13:16:55 v=20 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+13:16:57 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+13:17:05 v=17 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+13:17:09 osm werk via Worker (oud): 400 stuks
+13:17:09 wegwerkzaamheden geladen: 398
+13:17:16 v=16 nauwk=10m limiet=30 wegen=1396 draai=-0 vaste=68/0 gemeld=16 stemming=neutral
+13:17:26 v=11 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+13:17:37 bruggen geladen: 8
+13:17:37 v=8 nauwk=10m limiet=30 wegen=1396 draai=-2 vaste=68/0 gemeld=16 stemming=neutral
+13:17:38 NDW geladen: 329 meldingen in de buurt {"speed":38,"lane":75,"closure":215,"jam":1}
+13:17:39 flitsers via /flitsers: 16/16
+13:17:41 ANWB verkeer geladen: 34 meldingen in de buurt (van 67)
+13:17:47 v=0 nauwk=10m limiet=30 wegen=1396 draai=-0 vaste=68/0 gemeld=16 stemming=neutral
+13:17:57 v=4 nauwk=10m limiet=30 wegen=1396 draai=-0 vaste=68/0 gemeld=16 stemming=neutral
+13:18:07 v=0 nauwk=10m limiet=30 wegen=1396 draai=-0 vaste=68/0 gemeld=16 stemming=neutral
+13:18:17 v=0 nauwk=10m limiet=30 wegen=1396 draai=-0 vaste=68/0 gemeld=16 stemming=neutral
+13:18:28 v=0 nauwk=10m limiet=30 wegen=1396 draai=-0 vaste=68/0 gemeld=16 stemming=neutral
+13:18:33 ev excited: Groen! Daar gaan we.
+13:18:39 v=0 nauwk=10m limiet=30 wegen=1396 draai=-0 vaste=68/0 gemeld=16 stemming=neutral
+13:18:49 v=0 nauwk=10m limiet=30 wegen=1396 draai=-0 vaste=68/0 gemeld=16 stemming=happy
+13:19:00 v=0 nauwk=10m limiet=30 wegen=1396 draai=-0 vaste=68/0 gemeld=16 stemming=neutral
+13:19:11 v=0 nauwk=10m limiet=30 wegen=1396 draai=-0 vaste=68/0 gemeld=16 stemming=alert
+13:19:16 Buddy-scherm verbonden
+13:19:17 ev clock: Het is 13:19.
+13:19:22 v=0 nauwk=10m limiet=30 wegen=1396 draai=-0 vaste=68/0 gemeld=16 stemming=neutral
+13:19:25 scherm| t=39 nmea=3504/0 |t=39 nmea=3504/0 |s
+13:19:25 scherm| [00:07:02] wifi 38 km/u | tel dats zoekt sat=0 zich ingesteld: Sultraa | heap 73400 | lt=1 nmea=6585/0 | 
+13:19:25 scherm| [00:07:16] BLE: 0ms stuur 12.7ms
+13:19:25 scherm| icht 165 | fps 41 0 km/u | tel data telefoon weg
+13:19:25 scherm| [00:[00:01:58] uit (diteken 19.9ms stuur| heap 72856 | lic07:19] BLE: telefoepe slaap): deur d 15.8ms
+13:19:25 scherm| [00:04:13ht 165 | fps 37 teon verbonden
+13:19:25 scherm| [00:icht en daarna sti] retro meter: optken 22.3ms stuur 107:22] groep/workel. Wakker bij bewerekken 26 -> 39
+13:19:25 scherm| [9.2ms
+13:19:25 scherm| [00:09:25] r ingesteld (Ricarging.
+13:19:25 scherm| [00:00:02] 00:05:00] status |wifi ingesteld: Sudo)
+13:19:25 scherm| [00:07:24] kl===== OPSTART v42  klok 13:10 | gps ltra
+13:19:25 scherm| [00:09:36] wok gezet via de te| reden: uit diepeFIX sat=13 zicht=3ifi ingesteld: Sullefoon
+13:19:25 scherm| [00:07:55] slaap | heap 11795 nmea=4661/0 | 32tra
+13:19:25 scherm| [00:10:00] st wifi ingesteld: S00 =====
+13:19:25 scherm| [00:00:0atus | klok 12:08 ultra
+13:19:25 scherm| [00:08:00] 2] wakker geworden heap 73400 | lichstatus | klok 12:0| gps zoekt sat=0 tatus | klok 13:11 data | heap 73056 licht 165 | fps 4 29 teken 29.2ms sur 11.9ms
+13:19:25 scherm| [00:11:roet: Goeiemorgen,/0 | 29 km/u | teltuur 17.5ms
+13:19:25 scherm| [00:000] status | klok  Ricardo! (vriend  data | heap 734008:00] wifi ingeste12:09 | gps zoekt 41)
+13:19:25 scherm| [00:01:00] st | licht 165 | fpsld: Sultra
+13:19:25 scherm| [00:08sat=0 zicht=0 nmeaatus | klok 10:34  39 teken 20.9ms s:17] net: ers.dev/=8033/0 | 0 km/u || gps zoekt sat=0 tuur 15.7ms
+13:19:25 scherm| [00:0scherm?lat=0.00000 tel data | heap 7zicht=10 nmea=237/7:00] status | klo&lon=0.00000&g=1232452 | licht 165 |0 | 0 km/u | tel nk 13:12 | gps FIX 456&van=b45dqfo0s8 fps 44 teken 18.0ee | he
+13:19:25 scherm| [ea=7002/0 | 44 km/ea=7002/0 | 44 km/
+13:19:25 scherm| [00:09:00] status00:12:00] status | teken 17.2ms stuuu | tel data | hea | klok 12:07 | gp klok 12:10 | gps r 14.0ms
+13:19:25 scherm| [00:02:0p 73400 | licht 16s zoekt sat=0 zichzoekt sat=0 zicht=0] status | klok 15 | fps 40 teken 2t=1 nmea=6585/0 | 1 nmea=8757/0 | 0 ken 22.3ms stuur 1n 18.1ms stuur 14.56 | licht 211 | f0] s
+13:19:25 scherm| [00:09:25] 5ms
+13:19:25 scherm| [00:12:29] BLE: telefoon weg
+13:19:25 scherm| [ stuur 14.3ms
+13:19:25 scherm| [00=15 zicht=40 nmea=ltra
+13:19:25 scherm| [00:09:36] w00:13:00] status |:03:00] status | k8139/0 | 63 km/u |ifi ingesteld: Sul klok 12:11 | gps lok 10:37 | gps zo tel data | heap 7tra
+13:19:25 scherm| [00:10:00] stzoekt sat=0 zicht=ekt sat=0 zicht=113400 | licht 165 |atus | klok 12:08 0 nmea=9481/0 | 0  nmea=1823/0 | 0 k fps 39 teken 20.8| gps zoekt sat=0 km/u | tel nee | hm/u | tel nee | h
+13:19:25 scherm| [zicht=0 nmea=7309/eap 72644 | licht ap 73856 | licht 200:08:01] tegel 170 | 0 km/u | tel d165 | fps 53 teken11 | fps 55 teken 33_95: 876 wegvakkata | heap 72696 | 14.1ms stuur 10.913.4ms stuu
+13:19:25 scherm| [00:09:00] sta licht 165 | fps 4ms
+13:19:25 scherm| [00:14:00] stas
+13:19:25 scherm| [00:04:00] stattus | klok 13:14 |9 teken 15.3ms stutus | klok 12:12 |us | klok 10:38 |  gps FIX sat=16 ziur 11.9ms
+13:19:25 scherm| [00:11:cht=40 nmea=9305/000] status | klok icht=0 nmea=10205/cht=7 nmea=2624/0  | 53 km/u | tel d12:09 | gps zoekt eken 17.1ms stuur ur 15.7ms
+13:19:25 scherm| [00:10:2452 | licht 165 |r 9.0ms
+13:19:25 scherm| [00:15:0014.1ms
+13:19:25 scherm| [00:05:00]00] status | klok 13:15 | gps FIX sams stuur 14.3ms
+13:19:25 scherm| [:13 | gps zoekt sa39 | gps zoekt satt=15 zicht=28 nmea00:12:00] status |t=0 zicht=3 nmea=1=0 zicht=9 nmea=34=10436/0 | 35 km/u klok 12:10 | gps 0929/0 | 0 km/u | 51/0 | 0 km/u | te | tel data
+13:19:25 scherm| [00tuur 12.7ms
+13:19:25 scherm| [00:0
+13:19:25 scherm| [00:10:57] te har 165 | fps 44 teke:16:00] status | k5:19] GPS: FIX! 4 d: 39 bij 30
+13:19:25 scherm| [00:n 18.1ms stuur 14.lok 12:14 | gps zosatellieten
+13:19:25 scherm| [00:0[00:05:30] GPS: fimea=11529/0 | 40 k klok 12:11 | gps ap 72744 | licht 1x kwijt (0 sat)
+13:19:25 scherm| [m/u | tel data | h 20.1ms stuur 15.7eap 72644 | licht diepe slaap): deur klok 10:40 | gps ms
+13:19:25 scherm| [00:12:00] sta165 | fps 53 teken nmea=4290/0 | 1 k gps FIX sat=13 zims
+13:19:25 scherm| [00:14:00] staweging.
+13:19:25 scherm| [00:00:02m/u | tel nee | hecht=38 nmea=12627/tus | klok 12:12 |] ===== OPSTART v4ap 73612 | licht 20 | 9 km/u | tel d gps zoekt sat=0 z2 | reden: uit die11 | fps 53 teken ata | heap 73400 |ich
+13:19:25 scherm| [00:00s
+13:19:25 scherm| [00:00:02] ====3 teken 18.8ms stuee | heap 72648 | :02] wakker geword= OPSTART v42 | reur 15.7ms
+13:19:25 scherm| [00:13:licht 165 | fps 56den: stroom aan | den: stroom aan | 00] status | klok  teken 12.2ms stuuheap 117892 =====instappen?)
+13:19:25 scherm| [00:013:18 | gps FIX sar 9.0ms
+13:19:25 scherm| [00:15:00
+13:19:25 scherm| [00:00:02] flitse0:02] flitsers: 51t=10 zicht=36 nmea] status | klok 12rs: 515 vast, 76 t5 vast, 76 traject=13724/0 | 2 km/u :13 | gps zoekt sacontroles (uit gehrajectcontroles (u| tel data | 
+13:19:25 scherm| [00:00:04]it geheugen)
+13:19:25 scherm| [00:[00:13:44] BLE: teps 55 teken 13.5ms1)
+13:19:25 scherm| [00:00:48] GPS[00:01:00] status lefoon weg
+13:19:25 scherm| [00:13 stuur 10.6ms
+13:19:25 scherm| [00: FIX! 20 satellie:16:00] status | kten
+13:19:25 scherm| [00:00:53] Ri zoekt sat=0 zicht verbonden
+13:19:25 scherm| lok 12:14 | gps zot begonnen
+13:19:25 scherm| [00:01=1 nmea=737/0 | 0 
+13:19:25 van het Buddy-scherm: ekt sat=0 zicht=1 
+13:19:25 van het Buddy-scherm: :00] status | klok
+13:19:25 van het Buddy-scherm: km/u | tel nee | h
+13:19:25 van het Buddy-scherm: nmea=11654/0 | 0 k
+13:19:25 van het Buddy-scherm:  12:52 | gps FIX s
+13:19:25 van het Buddy-scherm: eap 74000 | licht 
+13:19:25 van het Buddy-scherm: m/u | tel nee | he
+13:19:25 van het Buddy-scherm: 211 | fps 53 teken
+13:19:25 van het Buddy-scherm: 211 | fps 53 teken
+13:19:25 van het Buddy-scherm: ap 72744 | licht 1
+13:19:25 van het Buddy-scherm:  14.0ms stuur 11.1
+13:19:25 van het Buddy-scherm: a=471/0 | 12 km/u 
+13:19:25 van het Buddy-scherm: 65 | fps 56 teken 
+13:19:25 van het Buddy-scherm: ms
+[00:02:00] sta
+13:19:25 van het Buddy-scherm: | tel nee | heap 7
+13:19:25 van het Buddy-scherm: 12.7ms stuur 9.1ms
+13:19:25 van het Buddy-scherm: tus | klok -1:00 |
+13:19:25 van het Buddy-scherm: 3624 | licht 165 |
+13:19:25 van het Buddy-scherm: 
+[00:16:14] uit (
+13:19:25 van het Buddy-scherm:  gps zoekt sat=0 z
+13:19:25 van het Buddy-scherm:  fps 48 teken 16.5
+13:19:25 van het Buddy-scherm: diepe slaap): deur
+13:19:25 van het Buddy-scherm: icht=0 nmea=1457/0
+13:19:25 van het Buddy-scherm: ms stuur 14.0ms
+[
+13:19:25 van het Buddy-scherm:  dicht en daarna s
+13:19:25 van het Buddy-scherm:  | 0 km/u | tel ne
+13:19:25 van het Buddy-scherm: 00:02:00] status |
+13:19:25 van het Buddy-scherm: til. Wakker bij be
+13:19:25 van het Buddy-scherm: e | heap 74000 | l
+13:19:25 van het Buddy-scherm:  klok 12:53 | gps 
+13:19:25 van het Buddy-scherm: weging.
+[00:00:02
+13:19:25 van het Buddy-scherm: icht 211 | fps 56 
+13:19:25 van het Buddy-scherm: FIX sat=19 zicht=3
+13:19:25 van het Buddy-scherm: ] ===== OPSTART v4
+13:19:25 van het Buddy-scherm: teken 11.3ms stuur
+13:19:25 van het Buddy-scherm: 9 nmea=1589/0 | 5 
+13:19:25 van het Buddy-scherm: 2 | reden: uit die
+13:19:25 van het Buddy-scherm:  8.5ms
+[00:00:02]
+13:19:25 van het Buddy-scherm: km/u | tel nee | h
+13:19:25 van het Buddy-scherm: pe slaap | heap 11
+13:19:25 van het Buddy-scherm:  ===== OPSTART v42
+13:19:25 van het Buddy-scherm: 7900 =====
+[00:00
+13:19:25 van het Buddy-scherm:  | reden: stroom a
+13:19:25 van het Buddy-scherm:  | reden: stroom a
+13:19:25 van het Buddy-scherm: :02] wakker geword
+13:19:25 van het Buddy-scherm:  16.4ms stuur 14.2
+13:19:25 van het Buddy-scherm: an | heap 117900 =
+13:19:25 van het Buddy-scherm: tus | klok 12:54 |
+13:19:25 van het Buddy-scherm: instappen?)
+[00:0
+13:19:25 van het Buddy-scherm: litsers: 515 vast,
+13:19:25 van het Buddy-scherm:  gps FIX sat=19 zi
+13:19:25 van het Buddy-scherm:  76 trajectcontrol
+13:19:25 van het Buddy-scherm:  76 trajectcontrol
+13:19:25 van het Buddy-scherm: cht=38 nmea=2727/0
+13:19:25 van het Buddy-scherm: 5 vast, 76 traject
+13:19:25 van het Buddy-scherm: es (uit geheugen)
+13:19:25 van het Buddy-scherm:  | 0 km/u | tel ne
+13:19:25 van het Buddy-scherm: 
+[00:00:16] groet:
+13:19:25 van het Buddy-scherm: 
+[00:00:16] groet:
+13:19:25 van het Buddy-scherm: e | heap 73624 | l
+13:19:25 van het Buddy-scherm: eugen)
+[00:00:04]
+13:19:25 van het Buddy-scherm:  Hoi, Ricardo! Daa
+13:19:25 van het Buddy-scherm: icht 165 | fps 50 
+13:19:25 van het Buddy-scherm:  groet: Weekend, R
+13:19:25 van het Buddy-scherm: r ben je! (vriend 
+13:19:25 van het Buddy-scherm: teken 15.5ms stuur
+13:19:25 van het Buddy-scherm: icardo! Waar gaan 
+13:19:25 van het Buddy-scherm: 41)
+[00:01:00] st
+13:19:25 van het Buddy-scherm:  11.4ms
+[00:04:00
+13:19:25 van het Buddy-scherm: we heen? (vriend 4
+13:19:25 van het Buddy-scherm: atus | klok -1:00 
+13:19:25 van het Buddy-scherm: ] status | klok 12
+13:19:25 van het Buddy-scherm: 1)
+[00:00:48] GPS
+13:19:25 van het Buddy-scherm: | gps zoekt sat=0 
+13:19:25 van het Buddy-scherm: :55 | gps FIX sat=
+13:19:25 van het Buddy-scherm: : FIX! 20 satellie
+13:19:25 van het Buddy-scherm: zicht=0 nmea=725/0
+13:19:25 van het Buddy-scherm: 19 zicht=29 nmea=3
+13:19:25 van het Buddy-scherm: ten
+[00:00:53] Ri
+13:19:25 van het Buddy-scherm:  | 0 km/u | tel ne
+13:19:25 van het Buddy-scherm: 839/0 | 0 km/u | t
+13:19:25 van het Buddy-scherm: t begonnen
+[00:01
+13:19:25 van het Buddy-scherm: e | heap 74004 | l
+13:19:25 van het Buddy-scherm: el nee | heap 7362
+13:19:25 van het Buddy-scherm: :00] status | klok
+13:19:25 van het Buddy-scherm: icht 211 | fps 57 
+13:19:25 van het Buddy-scherm: 4 | licht 165 | fp
+13:19:25 van het Buddy-scherm:  12:52 | gps FIX s
+13:19:25 van het Buddy-scherm: teken 12.4ms stuur
+13:19:25 van het Buddy-scherm: stuur 9.9ms
+[00:0
+13:19:25 van het Buddy-scherm: a=471/0 | 12 km/u 
+13:19:25 van het Buddy-scherm:  status | klok -1:
+13:19:25 van het Buddy-scherm: 5:00] status | klo
+13:19:25 van het Buddy-scherm: | tel nee | heap 7
+13:19:25 van het Buddy-scherm: 00 | gps zoekt sat
+13:19:25 van het Buddy-scherm: 3624 | licht 165 |
+13:19:25 van het Buddy-scherm: =0 zicht=0 nmea=14
+13:19:25 van het Buddy-scherm: sat=23 zicht=39 nm
+13:19:25 van het Buddy-scherm:  fps 48 teken 16.5
+13:19:25 van het Buddy-scherm: 45/0 | 0 km/u | te
+13:19:25 van het Buddy-scherm: ea=4986/0 | 0 km/u
+13:19:25 van het Buddy-scherm: ms stuur 14.0ms
+[
+13:19:25 van het Buddy-scherm: l nee | heap 74004
+13:19:25 van het Buddy-scherm:  | tel nee | heap 
+13:19:25 van het Buddy-scherm: 00:02:00] status |
+13:19:25 van het Buddy-scherm:  | licht 211 | fps
+13:19:25 van het Buddy-scherm: 73624 | licht 165 
+13:19:25 van het Buddy-scherm:  klok 12:53 | gps 
+13:19:25 van het Buddy-scherm:  46 teken 17.1ms s
+13:19:25 van het Buddy-scherm: | fps 53 teken 14.
+13:19:25 van het Buddy-scherm: FIX sat=19 zicht=3
+13:19:25 van het Buddy-scherm: tuur 14.5ms
+[00:0
+13:19:25 van het Buddy-scherm: 0ms stuur 9.7ms
+[
+13:19:25 van het Buddy-scherm: 9 nmea=1589/0 | 5 
+13:19:25 van het Buddy-scherm: 3:00] status | klo
+13:19:25 van het Buddy-scherm: 00:06:00] status |
+13:19:25 van het Buddy-scherm: km/u | tel nee | h
+13:19:25 van het Buddy-scherm: k -1:00 | gps zoek
+13:19:25 van het Buddy-scherm:  klok 12:57 | gps 
+13:19:25 van het Buddy-scherm: eap 73624 | licht 
+13:19:25 van het Buddy-scherm: t sat=0 zicht=0 nm
+13:19:25 van het Buddy-scherm: FIX sat=23 zicht=3
+13:19:25 van het Buddy-scherm: 165 | fps 48 teken
+13:19:26 van het Buddy-scherm: ea=2165/0 | 0 km/u
+13:19:26 van het Buddy-scherm: 8 nmea=6119/0 | 0 
+13:19:26 van het Buddy-scherm:  16.4ms stuur 14.2
+13:19:26 van het Buddy-scherm:  | tel nee | heap 
+13:19:26 van het Buddy-scherm: km/u | tel nee | h
+13:19:26 van het Buddy-scherm: 74004 | licht 211 
+13:19:26 van het Buddy-scherm: 74004 | licht 211 
+13:19:26 van het Buddy-scherm: | fps 46 teken 17.
+13:19:26 van het Buddy-scherm: eap 73624 | licht 
+13:19:26 van het Buddy-scherm: eap 73624 | licht 
+13:19:26 van het Buddy-scherm: 1ms stuur 14.2ms
+
+13:19:26 van het Buddy-scherm: 12 | fps 10 teken 
+13:19:26 van het Buddy-scherm:  gps FIX sat=19 zi
+13:19:26 van het Buddy-scherm: [00:04:00] status 
+13:19:26 van het Buddy-scherm: 10.8ms stuur 9.4ms
+13:19:26 van het Buddy-scherm: cht=38 nmea=2727/0
+13:19:26 van het Buddy-scherm: | klok -1:00 | gps
+13:19:26 van het Buddy-scherm:  | SLAAPT
+[00:07:
+13:19:26 van het Buddy-scherm:  zoekt sat=0 zicht
+13:19:26 van het Buddy-scherm: 00] status | klok 
+13:19:26 van het Buddy-scherm: e | heap 73624 | l
+13:19:26 van het Buddy-scherm: =0 nmea=2885/0 | 0
+13:19:26 van het Buddy-scherm: 12:58 | gps FIX sa
+13:19:26 van het Buddy-scherm: icht 165 | fps 50 
+13:19:26 van het Buddy-scherm: t=23 zicht=30 nmea
+13:19:26 van het Buddy-scherm: teken 15.5ms stuur
+13:19:26 van het Buddy-scherm: heap 74004 | licht
+13:19:26 van het Buddy-scherm: =7202/0 | 0 km/u |
+13:19:26 van het Buddy-scherm:  11.4ms
+[00:04:00
+13:19:26 van het Buddy-scherm:  211 | fps 56 teke
+13:19:26 van het Buddy-scherm:  tel nee | heap 73
+13:19:26 van het Buddy-scherm: ] status | klok 12
+13:19:26 van het Buddy-scherm: n 10.8ms stuur 8.4
+13:19:26 van het Buddy-scherm: 624 | licht 12 | f
+13:19:26 van het Buddy-scherm: :55 | gps FIX sat=
+13:19:26 van het Buddy-scherm: ms
+[00:00:02] ===
+13:19:26 van het Buddy-scherm: ps 10 teken 11.7ms
+13:19:26 van het Buddy-scherm: 19 zicht=29 nmea=3
+13:19:26 van het Buddy-scherm: == OPSTART v42 | r
+13:19:26 van het Buddy-scherm:  stuur 10.0ms | SL
+13:19:26 van het Buddy-scherm: 839/0 | 0 km/u | t
+13:19:26 van het Buddy-scherm: eden: stroom aan |
+13:19:26 van het Buddy-scherm: AAPT
+[00:08:00] s
+13:19:26 van het Buddy-scherm: el nee | heap 7362
+13:19:26 van het Buddy-scherm:  heap 117900 =====
+13:19:26 van het Buddy-scherm: tatus | klok 12:59
+13:19:26 van het Buddy-scherm: 4 | licht 165 | fp
+13:19:26 van het Buddy-scherm: 
+[00:00:02] flits
+13:19:26 van het Buddy-scherm:  | gps FIX sat=24 
+13:19:26 van het Buddy-scherm: s 53 teken 14.3ms 
+13:19:26 van het Buddy-scherm: ers: 515 vast, 76 
+13:19:26 van het Buddy-scherm: zicht=39 nmea=8266
+13:19:26 van het Buddy-scherm: stuur 9.9ms
+[00:0
+13:19:26 van het Buddy-scherm: trajectcontroles (
+13:19:26 van het Buddy-scherm: /0 | 0 km/u | tel 
+13:19:26 van het Buddy-scherm: 5:00] status | klo
+13:19:26 van het Buddy-scherm: uit geheugen)
+[00
+13:19:26 van het Buddy-scherm: nee | heap 73624 |
+13:19:26 van het Buddy-scherm: k 12:56 | gps FIX 
+13:19:26 van het Buddy-scherm: :00:14] groet: Goe
+13:19:26 van het Buddy-scherm:  licht 12 | fps 10
+13:19:26 van het Buddy-scherm: sat=23 zicht=39 nm
+13:19:26 van het Buddy-scherm: iemorgen, Ricardo!
+13:19:26 van het Buddy-scherm: ea=4986/0 | 0 km/u
+13:19:26 van het Buddy-scherm:  teken 11.0ms stuu
+13:19:26 van het Buddy-scherm:  (vriend 41)
+[00:
+13:19:26 van het Buddy-scherm:  | tel nee | heap 
+13:19:26 van het Buddy-scherm: r 9.4ms | SLAAPT
+
+13:19:26 van het Buddy-scherm: ok 11:46 | gps zoe
+13:19:26 van het Buddy-scherm: | klok 13:00 | gps
+13:19:26 van het Buddy-scherm: | fps 53 teken 14.
+13:19:26 van het Buddy-scherm: kt sat=0 zicht=3 n
+13:19:26 van het Buddy-scherm:  FIX sat=22 zicht=
+13:19:26 van het Buddy-scherm: 0ms stuur 9.7ms
+[
+13:19:26 van het Buddy-scherm: 29 nmea=9320/0 | 0
+13:19:26 van het Buddy-scherm: 00:06:00] status |
+13:19:26 van het Buddy-scherm:  km/u | tel nee | 
+13:19:26 van het Buddy-scherm:  | tel nee | heap 
+13:19:26 van het Buddy-scherm:  klok 12:57 | gps 
+13:19:26 van het Buddy-scherm: heap 73624 | licht
+13:19:26 van het Buddy-scherm: 74016 | licht 211 
+13:19:26 van het Buddy-scherm: FIX sat=23 zicht=3
+13:19:26 van het Buddy-scherm:  12 | fps 10 teken
+13:19:26 van het Buddy-scherm: | fps 48 teken 16.
+13:19:26 van het Buddy-scherm: 8 nmea=6119/0 | 0 
+13:19:26 van het Buddy-scherm:  11.4ms stuur 9.6m
+13:19:26 van het Buddy-scherm: 2ms stuur 12.9ms
+
+13:19:26 van het Buddy-scherm: km/u | tel nee | h
+13:19:26 van het Buddy-scherm: s | SLAAPT
+[00:10
+13:19:26 van het Buddy-scherm: [00:02:00] status 
+13:19:26 van het Buddy-scherm: eap 73624 | licht 
+13:19:26 van het Buddy-scherm: :00] status | klok
+13:19:26 van het Buddy-scherm: | klok 11:47 | gps
+13:19:26 van het Buddy-scherm: 12 | fps 10 teken 
+13:19:26 van het Buddy-scherm:  13:01 | gps FIX s
+13:19:26 van het Buddy-scherm:  zoekt sat=0 zicht
+13:19:26 van het Buddy-scherm: 10.8ms stuur 9.4ms
+13:19:26 van het Buddy-scherm: at=23 zicht=28 nme
+13:19:26 van het Buddy-scherm: =4 nmea=1460/0 | 0
+13:19:26 van het Buddy-scherm:  | SLAAPT
+[00:07:
+13:19:26 van het Buddy-scherm: a=10383/0 | 0 km/u
+13:19:26 van het Buddy-scherm:  km/u | tel nee | 
+13:19:26 van het Buddy-scherm: 00] status | klok 
+13:19:26 van het Buddy-scherm:  | tel nee | heap 
+13:19:26 van het Buddy-scherm: heap 74016 | licht
+13:19:26 van het Buddy-scherm: 12:58 | gps FIX sa
+13:19:26 van het Buddy-scherm: 73624 | licht 12 |
+13:19:26 van het Buddy-scherm:  211 | fps 56 teke
+13:19:26 van het Buddy-scherm: t=23 zicht=30 nmea
+13:19:26 van het Buddy-scherm:  fps 10 teken 11.6
+13:19:26 van het Buddy-scherm: n 11.7ms stuur 8.6
+13:19:26 van het Buddy-scherm: =7202/0 | 0 km/u |
+13:19:26 van het Buddy-scherm: ms stuur 10.2ms | 
+13:19:26 van het Buddy-scherm: ms
+[00:03:00] sta
+13:19:26 van het Buddy-scherm:  tel nee | heap 73
+13:19:26 van het Buddy-scherm: SLAAPT
+[00:11:00]
+13:19:26 van het Buddy-scherm: tus | klok 11:48 |
+13:19:26 van het Buddy-scherm: 624 | licht 12 | f
+13:19:26 van het Buddy-scherm:  status | klok 13:
+13:19:26 van het Buddy-scherm:  gps zoekt sat=0 z
+13:19:26 van het Buddy-scherm:  stuur 10.0ms | SL
+13:19:26 van het Buddy-scherm: 1 zicht=28 nmea=11
+13:19:26 van het Buddy-scherm:  | 0 km/u | tel ne
+13:19:26 van het Buddy-scherm: AAPT
+[00:08:00] s
+13:19:26 van het Buddy-scherm: 404/0 | 0 km/u | t
+13:19:26 van het Buddy-scherm: e | heap 74016 | l
+13:19:26 van het Buddy-scherm: el nee | heap 7362
+13:19:26 van het Buddy-scherm: icht 211 | fps 55 
+13:19:26 van het Buddy-scherm:  | gps FIX sat=24 
+13:19:26 van het Buddy-scherm: 4 | licht 12 | fps
+13:19:26 van het Buddy-scherm: teken 13.2ms stuur
+13:19:26 van het Buddy-scherm: zicht=39 nmea=8266
+13:19:26 van het Buddy-scherm:  10 teken 11.5ms s
+13:19:26 van het Buddy-scherm:  9.8ms
+[00:04:00]
+13:19:26 van het Buddy-scherm: /0 | 0 km/u | tel 
+13:19:26 van het Buddy-scherm: tuur 9.9ms | SLAAP
+13:19:26 van het Buddy-scherm:  status | klok 11:
+13:19:26 van het Buddy-scherm: nee | heap 73624 |
+13:19:26 van het Buddy-scherm: T
+[00:12:00] stat
+13:19:26 van het Buddy-scherm: 49 | gps zoekt sat
+13:19:26 van het Buddy-scherm:  licht 12 | fps 10
+13:19:26 van het Buddy-scherm: us | klok 13:03 | 
+13:19:26 van het Buddy-scherm: =0 zicht=9 nmea=30
+13:19:26 van het Buddy-scherm:  teken 11.0ms stuu
+13:19:26 van het Buddy-scherm: gps FIX sat=21 zic
+13:19:26 van het Buddy-scherm: 13/0 | 0 km/u | te
+13:19:26 van het Buddy-scherm: r 9.4ms | SLAAPT
+
+13:19:26 van het Buddy-scherm: ht=29 nmea=12431/0
+13:19:26 van het Buddy-scherm: l nee | heap 74016
+13:19:26 van het Buddy-scherm: [00:09:00] status 
+13:19:26 van het Buddy-scherm:  | 0 km/u | tel ne
+13:19:26 van het Buddy-scherm:  | licht 12 | fps 
+13:19:26 van het Buddy-scherm: | klok 13:00 | gps
+13:19:26 van het Buddy-scherm: e | heap 73624 | l
+13:19:26 van het Buddy-scherm: 10 teken 11.6ms st
+13:19:26 van het Buddy-scherm:  FIX sat=22 zicht=
+13:19:26 van het Buddy-scherm: icht 12 | fps 10 t
+13:19:26 van het Buddy-scherm: uur 9.8ms | SLAAPT
+13:19:26 van het Buddy-scherm: 29 nmea=9320/0 | 0
+13:19:26 van het Buddy-scherm: eken 11.5ms stuur 
+13:19:26 van het Buddy-scherm: 
+[00:00:02] =====
+13:19:26 van het Buddy-scherm:  km/u | tel nee | 
+13:19:26 van het Buddy-scherm: 9.9ms | SLAAPT
+[0
+13:19:26 van het Buddy-scherm:  OPSTART v42 | red
+13:19:26 van het Buddy-scherm: heap 73624 | licht
+13:19:26 van het Buddy-scherm: 0:12:38] uit (diep
+13:19:26 van het Buddy-scherm: en: stroom aan | h
+13:19:26 van het Buddy-scherm:  12 | fps 10 teken
+13:19:26 van het Buddy-scherm: e slaap): 10 minut
+13:19:26 van het Buddy-scherm: eap 117900 =====
+
+13:19:26 van het Buddy-scherm:  11.4ms stuur 9.6m
+13:19:26 van het Buddy-scherm: ij beweging.
+[00:
+13:19:26 van het Buddy-scherm: s: 515 vast, 76 tr
+13:19:26 van het Buddy-scherm: :00] status | klok
+13:19:26 van het Buddy-scherm: 00:02] ===== OPSTA
+13:19:26 van het Buddy-scherm: ajectcontroles (ui
+13:19:26 van het Buddy-scherm:  13:01 | gps FIX s
+13:19:26 van het Buddy-scherm: RT v42 | reden: ui
+13:19:26 van het Buddy-scherm: t geheugen)
+[00:0
+13:19:26 van het Buddy-scherm: at=23 zicht=28 nme
+13:19:26 van het Buddy-scherm: t diepe slaap | he
+13:19:26 van het Buddy-scherm: 0:16] groet: Hoi, 
+13:19:26 van het Buddy-scherm: a=10383/0 | 0 km/u
+13:19:26 van het Buddy-scherm: ap 117744 =====
+[
+13:19:26 van het Buddy-scherm: Ricardo! Daar ben 
+13:19:26 van het Buddy-scherm:  | tel nee | heap 
+13:19:26 van het Buddy-scherm: 00:00:02] wakker g
+13:19:26 van het Buddy-scherm: je! (vriend 41)
+[
+13:19:26 van het Buddy-scherm: 73624 | licht 12 |
+13:19:26 van het Buddy-scherm: eworden door beweg
+13:19:26 van het Buddy-scherm: 00:01:00] status |
+13:19:26 van het Buddy-scherm:  fps 10 teken 11.6
+--- v85 · Linux; Android 10; K ---
+13:19:26 van het Buddy-scherm: ing (instappen?)
+
+13:19:26 van het Buddy-scherm:  klok 11:59 | gps 
+13:19:26 van het Buddy-scherm: ms stuur 10.2ms | 
+13:19:26 van het Buddy-scherm: [00:00:02] flitser
+13:19:26 van het Buddy-scherm: zoekt sat=0 zicht=
+13:19:26 van het Buddy-scherm: SLAAPT
+[00:11:00]
+13:19:26 van het Buddy-scherm: s: 515 vast, 76 tr
+13:19:26 van het Buddy-scherm: 2 nmea=753/0 | 0 k
+13:19:26 van het Buddy-scherm:  status | klok 13:
+13:19:26 van het Buddy-scherm: ajectcontroles (ui
+13:19:26 van het Buddy-scherm: m/u | tel nee | he
+13:19:26 van het Buddy-scherm: 02 | gps FIX sat=2
+13:19:26 van het Buddy-scherm: t geheugen)
+[00:0
+13:19:26 van het Buddy-scherm: ap 74008 | licht 2
+13:19:26 van het Buddy-scherm: 1 zicht=28 nmea=11
+13:19:26 van het Buddy-scherm: 0:02] GPS: FIX! 21
+13:19:26 van het Buddy-scherm: 11 | fps 53 teken 
+13:19:26 van het Buddy-scherm: 404/0 | 0 km/u | t
+13:19:26 van het Buddy-scherm:  satellieten
+[00:
+13:19:27 van het Buddy-scherm: 13.9ms stuur 10.0m
+13:19:27 van het Buddy-scherm: el nee | heap 7362
+13:19:27 van het Buddy-scherm: 00:04] groet: Week
+13:19:27 van het Buddy-scherm: s
+[00:02:00] stat
+13:19:27 van het Buddy-scherm: 4 | licht 12 | fps
+13:19:27 van het Buddy-scherm: end, Ricardo! Waar
+13:19:27 van het Buddy-scherm: us | klok 12:00 | 
+13:19:27 van het Buddy-scherm:  10 teken 11.5ms s
+13:19:27 van het Buddy-scherm:  gaan we heen? (vr
+13:19:27 van het Buddy-scherm: gps zoekt sat=0 zi
+13:19:27 van het Buddy-scherm: tuur 9.9ms | SLAAP
+13:19:27 van het Buddy-scherm: iend 41)
+[00:00:0
+13:19:27 van het Buddy-scherm: 9] GPS: fix kwijt 
+13:19:27 van het Buddy-scherm: | 0 km/u | tel nee
+13:19:27 van het Buddy-scherm: us | klok 13:03 | 
+13:19:27 van het Buddy-scherm: (28 sat)
+[00:00:5
+13:19:27 van het Buddy-scherm:  | heap 74008 | li
+13:19:27 van het Buddy-scherm: gps FIX sat=21 zic
+13:19:27 van het Buddy-scherm: ht=29 nmea=12431/0
+13:19:27 van het Buddy-scherm: tellieten
+[00:01:
+13:19:27 van het Buddy-scherm: eken 16.9ms stuur 
+13:19:27 van het Buddy-scherm:  | 0 km/u | tel ne
+13:19:27 van het Buddy-scherm: 13.8ms
+[00:03:00]
+13:19:27 van het Buddy-scherm: 00] status | klok 
+13:19:27 van het Buddy-scherm: e | heap 73624 | l
+13:19:27 van het Buddy-scherm:  status | klok 12:
+13:19:27 van het Buddy-scherm: 13:06 | gps FIX sa
+13:19:27 van het Buddy-scherm: icht 12 | fps 10 t
+13:19:27 van het Buddy-scherm: 01 | gps zoekt sat
+13:19:27 van het Buddy-scherm: t=20 zicht=30 nmea
+13:19:27 van het Buddy-scherm: eken 11.5ms stuur 
+13:19:27 van het Buddy-scherm: =0 zicht=0 nmea=22
+13:19:27 van het Buddy-scherm: =221/0 | 2 km/u | 
+13:19:27 van het Buddy-scherm: 9.9ms | SLAAPT
+[0
+13:19:27 van het Buddy-scherm: 38/0 | 0 km/u | te
+13:19:27 van het Buddy-scherm: tel nee | heap 736
+13:19:27 van het Buddy-scherm: 0:12:38] uit (diep
+13:19:27 van het Buddy-scherm: l nee | heap 74008
+13:19:27 van het Buddy-scherm: 12 | licht 165 | f
+13:19:27 van het Buddy-scherm: e slaap): 10 minut
+13:19:27 van het Buddy-scherm:  | licht 211 | fps
+13:19:27 van het Buddy-scherm: ps 46 teken 16.6ms
+13:19:27 van het Buddy-scherm: en niets. Wakker b
+13:19:27 van het Buddy-scherm:  55 teken 13.3ms s
+13:19:27 van het Buddy-scherm:  stuur 13.4ms
+[00
+13:19:27 van het Buddy-scherm: ij beweging.
+[00:
+13:19:27 van het Buddy-scherm: tuur 9.7ms
+[00:03
+13:19:27 van het Buddy-scherm: :02:00] status | k
+13:19:27 van het Buddy-scherm: 00:02] ===== OPSTA
+13:19:27 van het Buddy-scherm: :40] BLE: telefoon
+13:19:27 van het Buddy-scherm: lok 13:07 | gps FI
+13:19:27 van het Buddy-scherm: RT v42 | reden: ui
+13:19:27 van het Buddy-scherm:  verbonden
+[00:04
+13:19:27 van het Buddy-scherm: X sat=19 zicht=30 
+13:19:27 van het Buddy-scherm: t diepe slaap | he
+13:19:27 van het Buddy-scherm: :00] status | klok
+13:19:27 van het Buddy-scherm: nmea=1281/0 | 0 km
+13:19:27 van het Buddy-scherm: ap 117744 =====
+[
+13:19:27 van het Buddy-scherm:  12:02 | gps zoekt
+13:19:27 van het Buddy-scherm: /u | tel nee | hea
+13:19:27 van het Buddy-scherm: 00:00:02] wakker g
+13:19:27 van het Buddy-scherm:  sat=0 zicht=0 nme
+13:19:27 van het Buddy-scherm: p 73612 | licht 16
+13:19:27 van het Buddy-scherm: a=2964/0 | 0 km/u 
+13:19:27 van het Buddy-scherm: 5 | fps 51 teken 1
+13:19:27 van het Buddy-scherm: ing (instappen?)
+
+13:19:27 van het Buddy-scherm: | tel stil | heap 
+13:19:27 van het Buddy-scherm: 73788 | licht 165 
+13:19:27 van het Buddy-scherm: 
+[00:02:20] BLE: 
+13:19:27 van het Buddy-scherm: s: 515 vast, 76 tr
+13:19:27 van het Buddy-scherm: telefoon verbonden
+13:19:27 van het Buddy-scherm: | fps 41 teken 19.
+13:19:27 van het Buddy-scherm: ajectcontroles (ui
+13:19:27 van het Buddy-scherm: 3ms stuur 14.9ms
+
+13:19:27 van het Buddy-scherm: t geheugen)
+[00:0
+13:19:27 van het Buddy-scherm: 
+[00:03:00] statu
+13:19:27 van het Buddy-scherm: [00:05:00] status 
+13:19:27 van het Buddy-scherm: 0:02] GPS: FIX! 21
+13:19:27 van het Buddy-scherm: s | klok 13:08 | g
+13:19:27 van het Buddy-scherm: | klok 12:03 | gps
+13:19:27 van het Buddy-scherm:  satellieten
+[00:
+13:19:27 van het Buddy-scherm: ps FIX sat=19 zich
+13:19:27 van het Buddy-scherm:  zoekt sat=0 zicht
+13:19:27 van het Buddy-scherm: 00:04] groet: Week
+13:19:27 van het Buddy-scherm: t=39 nmea=2378/0 |
+13:19:27 van het Buddy-scherm: =0 nmea=3688/0 | 0
+13:19:27 van het Buddy-scherm: end, Ricardo! Waar
+13:19:27 van het Buddy-scherm:  10 km/u | tel dat
+--- v85 · Linux; Android 10; K ---
+13:19:27 van het Buddy-scherm:  km/u | tel stil |
+13:19:27 van het Buddy-scherm:  gaan we heen? (vr
+13:19:27 van het Buddy-scherm: a | heap 73400 | l
+13:19:27 van het Buddy-scherm:  heap 73788 | lich
+13:19:27 van het Buddy-scherm: iend 41)
+[00:00:0
+13:19:27 van het Buddy-scherm: icht 165 | fps 44 
+13:19:27 van het Buddy-scherm: t 165 | fps 57 tek
+13:19:27 van het Buddy-scherm: teken 18.3ms stuur
+13:19:27 van het Buddy-scherm: teken 18.3ms stuur
+13:19:27 van het Buddy-scherm: en 11.5ms stuur 8.
+13:19:27 van het Buddy-scherm:  15.0ms
+[00:03:02
+13:19:27 van het Buddy-scherm: (28 sat)
+[00:00:5
+13:19:27 van het Buddy-scherm: 7ms
+[00:06:00] st
+13:19:27 van het Buddy-scherm: ] Rit begonnen
+[0
+13:19:27 van het Buddy-scherm: 6] GPS: FIX! 17 sa
+13:19:27 van het Buddy-scherm: atus | klok 12:04 
+13:19:27 van het Buddy-scherm: 0:03:57] te hard: 
+13:19:27 van het Buddy-scherm: tellieten
+[00:01:
+13:19:27 van het Buddy-scherm: | gps zoekt sat=0 
+13:19:27 van het Buddy-scherm: 40 bij 30
+[00:04:
+13:19:27 van het Buddy-scherm: 00] status | klok 
+13:19:27 van het Buddy-scherm: zicht=0 nmea=4413/
+13:19:27 van het Buddy-scherm: 00] status | klok 
+13:19:27 van het Buddy-scherm: 13:06 | gps FIX sa
+13:19:27 van het Buddy-scherm: ata | heap 73788 |
+13:19:27 van het Buddy-scherm: t=15 zicht=39 nmea
+13:19:27 van het Buddy-scherm: =221/0 | 2 km/u | 
+13:19:27 van het Buddy-scherm:  licht 165 | fps 4
+13:19:27 van het Buddy-scherm: =3504/0 | 38 km/u 
+13:19:27 van het Buddy-scherm: tel nee | heap 736
+13:19:27 van het Buddy-scherm: 12 | licht 165 | f
+13:19:27 van het Buddy-scherm: ur 14.1ms
+[00:06:
+13:19:27 van het Buddy-scherm: 73400 | licht 165 
+13:19:27 van het Buddy-scherm: ps 46 teken 16.6ms
+13:19:27 van het Buddy-scherm: 06] wifi verbonden
+13:19:27 van het Buddy-scherm:  (Sultra), IP 10.2
+13:19:27 van het Buddy-scherm: 9ms stuur 15.8ms
+
+13:19:27 van het Buddy-scherm: :02:00] status | k
+13:19:27 van het Buddy-scherm: 30.69.32
+[00:06:1
+13:19:27 van het Buddy-scherm: [00:04:13] retro m
+13:19:27 van het Buddy-scherm: lok 13:07 | gps FI
+13:19:27 van het Buddy-scherm: 1] net: ToxicRadiu
+13:19:27 van het Buddy-scherm: eter: optrekken 26
+13:19:27 van het Buddy-scherm: X sat=19 zicht=30 
+13:19:27 van het Buddy-scherm: M/GeenIdee/snelhed
+13:19:27 van het Buddy-scherm:  -> 39
+[00:05:00]
+13:19:27 van het Buddy-scherm: nmea=1281/0 | 0 km
+13:19:27 van het Buddy-scherm: en/flitsers.json -
+13:19:27 van het Buddy-scherm:  status | klok 13:
+13:19:27 van het Buddy-scherm: /u | tel nee | hea
+13:19:27 van het Buddy-scherm: > -1
+[00:06:11] f
+13:19:27 van het Buddy-scherm: 10 | gps FIX sat=1
+13:19:27 van het Buddy-scherm: p 73612 | licht 16
+13:19:27 van het Buddy-scherm: litsers: 515 vast,
+13:19:27 van het Buddy-scherm: 3 zicht=35 nmea=46
+13:19:27 van het Buddy-scherm: 5 | fps 51 teken 1
+13:19:27 van het Buddy-scherm:  76 trajectcontrol
+13:19:27 van het Buddy-scherm: 61/0 | 32 km/u | t
+13:19:27 van het Buddy-scherm: 5.0ms stuur 10.7ms
+13:19:27 van het Buddy-scherm: es (uit geheugen)
+13:19:27 van het Buddy-scherm: el data | heap 734
+13:19:27 van het Buddy-scherm: 
+[00:02:20] BLE: 
+13:19:27 van het Buddy-scherm: 
+[00:06:12] wifi i
+13:19:27 van het Buddy-scherm: 00 | licht 165 | f
+13:19:27 van het Buddy-scherm: telefoon verbonden
+13:19:27 van het Buddy-scherm: ngesteld: Sultra
+
+13:19:27 van het Buddy-scherm: ps 40 teken 20.5ms
+13:19:27 van het Buddy-scherm: 
+[00:03:00] statu
+13:19:27 van het Buddy-scherm: [00:06:17] net: er
+13:19:27 van het Buddy-scherm:  stuur 15.7ms
+[00
+13:19:27 van het Buddy-scherm: s | klok 13:08 | g
+13:19:27 van het Buddy-scherm: s.dev/scherm?lat=0
+13:19:27 van het Buddy-scherm: :06:00] status | k
+13:19:27 van het Buddy-scherm: t=39 nmea=2378/0 |
+13:19:27 van het Buddy-scherm: &g=123456&van=b45d
+13:19:27 van het Buddy-scherm: X sat=16 zicht=40 
+13:19:27 van het Buddy-scherm:  10 km/u | tel dat
+13:19:27 van het Buddy-scherm: qfo0s8bcj&sinds=0 
+13:19:27 van het Buddy-scherm: nmea=5829/0 | 29 k
+13:19:27 van het Buddy-scherm: a | heap 73400 | l
+13:19:27 van het Buddy-scherm: -> -1
+[00:06:22] 
+13:19:27 van het Buddy-scherm: m/u | tel data | h
+13:19:27 van het Buddy-scherm: icht 165 | fps 44 
+13:19:27 van het Buddy-scherm: net: ToxicRadiuM/G
+13:19:27 van het Buddy-scherm: eap 73400 | licht 
+13:19:27 van het Buddy-scherm: teken 18.3ms stuur
+13:19:27 van het Buddy-scherm: eenIdee/firmware/v
+13:19:27 van het Buddy-scherm: 165 | fps 39 teken
+13:19:27 van het Buddy-scherm:  15.0ms
+[00:03:02
+13:19:27 van het Buddy-scherm: ersie.txt -> -1
+[
+13:19:27 van het Buddy-scherm:  20.9ms stuur 15.7
+13:19:27 van het Buddy-scherm: ] Rit begonnen
+[0
+13:19:27 van het Buddy-scherm: 00:06:23] wifi ing
+13:19:27 van het Buddy-scherm: ms
+[00:07:00] sta
+13:19:27 van het Buddy-scherm: 0:03:57] te hard: 
+13:19:27 van het Buddy-scherm: esteld: Sultra
+[0
+13:19:27 van het Buddy-scherm: tus | klok 13:12 |
+13:19:27 van het Buddy-scherm: 40 bij 30
+[00:04:
+13:19:27 van het Buddy-scherm: 0:06:32] wifi inge
+13:19:27 van het Buddy-scherm:  gps FIX sat=19 zi
+13:19:27 van het Buddy-scherm: 00] status | klok 
+13:19:27 van het Buddy-scherm: steld: Sultra
+[00
+13:19:27 van het Buddy-scherm: cht=30 nmea=7002/0
+13:19:27 van het Buddy-scherm: 13:09 | gps FIX sa
+13:19:27 van het Buddy-scherm: :07:00] status | k
+13:19:27 van het Buddy-scherm:  | 44 km/u | tel d
+13:19:27 van het Buddy-scherm: t=15 zicht=39 nmea
+13:19:27 van het Buddy-scherm: ata | heap 73400 |
+13:19:27 van het Buddy-scherm: ata | heap 73400 |
+13:19:27 van het Buddy-scherm: =3504/0 | 38 km/u 
+13:19:27 van het Buddy-scherm:  licht 165 | fps 4
+13:19:27 van het Buddy-scherm: ekt sat=0 zicht=0 
+13:19:27 van het Buddy-scherm: | tel data | heap 
+13:19:27 van het Buddy-scherm: 0 teken 20.4ms stu
+13:19:27 van het Buddy-scherm: nmea=5137/0 | 0 km
+13:19:27 van het Buddy-scherm: 73400 | licht 165 
+13:19:27 van het Buddy-scherm: ur 15.7ms
+[00:07:
+13:19:27 van het Buddy-scherm: /u | tel data | he
+13:19:27 van het Buddy-scherm: | fps 41 teken 19.
+13:19:27 van het Buddy-scherm: 23] retro meter: o
+13:19:27 van het Buddy-scherm: ap 73200 | licht 1
+13:19:27 van het Buddy-scherm: 9ms stuur 15.8ms
+
+13:19:27 van het Buddy-scherm: ptrekken 19 -> 35
+13:19:27 van het Buddy-scherm: 65 | fps 46 teken 
+13:19:27 van het Buddy-scherm: eter: optrekken 26
+13:19:27 van het Buddy-scherm:  | klok 13:13 | gp
+13:19:27 van het Buddy-scherm: s
+[00:07:02] wifi
+13:19:27 van het Buddy-scherm:  -> 39
+[00:05:00]
+13:19:27 van het Buddy-scherm: s FIX sat=15 zicht
+13:19:27 van het Buddy-scherm:  ingesteld: Sultra
+13:19:27 van het Buddy-scherm:  status | klok 13:
+13:19:27 van het Buddy-scherm: =40 nmea=8139/0 | 
+13:19:27 van het Buddy-scherm: 
+[00:07:16] BLE: 
+13:19:28 van het Buddy-scherm: 10 | gps FIX sat=1
+13:19:28 van het Buddy-scherm: 63 km/u | tel data
+13:19:28 van het Buddy-scherm: telefoon weg
+[00:
+13:19:28 van het Buddy-scherm: 3 zicht=35 nmea=46
+13:19:28 van het Buddy-scherm:  | heap 73400 | li
+13:19:28 van het Buddy-scherm: 07:19] BLE: telefo
+13:19:28 van het Buddy-scherm: 61/0 | 32 km/u | t
+13:19:28 van het Buddy-scherm: cht 165 | fps 39 t
+13:19:28 van het Buddy-scherm: on verbonden
+[00:
+13:19:28 van het Buddy-scherm: el data | heap 734
+13:19:28 van het Buddy-scherm: eken 20.8ms stuur 
+13:19:28 van het Buddy-scherm: 07:22] groep/worke
+13:19:28 van het Buddy-scherm: 00 | licht 165 | f
+13:19:28 van het Buddy-scherm: 15.8ms
+[00:08:01]
+13:19:28 van het Buddy-scherm: r ingesteld (Ricar
+13:19:28 van het Buddy-scherm: ps 40 teken 20.5ms
+13:19:28 van het Buddy-scherm:  tegel 1733_95: 87
+13:19:28 van het Buddy-scherm: do)
+[00:07:24] kl
+13:19:28 van het Buddy-scherm:  stuur 15.7ms
+[00
+13:19:28 van het Buddy-scherm: 6 wegvakken
+[00:0
+13:19:28 van het Buddy-scherm: ok gezet via de te
+13:19:28 van het Buddy-scherm: :06:00] status | k
+13:19:28 van het Buddy-scherm: lefoon
+[00:07:55]
+13:19:28 van het Buddy-scherm: lefoon
+[00:07:55]
+13:19:28 van het Buddy-scherm: lok 13:11 | gps FI
+13:19:28 van het Buddy-scherm: k 13:14 | gps FIX 
+13:19:28 van het Buddy-scherm:  wifi ingesteld: S
+13:19:28 van het Buddy-scherm: X sat=16 zicht=40 
+13:19:28 van het Buddy-scherm: sat=16 zicht=40 nm
+13:19:28 van het Buddy-scherm: ultra
+[00:08:00] 
+13:19:28 van het Buddy-scherm: nmea=5829/0 | 29 k
+13:19:28 van het Buddy-scherm: ea=9305/0 | 53 km/
+13:19:28 van het Buddy-scherm: status | klok 12:0
+13:19:28 van het Buddy-scherm: m/u | tel data | h
+13:19:28 van het Buddy-scherm: u | tel data | hea
+13:19:28 van het Buddy-scherm: 6 | gps zoekt sat=
+13:19:28 van het Buddy-scherm: eap 73400 | licht 
+13:19:28 van het Buddy-scherm: p 73400 | licht 16
+13:19:28 van het Buddy-scherm: 0 zicht=0 nmea=586
+13:19:28 van het Buddy-scherm: 165 | fps 39 teken
+13:19:28 van het Buddy-scherm: 5 | fps 42 teken 1
+13:19:28 van het Buddy-scherm: 1/0 | 0 km/u | tel
+13:19:28 van het Buddy-scherm:  20.9ms stuur 15.7
+13:19:28 van het Buddy-scherm: ms
+[00:07:00] sta
+13:19:28 van het Buddy-scherm: 
+[00:10:00] statu
+13:19:28 van het Buddy-scherm:  | licht 165 | fps
+13:19:28 van het Buddy-scherm: tus | klok 13:12 |
+13:19:28 van het Buddy-scherm: s | klok 13:15 | g
+13:19:28 van het Buddy-scherm:  29 teken 29.2ms s
+13:19:28 van het Buddy-scherm:  gps FIX sat=19 zi
+13:19:28 van het Buddy-scherm: ps FIX sat=15 zich
+13:19:28 van het Buddy-scherm: tuur 17.5ms
+[00:0
+13:19:28 van het Buddy-scherm: cht=30 nmea=7002/0
+13:19:28 van het Buddy-scherm: t=28 nmea=10436/0 
+13:19:28 van het Buddy-scherm: 8:00] wifi ingeste
+13:19:28 van het Buddy-scherm:  | 44 km/u | tel d
+13:19:28 van het Buddy-scherm: | 35 km/u | tel da
+13:19:28 van het Buddy-scherm: ld: Sultra
+[00:08
+13:19:28 van het Buddy-scherm: ata | heap 73400 |
+13:19:28 van het Buddy-scherm: ta | heap 73400 | 
+13:19:28 van het Buddy-scherm: :17] net: ers.dev/
+13:19:28 van het Buddy-scherm:  licht 165 | fps 4
+13:19:28 van het Buddy-scherm: licht 165 | fps 41
+13:19:28 van het Buddy-scherm: scherm?lat=0.00000
+13:19:28 van het Buddy-scherm: 0 teken 20.4ms stu
+13:19:28 van het Buddy-scherm:  teken 20.0ms stuu
+13:19:28 van het Buddy-scherm: &lon=0.00000&g=123
+13:19:28 van het Buddy-scherm: ur 15.7ms
+[00:07:
+13:19:28 van het Buddy-scherm: r 15.6ms
+[00:10:5
+13:19:28 van het Buddy-scherm: 456&van=b45dqfo0s8
+13:19:28 van het Buddy-scherm: 23] retro meter: o
+13:19:28 van het Buddy-scherm: 7] te hard: 39 bij
+13:19:28 van het Buddy-scherm: bcj&sinds=0 -> -1
+13:19:28 van het Buddy-scherm: ptrekken 19 -> 35
+13:19:28 van het Buddy-scherm:  30
+[00:11:00] st
+13:19:28 van het Buddy-scherm: 
+[00:09:00] status
+13:19:28 van het Buddy-scherm: 
+[00:08:00] status
+13:19:28 van het Buddy-scherm: atus | klok 13:16 
+13:19:28 van het Buddy-scherm:  | klok 12:07 | gp
+13:19:28 van het Buddy-scherm:  | klok 13:13 | gp
+13:19:28 van het Buddy-scherm: | gps FIX sat=15 z
+13:19:28 van het Buddy-scherm: s zoekt sat=0 zich
+13:19:28 van het Buddy-scherm: s FIX sat=15 zicht
+13:19:28 van het Buddy-scherm: icht=28 nmea=11529
+13:19:28 van het Buddy-scherm: t=1 nmea=6585/0 | 
+13:19:28 van het Buddy-scherm: =40 nmea=8139/0 | 
+13:19:28 van het Buddy-scherm: /0 | 40 km/u | tel
+13:19:28 van het Buddy-scherm: 0 km/u | tel data 
+13:19:28 van het Buddy-scherm: 63 km/u | tel data
+13:19:28 van het Buddy-scherm:  data | heap 73400
+13:19:28 van het Buddy-scherm: | heap 72856 | lic
+13:19:28 van het Buddy-scherm:  | heap 73400 | li
+13:19:28 van het Buddy-scherm:  | licht 165 | fps
+13:19:28 van het Buddy-scherm: ht 165 | fps 37 te
+13:19:28 van het Buddy-scherm: cht 165 | fps 39 t
+13:19:28 van het Buddy-scherm: tuur 15.7ms
+[00:1
+13:19:28 van het Buddy-scherm: 9.2ms
+[00:09:25] 
+13:19:28 van het Buddy-scherm: 15.8ms
+[00:08:01]
+13:19:28 van het Buddy-scherm: 2:00] status | klo
+13:19:28 van het Buddy-scherm: wifi ingesteld: Su
+13:19:28 van het Buddy-scherm:  tegel 1733_95: 87
+13:19:28 van het Buddy-scherm: k 13:17 | gps FIX 
+13:19:28 van het Buddy-scherm: ltra
+[00:09:36] w
+13:19:28 van het Buddy-scherm: 6 wegvakken
+[00:0
+13:19:28 van het Buddy-scherm: sat=13 zicht=38 nm
+13:19:28 van het Buddy-scherm: ifi ingesteld: Sul
+13:19:28 van het Buddy-scherm: 9:00] status | klo
+13:19:28 van het Buddy-scherm: ea=12627/0 | 9 km/
+13:19:28 van het Buddy-scherm: tra
+[00:10:00] st
+13:19:28 van het Buddy-scherm: k 13:14 | gps FIX 
+13:19:28 van het Buddy-scherm: u | tel data | hea
+13:19:28 van het Buddy-scherm: atus | klok 12:08 
+13:19:28 van het Buddy-scherm: sat=16 zicht=40 nm
+13:19:28 van het Buddy-scherm: p 73400 | licht 16
+13:19:28 van het Buddy-scherm: | gps zoekt sat=0 
+13:19:28 van het Buddy-scherm: ea=9305/0 | 53 km/
+13:19:28 van het Buddy-scherm: 5 | fps 43 teken 1
+13:19:28 van het Buddy-scherm: zicht=0 nmea=7309/
+13:19:28 van het Buddy-scherm: u | tel data | hea
+13:19:28 van het Buddy-scherm: 8.8ms stuur 15.7ms
+13:19:28 van het Buddy-scherm: p 73400 | licht 16
+13:19:28 van het Buddy-scherm: p 73400 | licht 16
+13:19:28 van het Buddy-scherm: 
+[00:13:00] statu
+13:19:28 van het Buddy-scherm: ata | heap 72696 |
+13:19:28 van het Buddy-scherm: s | klok 13:18 | g
+13:19:28 van het Buddy-scherm: 5 | fps 42 teken 1
+13:19:28 van het Buddy-scherm:  licht 165 | fps 4
+13:19:28 van het Buddy-scherm: ps FIX sat=10 zich
+13:19:28 van het Buddy-scherm: 9.1ms stuur 15.7ms
+13:19:28 van het Buddy-scherm: 9 teken 15.3ms stu
+13:19:28 van het Buddy-scherm: t=36 nmea=13724/0 
+13:19:28 van het Buddy-scherm: 
+[00:10:00] statu
+13:19:28 van het Buddy-scherm: ur 11.9ms
+[00:11:
+13:19:28 van het Buddy-scherm: | 2 km/u | tel dat
+13:19:28 van het Buddy-scherm: s | klok 13:15 | g
+13:19:28 van het Buddy-scherm: 00] status | klok 
+13:19:28 van het Buddy-scherm: a | heap 73400 | l
+13:19:28 van het Buddy-scherm: ps FIX sat=15 zich
+13:19:28 van het Buddy-scherm: 12:09 | gps zoekt 
+13:19:28 van het Buddy-scherm: icht 165 | fps 46 
+13:19:28 van het Buddy-scherm: t=28 nmea=10436/0 
+13:19:28 van het Buddy-scherm: sat=0 zicht=0 nmea
+13:19:28 van het Buddy-scherm: teken 17.2ms stuur
+13:19:28 van het Buddy-scherm: | 35 km/u | tel da
+13:19:28 van het Buddy-scherm: =8033/0 | 0 km/u |
+13:19:28 van het Buddy-scherm:  14.4ms
+[00:13:44
+13:19:28 van het Buddy-scherm: ta | heap 73400 | 
+13:19:28 van het Buddy-scherm: licht 165 | fps 41
+13:19:28 van het Buddy-scherm: 2452 | licht 165 |
+13:19:28 van het Buddy-scherm: g
+[00:13:46] BLE:
+13:19:28 van het Buddy-scherm:  teken 20.0ms stuu
+13:19:28 van het Buddy-scherm:  fps 44 teken 18.0
+13:19:28 van het Buddy-scherm:  telefoon verbonde
+13:19:28 van het Buddy-scherm: ms stuur 14.3ms
+[
+13:19:28 van het Buddy-scherm: n
+[00:13:49] groe
+13:19:28 van het Buddy-scherm: 7] te hard: 39 bij
+13:19:28 van het Buddy-scherm: 00:12:00] status |
+13:19:28 van het Buddy-scherm: p/worker ingesteld
+13:19:28 van het Buddy-scherm:  30
+[00:11:00] st
+13:19:28 van het Buddy-scherm:  klok 12:10 | gps 
+13:19:28 van het Buddy-scherm:  (Ricardo)
+
+13:19:28 van het Buddy-scherm: atus | klok 13:16 
+13:19:28 van het Buddy-scherm: zoekt sat=0 zicht=
+13:19:28 van het Buddy-scherm: | gps FIX sat=15 z
+13:19:28 van het Buddy-scherm: 1 nmea=8757/0 | 0 
+13:19:28 van het Buddy-scherm: icht=28 nmea=11529
+13:19:28 van het Buddy-scherm: km/u | tel data | 
+13:19:28 van het Buddy-scherm: /0 | 40 km/u | tel
+13:19:28 van het Buddy-scherm: heap 72452 | licht
+13:19:28 van het Buddy-scherm:  data | heap 73400
+13:19:28 van het Buddy-scherm:  165 | fps 44 teke
+13:19:28 van het Buddy-scherm:  | licht 165 | fps
+13:19:28 van het Buddy-scherm: n 18.1ms stuur 14.
+13:19:28 van het Buddy-scherm:  39 teken 20.1ms s
+13:19:28 van het Buddy-scherm: 5ms
+[00:12:29] BL
+13:19:28 van het Buddy-scherm: tuur 15.7ms
+[00:1
+13:19:28 van het Buddy-scherm: E: telefoon weg
+[
+13:19:28 van het Buddy-scherm: 2:00] status | klo
+13:19:28 van het Buddy-scherm: 00:13:00] status |
+13:19:28 van het Buddy-scherm: k 13:17 | gps FIX 
+13:19:28 van het Buddy-scherm:  klok 12:11 | gps 
+13:19:28 van het Buddy-scherm: sat=13 zicht=38 nm
+13:19:28 van het Buddy-scherm: zoekt sat=0 zicht=
+13:19:28 van het Buddy-scherm: ea=12627/0 | 9 km/
+13:19:28 van het Buddy-scherm: 0 nmea=9481/0 | 0 
+13:19:28 van het Buddy-scherm: u | tel data | hea
+13:19:28 van het Buddy-scherm: km/u | tel nee | h
+13:19:28 van het Buddy-scherm: p 73400 | licht 16
+13:19:28 van het Buddy-scherm: eap 72644 | licht 
+13:19:28 van het Buddy-scherm: 5 | fps 43 teken 1
+13:19:28 van het Buddy-scherm: 165 | fps 53 teken
+13:19:28 van het Buddy-scherm: 8.8ms stuur 15.7ms
+13:19:28 van het Buddy-scherm:  14.1ms stuur 10.9
+13:19:28 van het Buddy-scherm: 
+[00:13:00] statu
+13:19:28 van het Buddy-scherm: ms
+[00:14:00] sta
+13:19:28 van het Buddy-scherm: s | klok 13:18 | g
+13:19:28 van het Buddy-scherm: tus | klok 12:12 |
+13:19:28 van het Buddy-scherm: ps FIX sat=10 zich
+13:19:28 van het Buddy-scherm:  gps zoekt sat=0 z
+13:19:28 van het Buddy-scherm: t=36 nmea=13724/0 
+13:19:28 van het Buddy-scherm: icht=0 nmea=10205/
+13:19:28 van het Buddy-scherm: | 2 km/u | tel dat
+13:19:29 van het Buddy-scherm: 0 | 0 km/u | tel n
+13:19:29 van het Buddy-scherm: a | heap 73400 | l
+13:19:29 van het Buddy-scherm: ee | heap 72648 | 
+13:19:29 van het Buddy-scherm: icht 165 | fps 46 
+13:19:29 van het Buddy-scherm: licht 165 | fps 56
+13:19:29 van het Buddy-scherm: teken 17.2ms stuur
+13:19:29 van het Buddy-scherm:  teken 12.2ms stuu
+13:19:29 van het Buddy-scherm:  14.4ms
+[00:13:44
+13:19:29 van het Buddy-scherm: r 9.0ms
+[00:15:00
+13:19:29 van het Buddy-scherm: ] BLE: telefoon we
+13:19:29 van het Buddy-scherm: ] status | klok 12
+13:19:29 van het Buddy-scherm: g
+[00:13:46] BLE:
+13:19:29 van het Buddy-scherm: :13 | gps zoekt sa
+13:19:29 van het Buddy-scherm:  telefoon verbonde
+13:19:29 van het Buddy-scherm: t=0 zicht=3 nmea=1
+13:19:29 van het Buddy-scherm: n
+[00:13:49] groe
+13:19:29 van het Buddy-scherm: 0929/0 | 0 km/u | 
+13:19:29 van het Buddy-scherm: p/worker ingesteld
+13:19:29 van het Buddy-scherm: tel nee | heap 726
+13:19:29 van het Buddy-scherm:  (Ricardo)
+
+13:19:29 van het Buddy-scherm: 48 | licht 165 | f
+13:19:29 van het Buddy-scherm: ps 55 teken 13.5ms
+13:19:29 van het Buddy-scherm:  stuur 10.6ms
+[00
+13:19:29 van het Buddy-scherm: :16:00] status | k
+13:19:29 van het Buddy-scherm: lok 12:14 | gps zo
+13:19:29 van het Buddy-scherm: ekt sat=0 zicht=1 
+13:19:29 van het Buddy-scherm: nmea=11654/0 | 0 k
+13:19:29 van het Buddy-scherm: m/u | tel nee | he
+13:19:29 van het Buddy-scherm: ap 72744 | licht 1
+13:19:29 van het Buddy-scherm: 65 | fps 56 teken 
+13:19:29 van het Buddy-scherm: 12.7ms stuur 9.1ms
+13:19:29 van het Buddy-scherm: 
+[00:16:14] uit (
+13:19:29 van het Buddy-scherm: diepe slaap): deur
+13:19:29 van het Buddy-scherm:  dicht en daarna s
+13:19:29 van het Buddy-scherm: til. Wakker bij be
+13:19:29 van het Buddy-scherm: weging.
+[00:00:02
+13:19:29 van het Buddy-scherm: ] ===== OPSTART v4
+13:19:29 van het Buddy-scherm: 2 | reden: uit die
+13:19:29 van het Buddy-scherm: pe slaap | heap 11
+13:19:29 van het Buddy-scherm: 7900 =====
+[00:00
+13:19:29 van het Buddy-scherm: :02] wakker geword
+13:19:29 van het Buddy-scherm: en door beweging (
+13:19:29 van het Buddy-scherm: instappen?)
+[00:0
+13:19:29 van het Buddy-scherm: 0:02] flitsers: 51
+13:19:29 van het Buddy-scherm: 5 vast, 76 traject
+13:19:29 van het Buddy-scherm: controles (uit geh
+13:19:29 van het Buddy-scherm: eugen)
+[00:00:04]
+13:19:29 van het Buddy-scherm:  groet: Weekend, R
+13:19:29 van het Buddy-scherm: icardo! Waar gaan 
+13:19:29 van het Buddy-scherm: we heen? (vriend 4
+13:19:29 van het Buddy-scherm: 1)
+[00:00:48] GPS
+13:19:29 van het Buddy-scherm: : FIX! 20 satellie
+13:19:29 van het Buddy-scherm: ten
+[00:00:53] Ri
+13:19:29 van het Buddy-scherm: t begonnen
+[00:01
+13:19:29 van het Buddy-scherm: :00] status | klok
+13:19:29 van het Buddy-scherm:  12:52 | gps FIX s
+13:19:29 van het Buddy-scherm: at=18 zicht=38 nme
+13:19:29 van het Buddy-scherm: a=471/0 | 12 km/u 
+13:19:29 van het Buddy-scherm: | tel nee | heap 7
+13:19:29 van het Buddy-scherm: 3624 | licht 165 |
+13:19:29 van het Buddy-scherm:  fps 48 teken 16.5
+13:19:29 van het Buddy-scherm: ms stuur 14.0ms
+[
+13:19:29 van het Buddy-scherm: 00:02:00] status |
+13:19:29 van het Buddy-scherm:  klok 12:53 | gps 
+13:19:29 van het Buddy-scherm: FIX sat=19 zicht=3
+13:19:29 van het Buddy-scherm: 9 nmea=1589/0 | 5 
+13:19:29 van het Buddy-scherm: km/u | tel nee | h
+13:19:29 van het Buddy-scherm: eap 73624 | licht 
+13:19:29 van het Buddy-scherm: 165 | fps 48 teken
+13:19:29 van het Buddy-scherm:  16.4ms stuur 14.2
+13:19:29 van het Buddy-scherm: ms
+[00:03:00] sta
+13:19:29 van het Buddy-scherm: tus | klok 12:54 |
+13:19:29 van het Buddy-scherm:  gps FIX sat=19 zi
+13:19:29 van het Buddy-scherm: cht=38 nmea=2727/0
+13:19:29 van het Buddy-scherm:  | 0 km/u | tel ne
+13:19:29 van het Buddy-scherm: e | heap 73624 | l
+13:19:29 van het Buddy-scherm: icht 165 | fps 50 
+13:19:29 van het Buddy-scherm: teken 15.5ms stuur
+13:19:29 van het Buddy-scherm:  11.4ms
+[00:04:00
+13:19:29 van het Buddy-scherm: ] status | klok 12
+13:19:29 van het Buddy-scherm: :55 | gps FIX sat=
+13:19:29 van het Buddy-scherm: 19 zicht=29 nmea=3
+13:19:29 van het Buddy-scherm: 839/0 | 0 km/u | t
+13:19:29 van het Buddy-scherm: el nee | heap 7362
+13:19:29 van het Buddy-scherm: 4 | licht 165 | fp
+13:19:30 van het Buddy-scherm: s 53 teken 14.3ms 
+13:19:30 van het Buddy-scherm: stuur 9.9ms
+[00:0
+13:19:30 van het Buddy-scherm: 5:00] status | klo
+13:19:30 van het Buddy-scherm: k 12:56 | gps FIX 
+14:01:17 ev clock: Het is 14:01.
+14:01:17 scherm-aan-slot gekregen
+14:01:17 scherm-aan-slot gekregen
+14:01:18 ev happy: Goedemiddag Ricardo!
+14:01:19 terug na 539 s zonder GPS
+14:01:19 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+14:01:19 groep ververst: 5
+14:01:19 weer: 11.2 graden, code 3, neerslag 0, wind 2
+14:01:19 ANWB verkeer geladen: 34 meldingen in de buurt (van 69)
+14:01:19 bruggen geladen: 5
+14:01:19 NDW geladen: 332 meldingen in de buurt {"speed":38,"lane":75,"closure":215,"jam":2,"accident":2}

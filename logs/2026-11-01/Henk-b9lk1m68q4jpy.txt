@@ -1,0 +1,355 @@
+--- v85 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+13:00:59 start v85
+13:00:59 groep ververst: 4
+13:01:00 GPS automatisch aan
+13:01:00 scherm-aan-slot geweigerd: NotAllowedError
+13:01:01 scherm-aan-slot geweigerd: NotAllowedError
+13:01:01 wakker blijven: filmpje-truc aan
+13:01:01 limiet geschat uit je snelheid: 50
+13:01:01 rws tegel 1730_92 (telefoon): 2618 wegvakken, versie 01-10-2026
+13:01:01 osm wegen uit telefoongeheugen: 1532 stuks
+13:01:01 wegen geladen: 1532 wegen
+13:01:01 matrix-locaties geladen: 6442
+13:01:01 bruggen geladen: 0
+13:01:02 weer: 11 graden, code 3, neerslag 0, wind 2
+13:01:02 ANWB verkeer geladen: 30 meldingen in de buurt (van 66)
+13:01:02 NDW geladen: 317 meldingen in de buurt {"speed":38,"lane":75,"closure":202,"accident":1,"jam":1}
+13:01:02 rws tegel 1730_91 (telefoon): 4608 wegvakken, versie 01-10-2026
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 36
+13:01:02 retro meter: optrekken 0 -> 49
+13:01:02 retro meter: optrekken 0 -> 49
+13:01:02 retro meter: optrekken 0 -> 49
+13:01:02 retro meter: optrekken 0 -> 49
+13:01:02 retro meter: optrekken 0 -> 49
+13:01:02 retro meter: optrekken 0 -> 49
+13:01:02 retro meter: optrekken 0 -> 49
+13:01:02 retro meter: optrekken 0 -> 49
+13:01:02 retro meter: optrekken 0 -> 49
+13:01:02 retro meter: optrekken 0 -> 49
+13:01:02 retro meter: optrekken 0 -> 49
+13:01:02 flitsers via /flitsers: 16/16
+13:01:02 retro meter: optrekken 0 -> 49
+13:01:02 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 49
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 matrix geladen: 332 snelheid, 215 kruis
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 0 -> 61
+13:01:03 retro meter: optrekken 36 -> 77
+13:01:03 retro meter: optrekken 36 -> 77
+13:01:03 retro meter: optrekken 36 -> 77
+13:01:03 retro meter: optrekken 36 -> 77
+13:01:03 retro meter: optrekken 36 -> 77
+13:01:03 retro meter: optrekken 36 -> 77
+13:01:03 retro meter: optrekken 36 -> 77
+13:01:03 retro meter: optrekken 36 -> 77
+13:01:03 ev worried: Rustig in de bocht!
+13:01:03 retro meter: optrekken 36 -> 77
+13:01:03 ev happy: Goedemiddag Henk! Het is 11 graden, bewolkt. Let op: een afsluiting op de A27 op je gewone route.
+13:01:03 briefing: Goedemiddag Henk! Het is 11 graden, bewolkt. Let op: een afsluiting op de A27 op je gewone route.
+13:01:03 retro meter: optrekken 36 -> 77
+13:01:03 retro meter: optrekken 36 -> 77
+13:01:03 retro meter: optrekken 36 -> 77
+13:01:03 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 36 -> 77
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 49 -> 83
+13:01:04 retro meter: optrekken 61 -> 85
+13:01:04 retro meter: optrekken 61 -> 85
+13:01:04 retro meter: optrekken 61 -> 85
+13:01:04 retro meter: optrekken 61 -> 85
+13:01:04 retro meter: optrekken 61 -> 85
+13:01:04 retro meter: optrekken 61 -> 85
+13:01:04 retro meter: optrekken 61 -> 85
+13:01:04 retro meter: optrekken 61 -> 85
+13:01:04 retro meter: optrekken 61 -> 85
+13:01:04 retro meter: optrekken 61 -> 85
+13:01:04 retro meter: optrekken 61 -> 85
+13:01:04 retro meter: optrekken 61 -> 85
+13:01:04 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:05 retro meter: optrekken 61 -> 85
+13:01:06 scherm-aan-slot gekregen
+13:01:08 back-up (dag) 185 kB
+13:01:08 bewegingssensor: granted
+13:01:08 ev excited: Joepie! Nu voel ik elke bocht.
+13:01:09 v=85 nauwk=4m limiet=80 wegen=8758 draai=0 vaste=176/18 gemeld=16 stemming=excited
+13:01:09 voelen: geleerde richting van vorige keer meegedraaid
+13:01:10 voelen: sensor-teken gewoon
+13:01:15 autostand aan
+--- v85 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+13:01:20 v=80 nauwk=5m limiet=80 wegen=8758 draai=0 vaste=176/18 gemeld=16 stemming=worried
+13:01:24 ev worried: Let op: een afsluiting op de A27 bij Werkendam op je gewone route. En nog 2 meldingen.
+13:01:24 vertrekcheck (rit): 3 meldingen op route
+13:01:28 voelen: ik weet nu waar vooruit is (65%)
+13:01:31 v=41 nauwk=5m limiet=80 wegen=8758 draai=1 vaste=176/18 gemeld=16 stemming=relaxed
+13:01:31 drempel/schok sterkte 4.6 bij 48 km/h
+13:01:31 ev startled: Boing!
+13:01:31 drempel/schok sterkte 5.5 bij 45 km/h (tweede klap)
+13:01:33 osm werk via Worker (oud): 400 stuks
+13:01:33 wegwerkzaamheden geladen: 389
+13:01:41 v=54 nauwk=3m limiet=50 wegen=8758 draai=3 vaste=176/18 gemeld=16 stemming=relaxed
+13:01:43 drempel/schok sterkte 4.9 bij 57 km/h
+13:01:47 ev worried: Oei, we gaan net iets te hard.
+13:01:52 v=61 nauwk=2m limiet=50 wegen=8758 draai=3 vaste=176/18 gemeld=16 stemming=relaxed
+13:02:02 v=60 nauwk=2m limiet=50 wegen=8758 draai=0 vaste=176/18 gemeld=16 stemming=alert
+13:02:05 drempel/schok sterkte 3.7 bij 59 km/h
+13:02:13 v=56 nauwk=2m limiet=50 wegen=8758 draai=-1 vaste=176/18 gemeld=16 stemming=relaxed
+13:02:14 drempel/schok sterkte 4.0 bij 55 km/h
+13:02:23 v=43 nauwk=2m limiet=50 wegen=8758 draai=-0 vaste=176/18 gemeld=16 stemming=alert
+13:02:23 eigen flitser opgeslagen (fixed, 6)
+13:02:23 ev happy: Vaste flitser onthouden!
+13:02:23 groep ververst: 5
+13:02:25 drempel/schok sterkte 4.2 bij 43 km/h
+13:02:26 drempel/schok sterkte 4.1 bij 43 km/h
+13:02:27 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+13:02:27 hobbelige weg (4 klappen in 20 s)
+13:02:34 v=47 nauwk=2m limiet=50 wegen=8758 draai=-0 vaste=176/18 gemeld=16 stemming=relaxed
+13:02:44 v=43 nauwk=2m limiet=50 wegen=8758 draai=-0 vaste=176/18 gemeld=16 stemming=relaxed
+13:02:54 v=41 nauwk=2m limiet=50 wegen=8758 draai=-0 vaste=176/18 gemeld=16 stemming=relaxed
+13:03:02 ANWB verkeer geladen: 30 meldingen in de buurt (van 66)
+13:03:02 flitsers via /flitsers: 16/16
+13:03:05 v=44 nauwk=2m limiet=50 wegen=8758 draai=0 vaste=176/18 gemeld=16 stemming=alert
+13:03:06 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+13:03:15 v=43 nauwk=2m limiet=50 wegen=8758 draai=0 vaste=176/18 gemeld=16 stemming=relaxed
+13:03:26 v=45 nauwk=2m limiet=50 wegen=8758 draai=0 vaste=176/18 gemeld=16 stemming=relaxed
+13:03:34 matrix geladen: 333 snelheid, 213 kruis
+13:03:37 v=47 nauwk=2m limiet=50 wegen=8758 draai=-0 vaste=176/18 gemeld=16 stemming=relaxed
+13:03:42 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+13:03:42 hobbelige weg (4 klappen in 20 s)
+13:03:47 v=45 nauwk=2m limiet=50 wegen=8758 draai=-1 vaste=176/18 gemeld=16 stemming=relaxed
+13:03:58 v=30 nauwk=2m limiet=50 wegen=8758 draai=3 vaste=176/18 gemeld=16 stemming=content
+13:04:08 v=21 nauwk=2m limiet=50 wegen=8758 draai=0 vaste=176/18 gemeld=16 stemming=neutral
+13:04:18 v=15 nauwk=2m limiet=50 wegen=8758 draai=0 vaste=176/18 gemeld=16 stemming=neutral
+13:04:29 v=0 nauwk=2m limiet=50 wegen=8758 draai=0 vaste=176/18 gemeld=16 stemming=neutral
+13:04:35 drempel/schok sterkte 2.4 bij 8 km/h
+13:04:35 ev startled: Boing!
+13:04:40 v=18 nauwk=2m limiet=50 wegen=8758 draai=-0 vaste=176/18 gemeld=16 stemming=content
+13:04:40 drempel/schok sterkte 3.9 bij 18 km/h
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:48 retro meter: optrekken 28 -> 40
+13:04:49 retro meter: optrekken 28 -> 40
+13:04:49 retro meter: optrekken 28 -> 40
+13:04:50 v=41 nauwk=2m limiet=50 wegen=8758 draai=0 vaste=176/18 gemeld=16 stemming=relaxed
+13:05:01 v=21 nauwk=2m limiet=50 wegen=8758 draai=1 vaste=176/18 gemeld=16 stemming=neutral
+13:05:03 ANWB verkeer geladen: 30 meldingen in de buurt (van 66)
+13:05:03 flitsers via /flitsers: 14/14
+13:05:08 drempel/schok sterkte 3.3 bij 27 km/h
+13:05:12 v=40 nauwk=2m limiet=50 wegen=8758 draai=1 vaste=176/18 gemeld=14 stemming=relaxed
+13:05:14 drempel/schok sterkte 3.7 bij 44 km/h
+13:05:14 drempel/schok sterkte 4.1 bij 45 km/h (tweede klap)
+13:05:23 v=49 nauwk=2m limiet=50 wegen=8758 draai=0 vaste=176/18 gemeld=14 stemming=relaxed
+13:05:24 groep ververst: 5
+13:05:28 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+13:05:28 hobbelige weg (4 klappen in 20 s)
+13:05:34 v=17 nauwk=2m limiet=50 wegen=8758 draai=-11 vaste=176/18 gemeld=14 stemming=alert
+13:05:45 v=21 nauwk=2m limiet=30 wegen=8758 draai=0 vaste=176/18 gemeld=14 stemming=neutral
+13:05:55 v=23 nauwk=2m limiet=30 wegen=8758 draai=-5 vaste=176/18 gemeld=14 stemming=neutral
+13:06:03 NDW geladen: 300 meldingen in de buurt {"speed":35,"lane":69,"closure":194,"accident":1,"jam":1}
+13:06:06 v=21 nauwk=2m limiet=30 wegen=8758 draai=-0 vaste=176/18 gemeld=14 stemming=neutral
+13:06:16 v=23 nauwk=2m limiet=30 wegen=8758 draai=0 vaste=176/18 gemeld=14 stemming=content
+13:06:26 v=23 nauwk=2m limiet=30 wegen=8758 draai=0 vaste=176/18 gemeld=14 stemming=neutral
+13:06:37 v=24 nauwk=2m limiet=30 wegen=8758 draai=0 vaste=176/18 gemeld=14 stemming=happy
+13:06:47 drempel/schok sterkte 8.9 bij 27 km/h
+13:06:47 ev startled: Drempel! Boing!
+13:06:48 v=27 nauwk=2m limiet=30 wegen=8758 draai=-5 vaste=176/18 gemeld=14 stemming=startled
+13:06:58 v=22 nauwk=2m limiet=30 wegen=8758 draai=0 vaste=176/18 gemeld=14 stemming=neutral
+13:07:04 ANWB verkeer geladen: 30 meldingen in de buurt (van 66)
+13:07:04 flitsers via /flitsers: 14/14
+13:07:08 v=20 nauwk=2m limiet=30 wegen=8758 draai=0 vaste=176/18 gemeld=14 stemming=neutral
+13:07:19 v=18 nauwk=2m limiet=30 wegen=8758 draai=-0 vaste=176/18 gemeld=14 stemming=happy
+13:07:30 v=20 nauwk=3m limiet=30 wegen=8758 draai=-0 vaste=176/18 gemeld=14 stemming=neutral
+13:07:40 v=22 nauwk=2m limiet=30 wegen=8758 draai=0 vaste=176/18 gemeld=14 stemming=neutral
+13:07:51 v=17 nauwk=2m limiet=30 wegen=8758 draai=0 vaste=176/18 gemeld=14 stemming=neutral
+13:08:01 v=11 nauwk=2m limiet=30 wegen=8758 draai=-27 vaste=176/18 gemeld=14 stemming=neutral
+13:08:06 ev happy: Rondje! Wheee.
+13:08:06 rotonde: rondje (177°)
+13:08:12 v=0 nauwk=2m limiet=30 wegen=8758 draai=16 vaste=176/18 gemeld=14 stemming=neutral
+13:08:22 v=0 nauwk=2m limiet=30 wegen=8758 draai=16 vaste=176/18 gemeld=14 stemming=content
+13:08:24 rit: {"t0":1793534461855,"t1":1793534904074,"km":4,"min":7,"stijl":90,"netjes":0,"vmax":87,"sec":418,"g":0.47,"sch":1,"zacht":0,"van":[51.90817,4.61279],"naar":[51.92486,4.59115]}
+13:08:24 ev happy: Zachte rit, rijstijl 90. Top!
+13:08:24 parkeerplek onthouden
+13:08:24 rit handmatig afgesloten
+13:08:25 groep ververst: 5
+--- v85 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+13:08:41 start v85
+13:08:41 groep ververst: 5
+13:08:42 GPS automatisch aan
+13:08:42 scherm-aan-slot geweigerd: NotAllowedError
+13:08:43 scherm-aan-slot geweigerd: NotAllowedError
+13:08:43 wakker blijven: filmpje-truc aan
+13:08:45 scherm-aan-slot geweigerd: NotAllowedError
+13:08:45 limiet geschat uit je snelheid: 30
+13:08:45 rws tegel 1730_91 (telefoon): 4608 wegvakken, versie 01-10-2026
+13:08:45 ANWB verkeer geladen: 30 meldingen in de buurt (van 66)
+13:08:45 bruggen geladen: 0
+13:08:45 flitsers via /flitsers: 14/14
+13:08:45 weer: 11.3 graden, code 3, neerslag 0, wind 3
+13:08:46 matrix-locaties geladen: 6442
+13:08:46 NDW geladen: 305 meldingen in de buurt {"speed":36,"lane":71,"closure":194,"accident":3,"jam":1}
+13:08:49 scherm-aan-slot geweigerd: NotAllowedError
+13:08:52 v=0 nauwk=3m limiet=30 wegen=6140 draai=0 vaste=176/18 gemeld=14 stemming=happy
+13:08:53 scherm-aan-slot geweigerd: NotAllowedError
+13:08:55 bewegingssensor: granted
+13:08:56 scherm-aan-slot gekregen
+13:08:59 voelen: sensor-teken gewoon
+--- v85 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+13:09:03 v=2 nauwk=4m limiet=30 wegen=6140 draai=0 vaste=176/18 gemeld=14 stemming=neutral
+13:09:06 ev worried: Let op: een afsluiting op de A27 bij Werkendam op je gewone route. En nog 2 meldingen.
+13:09:06 vertrekcheck (rit): 3 meldingen op route
