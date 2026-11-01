@@ -1783,3 +1783,90 @@
 16:10:01 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=19 stemming=content
 16:10:01 ANWB verkeer geladen: 34 meldingen in de buurt (van 71)
 16:10:03 FOUT Script error. @
+--- v88 · Linux; Android 10; K ---
+20:35:20 start v88
+20:35:20 nachtstand aan
+20:35:20 groep ververst: 5
+20:35:21 GPS automatisch aan
+20:35:21 scherm-aan-slot gekregen
+20:35:21 voelen: geleerde richting van vorige keer overgenomen
+20:35:22 limiet geschat uit je snelheid: 30
+20:35:22 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+20:35:22 weer: 8.8 graden, code 3, neerslag 0, wind 7
+20:35:22 matrix-locaties geladen: 6442
+20:35:22 ANWB verkeer geladen: 34 meldingen in de buurt (van 65)
+20:35:22 bruggen geladen: 0
+20:35:22 NDW geladen: 324 meldingen in de buurt {"speed":38,"lane":76,"closure":209,"accident":1}
+20:35:23 flitsers via /flitsers: 14/14
+20:35:24 bewegingssensor: granted
+20:35:29 voelen: sensor-teken gewoon
+20:35:30 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=happy
+--- v88 · Linux; Android 10; K ---
+20:43:33 start v88
+20:43:33 nachtstand aan
+20:43:33 groep ververst: 5
+20:43:34 GPS automatisch aan
+20:43:34 scherm-aan-slot gekregen
+20:43:34 voelen: geleerde richting van vorige keer meegedraaid
+20:43:35 bewegingssensor: granted
+20:43:37 limiet geschat uit je snelheid: 30
+20:43:37 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+20:43:37 weer: 9.3 graden, code 3, neerslag 0, wind 7
+20:43:37 bruggen geladen: 0
+20:43:37 NDW geladen: 324 meldingen in de buurt {"speed":38,"lane":76,"closure":209,"accident":1}
+20:43:37 ANWB verkeer geladen: 33 meldingen in de buurt (van 64)
+20:43:37 matrix-locaties geladen: 6442
+20:43:38 flitsers via /flitsers: 16/16
+20:43:43 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+--- v88 · Linux; Android 10; K ---
+20:43:52 scherm-aan-slot gekregen
+20:43:52 scherm-aan-slot gekregen
+--- v89 · Linux; Android 10; K ---
+20:44:13 scherm-aan-slot gekregen
+20:44:13 scherm-aan-slot gekregen
+20:44:14 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+--- v89 · Linux; Android 10; K ---
+20:44:20 ev worried: Let op: een afsluiting op de A27 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+20:44:20 vertrekcheck (rit): 4 meldingen op route
+20:44:25 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+--- v89 · Linux; Android 10; K ---
+20:44:28 scherm-aan-slot gekregen
+20:44:28 scherm-aan-slot gekregen
+20:44:34 osm werk via Worker (overpass): 400 stuks
+20:44:34 wegwerkzaamheden geladen: 398
+20:44:35 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=excited
+20:44:42 Buddy-scherm verbonden
+20:44:46 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+20:44:57 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+20:45:00 ev clock: Het is 20:45.
+20:45:08 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+20:45:18 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+20:45:28 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+20:45:29 wifi naar scherm gestuurd: Sultra
+20:45:38 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+20:45:49 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=excited
+20:45:58 flitsers via /flitsers: 16/16
+20:45:58 ANWB verkeer geladen: 33 meldingen in de buurt (van 64)
+20:46:00 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+20:46:10 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=yawn
+20:46:20 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+20:46:30 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=excited
+20:46:31 osm laad via Worker (bewaard): 3 stuks
+20:46:31 laadpaal: niet gevonden in de buurt
+20:46:41 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+20:46:50 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+20:46:51 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=sad
+20:46:55 groep ververst: 5
+20:47:00 Buddy-scherm verbonden
+20:47:02 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+20:47:12 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+20:47:22 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=sleepy
+20:47:33 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=sleepy
+20:47:35 wifi naar scherm gestuurd: Sultra
+20:47:44 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+20:47:55 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=sleepy
+20:47:58 flitsers via /flitsers: 16/16
+20:47:59 ANWB verkeer geladen: 33 meldingen in de buurt (van 64)
+20:48:05 ev clock: Het is 20:48.
+20:48:05 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=clock
+20:48:14 voelen: sensor-teken omgekeerd
