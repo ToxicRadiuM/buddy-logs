@@ -1720,3 +1720,66 @@
 15:45:01 v=0 nauwk=4m limiet=30~ wegen=1396 draai=0 vaste=68/0 gemeld=19 stemming=startled
 --- v85 · Linux; Android 10; K ---
 15:45:07 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+--- v85 · Linux; Android 10; K ---
+16:05:08 scherm-aan-slot gekregen
+--- v85 · Linux; Android 10; K ---
+16:05:08 scherm-aan-slot gekregen
+16:05:09 ev happy: Goedemiddag Ricardo!
+16:05:09 terug na 1152 s zonder GPS
+16:05:09 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=19 stemming=happy
+16:05:10 groep ververst: 5
+16:05:10 weer: 9.8 graden, code 3, neerslag 0, wind 5
+16:05:10 bruggen geladen: 3
+16:05:10 ANWB verkeer geladen: 34 meldingen in de buurt (van 71)
+16:05:10 NDW geladen: 331 meldingen in de buurt {"closure":211,"speed":38,"lane":75,"accident":7}
+16:05:10 bijwerken naar v88
+16:05:11 /flitsers mislukt (Failed to fetch), terug naar RSS
+16:05:11 osm werk Worker: Failed to fetch, ik probeer Overpass rechtstreeks
+--- v88 · Linux; Android 10; K ---
+16:05:14 start v88
+16:05:14 groep ververst: 5
+16:05:15 GPS automatisch aan
+16:05:15 scherm-aan-slot gekregen
+16:05:15 bewegingssensor: granted
+16:05:17 voelen: geleerde richting van vorige keer overgenomen
+16:05:19 voelen: sensor-teken gewoon
+16:05:19 limiet geschat uit je snelheid: 30
+16:05:19 ANWB verkeer geladen: 34 meldingen in de buurt (van 71)
+16:05:19 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+16:05:19 bruggen geladen: 3
+16:05:20 NDW geladen: 331 meldingen in de buurt {"closure":211,"speed":38,"lane":75,"accident":7}
+16:05:20 matrix-locaties geladen: 6442
+16:05:20 weer: 9.8 graden, code 3, neerslag 0, wind 5
+16:05:20 flitsers via /flitsers: 19/19
+16:05:20 ev startled: Hé! Waar gaan we heen?
+16:05:22 ev content: Zo, mijn uitzicht is terug.
+16:05:28 FOUT Script error. @
+16:05:28 terug na 9 s zonder GPS
+16:05:28 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=19 stemming=alert
+--- v88 · Linux; Android 10; K ---
+16:05:38 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=19 stemming=anticipate
+16:05:39 ev worried: Let op: een afsluiting op de A27 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+16:05:39 vertrekcheck (rit): 4 meldingen op route
+16:05:44 autostand aan
+16:05:48 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=19 stemming=happy
+16:05:49 ev happy: Draaien! Hoei!
+16:05:51 voelen: telefoon gedraaid (25°), richting meegedraaid
+16:05:57 osm werk via Worker (oud): 400 stuks
+16:05:57 wegwerkzaamheden geladen: 398
+16:05:58 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=19 stemming=anticipate
+16:06:08 ev startled: Wiee, ik zweef!
+16:06:09 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=19 stemming=startled
+16:06:14 ev content: Zo, mijn uitzicht is terug.
+16:06:18 autostand uit
+16:06:20 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=19 stemming=anticipate
+16:06:21 ev excited: Klop klop… wie is daar? 😄
+16:06:21 geklopt (2×)
+16:06:25 FOUT Script error. @
+16:06:30 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=19 stemming=focused
+--- v88 · Linux; Android 10; K ---
+16:10:00 scherm-aan-slot gekregen
+16:10:00 scherm-aan-slot gekregen
+16:10:01 terug na 23 s zonder GPS
+16:10:01 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=19 stemming=content
+16:10:01 ANWB verkeer geladen: 34 meldingen in de buurt (van 71)
+16:10:03 FOUT Script error. @

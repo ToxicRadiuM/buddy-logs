@@ -1,0 +1,14 @@
+--- v88 · Linux; Android 10; K ---
+16:05:29 start v88
+16:05:29 groep ververst: 5
+16:05:30 GPS automatisch aan
+16:05:30 scherm-aan-slot gekregen
+16:05:32 vaste flitsers NL: 515, trajectcontroles: 76 (versie 24-10-2026)
+16:05:37 voelen: sensor-teken gewoon
+16:05:38 back-up (dag) 39 kB
+--- v88 · Linux; Android 10; K ---
+16:05:59 start v88
+16:05:59 groep ververst: 5
+16:06:00 GPS automatisch aan
+16:06:00 scherm-aan-slot gekregen
+16:06:08 voelen: sensor-teken gewoon
