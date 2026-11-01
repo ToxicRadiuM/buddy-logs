@@ -2017,3 +2017,16 @@
 21:49:29 vertrekcheck (rit): 4 meldingen op route
 21:49:35 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=neutral
 21:49:38 Buddy-scherm verbonden
+--- v93 · Linux; Android 10; K ---
+21:50:53 Buddy-scherm verbonden
+22:10:54 scherm-aan-slot gekregen
+22:10:54 scherm-aan-slot gekregen
+22:10:54 ev happy: Goedenavond Ricardo!
+22:10:54 Buddy-scherm verbonden
+22:10:55 terug na 347 s zonder GPS
+22:10:55 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=happy
+22:10:55 groep ververst: 5
+22:10:55 bruggen geladen: 0
+22:10:55 NDW geladen: 325 meldingen in de buurt {"speed":38,"lane":75,"closure":210,"accident":2}
+22:10:55 ANWB verkeer geladen: 32 meldingen in de buurt (van 68)
+22:10:55 flitsers via /flitsers: 16/16
