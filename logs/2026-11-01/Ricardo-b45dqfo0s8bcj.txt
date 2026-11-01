@@ -1,0 +1,125 @@
+--- v82 · Linux; Android 10; K ---
+07:58:12 start v82
+07:58:12 groep ververst: 4
+07:58:13 GPS automatisch aan
+07:58:13 scherm-aan-slot gekregen
+07:58:16 voelen: sensor-teken gewoon
+--- v82 · Linux; Android 10; K ---
+07:58:23 start v82
+07:58:23 groep ververst: 4
+07:58:24 GPS automatisch aan
+07:58:24 ev relaxed: Weekend! Lekker rustig aan.
+07:58:24 scherm-aan-slot gekregen
+07:58:24 bewegingssensor: granted
+07:58:42 voelen: sensor-teken gewoon
+--- v82 · Linux; Android 10; K ---
+07:58:48 vertrekcheck (rit): 4 meldingen op route
+--- v82 · Linux; Android 10; K ---
+07:59:38 GPS automatisch aan
+07:59:38 scherm-aan-slot gekregen
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:39 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:40 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:41 retro meter: optrekken 0 -> 110
+08:00:47 ev startled: Oef, stevig remmen!
+08:00:47 scherm-aan-slot gekregen
+08:00:50 limiet geschat uit je snelheid: 30
+08:00:50 v=0 nauwk=12m limiet=30~ wegen=520 draai=0 vaste=68/0 gemeld=0 stemming=worried
+08:00:50 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+08:00:50 bruggen geladen: 8
+08:00:50 weer: 7.4 graden, code 3, neerslag 0, wind 5
+08:00:50 NDW geladen: 324 meldingen in de buurt {"speed":38,"lane":75,"closure":211}
+08:00:50 matrix-locaties geladen: 6442
+08:00:50 ANWB verkeer geladen: 34 meldingen in de buurt (van 62)
+08:00:51 flitsers via /flitsers: 16/16
+08:00:51 ev happy: Goedemorgen Ricardo! Het is 7 graden, bewolkt. Let op: een afsluiting op de A27 op je gewone route.
+08:00:51 briefing: Goedemorgen Ricardo! Het is 7 graden, bewolkt. Let op: een afsluiting op de A27 op je gewone route.
+08:00:59 terug na 9 s zonder GPS
+08:01:00 drempel/schok sterkte 3.8 bij 8 km/h
+08:01:00 ev startled: Boing!
+08:01:00 drempel/schok sterkte 2.6 bij 9 km/h (tweede klap)
+08:01:00 v=8 nauwk=9m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=startled
+08:01:02 ev startled: Wooo, niet schudden! Ik word duizelig 😵
+08:01:08 ev worried: Let op: een afsluiting op de A27 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+08:01:08 vertrekcheck (rit): 4 meldingen op route
+08:01:10 v=2 nauwk=13m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=worried
