@@ -380,3 +380,656 @@
 00:01:28 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
 00:01:38 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
 00:01:47 voelen: sensor-teken gewoon
+--- v99 · Linux; Android 10; K ---
+00:02:34 scherm-aan-slot gekregen
+00:02:34 scherm-aan-slot gekregen
+--- v99 · Linux; Android 10; K ---
+00:04:17 scherm-aan-slot gekregen
+00:04:17 scherm-aan-slot gekregen
+00:04:19 terug na 151 s zonder GPS
+00:04:19 v=0 nauwk=17m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=yawn
+00:04:19 ANWB verkeer geladen: 32 meldingen in de buurt (van 66)
+00:04:19 groep ververst: 5
+00:04:19 flitsers via /flitsers: 14/14
+00:04:20 ev excited: Groen! Daar gaan we.
+00:04:29 v=0 nauwk=9m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+00:04:39 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=happy
+--- v100 · Linux; Android 10; K ---
+00:10:22 start v100
+00:10:22 nachtstand aan
+00:10:22 groep ververst: 5
+00:10:23 GPS automatisch aan
+00:10:23 scherm-aan-slot gekregen
+00:10:24 limiet geschat uit je snelheid: 30
+00:10:24 flitsers via /flitsers: 16/16
+00:10:24 ANWB verkeer geladen: 32 meldingen in de buurt (van 65)
+00:10:24 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+00:10:24 NDW geladen: 321 meldingen in de buurt {"speed":38,"lane":75,"closure":208}
+00:10:24 matrix-locaties geladen: 6442
+00:10:24 bruggen geladen: 0
+00:10:24 weer: 9 graden, code 51, neerslag 0.1, wind 7
+00:10:24 buienradar: nu 0 mm/u, regen over -1 min
+--- v100 · Linux; Android 10; K ---
+00:10:25 start v100
+00:10:25 nachtstand aan
+00:10:25 groep ververst: 5
+00:10:26 GPS automatisch aan
+00:10:26 scherm-aan-slot gekregen
+00:10:26 limiet geschat uit je snelheid: 30
+00:10:26 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+00:10:26 flitsers via /flitsers: 16/16
+00:10:26 ANWB verkeer geladen: 32 meldingen in de buurt (van 65)
+00:10:26 bruggen geladen: 0
+00:10:26 NDW geladen: 321 meldingen in de buurt {"speed":38,"lane":75,"closure":208}
+00:10:26 weer: 9 graden, code 51, neerslag 0.1, wind 7
+00:10:26 matrix-locaties geladen: 6442
+00:10:26 buienradar: nu 0 mm/u, regen over -1 min
+00:10:32 bewegingssensor: granted
+00:10:35 v=0 nauwk=9m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=excited
+00:10:36 Buddy-scherm verbonden
+--- v100 · Linux; Android 10; K ---
+00:10:46 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+00:10:55 scherm: koppeling in orde
+00:10:57 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=focused
+00:10:59 wifi naar scherm gestuurd: Sultra
+00:11:03 ev clock: Het is 00:11.
+00:11:08 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+00:11:18 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=love
+00:11:29 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=yawn
+00:11:40 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+00:11:51 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=yawn
+00:12:01 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+00:12:11 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+00:12:22 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=love
+00:12:28 ANWB verkeer geladen: 32 meldingen in de buurt (van 65)
+00:12:28 flitsers via /flitsers: 14/14
+00:12:33 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=happy
+00:12:40 Buddy-scherm verbonden
+00:12:43 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+00:12:44 scherm: bericht geweigerd (GATT Server is disconnected. Cannot perform GATT operations. (Re)connect first with `device.gatt.connect`.), koppelen nodig
+00:12:47 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+00:12:54 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=happy
+00:12:55 osm laad via Worker (bewaard): 3 stuks
+00:12:55 laadpaal: niet gevonden in de buurt
+00:13:05 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+00:13:16 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=happy
+00:13:25 groep ververst: 5
+00:13:26 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=sleepy
+00:13:29 Buddy-scherm verbonden
+00:13:37 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=sleepy
+00:13:40 scherm: koppeling in orde
+00:13:43 wifi naar scherm gestuurd: Sultra
+00:13:48 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=sleepy
+00:13:58 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+00:14:03 ev clock: Het is 00:14.
+00:14:09 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=yawn
+00:14:20 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=sleepy
+00:14:29 ANWB verkeer geladen: 32 meldingen in de buurt (van 65)
+00:14:29 flitsers via /flitsers: 16/16
+00:14:29 Buddy-scherm verbonden
+00:14:31 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=sleepy
+00:14:39 scherm: koppeling in orde
+00:14:41 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=sleepy
+00:14:52 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=excited
+00:15:02 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=sleeping
+00:15:13 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=sleeping
+00:15:23 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=sleeping
+00:15:28 NDW geladen: 321 meldingen in de buurt {"speed":38,"lane":75,"closure":208}
+00:15:30 voelen: sensor-teken gewoon
+--- v101 · Linux; Android 10; K ---
+00:26:52 start v101
+00:26:52 nachtstand aan
+00:26:52 groep ververst: 5
+00:26:53 GPS automatisch aan
+00:26:53 scherm-aan-slot gekregen
+--- v101 · Linux; Android 10; K ---
+00:26:55 start v101
+00:26:55 nachtstand aan
+00:26:55 groep ververst: 5
+00:26:56 GPS automatisch aan
+00:26:56 scherm-aan-slot gekregen
+00:26:58 bewegingssensor: granted
+00:26:58 limiet geschat uit je snelheid: 30
+00:26:58 ANWB verkeer geladen: 32 meldingen in de buurt (van 65)
+00:26:58 NDW geladen: 321 meldingen in de buurt {"speed":38,"lane":75,"closure":208}
+00:26:58 bruggen geladen: 0
+00:26:58 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+00:26:58 weer: 9 graden, code 3, neerslag 0, wind 7
+00:26:58 matrix-locaties geladen: 6442
+00:26:59 buienradar: nu 0 mm/u, regen over -1 min
+00:26:59 flitsers via /flitsers: 16/16
+00:27:00 Buddy-scherm verbonden
+00:27:00 scherm: meldingen aan
+00:27:05 v=0 nauwk=9m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=alert
+00:27:11 scherm: koppeling in orde
+00:27:11 scherm geluid: i2s-fout/30/0
+00:27:13 wifi naar scherm gestuurd: Sultra
+--- v101 · Linux; Android 10; K ---
+00:27:16 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+00:27:27 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+00:27:28 ev clock: Het is 00:27.
+00:27:32 scherm geluid: i2s-fout/30/0
+00:27:32 scherm geluid: i2s-fout/30/0
+00:27:32 scherm geluid: i2s-fout/30/0
+00:27:32 scherm geluid: i2s-fout/30/0
+00:27:32 scherm geluid: i2s-fout/30/0
+00:27:32 scherm geluid: i2s-fout/30/0
+00:27:32 scherm geluid: i2s-fout/10/0
+00:27:37 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+00:27:47 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+00:27:58 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+00:28:02 scherm geluid: i2s-fout/10/0
+00:28:02 scherm geluid: i2s-fout/10/0
+00:28:02 scherm geluid: i2s-fout/10/0
+00:28:02 scherm geluid: i2s-fout/10/0
+00:28:02 scherm geluid: i2s-fout/10/0
+00:28:02 scherm geluid: i2s-fout/10/0
+00:28:02 scherm geluid: i2s-fout/10/0
+00:28:08 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+00:28:19 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+00:28:27 Buddy-scherm verbonden
+00:28:27 scherm: meldingen aan
+00:28:30 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+00:28:40 scherm: koppeling in orde
+00:28:40 scherm geluid: i2s-fout/10/0
+00:28:40 scherm geluid: i2s-fout/10/0
+00:28:40 scherm geluid: i2s-fout/10/0
+00:28:40 scherm geluid: i2s-fout/10/0
+00:28:40 scherm geluid: i2s-fout/10/0
+00:28:40 scherm geluid: i2s-fout/10/0
+00:28:40 scherm geluid: i2s-fout/10/0
+00:28:40 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+00:28:51 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+00:28:59 flitsers via /flitsers: 16/16
+00:28:59 ANWB verkeer geladen: 32 meldingen in de buurt (van 65)
+00:29:02 scherm geluid: i2s-fout/10/0
+00:29:02 scherm geluid: i2s-fout/10/0
+00:29:02 scherm geluid: i2s-fout/10/0
+00:29:02 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+00:29:02 scherm geluid: i2s-fout/10/0
+00:29:02 scherm geluid: i2s-fout/10/0
+00:29:02 scherm geluid: i2s-fout/10/0
+00:29:02 scherm geluid: i2s-fout/17/0
+00:29:02 scherm geluid: i2s-fout/17/0
+00:29:02 scherm geluid: i2s-fout/17/0
+00:29:02 scherm geluid: i2s-fout/17/0
+00:29:02 scherm geluid: i2s-fout/17/0
+00:29:02 scherm geluid: i2s-fout/17/0
+00:29:02 scherm geluid: i2s-fout/17/0
+00:29:02 scherm geluid: i2s-fout/17/0
+--- v101 · Linux; Android 10; K ---
+00:29:32 scherm geluid: i2s-fout/17/0
+00:29:32 scherm geluid: i2s-fout/17/0
+00:29:32 scherm geluid: i2s-fout/17/0
+00:29:32 scherm geluid: i2s-fout/17/0
+00:29:32 scherm geluid: i2s-fout/17/0
+00:29:33 scherm geluid: i2s-fout/17/0
+00:29:33 scherm geluid: i2s-fout/17/0
+00:29:38 scherm-aan-slot gekregen
+00:29:38 scherm-aan-slot gekregen
+00:29:40 terug na 31 s zonder GPS
+00:29:40 v=0 nauwk=18m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=blow
+--- v101 · Linux; Android 10; K ---
+00:30:02 scherm geluid: i2s-fout/17/0
+00:30:02 scherm geluid: i2s-fout/17/0
+00:30:02 scherm geluid: i2s-fout/17/0
+00:30:02 scherm geluid: i2s-fout/17/0
+00:30:02 scherm geluid: i2s-fout/17/0
+00:30:03 scherm geluid: i2s-fout/17/0
+00:30:03 scherm geluid: i2s-fout/17/0
+00:30:32 scherm geluid: i2s-fout/17/0
+00:30:32 scherm geluid: i2s-fout/17/0
+00:30:32 scherm geluid: i2s-fout/17/0
+00:30:32 scherm geluid: i2s-fout/17/0
+00:30:32 scherm geluid: i2s-fout/17/0
+00:30:32 scherm geluid: i2s-fout/17/0
+00:30:33 scherm geluid: i2s-fout/17/0
+00:31:32 scherm-aan-slot gekregen
+00:31:32 scherm-aan-slot gekregen
+00:31:32 ev clock: Het is 00:31.
+00:31:33 scherm geluid: i2s-fout/17/0
+00:31:33 scherm geluid: i2s-fout/17/0
+00:31:33 scherm geluid: i2s-fout/17/0
+00:31:33 scherm geluid: i2s-fout/17/0
+00:31:33 scherm geluid: i2s-fout/17/0
+00:31:33 scherm geluid: i2s-fout/17/0
+00:31:33 scherm geluid: i2s-fout/17/0
+00:31:34 terug na 111 s zonder GPS
+00:31:34 v=0 nauwk=16m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=clock
+00:31:34 groep ververst: 5
+00:31:34 osm werk via Worker (bewaard): 400 stuks
+00:31:34 wegwerkzaamheden geladen: 398
+00:31:34 ANWB verkeer geladen: 32 meldingen in de buurt (van 65)
+00:31:34 flitsers via /flitsers: 14/14
+--- v101 · Linux; Android 10; K ---
+00:32:02 scherm geluid: i2s-fout/17/0
+00:32:02 scherm geluid: i2s-fout/17/0
+00:32:02 scherm geluid: i2s-fout/17/0
+00:32:02 scherm geluid: i2s-fout/17/0
+00:32:03 scherm geluid: i2s-fout/17/0
+00:32:03 scherm geluid: i2s-fout/17/0
+00:32:03 scherm geluid: i2s-fout/17/0
+00:32:26 scherm-aan-slot gekregen
+00:32:26 scherm-aan-slot gekregen
+--- v101 · Linux; Android 10; K ---
+00:32:32 scherm geluid: i2s-fout/17/0
+00:32:32 scherm geluid: i2s-fout/17/0
+00:32:32 scherm geluid: i2s-fout/17/0
+00:32:32 scherm geluid: i2s-fout/17/0
+00:32:32 scherm geluid: i2s-fout/17/0
+00:32:32 scherm geluid: i2s-fout/17/0
+00:32:33 scherm geluid: i2s-fout/17/0
+00:33:02 scherm geluid: i2s-fout/17/0
+00:33:02 scherm geluid: i2s-fout/17/0
+00:33:02 scherm geluid: i2s-fout/17/0
+00:33:02 scherm geluid: i2s-fout/17/0
+00:33:02 scherm geluid: i2s-fout/17/0
+00:33:03 scherm geluid: i2s-fout/17/0
+00:33:03 scherm geluid: i2s-fout/17/0
+00:34:04 scherm-aan-slot gekregen
+00:34:04 scherm-aan-slot gekregen
+00:34:06 scherm geluid: i2s-fout/17/0
+00:34:06 scherm geluid: i2s-fout/17/0
+00:34:06 scherm geluid: i2s-fout/17/0
+00:34:06 scherm geluid: i2s-fout/17/0
+00:34:06 scherm geluid: i2s-fout/17/0
+00:34:06 scherm geluid: i2s-fout/17/0
+00:34:06 scherm geluid: i2s-fout/17/0
+00:34:07 terug na 154 s zonder GPS
+00:34:07 v=0 nauwk=14m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=focused
+00:34:08 flitsers via /flitsers: 16/16
+00:34:08 ANWB verkeer geladen: 32 meldingen in de buurt (van 65)
+00:34:09 NDW geladen: 323 meldingen in de buurt {"speed":39,"lane":76,"closure":208}
+--- v101 · Linux; Android 10; K ---
+00:34:32 scherm geluid: i2s-fout/17/0
+00:34:32 scherm geluid: i2s-fout/17/0
+00:34:32 scherm geluid: i2s-fout/17/0
+00:34:32 scherm geluid: i2s-fout/17/0
+00:34:32 scherm geluid: i2s-fout/17/0
+00:34:33 scherm geluid: i2s-fout/17/0
+00:34:33 scherm geluid: i2s-fout/17/0
+00:35:02 scherm geluid: i2s-fout/17/0
+00:35:02 scherm geluid: i2s-fout/17/0
+00:35:02 scherm geluid: i2s-fout/17/0
+00:35:02 scherm geluid: i2s-fout/17/0
+00:35:03 scherm geluid: i2s-fout/17/0
+00:35:03 scherm geluid: i2s-fout/17/0
+00:35:03 scherm geluid: i2s-fout/17/0
+00:43:31 scherm-aan-slot gekregen
+00:43:31 scherm-aan-slot gekregen
+--- v101 · Linux; Android 10; K ---
+00:43:32 scherm geluid: i2s-fout/17/0
+00:43:32 scherm geluid: i2s-fout/17/0
+00:43:32 scherm geluid: i2s-fout/17/0
+00:43:32 scherm geluid: i2s-fout/17/0
+00:43:32 scherm geluid: i2s-fout/17/0
+00:43:32 scherm geluid: i2s-fout/17/0
+00:43:32 scherm geluid: i2s-fout/17/0
+00:43:33 terug na 562 s zonder GPS
+00:43:33 v=0 nauwk=16m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+00:43:33 ANWB verkeer geladen: 32 meldingen in de buurt (van 65)
+00:43:33 groep ververst: 5
+00:43:33 weer: 9.8 graden, code 3, neerslag 0, wind 12
+00:43:33 osm laad via Worker (bewaard): 3 stuks
+00:43:33 laadpaal: niet gevonden in de buurt
+00:43:33 flitsers via /flitsers: 16/16
+00:43:33 bruggen geladen: 0
+00:43:33 buienradar: nu 0 mm/u, regen over -1 min
+00:43:33 NDW geladen: 323 meldingen in de buurt {"speed":39,"lane":76,"closure":208}
+00:43:33 ev relaxed: Ah, even plat. Heerlijk.
+00:43:38 wifi naar scherm gestuurd: Sultra
+00:43:43 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+00:43:53 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+00:44:02 scherm geluid: i2s-fout/17/0
+00:44:02 scherm geluid: i2s-fout/17/0
+00:44:02 scherm geluid: i2s-fout/17/0
+00:44:02 scherm geluid: i2s-fout/17/0
+00:44:02 scherm geluid: i2s-fout/17/0
+00:44:02 scherm geluid: i2s-fout/17/0
+00:44:02 scherm geluid: i2s-fout/80/0
+00:44:03 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+00:44:14 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+00:44:17 ev clock: Het is 00:44.
+00:44:25 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+00:44:32 scherm geluid: i2s-fout/80/0
+00:44:32 scherm geluid: i2s-fout/80/0
+00:44:32 scherm geluid: i2s-fout/80/0
+00:44:32 scherm geluid: i2s-fout/80/0
+00:44:32 scherm geluid: i2s-fout/80/0
+00:44:32 scherm geluid: i2s-fout/80/0
+00:44:32 scherm geluid: i2s-fout/80/0
+00:44:36 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+00:44:46 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+00:44:54 scherm| klok 00:28 | gps zoekt sat=0 zicht=0 nmea=10805/0 | 0 km/u | tel data | heap 23516 | licht 97 | fps 32 teken 21.1ms stuur 15.9ms
+00:44:54 scherm| [00:00:02] ===== OPSTART v59 | reden: herstart door software | heap 123540 =====
+00:44:54 scherm| [00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+00:44:54 scherm| [00:00:03] wifi verbonden (Sultra), IP 10.230.69.32
+00:44:54 scherm| [00:00:05] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+00:44:54 scherm| [00:00:07] BLE: telefoon verbonden
+00:44:54 scherm| [00:00:20] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:00:20] geluid test (scherm): klaar=0 volume=10 status=i2s-fout
+00:44:54 scherm| [00:00:20] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:21] tegel 1733_95: 876 wegvakken
+00:44:54 scherm| [00:00:21] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:21] geluid test (scherm): klaar=0 volume=10 status=i2s-fout
+00:44:54 scherm| [00:00:22] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:22] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:23] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:23] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:24] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:24] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:25] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:25] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:26] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:26] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:27] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:27] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:28] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:28] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:29] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:29] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:30] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:30] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:31] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:31] nachtstand: geluid ook 's nachts
+00:44:54 scherm| [00:00:31] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:32] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:32] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:33] nachtstand: stil 22-7
+00:44:54 scherm| [00:00:33] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:34] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:34] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:35] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:35] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:36] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:36] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:37] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:37] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:37] geluid test (scherm): klaar=0 volume=17 status=i2s-fout
+00:44:54 scherm| [00:00:38] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:38] geluid test (scherm): klaar=0 volume=17 status=i2s-fout
+00:44:54 scherm| [00:00:39] groet: Pfoe, vroeg, Ricardo... koffie? (vriend 66)
+00:44:54 scherm| [00:00:39] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:39] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:41] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:41] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:42] geluid test: klaar=0 bezig=0 volume=17 status=i2s-fout
+00:44:54 scherm| [00:00:42] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:42] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:43] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:43] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:44] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:44] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:45] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:45] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:46] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:46] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:47] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:47] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:48] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:48] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:49] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:50] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:52] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:52] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:00:53] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:00:53] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:01:00] status | klok 00:29 | gps zoekt sat=0 zicht=0 nmea=732/0 | 0 km/u | tel data | heap 30820 | licht 97 | fps 43 teken 15.7ms stuur 18.0ms
+00:44:54 scherm| [00:01:20] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:01:20] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:01:21] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:01:21] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:01:22] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:01:22] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:01:23] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:01:24] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:01:24] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:01:26] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:01:27] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:01:27] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:01:38] weer: 9.0 graden, code 3, regen over -1 min (buienradar)
+00:44:54 scherm| [00:01:40] update: dit is de nieuwste (v59)
+00:44:54 scherm| [00:01:57] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:02:00] status | klok 00:30 | gps zoekt sat=0 zicht=0 nmea=1452/0 | 0 km/u | tel data | heap 75620 | licht 97 | fps 44 teken 17.6ms stuur 13.4ms
+00:44:54 scherm| [00:03:00] status | klok 00:31 | gps zoekt sat=0 zicht=0 nmea=2172/0 | 0 km/u | tel stil | heap 75620 | licht 97 | fps 49 teken 14.6ms stuur 11.6ms
+00:44:54 scherm| [00:03:02] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:03:14] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:03:14] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:03:15] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:03:16] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:03:16] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:03:17] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:04:00] status | klok 00:32 | gps zoekt sat=0 zicht=0 nmea=2892/0 | 0 km/u | tel data | heap 75620 | licht 97 | fps 49 teken 15.5ms stuur 13.5ms
+00:44:54 scherm| [00:04:02] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:05:00] status | klok 00:33 | gps zoekt sat=0 zicht=0 nmea=3612/0 | 0 km/u | tel data | heap 75620 | licht 97 | fps 51 teken 14.9ms stuur 13.5ms
+00:44:54 scherm| [00:05:02] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:05:48] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:05:48] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:05:49] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:05:49] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:05:50] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:05:50] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:05:51] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:05:51] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:05:52] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:05:52] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:05:53] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:05:53] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:05:54] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:05:54] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:05:55] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:05:55] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:06:00] status | klok 00:34 | gps zoekt sat=0 zicht=0 nmea=4332/0 | 0 km/u | tel data | heap 75620 | licht 97 | fps 41 teken 18.5ms stuur 13.7ms
+00:44:54 scherm| [00:06:09] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:07:00] status | klok 00:35 | gps zoekt sat=0 zicht=0 nmea=5052/0 | 0 km/u | tel stil | heap 75620 | licht 97 | fps 41 teken 19.2ms stuur 13.7ms
+00:44:54 scherm| [00:07:09] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:08:00] status | klok 00:36 | gps zoekt sat=0 zicht=0 nmea=5772/0 | 0 km/u | tel stil | heap 75620 | licht 97 | fps 57 teken 9.3ms stuur 7.8ms
+00:44:54 scherm| [00:08:10] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:09:00] status | klok 00:37 | gps zoekt sat=0 zicht=0 nmea=6492/0 | 0 km/u | tel stil | heap 75620 | licht 97 | fps 48 teken 15.8ms stuur 13.7ms
+00:44:54 scherm| [00:09:10] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:10:00] status | klok 00:38 | gps zoekt sat=0 zicht=0 nmea=7212/0 | 0 km/u | tel stil | heap 75620 | licht 97 | fps 59 teken 8.3ms stuur 6.9ms
+00:44:54 scherm| [00:10:12] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:11:00] status | klok 00:39 | gps zoekt sat=0 zicht=0 nmea=7932/0 | 0 km/u | tel stil | heap 75620 | licht 97 | fps 50 teken 15.2ms stuur 12.9ms
+00:44:54 scherm| [00:11:19] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:12:00] status | klok 00:40 | gps zoekt sat=0 zicht=0 nmea=8652/0 | 0 km/u | tel stil | heap 75620 | licht 97 | fps 59 teken 8.8ms stuur 7.2ms
+00:44:54 scherm| [00:12:19] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:13:00] status | klok 00:41 | gps zoekt sat=0 zicht=0 nmea=9372/0 | 0 km/u | tel stil | heap 75620 | licht 97 | fps 54 teken 12.4ms stuur 11.0ms
+00:44:54 scherm| [00:13:22] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:14:00] status | klok 00:42 | gps zoekt sat=0 zicht=0 nmea=10092/0 | 0 km/u | tel stil | heap 75620 | licht 97 | fps 59 teken 7.9ms stuur 6.7ms
+00:44:54 scherm| [00:14:25] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:15:00] status | klok 00:43 | gps zoekt sat=0 zicht=0 nmea=10812/0 | 0 km/u | tel stil | heap 75620 | licht 97 | fps 59 teken 9.6ms stuur 8.4ms
+00:44:54 scherm| [00:15:13] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:13] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:14] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:14] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:15] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:15] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:16] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:16] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:17] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:17] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:18] wifi ingesteld: Sultra
+00:44:54 scherm| [00:15:18] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:19] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:19] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:20] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:20] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:21] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:21] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:22] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:22] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:23] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:23] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:24] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:24] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:25] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:25] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:26] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:27] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:27] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:28] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:28] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:29] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:29] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:30] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:30] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:31] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:31] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:32] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:33] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:33] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:37] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:38] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:38] geluid: niet klaar (i2s-fout)
+00:44:54 scherm| [00:15:38] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:38] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:39] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:39] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:40] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:40] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:41] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:41] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:42] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:42] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:43] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:43] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:44] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:44] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:45] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:45] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:46] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:46] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:47] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:47] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:48] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:48] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:49] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:49] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:50] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:50] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:51] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:51] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:52] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:52] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:53] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:53] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:54] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:55] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:55] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:56] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:56] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:57] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:57] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:58] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:58] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:15:59] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:15:59] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:00] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:00] status | klok 00:44 | gps zoekt sat=0 zicht=0 nmea=11524/0 | 0 km/u | tel data | heap 30680 | licht 97 | fps 39 teken 15.7ms stuur 15.4ms
+00:44:54 scherm| [00:16:00] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:01] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:02] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:02] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:03] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:03] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:04] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:04] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:05] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:05] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:06] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:06] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:07] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:07] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:08] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:08] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:09] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:09] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:10] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:10] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:11] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:11] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:12] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:12] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:13] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:13] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:14] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:14] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:15] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:15] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:16] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:16] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:17] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:17] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:18] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:18] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:19] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:19] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:20] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:20] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:21] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:22] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:22] GPS: FIX! 0 satellieten
+00:44:54 scherm| [00:16:23] GPS: fix kwijt (0 sat)
+00:44:54 scherm| [00:16:23] GPS: FIX! 0 satellieten
+00:44:55 wifi naar scherm gestuurd: Sultra
+--- v101 · Linux; Android 10; K ---
+00:44:56 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=startled
+00:45:02 scherm geluid: i2s-fout/80/0
+00:45:02 scherm geluid: i2s-fout/80/0
+00:45:02 scherm geluid: i2s-fout/80/0
+00:45:02 scherm geluid: i2s-fout/80/0
+00:45:02 scherm geluid: i2s-fout/80/0
+00:45:02 scherm geluid: i2s-fout/80/0
+00:45:02 scherm geluid: i2s-fout/80/0
+00:45:07 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+00:45:17 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=love
+00:45:28 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+00:45:32 scherm geluid: i2s-fout/80/0
+00:45:32 scherm geluid: i2s-fout/80/0
+00:45:32 scherm geluid: i2s-fout/80/0
+00:45:32 scherm geluid: i2s-fout/80/0
+00:45:32 scherm geluid: i2s-fout/80/0
+00:45:32 scherm geluid: i2s-fout/80/0
+00:45:32 scherm geluid: i2s-fout/10/0
+00:45:33 ANWB verkeer geladen: 32 meldingen in de buurt (van 65)
+00:45:34 flitsers via /flitsers: 14/14
+00:45:38 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+00:45:49 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=startled
+00:46:00 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+00:46:09 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+00:46:11 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=sad
+00:46:21 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=worried
+00:46:32 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+00:46:33 groep ververst: 5
+00:46:39 voelen: sensor-teken omgekeerd
+00:46:42 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=excited
+--- v101 · Linux; Android 10; K ---
+00:47:06 scherm-aan-slot gekregen
+00:47:06 scherm-aan-slot gekregen
+00:47:09 terug na 22 s zonder GPS
+00:47:09 v=0 nauwk=14m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=happy
+--- v101 · Linux; Android 10; K ---
+00:47:24 scherm-aan-slot gekregen
+00:47:24 scherm-aan-slot gekregen
+00:47:24 ev clock: Het is 00:47.
+00:47:26 terug na 15 s zonder GPS
+00:47:26 v=0 nauwk=15m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=clock
+00:47:35 ANWB verkeer geladen: 32 meldingen in de buurt (van 65)
+00:47:35 flitsers via /flitsers: 14/14
+00:47:36 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+--- v101 · Linux; Android 10; K ---
+00:49:09 scherm-aan-slot gekregen
+00:49:09 scherm-aan-slot gekregen
+00:49:11 terug na 87 s zonder GPS
+00:49:11 v=0 nauwk=13m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=relaxed
+00:49:11 NDW geladen: 325 meldingen in de buurt {"speed":40,"lane":77,"closure":208}
+00:49:21 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+--- v101 · Linux; Android 10; K ---
+00:49:35 scherm-aan-slot gekregen
+00:49:35 scherm-aan-slot gekregen
+00:49:36 terug na 6 s zonder GPS
+00:49:36 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=anticipate
+00:49:36 groep ververst: 5
+00:49:36 ANWB verkeer geladen: 32 meldingen in de buurt (van 65)
+00:49:37 flitsers via /flitsers: 16/16
+00:49:46 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
