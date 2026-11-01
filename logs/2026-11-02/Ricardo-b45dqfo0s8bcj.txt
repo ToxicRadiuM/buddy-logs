@@ -289,3 +289,58 @@
 23:41:40 ANWB verkeer geladen: 32 meldingen in de buurt (van 66)
 23:41:49 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=sleepy
 23:42:00 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=sleepy
+--- v98 · Linux; Android 10; K ---
+23:42:45 scherm: kon niet versturen: PERS:Ricardo	K	4	7	0	-1	85	1793572953	0
+23:42:47 scherm: kon niet versturen: STAT?
+23:43:01 Buddy-scherm verbonden
+23:43:53 scherm: koppeling in orde
+23:43:53 scherm-aan-slot gekregen
+23:43:53 ev clock: Het is 23:43.
+23:43:53 scherm-aan-slot gekregen
+23:43:55 terug na 104 s zonder GPS
+23:43:55 v=0 nauwk=14m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=clock
+23:43:55 groep ververst: 5
+23:43:55 flitsers via /flitsers: 14/14
+23:43:55 ANWB verkeer geladen: 32 meldingen in de buurt (van 66)
+--- v98 · Linux; Android 10; K ---
+23:44:15 scherm: kon niet versturen: PERS:Ricardo	K	3	7	0	-1	85	1793573043	0
+23:44:17 scherm: kon niet versturen: STAT?
+23:44:38 scherm-aan-slot gekregen
+23:44:38 scherm-aan-slot gekregen
+23:44:40 terug na 40 s zonder GPS
+23:44:40 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+--- v98 · Linux; Android 10; K ---
+23:45:15 scherm: kon niet versturen: PERS:Ricardo	K	3	7	0	-1	85	1793573103	0
+23:45:17 scherm: kon niet versturen: STAT?
+23:45:45 scherm: kon niet versturen: PERS:Ricardo	K	3	7	0	-1	85	1793573133	0
+23:45:47 scherm: kon niet versturen: STAT?
+23:45:48 scherm-aan-slot gekregen
+23:45:48 scherm-aan-slot gekregen
+23:45:50 terug na 63 s zonder GPS
+23:45:50 v=0 nauwk=13m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+23:45:50 bruggen geladen: 0
+23:45:50 NDW geladen: 322 meldingen in de buurt {"speed":38,"lane":75,"closure":209}
+--- v98 · Linux; Android 10; K ---
+23:46:15 scherm: kon niet versturen: PERS:Ricardo	K	2	7	0	-1	85	1793573163	0
+23:46:17 scherm: kon niet versturen: STAT?
+23:46:45 scherm: kon niet versturen: PERS:Ricardo	K	2	7	0	-1	85	1793573193	0
+23:49:41 start v98
+23:49:41 nachtstand aan
+23:49:41 groep ververst: 5
+23:49:42 GPS automatisch aan
+23:49:42 scherm-aan-slot gekregen
+23:49:43 bewegingssensor: granted
+23:49:44 limiet geschat uit je snelheid: 30
+23:49:44 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+23:49:44 ANWB verkeer geladen: 32 meldingen in de buurt (van 66)
+23:49:44 flitsers via /flitsers: 14/14
+23:49:44 weer: 9 graden, code 51, neerslag 0.1, wind 7
+23:49:44 bruggen geladen: 0
+23:49:44 NDW geladen: 322 meldingen in de buurt {"speed":38,"lane":75,"closure":209}
+23:49:44 matrix-locaties geladen: 6442
+23:49:45 buienradar: nu 0 mm/u, regen over -1 min
+23:49:47 Buddy-scherm verbonden
+23:49:51 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+23:49:56 ev startled: Wiee, ik zweef!
+23:49:56 voelen: sensor-teken gewoon
+23:49:59 scherm: koppeling in orde
