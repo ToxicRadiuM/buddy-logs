@@ -344,3 +344,39 @@
 23:49:56 ev startled: Wiee, ik zweef!
 23:49:56 voelen: sensor-teken gewoon
 23:49:59 scherm: koppeling in orde
+--- v98 · Linux; Android 10; K ---
+00:00:22 scherm-aan-slot gekregen
+00:00:22 ev happy: Hé nachtuil Ricardo! Het is 9 graden, helder.
+00:00:22 briefing: Hé nachtuil Ricardo! Het is 9 graden, helder.
+00:00:22 scherm-aan-slot gekregen
+--- v99 · Linux; Android 10; K ---
+00:00:25 start v99
+00:00:25 nachtstand aan
+00:00:25 groep ververst: 5
+00:00:26 GPS automatisch aan
+00:00:26 ev happy: Het is laat Ricardo. Rij voorzichtig.
+00:00:26 scherm-aan-slot gekregen
+00:00:26 ev bored: Maandagochtend… dapper blijven.
+00:00:28 limiet geschat uit je snelheid: 30
+00:00:28 flitsers via /flitsers: 14/14
+00:00:28 ANWB verkeer geladen: 32 meldingen in de buurt (van 66)
+00:00:28 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+00:00:28 bruggen geladen: 0
+00:00:28 NDW geladen: 321 meldingen in de buurt {"speed":38,"lane":75,"closure":208}
+00:00:28 matrix-locaties geladen: 6442
+00:00:29 weer: 9 graden, code 51, neerslag 0.1, wind 7
+00:00:29 buienradar: nu 0 mm/u, regen over -1 min
+00:00:31 ev happy: Winnaar weekchallenge “Meeste meldingen voor de groep”: Henk met 2×!
+00:00:35 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=happy
+--- v99 · Linux; Android 10; K ---
+00:00:45 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+00:00:46 bewegingssensor: granted
+00:00:49 Buddy-scherm verbonden
+00:00:56 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=happy
+00:00:59 scherm: koppeling in orde
+00:01:00 ev clock: Het is 00:01.
+00:01:07 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+00:01:17 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=focused
+00:01:28 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+00:01:38 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+00:01:47 voelen: sensor-teken gewoon
