@@ -353,3 +353,16 @@
 13:09:03 v=2 nauwk=4m limiet=30 wegen=6140 draai=0 vaste=176/18 gemeld=14 stemming=neutral
 13:09:06 ev worried: Let op: een afsluiting op de A27 bij Werkendam op je gewone route. En nog 2 meldingen.
 13:09:06 vertrekcheck (rit): 3 meldingen op route
+--- v85 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+14:40:33 osm wegen Worker: te traag, ik probeer Overpass rechtstreeks
+14:40:33 scherm-aan-slot gekregen
+14:40:33 scherm-aan-slot gekregen
+14:40:33 terug na 425 s zonder GPS
+14:40:33 v=0 nauwk=14m limiet=30 wegen=6140 draai=0 vaste=176/18 gemeld=14 stemming=neutral
+14:40:34 overpass overpass-api.de: http 502
+14:40:34 groep ververst: 5
+14:40:34 ANWB verkeer geladen: 31 meldingen in de buurt (van 69)
+14:40:34 bruggen geladen: 0
+14:40:34 ev happy: Goedemiddag Henk!
+14:40:34 NDW geladen: 306 meldingen in de buurt {"speed":36,"lane":71,"closure":193,"accident":2,"jam":4}
+14:40:35 flitsers via /flitsers: 17/17
