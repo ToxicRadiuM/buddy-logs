@@ -1640,3 +1640,83 @@
 14:01:19 ANWB verkeer geladen: 34 meldingen in de buurt (van 69)
 14:01:19 bruggen geladen: 5
 14:01:19 NDW geladen: 332 meldingen in de buurt {"speed":38,"lane":75,"closure":215,"jam":2,"accident":2}
+--- v85 · Linux; Android 10; K ---
+14:01:20 flitsers via /flitsers: 14/14
+14:02:19 osm werk Worker: te traag, ik probeer Overpass rechtstreeks
+14:02:19 overpass overpass-api.de: Failed to fetch
+14:02:19 overpass overpass.private.coffee: Failed to fetch
+14:02:19 overpass overpass.kumi.systems: Failed to fetch
+14:02:19 overpass maps.mail.ru: Failed to fetch
+15:16:34 scherm-aan-slot gekregen
+--- v85 · Linux; Android 10; K ---
+15:16:35 start v85
+15:16:36 groep ververst: 5
+15:16:36 GPS automatisch aan
+15:16:36 scherm-aan-slot gekregen
+15:16:37 voelen: geleerde richting van vorige keer meegedraaid
+15:16:38 voelen: sensor-teken gewoon
+15:16:41 ev startled: Zet je me straks terug in de houder?
+15:16:43 voelen: telefoon gedraaid (21°), richting meegedraaid
+15:16:43 ev content: Zo, mijn uitzicht is terug.
+15:16:44 back-up (dag) 66 kB
+15:16:44 terug na 8 s zonder GPS
+15:16:44 limiet geschat uit je snelheid: 30
+15:16:44 ANWB verkeer geladen: 34 meldingen in de buurt (van 70)
+15:16:44 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+15:16:44 bruggen geladen: 6
+15:16:44 NDW geladen: 326 meldingen in de buurt {"speed":38,"lane":75,"closure":212,"jam":1}
+15:16:44 weer: 9.7 graden, code 3, neerslag 0, wind 3
+15:16:44 matrix-locaties geladen: 6442
+15:16:45 flitsers via /flitsers: 17/17
+15:16:53 terug na 9 s zonder GPS
+15:16:53 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=17 stemming=neutral
+--- v85 · Linux; Android 10; K ---
+15:17:00 ev worried: Let op: een afsluiting op de A27 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+15:17:00 vertrekcheck (rit): 4 meldingen op route
+15:17:03 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=17 stemming=worried
+15:17:07 bewegingssensor: granted
+15:17:07 FOUT Script error. @
+15:17:13 ev clock: Het is 15:17.
+15:17:13 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=17 stemming=clock
+15:17:15 osm werk via Worker (oud): 400 stuks
+15:17:15 wegwerkzaamheden geladen: 398
+15:17:23 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=17 stemming=bored
+15:17:34 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=17 stemming=bored
+15:17:35 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+15:17:44 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=17 stemming=excited
+15:17:55 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=17 stemming=yawn
+15:18:01 ev startled: Zet je me straks terug in de houder?
+--- v85 · Linux; Android 10; K ---
+15:44:23 scherm-aan-slot gekregen
+15:44:23 scherm-aan-slot gekregen
+15:44:24 ev happy: Goedemiddag Ricardo!
+15:44:24 terug na 341 s zonder GPS
+15:44:24 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=17 stemming=happy
+15:44:24 groep ververst: 5
+15:44:25 bruggen geladen: 3
+15:44:25 ANWB verkeer geladen: 34 meldingen in de buurt (van 71)
+15:44:25 NDW geladen: 335 meldingen in de buurt {"closure":216,"speed":38,"lane":75,"accident":5,"jam":1}
+15:44:25 flitsers via /flitsers: 19/19
+--- v85 · Linux; Android 10; K ---
+15:44:51 scherm-aan-slot gekregen
+15:44:51 scherm-aan-slot gekregen
+--- v85 · Linux; Android 10; K ---
+15:44:51 start v85
+15:44:51 groep ververst: 5
+15:44:52 GPS automatisch aan
+15:44:52 ev happy: Goedemiddag Ricardo!
+15:44:52 scherm-aan-slot gekregen
+15:44:53 limiet geschat uit je snelheid: 30
+15:44:53 flitsers via /flitsers: 19/19
+15:44:53 ANWB verkeer geladen: 34 meldingen in de buurt (van 71)
+15:44:53 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+15:44:53 bruggen geladen: 3
+15:44:53 NDW geladen: 335 meldingen in de buurt {"closure":216,"speed":38,"lane":75,"accident":5,"jam":1}
+15:44:53 weer: 9.9 graden, code 3, neerslag 0, wind 7
+15:44:53 matrix-locaties geladen: 6442
+15:44:53 voelen: sensor-teken gewoon
+15:44:54 bewegingssensor: granted
+15:45:00 voelen: geleerde richting van vorige keer overgenomen
+15:45:01 v=0 nauwk=4m limiet=30~ wegen=1396 draai=0 vaste=68/0 gemeld=19 stemming=startled
+--- v85 · Linux; Android 10; K ---
+15:45:07 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
