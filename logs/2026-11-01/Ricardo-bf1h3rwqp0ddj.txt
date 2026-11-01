@@ -1,0 +1,166 @@
+--- v93 · Linux; Android 10; K ---
+22:21:19 start v93
+22:21:19 nachtstand aan
+22:21:19 groep ververst: 5
+22:21:19 GPS automatisch aan
+22:21:19 scherm-aan-slot gekregen
+22:21:21 vaste flitsers NL: 515, trajectcontroles: 76 (versie 24-10-2026)
+22:21:24 ev happy: Winnaar weekchallenge “Rustigste rijstijl (minstens 3 ritten)”: Henk met 57/100!
+22:21:25 terug na 5 s zonder GPS
+22:21:25 limiet geschat uit je snelheid: 30
+22:21:25 bruggen geladen: 0
+22:21:25 matrix-locaties geladen: 6442
+22:21:25 osm flits via Worker (bewaard): 153 stuks
+22:21:25 flitsdata geladen: 70 flitsers, 0 trajecten (totaal 68/0)
+22:21:25 osm wegen via Worker (bewaard): 520 stuks
+22:21:25 wegen geladen: 520 wegen
+22:21:25 osm werk via Worker (bewaard): 400 stuks
+22:21:25 wegwerkzaamheden geladen: 398
+22:21:25 ANWB verkeer geladen: 32 meldingen in de buurt (van 68)
+22:21:25 weer: 9.3 graden, code 51, neerslag 0.1, wind 9
+22:21:25 NDW geladen: 326 meldingen in de buurt {"speed":39,"lane":76,"closure":210,"accident":1}
+22:21:25 rws tegel 1733_95 (internet): 876 wegvakken, versie 01-10-2026
+22:21:25 flitsers via /flitsers: 14/14
+22:21:27 ev happy: Goedenavond! Het is 9 graden, lichte regen. een collega en Ricardo zijn ook al onderweg.
+22:21:27 briefing: Goedenavond! Het is 9 graden, lichte regen. een collega en Ricardo zijn ook al onderweg.
+22:21:27 bewegingssensor: granted
+22:21:27 ev excited: Joepie! Nu voel ik elke bocht.
+22:21:27 back-up (dag) 39 kB
+22:21:29 v=0 nauwk=9m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=love
+22:21:42 start v93
+22:21:42 nachtstand aan
+22:21:42 groep ververst: 5
+22:21:43 GPS automatisch aan
+22:21:43 scherm-aan-slot gekregen
+22:21:45 limiet geschat uit je snelheid: 30
+22:21:45 flitsers via /flitsers: 14/14
+22:21:45 ANWB verkeer geladen: 32 meldingen in de buurt (van 68)
+22:21:45 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+22:21:45 NDW geladen: 326 meldingen in de buurt {"speed":39,"lane":76,"closure":210,"accident":1}
+22:21:45 matrix-locaties geladen: 6442
+22:21:46 weer: 9.3 graden, code 51, neerslag 0.1, wind 9
+22:21:46 bruggen geladen: 0
+22:21:46 bewegingssensor: granted
+22:21:49 Buddy-scherm verbonden
+22:21:51 ev happy: Nieuw outfit vrijgespeeld: Koptelefoon! Kies hem bij 🎲 Plezier, Outfit.
+22:21:52 v=0 nauwk=11m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=happy
+22:21:57 voelen: sensor-teken gewoon
+22:22:32 scherm: kon niet versturen: PERS:Ricardo	K	32	7	0	-1	85	1793568140	0
+22:22:34 scherm: kon niet versturen: STAT?
+22:22:50 scherm-aan-slot gekregen
+22:22:50 scherm-aan-slot gekregen
+22:22:52 terug na 53 s zonder GPS
+22:22:52 v=0 nauwk=12m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=alert
+22:22:58 Buddy-scherm verbonden
+22:23:02 v=0 nauwk=3m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+22:23:05 ev clock: Het is 22:23.
+22:23:32 scherm: kon niet versturen: PERS:Ricardo	K	30	7	0	-1	85	1793568200	0
+22:23:34 scherm: kon niet versturen: STAT?
+22:24:21 scherm-aan-slot gekregen
+22:24:21 scherm-aan-slot gekregen
+22:24:23 terug na 71 s zonder GPS
+22:24:23 v=0 nauwk=11m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=excited
+22:24:23 flitsers via /flitsers: 14/14
+22:24:23 ANWB verkeer geladen: 32 meldingen in de buurt (van 67)
+22:24:33 v=0 nauwk=4m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+22:24:42 groep ververst: 5
+22:24:43 v=0 nauwk=3m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=worried
+22:24:54 v=0 nauwk=3m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+22:35:43 start v93
+22:35:43 nachtstand aan
+22:35:43 groep ververst: 5
+22:35:44 GPS automatisch aan
+22:35:44 scherm-aan-slot gekregen
+22:35:46 limiet geschat uit je snelheid: 30
+22:35:46 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+22:35:46 flitsers via /flitsers: 16/16
+22:35:46 ANWB verkeer geladen: 32 meldingen in de buurt (van 67)
+22:35:46 bewegingssensor: granted
+22:35:46 matrix-locaties geladen: 6442
+22:35:46 weer: 9.4 graden, code 51, neerslag 0.1, wind 10
+22:35:46 bruggen geladen: 0
+22:35:47 NDW geladen: 325 meldingen in de buurt {"speed":39,"lane":76,"closure":209,"accident":1}
+22:35:53 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=alert
+22:36:03 voelen: sensor-teken gewoon
+22:36:03 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+22:36:13 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+22:36:20 ev clock: Het is 22:36.
+22:36:23 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=clock
+22:36:33 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=content
+22:36:44 scherm-aan-slot gekregen
+22:36:44 scherm-aan-slot gekregen
+22:36:45 terug na 6 s zonder GPS
+22:36:45 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+22:36:55 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+22:37:06 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+22:37:13 ev excited: Ja? Ik ben er!
+22:37:13 geklopt (2×)
+22:37:16 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=yawn
+22:38:24 scherm-aan-slot gekregen
+22:38:24 scherm-aan-slot gekregen
+22:38:26 terug na 70 s zonder GPS
+22:38:26 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=yawn
+22:38:26 ANWB verkeer geladen: 32 meldingen in de buurt (van 67)
+22:38:26 flitsers via /flitsers: 14/14
+22:38:36 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+22:38:44 groep ververst: 5
+22:39:27 scherm-aan-slot gekregen
+22:39:27 scherm-aan-slot gekregen
+22:39:27 ev clock: Het is 22:39.
+22:39:28 terug na 42 s zonder GPS
+22:39:28 v=0 nauwk=13m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=clock
+22:39:44 Buddy-scherm verbonden
+22:40:51 start v93
+22:40:51 nachtstand aan
+22:40:51 groep ververst: 5
+22:40:52 GPS automatisch aan
+22:40:52 scherm-aan-slot gekregen
+22:40:53 bewegingssensor: granted
+22:40:54 voelen: sensor-teken gewoon
+22:40:54 limiet geschat uit je snelheid: 30
+22:40:54 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+22:40:54 weer: 9.4 graden, code 51, neerslag 0.1, wind 10
+22:40:54 matrix-locaties geladen: 6442
+22:40:54 bruggen geladen: 0
+22:40:54 ANWB verkeer geladen: 33 meldingen in de buurt (van 67)
+22:40:55 NDW geladen: 326 meldingen in de buurt {"speed":39,"lane":76,"closure":210,"accident":1}
+22:40:55 flitsers via /flitsers: 14/14
+22:40:56 Buddy-scherm verbonden
+22:41:00 ev startled: Hé! Waar gaan we heen?
+22:41:00 ev content: Ah, weer lekker vast.
+22:41:45 scherm-aan-slot gekregen
+22:41:45 scherm-aan-slot gekregen
+22:41:46 terug na 46 s zonder GPS
+22:41:46 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=alert
+22:41:57 v=0 nauwk=5m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+22:42:04 Buddy-scherm verbonden
+22:42:07 ev clock: Het is 22:42.
+22:42:08 v=0 nauwk=4m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=clock
+22:42:11 ev happy: Ja ja ja, ik hoor je wel!
+22:42:11 geklopt (3×)
+22:42:19 v=0 nauwk=4m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=happy
+22:42:47 scherm-aan-slot gekregen
+22:42:47 scherm-aan-slot gekregen
+22:42:49 terug na 23 s zonder GPS
+22:42:49 v=0 nauwk=12m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=alert
+22:42:55 flitsers via /flitsers: 16/16
+22:42:56 ANWB verkeer geladen: 32 meldingen in de buurt (van 66)
+22:42:59 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=yawn
+22:43:10 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=content
+22:43:22 scherm-aan-slot gekregen
+22:43:22 scherm-aan-slot gekregen
+22:43:27 scherm-aan-slot gekregen
+22:43:27 scherm-aan-slot gekregen
+22:43:30 terug na 12 s zonder GPS
+22:43:30 v=0 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=focused
+22:43:40 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+22:43:50 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=excited
+22:46:04 start v93
+22:46:04 nachtstand aan
+22:46:05 groep ververst: 5
+22:46:05 GPS automatisch aan
+22:46:05 scherm-aan-slot gekregen
+22:46:07 vaste flitsers NL: 515, trajectcontroles: 76 (versie 24-10-2026)
+22:46:09 bewegingssensor: granted
+22:46:13 back-up (dag) 39 kB
+22:46:16 groepsbericht ontvangen: mijlpaal van Ricardo
