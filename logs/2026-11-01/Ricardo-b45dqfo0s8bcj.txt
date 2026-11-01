@@ -334,3 +334,24 @@
 09:39:48 drempel/schok sterkte 2.7 bij 11 km/h
 09:39:48 ev startled: Boing!
 09:39:49 drempel/schok sterkte 3.6 bij 12 km/h (tweede klap)
+--- v85 · Linux; Android 10; K ---
+11:27:47 start v85
+11:27:47 groep ververst: 4
+11:27:48 GPS automatisch aan
+11:27:48 scherm-aan-slot gekregen
+11:27:53 bewegingssensor: granted
+--- v85 · Linux; Android 10; K ---
+11:28:09 voelen: sensor-teken gewoon
+11:28:10 FOUT Script error. @
+11:28:12 vertrekcheck (rit): 4 meldingen op route
+--- v85 · Linux; Android 10; K ---
+11:29:12 start v85
+11:29:12 groep ververst: 4
+11:29:13 GPS automatisch aan
+11:29:13 scherm-aan-slot gekregen
+11:29:17 bewegingssensor: granted
+--- v85 · Linux; Android 10; K ---
+11:29:57 voelen: sensor-teken gewoon
+11:30:51 FOUT Script error. @
+11:30:57 rond scherm aan
+11:31:13 rond scherm uit
