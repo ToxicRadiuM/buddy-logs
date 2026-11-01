@@ -1,0 +1,9 @@
+--- v97 · Linux; Android 10; K ---
+23:27:44 start v97
+23:27:44 nachtstand aan
+23:27:44 groep ververst: 5
+23:27:45 GPS automatisch aan
+23:27:45 scherm-aan-slot gekregen
+23:27:51 bewegingssensor: granted
+--- v97 · Linux; Android 10; K ---
+23:28:10 voelen: sensor-teken gewoon

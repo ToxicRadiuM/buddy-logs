@@ -2449,3 +2449,49 @@
 22:54:07 NDW geladen: 325 meldingen in de buurt {"speed":39,"lane":76,"closure":209,"accident":1}
 22:54:08 flitsers via /flitsers: 16/16
 22:54:09 ev excited: Groen! Daar gaan we.
+--- v94 · Linux; Android 10; K ---
+22:54:48 start v94
+22:54:48 nachtstand aan
+22:54:48 groep ververst: 5
+22:54:49 GPS automatisch aan
+22:54:49 scherm-aan-slot gekregen
+22:54:49 bewegingssensor: granted
+22:54:50 limiet geschat uit je snelheid: 30
+22:54:50 flitsers via /flitsers: 16/16
+22:54:50 ANWB verkeer geladen: 32 meldingen in de buurt (van 66)
+22:54:50 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+22:54:50 bruggen geladen: 0
+22:54:50 NDW geladen: 325 meldingen in de buurt {"speed":39,"lane":76,"closure":209,"accident":1}
+22:54:50 weer: 9 graden, code 51, neerslag 0.1, wind 6
+22:54:50 matrix-locaties geladen: 6442
+22:54:57 ev happy: Nieuw outfit vrijgespeeld: Koptelefoon! Kies hem bij 🎲 Plezier, Outfit.
+22:54:57 voelen: sensor-teken gewoon
+22:54:57 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+22:54:59 Buddy-scherm verbonden
+22:55:04 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+22:55:07 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+--- v94 · Linux; Android 10; K ---
+22:55:12 ev startled: Wiee, ik zweef!
+22:55:15 scherm: koppeling in orde
+22:55:15 ev content: Zo, mijn uitzicht is terug.
+22:55:15 ev excited: Ja? Ik ben er!
+22:55:15 geklopt (2×)
+22:55:17 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=excited
+22:55:28 v=0 nauwk=4m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+--- v95 · Linux; Android 10; K ---
+22:58:10 start v95
+22:58:10 nachtstand aan
+22:58:10 groep ververst: 5
+22:58:11 GPS automatisch aan
+22:58:11 scherm-aan-slot gekregen
+22:58:11 bewegingssensor: granted
+22:58:12 limiet geschat uit je snelheid: 30
+22:58:12 flitsers via /flitsers: 14/14
+22:58:12 ANWB verkeer geladen: 32 meldingen in de buurt (van 66)
+22:58:12 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+22:58:12 matrix-locaties geladen: 6442
+22:58:12 bruggen geladen: 0
+22:58:12 weer: 9 graden, code 51, neerslag 0.1, wind 6
+22:58:12 NDW geladen: 323 meldingen in de buurt {"speed":38,"lane":75,"closure":209,"accident":1}
+22:58:18 voelen: sensor-teken gewoon
+22:58:20 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=blow

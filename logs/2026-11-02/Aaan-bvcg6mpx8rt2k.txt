@@ -1,0 +1,146 @@
+--- v95 · iPhone; CPU iPhone OS 26_6_1 like Mac OS X ---
+23:07:24 start v95
+23:07:24 nachtstand aan
+23:07:25 groep ververst: 5
+23:07:25 GPS automatisch aan
+23:07:25 scherm-aan-slot geweigerd: NotAllowedError
+23:07:25 ev alert: Laat op pad. Blijf scherp.
+23:07:27 vaste flitsers NL: 515, trajectcontroles: 76 (versie 24-10-2026)
+23:07:30 ev happy: Winnaar weekchallenge “Rustigste rijstijl (minstens 3 ritten)”: Henk met 57/100!
+23:07:31 terug na 6 s zonder GPS
+23:07:31 limiet geschat uit je snelheid: 30
+23:07:31 matrix-locaties geladen: 6442
+23:07:31 flitsers via /flitsers: 16/16
+23:07:31 ANWB verkeer geladen: 30 meldingen in de buurt (van 66)
+23:07:31 bruggen geladen: 0
+23:07:31 weer: 9.7 graden, code 51, neerslag 0.1, wind 5
+23:07:31 NDW geladen: 323 meldingen in de buurt {"speed":39,"lane":72,"closure":212}
+23:07:31 rws tegel 1736_97 (internet): 2163 wegvakken, versie 01-10-2026
+23:07:32 ev happy: Goedenavond! Het is 10 graden, lichte regen. Ricardo is ook al onderweg.
+23:07:32 briefing: Goedenavond! Het is 10 graden, lichte regen. Ricardo is ook al onderweg.
+23:07:33 back-up (dag) 39 kB
+23:07:35 v=0 nauwk=12m limiet=30~ wegen=2163 draai=0 vaste=0/0 gemeld=16 stemming=happy
+23:07:42 scherm-aan-slot geweigerd: NotAllowedError
+23:07:42 wakker blijven: filmpje-truc aan
+--- v95 · iPhone; CPU iPhone OS 26_6_1 like Mac OS X ---
+23:07:46 v=0 nauwk=2m limiet=30~ wegen=2163 draai=0 vaste=0/0 gemeld=16 stemming=neutral
+23:07:48 bewegingssensor: granted
+23:07:48 ev excited: Joepie! Nu voel ik elke bocht.
+23:07:55 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+23:07:56 v=0 nauwk=2m limiet=30~ wegen=2163 draai=0 vaste=0/0 gemeld=16 stemming=content
+23:07:56 scherm-aan-slot geweigerd: NotAllowedError
+23:07:58 ev clock: Het is 23:07.
+23:08:02 osm flits Worker: http 503, ik probeer Overpass rechtstreeks
+23:08:03 overpass overpass-api.de: http 502
+23:08:06 v=0 nauwk=2m limiet=30~ wegen=2163 draai=0 vaste=0/0 gemeld=16 stemming=happy
+23:08:08 osm wegen Worker: http 503, ik probeer Overpass rechtstreeks
+23:08:08 osm werk Worker: http 503, ik probeer Overpass rechtstreeks
+23:08:12 voelen: sensor-teken gewoon
+23:08:16 v=0 nauwk=2m limiet=30~ wegen=2163 draai=0 vaste=0/0 gemeld=16 stemming=bored
+23:08:26 v=0 nauwk=3m limiet=30~ wegen=2163 draai=0 vaste=0/0 gemeld=16 stemming=startled
+23:08:27 scherm-aan-slot geweigerd: NotAllowedError
+23:08:28 scherm-aan-slot geweigerd: NotAllowedError
+23:08:30 overpass maps.mail.ru: http 504
+23:08:30 overpass maps.mail.ru: http 504
+23:08:33 overpass overpass.private.coffee: te traag
+23:08:33 overpass overpass-api.de: te traag
+23:08:37 v=0 nauwk=3m limiet=30~ wegen=2163 draai=0 vaste=0/0 gemeld=16 stemming=bored
+23:08:38 overpass overpass-api.de: te traag
+23:08:40 overpass overpass.kumi.systems: te traag
+23:08:40 scherm-aan-slot geweigerd: NotAllowedError
+23:08:40 scherm-aan-slot geweigerd: NotAllowedError
+23:08:40 overpass overpass.private.coffee: te traag
+23:08:43 flitsdata geladen: 6 flitsers, 6 trajecten (totaal 6/6)
+23:08:45 overpass overpass.private.coffee: te traag
+23:08:46 scherm-aan-slot geweigerd: NotAllowedError
+23:08:47 v=0 nauwk=4m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=16 stemming=excited
+23:08:47 overpass overpass.kumi.systems: te traag
+23:08:47 FOUT wegenlimiet laden mislukt (overpass.kumi.systems: te traag) opnieuw over 8 s
+23:08:52 overpass overpass.kumi.systems: te traag
+23:08:57 v=0 nauwk=4m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=16 stemming=bored
+23:09:08 v=0 nauwk=3m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=16 stemming=yawn
+23:09:08 scherm-aan-slot geweigerd: NotAllowedError
+23:09:15 scherm-aan-slot geweigerd: NotAllowedError
+23:09:15 ev love: Aangenaam, A3aan! Zet de GPS aan, dan gaan we rijden.
+23:09:18 v=0 nauwk=3m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=16 stemming=love
+23:09:23 scherm-aan-slot geweigerd: NotAllowedError
+23:09:28 v=0 nauwk=3m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=16 stemming=bored
+23:09:28 scherm-aan-slot geweigerd: NotAllowedError
+23:09:32 flitsers via /flitsers: 16/16
+23:09:32 ANWB verkeer geladen: 30 meldingen in de buurt (van 66)
+23:09:35 scherm-aan-slot geweigerd: NotAllowedError
+23:09:42 terug na 8 s zonder GPS
+23:09:42 v=0 nauwk=3m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=16 stemming=bored
+23:09:47 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+23:09:51 scherm-aan-slot geweigerd: NotAllowedError
+23:09:56 terug na 5 s zonder GPS
+23:09:56 v=0 nauwk=3m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=16 stemming=happy
+23:09:59 scherm-aan-slot geweigerd: NotAllowedError
+23:10:07 v=0 nauwk=5m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=16 stemming=bored
+23:10:10 scherm-aan-slot geweigerd: NotAllowedError
+23:10:17 v=0 nauwk=4m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=16 stemming=bored
+--- v95 · iPhone; CPU iPhone OS 26_6_1 like Mac OS X ---
+23:10:21 scherm-aan-slot geweigerd: NotAllowedError
+23:10:21 scherm-aan-slot geweigerd: NotAllowedError
+23:10:27 terug na 6 s zonder GPS
+23:10:27 v=0 nauwk=4m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=16 stemming=sleepy
+23:10:27 groep ververst: 5
+23:10:32 osm laad Worker: http 503, ik probeer Overpass rechtstreeks
+23:10:35 scherm-aan-slot geweigerd: NotAllowedError
+23:10:37 terug na 10 s zonder GPS
+23:10:41 scherm-aan-slot geweigerd: NotAllowedError
+23:10:45 laadpaal: niet gevonden in de buurt
+23:10:47 terug na 10 s zonder GPS
+23:10:47 v=0 nauwk=4m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=16 stemming=sleepy
+23:10:54 terug na 7 s zonder GPS
+23:10:57 scherm-aan-slot geweigerd: NotAllowedError
+23:11:02 ev clock: Het is 23:11.
+23:11:03 terug na 9 s zonder GPS
+23:11:03 v=0 nauwk=4m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=16 stemming=clock
+23:11:10 terug na 6 s zonder GPS
+23:11:12 scherm-aan-slot geweigerd: NotAllowedError
+23:11:16 terug na 6 s zonder GPS
+23:11:16 v=0 nauwk=8m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=16 stemming=sleepy
+23:11:19 scherm-aan-slot geweigerd: NotAllowedError
+23:11:22 terug na 7 s zonder GPS
+23:11:23 scherm-aan-slot geweigerd: NotAllowedError
+23:11:28 scherm-aan-slot geweigerd: NotAllowedError
+23:11:29 terug na 7 s zonder GPS
+23:11:29 v=0 nauwk=11m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=16 stemming=neutral
+23:11:29 scherm-aan-slot geweigerd: NotAllowedError
+23:11:35 terug na 6 s zonder GPS
+23:11:35 flitsers via /flitsers: 14/14
+23:11:35 ANWB verkeer geladen: 30 meldingen in de buurt (van 66)
+23:11:36 scherm-aan-slot geweigerd: NotAllowedError
+23:11:43 terug na 7 s zonder GPS
+23:11:43 v=0 nauwk=10m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=14 stemming=bored
+23:11:46 scherm-aan-slot geweigerd: NotAllowedError
+23:11:49 scherm-aan-slot geweigerd: NotAllowedError
+23:11:52 terug na 10 s zonder GPS
+23:11:55 scherm-aan-slot geweigerd: NotAllowedError
+23:11:57 scherm-aan-slot geweigerd: NotAllowedError
+23:12:04 terug na 12 s zonder GPS
+23:12:04 v=0 nauwk=8m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=14 stemming=love
+23:12:11 terug na 7 s zonder GPS
+23:12:22 scherm-aan-slot geweigerd: NotAllowedError
+23:12:25 osm werk via Worker (overpass): 400 stuks
+23:12:25 wegwerkzaamheden geladen: 397
+--- v95 · iPhone; CPU iPhone OS 26_6_1 like Mac OS X ---
+23:12:50 scherm-aan-slot geweigerd: NotAllowedError
+23:12:50 scherm-aan-slot geweigerd: NotAllowedError
+23:12:50 terug na 39 s zonder GPS
+23:12:50 v=0 nauwk=7m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=14 stemming=focused
+23:12:50 NDW geladen: 323 meldingen in de buurt {"speed":39,"lane":72,"closure":212}
+--- v95 · iPhone; CPU iPhone OS 26_6_1 like Mac OS X ---
+23:27:27 ev clock: Het is 23:27.
+23:27:27 scherm-aan-slot geweigerd: NotAllowedError
+23:27:27 scherm-aan-slot geweigerd: NotAllowedError
+23:27:28 terug na 340 s zonder GPS
+23:27:28 v=0 nauwk=6m limiet=30~ wegen=2163 draai=0 vaste=6/6 gemeld=14 stemming=clock
+23:27:28 ANWB verkeer geladen: 30 meldingen in de buurt (van 66)
+23:27:28 groep ververst: 5
+23:27:28 flitsers via /flitsers: 16/16
+23:27:28 bruggen geladen: 0
+23:27:29 NDW geladen: 323 meldingen in de buurt {"speed":39,"lane":72,"closure":212}
+--- v95 · iPhone; CPU iPhone OS 26_6_1 like Mac OS X ---
+23:27:30 bijwerken naar v97
