@@ -2421,3 +2421,31 @@
 --- v93 · Linux; Android 10; K ---
 22:50:20 scherm-aan-slot gekregen
 22:50:20 scherm-aan-slot gekregen
+--- v93 · Linux; Android 10; K ---
+22:51:21 scherm-aan-slot gekregen
+22:51:21 scherm-aan-slot gekregen
+22:51:22 terug na 61 s zonder GPS
+22:51:22 v=0 nauwk=13m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=focused
+22:51:22 ANWB verkeer geladen: 32 meldingen in de buurt (van 66)
+22:51:22 flitsers via /flitsers: 16/16
+--- v93 · Linux; Android 10; K ---
+22:51:28 scherm-aan-slot gekregen
+22:51:28 scherm-aan-slot gekregen
+--- v93 · Linux; Android 10; K ---
+22:51:30 scherm-aan-slot gekregen
+22:51:30 scherm-aan-slot gekregen
+--- v93 · Linux; Android 10; K ---
+22:51:32 scherm-aan-slot gekregen
+22:51:32 scherm-aan-slot gekregen
+22:51:33 terug na 7 s zonder GPS
+22:51:33 v=0 nauwk=15m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+--- v93 · Linux; Android 10; K ---
+22:54:06 scherm-aan-slot gekregen
+22:54:06 scherm-aan-slot gekregen
+22:54:07 terug na 154 s zonder GPS
+22:54:07 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+22:54:07 groep ververst: 5
+22:54:07 ANWB verkeer geladen: 32 meldingen in de buurt (van 66)
+22:54:07 NDW geladen: 325 meldingen in de buurt {"speed":39,"lane":76,"closure":209,"accident":1}
+22:54:08 flitsers via /flitsers: 16/16
+22:54:09 ev excited: Groen! Daar gaan we.
