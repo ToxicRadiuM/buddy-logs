@@ -123,3 +123,214 @@
 08:01:08 ev worried: Let op: een afsluiting op de A27 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
 08:01:08 vertrekcheck (rit): 4 meldingen op route
 08:01:10 v=2 nauwk=13m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=worried
+--- v82 · Linux; Android 10; K ---
+08:01:17 osm werk Worker: Failed to fetch, ik probeer Overpass rechtstreeks
+08:35:28 start v82
+08:35:28 groep ververst: 4
+08:35:29 bewegingssensor: granted
+08:35:29 GPS automatisch aan
+08:35:29 scherm-aan-slot gekregen
+08:35:30 limiet geschat uit je snelheid: 30
+08:35:30 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+08:35:30 weer: 7.6 graden, code 3, neerslag 0, wind 4
+08:35:30 bruggen geladen: 8
+08:35:30 ANWB verkeer geladen: 32 meldingen in de buurt (van 60)
+08:35:30 matrix-locaties geladen: 6442
+08:35:30 NDW geladen: 325 meldingen in de buurt {"speed":38,"lane":75,"closure":212}
+08:35:30 flitsers via /flitsers: 14/14
+08:35:33 voelen: sensor-teken gewoon
+08:35:39 v=5 nauwk=30m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+--- v82 · Linux; Android 10; K ---
+08:35:49 v=0 nauwk=9m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+08:35:53 ev worried: Let op: een afsluiting op de A27 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+08:35:53 vertrekcheck (rit): 4 meldingen op route
+08:35:59 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=love
+08:36:01 osm werk via Worker (oud): 400 stuks
+08:36:01 wegwerkzaamheden geladen: 398
+08:36:10 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=anticipate
+08:36:20 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=anticipate
+08:36:21 ev startled: Wiee, ik zweef!
+08:36:25 voelen: telefoon gedraaid (51°), richting meegedraaid
+08:36:25 ev content: Ah, weer lekker vast.
+08:36:27 ev clock: Het is 08:36.
+08:36:31 v=2 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=clock
+08:36:41 v=0 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=anticipate
+08:36:43 voelen: telefoon gedraaid (51°), richting meegedraaid
+08:36:51 v=0 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=anticipate
+08:37:02 v=0 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=anticipate
+08:37:12 v=0 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=anticipate
+--- v82 · Linux; Android 10; K ---
+08:39:25 scherm-aan-slot gekregen
+08:39:25 scherm-aan-slot gekregen
+08:39:25 voelen: telefoon gedraaid (38°), richting meegedraaid
+08:39:26 terug na 19 s zonder GPS
+08:39:26 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=alert
+08:39:26 flitsers via /flitsers: 16/16
+08:39:26 ANWB verkeer geladen: 32 meldingen in de buurt (van 60)
+08:39:27 FOUT Script error. @
+08:39:36 voelen: telefoon gedraaid (38°), richting meegedraaid
+08:39:37 v=0 nauwk=14m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=anticipate
+08:39:47 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=anticipate
+08:39:57 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=anticipate
+08:40:08 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=yawn
+08:40:11 ev startled: Hé! Waar gaan we heen?
+08:40:16 voelen: telefoon gedraaid (39°), richting meegedraaid
+08:40:16 ev content: Zo, mijn uitzicht is terug.
+08:40:18 groep ververst: 4
+08:40:19 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=content
+08:40:21 osm laad via Worker (bewaard): 3 stuks
+08:40:21 laadpaal: niet gevonden in de buurt
+--- v82 · Linux; Android 10; K ---
+08:40:24 scherm-aan-slot gekregen
+08:40:24 scherm-aan-slot gekregen
+--- v82 · Linux; Android 10; K ---
+08:40:41 scherm-aan-slot gekregen
+08:40:41 scherm-aan-slot gekregen
+08:40:41 terug na 17 s zonder GPS
+08:40:41 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=love
+08:40:41 NDW geladen: 325 meldingen in de buurt {"speed":38,"lane":75,"closure":212}
+08:40:52 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=anticipate
+08:41:02 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+08:41:13 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=anticipate
+08:41:18 ev clock: Het is 08:41.
+08:41:24 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=anticipate
+08:41:27 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+08:41:27 ANWB verkeer geladen: 32 meldingen in de buurt (van 60)
+08:41:29 flitsers via /flitsers: 14/14
+08:41:35 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=alert
+08:41:42 ev excited: Binnen!
+08:41:42 geklopt (2×)
+08:41:46 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=anticipate
+08:41:56 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=happy
+08:42:07 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=anticipate
+08:42:17 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=yawn
+--- v82 · Linux; Android 10; K ---
+08:42:26 start v82
+08:42:26 groep ververst: 4
+08:42:27 GPS automatisch aan
+08:42:27 scherm-aan-slot gekregen
+08:42:27 limiet geschat uit je snelheid: 30
+08:42:27 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+08:42:27 ANWB verkeer geladen: 32 meldingen in de buurt (van 60)
+08:42:27 flitsers via /flitsers: 14/14
+08:42:27 weer: 6.2 graden, code 3, neerslag 0, wind 3
+08:42:27 bruggen geladen: 8
+08:42:27 matrix-locaties geladen: 6442
+08:42:27 NDW geladen: 325 meldingen in de buurt {"speed":38,"lane":75,"closure":212}
+08:42:32 bewegingssensor: granted
+08:42:33 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+08:42:36 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=content
+08:42:36 voelen: sensor-teken gewoon
+08:42:39 ev startled: Wiee, ik zweef!
+08:42:40 ev content: Ah, weer lekker vast.
+08:42:46 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=anticipate
+--- v83 · Linux; Android 10; K ---
+08:53:49 start v83
+08:53:49 groep ververst: 4
+08:53:50 GPS automatisch aan
+08:53:50 scherm-aan-slot gekregen
+08:53:51 limiet geschat uit je snelheid: 30
+08:53:51 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+08:53:51 matrix-locaties geladen: 6442
+08:53:51 weer: 6.4 graden, code 3, neerslag 0, wind 4
+08:53:51 bruggen geladen: 8
+08:53:51 ANWB verkeer geladen: 31 meldingen in de buurt (van 59)
+08:53:51 NDW geladen: 325 meldingen in de buurt {"speed":38,"lane":75,"closure":211,"accident":1}
+08:53:51 voelen: sensor-teken gewoon
+08:53:52 flitsers via /flitsers: 16/16
+08:54:00 terug na 9 s zonder GPS
+08:54:00 v=0 nauwk=18m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+08:54:02 bewegingssensor: granted
+--- v83 · Linux; Android 10; K ---
+08:54:09 terug na 9 s zonder GPS
+08:54:14 ev worried: Let op: een afsluiting op de A27 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+08:54:14 vertrekcheck (rit): 4 meldingen op route
+08:54:18 terug na 9 s zonder GPS
+08:54:18 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=worried
+08:54:25 ev clock: Het is 08:54.
+08:54:27 terug na 9 s zonder GPS
+08:54:28 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=clock
+08:54:36 terug na 8 s zonder GPS
+08:54:37 ev excited: Groen! Daar gaan we.
+08:54:39 v=10 nauwk=13m limiet=30 wegen=1396 draai=-0 vaste=68/0 gemeld=16 stemming=excited
+08:54:49 v=4 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+08:54:59 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=anticipate
+08:55:08 ev content: Hier rijden we vaak. Ik ken dit stukje.
+--- v83 · Linux; Android 10; K ---
+09:16:04 scherm-aan-slot gekregen
+09:16:04 scherm-aan-slot gekregen
+09:16:04 ev happy: Goedemorgen Ricardo!
+09:16:05 terug na 83 s zonder GPS
+09:16:05 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+09:16:05 bruggen geladen: 8
+09:16:05 ANWB verkeer geladen: 31 meldingen in de buurt (van 59)
+09:16:05 NDW geladen: 325 meldingen in de buurt {"speed":38,"lane":75,"closure":211,"accident":1}
+09:16:05 flitsers via /flitsers: 14/14
+09:16:08 osm werk Worker: Failed to fetch, ik probeer Overpass rechtstreeks
+--- v83 · Linux; Android 10; K ---
+09:16:08 start v83
+09:16:08 groep ververst: 4
+09:16:09 GPS automatisch aan
+09:16:09 scherm-aan-slot gekregen
+09:16:10 limiet geschat uit je snelheid: 30
+09:16:10 flitsers via /flitsers: 14/14
+09:16:10 ANWB verkeer geladen: 31 meldingen in de buurt (van 59)
+09:16:10 bruggen geladen: 8
+09:16:10 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+09:16:10 NDW geladen: 325 meldingen in de buurt {"speed":38,"lane":75,"closure":211,"accident":1}
+09:16:10 weer: 6.8 graden, code 3, neerslag 0, wind 5
+09:16:10 matrix-locaties geladen: 6442
+09:16:11 bewegingssensor: granted
+09:16:13 voelen: sensor-teken gewoon
+09:16:19 v=0 nauwk=5m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=alert
+--- v83 · Linux; Android 10; K ---
+09:16:30 v=0 nauwk=4m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=neutral
+09:16:33 ev worried: Let op: een afsluiting op de A27 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+09:16:33 vertrekcheck (rit): 4 meldingen op route
+--- v83 · Linux; Android 10; K ---
+09:16:53 osm werk via Worker (oud): 400 stuks
+09:16:53 wegwerkzaamheden geladen: 398
+09:17:37 scherm-aan-slot gekregen
+09:17:37 scherm-aan-slot gekregen
+09:17:39 terug na 25 s zonder GPS
+09:17:39 v=0 nauwk=5m limiet=15 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=worried
+--- v85 · Linux; Android 10; K ---
+09:37:52 start v85
+09:37:52 groep ververst: 4
+09:37:53 GPS automatisch aan
+09:37:53 scherm-aan-slot gekregen
+09:37:54 limiet geschat uit je snelheid: 30
+09:37:54 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+09:37:54 weer: 7.4 graden, code 3, neerslag 0, wind 3
+09:37:54 bruggen geladen: 11
+09:37:54 matrix-locaties geladen: 6442
+09:37:54 ANWB verkeer geladen: 31 meldingen in de buurt (van 59)
+09:37:54 NDW geladen: 325 meldingen in de buurt {"speed":38,"lane":75,"closure":211,"accident":1}
+09:37:55 flitsers via /flitsers: 14/14
+09:37:59 bewegingssensor: granted
+09:38:04 terug na 10 s zonder GPS
+09:38:04 v=0 nauwk=20m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=happy
+--- v85 · Linux; Android 10; K ---
+09:38:13 terug na 9 s zonder GPS
+09:38:15 voelen: sensor-teken gewoon
+09:38:17 ev worried: Let op: een afsluiting op de A27 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+09:38:17 vertrekcheck (rit): 4 meldingen op route
+09:38:22 terug na 9 s zonder GPS
+09:38:22 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=worried
+09:38:27 ev clock: Het is 09:38.
+09:38:31 terug na 9 s zonder GPS
+09:38:40 terug na 9 s zonder GPS
+09:38:40 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=worried
+09:38:49 terug na 9 s zonder GPS
+09:38:51 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+09:38:58 terug na 8 s zonder GPS
+09:39:01 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+09:39:12 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+09:39:23 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=startled
+09:39:34 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=excited
+09:39:45 v=4 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=14 stemming=bored
+09:39:46 ev excited: Groen! Daar gaan we.
+09:39:48 ev content: Hier rijden we vaak. Ik ken dit stukje.
+09:39:48 drempel/schok sterkte 2.7 bij 11 km/h
+09:39:48 ev startled: Boing!
+09:39:49 drempel/schok sterkte 3.6 bij 12 km/h (tweede klap)
