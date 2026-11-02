@@ -2743,3 +2743,242 @@
 12:45:46 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
 12:45:46 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
 12:45:52 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+--- v102 · Linux; Android 10; K ---
+12:46:01 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+12:46:01 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+12:46:02 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:03 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=content
+12:46:04 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:06 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:06 ev clock: Het is 12:46.
+12:46:07 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:09 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:14 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+12:46:16 scherm: bericht geweigerd (GATT operation already in progress.), koppelen nodig
+12:46:16 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:18 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:19 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:21 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:21 voelen: sensor-teken gewoon
+12:46:22 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:24 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:24 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=focused
+12:46:31 scherm: bericht geweigerd (GATT operation already in progress.), koppelen nodig
+12:46:31 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:33 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:34 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:34 v=0 nauwk=6m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+12:46:36 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:37 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:39 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:45 v=0 nauwk=7m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=happy
+12:46:46 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+12:46:46 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+12:46:47 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:49 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:51 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:52 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:54 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+12:46:56 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=yawn
+12:47:07 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+12:47:17 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=alert
+12:47:28 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+12:47:36 ANWB verkeer geladen: 14 meldingen in de buurt (van 48)
+12:47:36 flitsers via /flitsers: 20/20
+12:47:39 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+12:47:49 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+12:47:58 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+12:48:00 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sad
+12:48:03 osm laad via Worker (bewaard): 4 stuks
+12:48:03 laadpaal: niet gevonden in de buurt
+12:48:10 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=excited
+12:48:20 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+12:48:31 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=happy
+12:48:33 groep ververst: 5
+12:48:41 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleepy
+12:48:52 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=yawn
+12:49:03 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleepy
+12:49:06 ev clock: Het is 12:49.
+12:49:13 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=love
+12:49:23 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleepy
+12:49:34 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=yawn
+12:49:37 ANWB verkeer geladen: 14 meldingen in de buurt (van 48)
+12:49:37 flitsers via /flitsers: 18/18
+12:49:45 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleepy
+12:49:55 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleepy
+12:50:05 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+12:50:15 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+12:50:25 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+12:50:35 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+12:50:35 NDW geladen: 212 meldingen in de buurt {"lane":82,"closure":94,"speed":33,"accident":2,"jam":1}
+12:50:45 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+12:50:55 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+12:51:05 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+12:51:15 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+12:51:25 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+12:51:33 groep ververst: 5
+12:51:35 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+12:51:37 flitsers via /flitsers: 12/12
+12:51:37 ANWB verkeer geladen: 14 meldingen in de buurt (van 49)
+12:51:47 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=12 stemming=sleeping
+12:51:49 wifi naar scherm gestuurd: Sultra
+12:51:54 terug na 7 s zonder GPS
+12:52:01 terug na 7 s zonder GPS
+12:52:01 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=12 stemming=sleeping
+12:52:07 terug na 7 s zonder GPS
+12:52:14 terug na 7 s zonder GPS
+12:52:14 v=0 nauwk=7m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=12 stemming=sleeping
+12:52:21 terug na 6 s zonder GPS
+12:52:27 terug na 7 s zonder GPS
+12:52:27 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=12 stemming=sleeping
+12:52:34 terug na 7 s zonder GPS
+12:52:41 terug na 7 s zonder GPS
+12:52:41 v=0 nauwk=6m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=12 stemming=sleeping
+12:52:47 terug na 7 s zonder GPS
+12:52:54 terug na 7 s zonder GPS
+12:52:54 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=12 stemming=sleeping
+12:53:01 terug na 7 s zonder GPS
+12:53:07 terug na 7 s zonder GPS
+12:53:07 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=12 stemming=sleeping
+12:53:14 terug na 7 s zonder GPS
+12:53:21 terug na 7 s zonder GPS
+12:53:21 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=12 stemming=sleeping
+12:53:27 terug na 7 s zonder GPS
+12:53:32 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=12 stemming=sleeping
+12:53:38 flitsers via /flitsers: 20/20
+12:53:38 ANWB verkeer geladen: 14 meldingen in de buurt (van 48)
+12:53:42 v=2 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+12:53:53 v=0 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+12:54:03 v=2 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+12:54:13 v=0 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+12:54:18 ev relaxed: Lekker liggen…
+12:54:23 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+12:54:33 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+12:54:34 groep ververst: 5
+12:54:44 v=2 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+12:54:54 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+12:55:04 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+12:55:14 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=alert
+12:55:25 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+12:55:26 ev clock: Het is 12:55.
+--- v102 · Linux; Android 10; K ---
+12:55:35 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=worried
+12:55:36 bruggen geladen: 0
+12:55:36 NDW geladen: 212 meldingen in de buurt {"lane":82,"closure":94,"speed":33,"accident":2,"jam":1}
+12:55:38 ANWB verkeer geladen: 14 meldingen in de buurt (van 50)
+12:55:38 flitsers via /flitsers: 20/20
+12:55:45 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+12:55:55 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=startled
+12:56:06 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+12:56:17 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+12:56:27 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+12:56:37 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+12:56:47 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+12:56:58 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+12:57:08 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=happy
+12:57:16 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+12:57:18 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sad
+12:57:28 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=content
+12:57:35 groep ververst: 5
+12:57:39 flitsers via /flitsers: 20/20
+12:57:39 ANWB verkeer geladen: 14 meldingen in de buurt (van 50)
+12:57:39 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+12:57:50 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=yawn
+12:58:00 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleepy
+12:58:10 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleepy
+12:58:20 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleepy
+12:58:28 ev clock: Het is 12:58.
+12:58:31 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=clock
+12:58:41 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleepy
+12:58:51 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleepy
+12:59:01 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=happy
+12:59:11 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleepy
+12:59:22 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=excited
+12:59:32 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+12:59:39 flitsers via /flitsers: 20/20
+12:59:40 ANWB verkeer geladen: 15 meldingen in de buurt (van 49)
+12:59:42 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+12:59:52 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:00:03 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:00:14 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:00:24 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:00:34 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:00:35 groep ververst: 5
+13:00:36 weer: 11.9 graden, code 3, neerslag 0, wind 14
+13:00:36 buienradar: nu 0 mm/u, regen over -1 min
+13:00:37 NDW geladen: 213 meldingen in de buurt {"lane":82,"closure":95,"speed":33,"accident":2,"jam":1}
+13:00:44 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:00:55 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:01:05 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:01:15 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:01:25 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:01:36 v=0 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:01:39 flitsers via /flitsers: 20/20
+13:01:41 ANWB verkeer geladen: 16 meldingen in de buurt (van 49)
+13:01:46 v=0 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:01:56 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:02:06 v=0 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:02:17 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:02:28 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:02:38 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:02:48 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:02:58 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:03:09 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:03:19 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:03:29 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:03:36 groep ververst: 5
+13:03:39 flitsers via /flitsers: 20/20
+13:03:39 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:03:42 ANWB verkeer geladen: 15 meldingen in de buurt (van 50)
+13:03:50 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:04:00 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:04:11 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:04:21 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:04:31 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:04:41 v=0 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:04:52 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:05:03 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:05:13 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:05:23 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+--- v102 · Linux; Android 10; K ---
+13:05:33 v=0 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=sleeping
+13:05:36 bruggen geladen: 0
+13:05:38 NDW geladen: 213 meldingen in de buurt {"lane":82,"closure":94,"speed":33,"accident":3,"jam":1}
+13:05:40 flitsers via /flitsers: 18/18
+13:05:43 ANWB verkeer geladen: 15 meldingen in de buurt (van 49)
+13:05:43 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:05:56 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:06:06 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:06:16 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:06:26 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:06:36 groep ververst: 5
+13:06:37 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:06:48 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:06:58 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:07:08 v=0 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:07:18 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:07:29 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:07:40 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:07:41 flitsers via /flitsers: 18/18
+13:07:44 ANWB verkeer geladen: 16 meldingen in de buurt (van 51)
+13:07:50 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:08:00 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:08:11 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:08:21 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:08:32 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:08:42 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:08:52 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:09:03 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:09:13 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:09:23 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:09:33 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:09:37 groep ververst: 5
+13:09:41 flitsers via /flitsers: 18/18
+13:09:44 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:09:45 ANWB verkeer geladen: 14 meldingen in de buurt (van 47)
+13:09:54 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:10:04 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:10:15 v=0 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+13:10:20 ev startled: Hé! Waar gaan we heen?
+13:10:25 v=4 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+13:10:27 ev happy: Draaien! Hoei!

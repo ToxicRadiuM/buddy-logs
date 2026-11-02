@@ -1,0 +1,66 @@
+--- v102 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+12:58:17 start v102
+12:58:18 groep ververst: 5
+12:58:18 GPS automatisch aan
+12:58:18 scherm-aan-slot geweigerd: NotAllowedError
+12:58:20 limiet geschat uit je snelheid: 30
+12:58:20 matrix-locaties geladen: 6442
+12:58:20 ANWB verkeer geladen: 15 meldingen in de buurt (van 50)
+12:58:20 flitsers via /flitsers: 20/20
+12:58:20 osm flits via Worker (bewaard): 18 stuks
+12:58:20 flitsdata geladen: 15 flitsers, 0 trajecten (totaal 15/0)
+12:58:20 osm werk via Worker (bewaard): 400 stuks
+12:58:20 wegwerkzaamheden geladen: 400
+12:58:20 vaste flitsers NL: 515, trajectcontroles: 76 (versie 24-10-2026)
+12:58:20 weer: 11.6 graden, code 3, neerslag 0, wind 14
+12:58:20 bruggen geladen: 0
+12:58:20 osm wegen via Worker (bewaard): 958 stuks
+12:58:20 wegen geladen: 958 wegen
+12:58:20 NDW geladen: 212 meldingen in de buurt {"lane":82,"closure":94,"speed":33,"accident":2,"jam":1}
+12:58:20 rws tegel 1723_103 (internet): 1509 wegvakken, versie 01-10-2026
+12:58:20 buienradar: nu 0 mm/u, regen over -1 min
+12:58:21 ev happy: Goedemiddag! Het is 12 graden, bewolkt. Ricardo en Aaan zijn ook al onderweg.
+12:58:21 briefing: Goedemiddag! Het is 12 graden, bewolkt. Ricardo en Aaan zijn ook al onderweg.
+12:58:23 ev happy: Winnaar weekchallenge “Meeste meldingen voor de groep”: Henk met 2×!
+12:58:26 back-up (dag) 39 kB
+12:58:27 terug na 6 s zonder GPS
+12:58:27 v=0 nauwk=6m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=happy
+12:58:29 scherm-aan-slot geweigerd: NotAllowedError
+12:58:29 wakker blijven: filmpje-truc aan
+12:58:33 bewegingssensor: granted
+12:58:33 ev excited: Joepie! Nu voel ik elke bocht.
+12:58:33 terug na 6 s zonder GPS
+12:58:37 scherm-aan-slot geweigerd: NotAllowedError
+--- v102 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+12:58:39 terug na 6 s zonder GPS
+12:58:39 v=0 nauwk=6m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+12:58:39 voelen: sensor-teken gewoon
+12:58:45 terug na 6 s zonder GPS
+12:58:49 ev clock: Het is 12:58.
+12:58:49 v=0 nauwk=5m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=clock
+12:58:59 v=0 nauwk=4m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=bored
+12:59:05 ev excited: Groen! Daar gaan we.
+12:59:10 v=7 nauwk=6m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+12:59:20 v=0 nauwk=14m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+12:59:20 voelen: telefoon gedraaid (34°), richting meegedraaid
+--- v102 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+12:59:49 scherm-aan-slot geweigerd: NotAllowedError
+12:59:49 scherm-aan-slot geweigerd: NotAllowedError
+12:59:49 terug na 27 s zonder GPS
+12:59:49 v=0 nauwk=9m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+12:59:54 terug na 6 s zonder GPS
+13:00:01 v=3 nauwk=14m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:00:02 voelen: telefoon gedraaid (23°), richting meegedraaid
+13:00:02 drempel/schok sterkte 4.7 bij 8 km/h
+13:00:02 ev startled: Boing!
+13:00:03 drempel/schok sterkte 3.0 bij 11 km/h (tweede klap)
+13:00:04 drempel/schok sterkte 2.4 bij 13 km/h
+13:00:11 v=0 nauwk=14m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:00:13 voelen: telefoon gedraaid (37°), richting meegedraaid
+13:00:14 scherm-aan-slot geweigerd: NotAllowedError
+13:00:16 scherm-aan-slot gekregen
+13:00:19 voelen: telefoon gedraaid (37°), richting meegedraaid
+13:00:21 ANWB verkeer geladen: 16 meldingen in de buurt (van 49)
+13:00:21 flitsers via /flitsers: 18/18
+13:00:22 v=0 nauwk=9m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=neutral
+13:00:32 v=0 nauwk=2m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=neutral

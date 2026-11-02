@@ -212,3 +212,149 @@
 --- v102 · iPhone; CPU iPhone OS 26_6_1 like Mac OS X ---
 11:57:23 scherm-aan-slot geweigerd: NotAllowedError
 11:57:23 scherm-aan-slot geweigerd: NotAllowedError
+--- v102 · iPhone; CPU iPhone OS 26_6_1 like Mac OS X ---
+12:56:41 start v102
+12:56:41 groep ververst: 5
+12:56:42 GPS automatisch aan
+12:56:42 ev happy: Goedemiddag A3aan!
+12:56:42 scherm-aan-slot geweigerd: NotAllowedError
+12:56:42 limiet geschat uit je snelheid: 30
+12:56:42 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+12:56:42 ANWB verkeer geladen: 14 meldingen in de buurt (van 50)
+12:56:42 osm werk via Worker (bewaard): 400 stuks
+12:56:42 wegwerkzaamheden geladen: 400
+12:56:42 bruggen geladen: 0
+12:56:42 matrix-locaties geladen: 6442
+12:56:42 flitsers via /flitsers: 20/20
+12:56:42 weer: 11.5 graden, code 3, neerslag 0, wind 14
+12:56:42 NDW geladen: 212 meldingen in de buurt {"lane":82,"closure":94,"speed":33,"accident":2,"jam":1}
+12:56:42 buienradar: nu 0 mm/u, regen over -1 min
+12:56:43 scherm-aan-slot geweigerd: NotAllowedError
+12:56:43 wakker blijven: filmpje-truc aan
+12:56:43 scherm-aan-slot geweigerd: NotAllowedError
+12:56:47 scherm-aan-slot geweigerd: NotAllowedError
+12:56:48 terug na 5 s zonder GPS
+12:56:51 bewegingssensor: granted
+12:56:53 scherm-aan-slot geweigerd: NotAllowedError
+12:56:54 terug na 6 s zonder GPS
+12:56:54 v=0 nauwk=11m limiet=70 wegen=2467 draai=0 vaste=21/6 gemeld=20 stemming=happy
+12:56:54 scherm-aan-slot gekregen
+12:57:00 terug na 6 s zonder GPS
+--- v102 · iPhone; CPU iPhone OS 26_6_1 like Mac OS X ---
+12:57:05 ev excited: Ja? Ik ben er!
+12:57:05 geklopt (2×)
+12:57:06 terug na 6 s zonder GPS
+12:57:06 v=0 nauwk=10m limiet=70 wegen=2467 draai=0 vaste=21/6 gemeld=20 stemming=excited
+12:57:12 terug na 6 s zonder GPS
+12:57:21 terug na 10 s zonder GPS
+12:57:21 v=0 nauwk=9m limiet=70 wegen=2467 draai=0 vaste=21/6 gemeld=20 stemming=content
+12:57:30 terug na 6 s zonder GPS
+12:57:31 ev excited: Groen! Daar gaan we.
+12:57:32 retro meter: optrekken 0 -> 12
+12:57:32 v=6 nauwk=6m limiet=70 wegen=2467 draai=0 vaste=21/6 gemeld=20 stemming=excited
+12:57:38 sprint-animatie: ruimte
+12:57:48 terug na 8 s zonder GPS
+12:57:48 v=0 nauwk=6m limiet=70 wegen=2467 draai=0 vaste=21/6 gemeld=20 stemming=excited
+12:57:54 terug na 6 s zonder GPS
+12:58:00 terug na 6 s zonder GPS
+12:58:00 v=0 nauwk=5m limiet=70 wegen=2467 draai=0 vaste=21/6 gemeld=20 stemming=neutral
+12:58:06 terug na 6 s zonder GPS
+--- v102 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+13:00:33 start v102
+13:00:34 groep ververst: 5
+13:00:34 GPS automatisch aan
+13:00:34 scherm-aan-slot geweigerd: NotAllowedError
+13:00:43 terug na 9 s zonder GPS
+13:00:43 limiet geschat uit je snelheid: 30
+13:00:43 v=0 nauwk=2m limiet=30~ wegen=958 draai=0 vaste=15/0 gemeld=18 stemming=alert
+13:00:43 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+13:00:44 matrix-locaties geladen: 6442
+13:00:44 ANWB verkeer geladen: 16 meldingen in de buurt (van 49)
+13:00:44 flitsers via /flitsers: 18/18
+13:00:44 bruggen geladen: 0
+13:00:44 NDW geladen: 212 meldingen in de buurt {"lane":81,"closure":95,"speed":33,"accident":2,"jam":1}
+13:00:44 weer: 11.9 graden, code 3, neerslag 0, wind 14
+13:00:44 buienradar: nu 0 mm/u, regen over -1 min
+13:00:49 terug na 6 s zonder GPS
+13:00:52 voelen: sensor-teken gewoon
+13:00:52 scherm-aan-slot geweigerd: NotAllowedError
+13:00:52 wakker blijven: filmpje-truc aan
+13:00:53 scherm-aan-slot gekregen
+--- v102 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+13:00:56 v=4 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=neutral
+13:01:03 bewegingssensor: granted
+13:01:07 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=neutral
+13:01:09 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+13:01:18 v=0 nauwk=2m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=neutral
+13:01:28 v=0 nauwk=4m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=neutral
+13:01:39 v=0 nauwk=4m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=neutral
+13:01:47 ev clock: Het is 13:01.
+13:01:49 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=clock
+13:01:59 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=alert
+13:02:10 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=bored
+13:02:21 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=yawn
+13:02:32 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=bored
+13:02:43 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=bored
+13:02:44 flitsers via /flitsers: 18/18
+13:02:44 ANWB verkeer geladen: 16 meldingen in de buurt (van 49)
+13:02:53 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=bored
+13:03:04 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=happy
+13:03:14 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=bored
+13:03:20 osm laad via Worker (bewaard): 4 stuks
+13:03:20 laadpaal: niet gevonden in de buurt
+13:03:24 v=0 nauwk=3m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=excited
+13:03:34 v=0 nauwk=2m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=bored
+13:03:34 groep ververst: 5
+13:03:42 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+13:03:44 v=0 nauwk=4m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=sad
+13:03:48 ev startled: Zet je me straks terug in de houder?
+13:03:53 ev content: Ah, weer lekker vast.
+13:03:54 v=4 nauwk=19m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=content
+13:04:05 v=0 nauwk=13m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=neutral
+13:04:14 terug na 8 s zonder GPS
+13:04:15 v=0 nauwk=5m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=neutral
+13:04:37 terug na 14 s zonder GPS
+13:04:37 v=0 nauwk=12m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=focused
+13:04:43 terug na 6 s zonder GPS
+13:04:43 ev excited: Groen! Daar gaan we.
+13:04:49 terug na 6 s zonder GPS
+13:04:49 v=7 nauwk=11m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=neutral
+13:04:49 flitsers via /flitsers: 20/20
+13:04:49 ANWB verkeer geladen: 16 meldingen in de buurt (van 50)
+13:04:59 terug na 6 s zonder GPS
+13:05:05 terug na 6 s zonder GPS
+13:05:05 v=3 nauwk=10m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=worried
+13:05:11 terug na 6 s zonder GPS
+13:05:17 terug na 6 s zonder GPS
+13:05:17 v=0 nauwk=10m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:05:23 terug na 6 s zonder GPS
+13:05:29 terug na 6 s zonder GPS
+13:05:29 v=4 nauwk=13m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:05:35 terug na 6 s zonder GPS
+13:05:41 terug na 6 s zonder GPS
+13:05:41 v=0 nauwk=14m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:05:47 terug na 6 s zonder GPS
+13:05:47 NDW geladen: 213 meldingen in de buurt {"lane":82,"closure":94,"speed":33,"accident":3,"jam":1}
+13:05:53 terug na 6 s zonder GPS
+13:05:53 v=9 nauwk=13m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:05:53 ev excited: Groen! Daar gaan we.
+13:06:05 v=0 nauwk=17m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:06:11 terug na 6 s zonder GPS
+13:06:17 terug na 6 s zonder GPS
+13:06:17 v=0 nauwk=11m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:06:29 terug na 6 s zonder GPS
+13:06:29 v=6 nauwk=14m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=love
+13:06:37 terug na 6 s zonder GPS
+13:06:37 groep ververst: 5
+13:06:43 terug na 6 s zonder GPS
+13:06:43 v=0 nauwk=14m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:06:49 terug na 6 s zonder GPS
+13:06:50 ANWB verkeer geladen: 15 meldingen in de buurt (van 49)
+13:06:50 flitsers via /flitsers: 20/20
+13:06:51 ev happy: Draaien! Hoei!
+13:06:53 voelen: telefoon gedraaid (119°), richting meegedraaid
+13:06:55 terug na 6 s zonder GPS
+13:06:55 v=4 nauwk=14m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:07:01 terug na 6 s zonder GPS
+13:07:07 terug na 6 s zonder GPS
+13:07:07 v=3 nauwk=13m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
