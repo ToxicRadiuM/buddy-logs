@@ -2228,3 +2228,416 @@
 10:38:25 scherm| [00:06:14] GPS: FIX! 0 satellieten
 --- v102 · Linux; Android 10; K ---
 10:38:30 groep ververst: 5
+--- v102 · Linux; Android 10; K ---
+10:38:32 flitsers via /flitsers: 22/22
+10:38:40 scherm geluid: ok/0/15
+10:38:40 scherm geluid: ok/0/15
+10:38:40 scherm geluid: ok/0/15
+10:38:40 scherm geluid: ok/0/15
+10:38:40 scherm geluid: ok/0/15
+10:38:40 scherm geluid: ok/0/15
+10:38:40 scherm geluid: ok/0/15
+10:39:10 scherm geluid: ok/0/15
+10:39:10 scherm geluid: ok/0/15
+10:39:10 scherm geluid: ok/0/15
+10:39:10 scherm geluid: ok/0/15
+10:39:10 scherm geluid: ok/0/15
+10:39:10 scherm geluid: ok/0/15
+10:39:10 scherm geluid: ok/0/15
+11:02:27 scherm-aan-slot gekregen
+--- v102 · Linux; Android 10; K ---
+11:02:27 scherm-aan-slot gekregen
+11:02:27 ev happy: Goedemorgen Ricardo! Het regent.
+11:02:29 terug na 1320 s zonder GPS
+11:02:29 v=0 nauwk=11m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=happy
+11:02:29 osm werk via Worker (bewaard): 400 stuks
+11:02:29 wegwerkzaamheden geladen: 400
+11:02:29 ANWB verkeer geladen: 17 meldingen in de buurt (van 49)
+11:02:29 bruggen geladen: 0
+11:02:29 groep ververst: 5
+11:02:29 weer: 10 graden, code 3, neerslag 0, wind 12
+11:02:29 NDW geladen: 210 meldingen in de buurt {"lane":81,"closure":93,"speed":33,"accident":1,"jam":2}
+11:02:29 buienradar: nu 0 mm/u, regen over -1 min
+11:02:30 Buddy-scherm verbonden
+11:02:30 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:02:30 flitsers via /flitsers: 22/22
+11:02:32 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:02:33 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:02:34 ev excited: Groen! Daar gaan we.
+11:02:34 limiet geschat uit je snelheid: 30
+11:02:35 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:02:36 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:02:39 v=0 nauwk=13m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=neutral
+11:02:41 Buddy-scherm verbonden
+11:02:41 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:02:42 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:02:44 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:02:45 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:02:47 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:02:48 voelen: telefoon gedraaid (37°), richting meegedraaid
+11:02:48 ev excited: Binnen!
+11:02:48 geklopt (2×)
+11:02:48 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:02:49 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:02:50 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=neutral
+11:02:54 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+11:03:00 v=0 nauwk=7m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=neutral
+11:03:04 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:03:04 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:03:04 wifi naar scherm gestuurd: Sultra
+11:03:05 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:03:07 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:03:08 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:03:10 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:03:10 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=excited
+11:03:11 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:03:19 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:03:19 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:03:20 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:03:21 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=neutral
+11:03:22 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:03:23 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:03:25 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:03:26 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+--- v102 · Linux; Android 10; K ---
+11:03:34 scherm: bericht geweigerd (GATT operation already in progress.), koppelen nodig
+11:03:34 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:03:36 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:03:38 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:03:40 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:03:42 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:03:44 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:03:59 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:03:59 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:04:01 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:04:03 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:04:05 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:04:08 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:04:10 scherm-aan-slot gekregen
+11:04:10 scherm-aan-slot gekregen
+11:04:10 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:04:11 voelen: telefoon gedraaid (29°), richting meegedraaid
+11:04:17 terug na 39 s zonder GPS
+11:04:17 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=neutral
+11:04:18 ev relaxed: Lekker liggen…
+11:04:27 v=0 nauwk=15m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=bored
+11:04:30 ANWB verkeer geladen: 17 meldingen in de buurt (van 49)
+11:04:30 Buddy-scherm verbonden
+11:04:30 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:04:32 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:04:33 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:04:35 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:04:37 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:04:38 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:04:38 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:04:38 v=0 nauwk=7m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=neutral
+11:04:41 ev clock: Het is 11:04.
+11:04:41 flitsers via /flitsers: 22/22
+11:04:48 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=sleepy
+11:04:53 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:04:53 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:04:55 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:04:56 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:04:58 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:04:58 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=bored
+11:04:59 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:01 ev excited: Klop klop… wie is daar? 😄
+11:05:01 geklopt (2×)
+11:05:01 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:08 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:05:08 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:05:09 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=anticipate
+11:05:10 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:11 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:13 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:15 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:16 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:19 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=bored
+11:05:23 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:05:23 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:05:25 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:27 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:28 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:30 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:30 v=0 nauwk=12m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=happy
+11:05:31 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:38 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:05:39 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:05:40 groep ververst: 5
+11:05:40 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:41 v=0 nauwk=11m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=bored
+11:05:42 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:43 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:45 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:46 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:05:51 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=bored
+11:06:02 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=happy
+11:06:13 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=bored
+11:06:23 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=bored
+11:06:31 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+11:06:31 ANWB verkeer geladen: 16 meldingen in de buurt (van 48)
+11:06:34 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=sad
+11:06:40 flitsers via /flitsers: 24/24
+11:06:44 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=happy
+11:06:54 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=yawn
+11:07:05 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleepy
+11:07:07 osm laad via Worker (bewaard): 4 stuks
+11:07:07 laadpaal: niet gevonden in de buurt
+--- v102 · Linux; Android 10; K ---
+11:07:15 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=yawn
+11:07:25 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleepy
+11:07:30 NDW geladen: 210 meldingen in de buurt {"lane":80,"closure":93,"speed":33,"jam":2,"accident":2}
+11:07:36 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=yawn
+11:07:41 ev clock: Het is 11:07.
+11:07:46 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleepy
+11:07:56 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=love
+11:08:07 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleepy
+11:08:17 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=happy
+11:08:27 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleepy
+11:08:31 ANWB verkeer geladen: 16 meldingen in de buurt (van 48)
+11:08:37 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=content
+11:08:40 groep ververst: 5
+11:08:40 flitsers via /flitsers: 24/24
+11:08:47 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:08:57 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:09:07 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:09:17 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:09:27 v=0 nauwk=11m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:09:37 v=0 nauwk=11m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:09:47 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:09:57 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:10:07 v=0 nauwk=11m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:10:17 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:10:26 ev excited: Whoeeh, optrekken!
+11:10:28 v=0 nauwk=11m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=neutral
+11:10:32 ANWB verkeer geladen: 16 meldingen in de buurt (van 49)
+11:10:38 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=alert
+11:10:41 flitsers via /flitsers: 26/26
+11:10:48 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=26 stemming=neutral
+11:10:58 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=26 stemming=happy
+11:11:08 ev clock: Het is 11:11.
+11:11:09 v=0 nauwk=7m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=26 stemming=clock
+11:11:20 v=0 nauwk=7m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=26 stemming=alert
+11:11:30 v=2 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=26 stemming=neutral
+11:11:41 groep ververst: 5
+11:11:41 v=0 nauwk=12m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=26 stemming=neutral
+11:11:42 ev alert: Boem! Deur dicht. Gaan we weg?
+11:11:42 deur dicht gevoeld
+11:11:45 wifi naar scherm gestuurd: Sultra
+11:11:52 v=2 nauwk=12m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=26 stemming=neutral
+11:12:03 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=26 stemming=neutral
+11:12:13 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=26 stemming=neutral
+11:12:23 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=26 stemming=bored
+11:12:30 bruggen geladen: 0
+11:12:31 NDW geladen: 212 meldingen in de buurt {"lane":81,"closure":93,"speed":33,"jam":3,"accident":2}
+11:12:33 ANWB verkeer geladen: 16 meldingen in de buurt (van 48)
+11:12:34 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=26 stemming=neutral
+11:12:41 flitsers via /flitsers: 24/24
+11:12:45 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=anticipate
+11:12:56 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=bored
+11:13:07 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=bored
+11:13:16 Buddy-scherm verbonden
+11:13:16 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:13:17 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=bored
+11:13:18 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:13:19 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:13:21 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:13:23 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:13:24 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:13:24 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:13:28 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=happy
+11:13:31 wifi naar scherm gestuurd: Sultra
+11:13:38 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=bored
+11:13:39 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:13:39 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:13:41 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:13:42 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:13:44 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:13:45 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:13:47 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:13:49 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=bored
+11:13:54 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:13:54 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:13:56 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:13:59 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=worried
+11:14:02 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:14:05 Buddy-scherm verbonden
+11:14:05 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:14:07 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:14:08 ev clock: Het is 11:14.
+11:14:08 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:14:10 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:14:10 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=clock
+11:14:12 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:14:13 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:14:13 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:14:20 ev relaxed: Lekker liggen…
+11:14:20 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=relaxed
+11:14:25 wifi naar scherm gestuurd: Sultra
+11:14:26 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+11:14:28 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:14:28 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:14:30 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:14:30 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sad
+11:14:31 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:14:33 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:14:34 ANWB verkeer geladen: 16 meldingen in de buurt (van 48)
+11:14:34 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:14:41 groep ververst: 5
+11:14:41 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=bored
+11:14:42 flitsers via /flitsers: 24/24
+11:14:43 ev excited: Binnen!
+11:14:43 geklopt (2×)
+11:14:52 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=happy
+11:15:03 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleepy
+11:15:13 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleepy
+11:15:24 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleepy
+11:15:34 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleepy
+11:15:44 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleepy
+11:15:54 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleepy
+11:16:05 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=bored
+11:16:15 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleepy
+11:16:26 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=bored
+11:16:35 ANWB verkeer geladen: 16 meldingen in de buurt (van 49)
+11:16:37 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:16:43 flitsers via /flitsers: 24/24
+11:16:47 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:16:57 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:17:07 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+--- v102 · Linux; Android 10; K ---
+11:17:18 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:17:29 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:17:32 NDW geladen: 211 meldingen in de buurt {"lane":80,"closure":93,"speed":33,"jam":3,"accident":2}
+11:17:39 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:17:40 weer: 10.1 graden, code 3, neerslag 0, wind 13
+11:17:40 buienradar: nu 0 mm/u, regen over -1 min
+11:17:41 groep ververst: 5
+11:17:49 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:17:59 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:18:10 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:18:20 v=0 nauwk=7m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:18:31 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:18:35 Buddy-scherm verbonden
+11:18:35 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:18:36 ANWB verkeer geladen: 15 meldingen in de buurt (van 48)
+11:18:37 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:18:39 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:18:40 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:18:42 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:18:42 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:18:43 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:18:43 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:18:44 flitsers via /flitsers: 24/24
+11:18:46 rit: {"t0":1793610491986,"t1":1793614287321,"km":5.5,"min":5,"stijl":94,"netjes":0,"vmax":105,"sec":277,"g":0.32,"sch":0,"zacht":100,"van":[51.70194,5.25427],"naar":[51.69686,5.17346],"bm":"je hoogste
+11:18:46 ev happy: Zachte rit, rijstijl 94. Top!
+--- v102 · Linux; Android 10; K ---
+11:18:49 level 8
+11:18:49 back-up (rit) 51 kB
+11:18:52 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:18:57 ev happy: ⭐ Beste moment: je hoogste G-kracht ooit: 0,32 G 🌀
+11:18:57 wifi naar scherm gestuurd: Sultra
+11:18:58 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:18:59 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:19:00 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:02 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:03 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:03 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:19:05 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:06 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:14 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:19:14 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:19:14 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:19:15 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:17 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:18 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:20 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:21 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:24 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:19:29 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:19:29 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:19:30 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:32 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:33 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:35 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:35 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:19:36 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:44 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:19:44 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:19:44 wifi naar scherm gestuurd: Sultra
+11:19:45 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:45 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:19:47 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:48 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:50 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:51 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:19:55 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:20:06 v=0 nauwk=10m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:20:16 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:20:16 Buddy-scherm verbonden
+11:20:16 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:20:18 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:20:20 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:20:21 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:20:23 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:20:24 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:20:24 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:20:27 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:20:37 ANWB verkeer geladen: 15 meldingen in de buurt (van 48)
+11:20:38 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=sleeping
+11:20:39 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:20:39 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:20:41 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:20:42 groep ververst: 5
+11:20:43 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:20:44 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:20:45 flitsers via /flitsers: 26/26
+11:20:46 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:20:47 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:20:49 v=0 nauwk=8m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=26 stemming=sleeping
+11:20:54 scherm: meldingen aanzetten mislukt (GATT operation failed for unknown reason.)
+11:20:55 scherm: bericht geweigerd (GATT Error Unknown.), koppelen nodig
+11:20:56 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:20:58 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:20:59 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:21:00 v=0 nauwk=9m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=26 stemming=sleeping
+11:21:01 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+11:21:02 scherm: meldingen aanzetten mislukt (GATT Error Unknown.)
+--- v102 · Linux; Android 10; K ---
+11:43:52 ev happy: Goedemorgen Ricardo!
+11:44:15 scherm-aan-slot gekregen
+11:44:15 scherm-aan-slot gekregen
+11:44:23 terug na 448 s zonder GPS
+11:44:23 v=0 nauwk=11m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=26 stemming=sleeping
+11:44:23 groep ververst: 5
+11:44:23 osm werk via Worker (bewaard): 400 stuks
+11:44:23 wegwerkzaamheden geladen: 400
+11:44:23 ANWB verkeer geladen: 15 meldingen in de buurt (van 48)
+11:44:23 bruggen geladen: 0
+11:44:23 NDW geladen: 210 meldingen in de buurt {"lane":81,"closure":93,"speed":33,"jam":1,"accident":2}
+11:44:24 flitsers via /flitsers: 18/18
+11:44:35 terug na 7 s zonder GPS
+11:44:35 v=0 nauwk=12m limiet=30~ wegen=3127 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+11:44:45 v=0 nauwk=36m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+11:44:55 v=0 nauwk=28m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+11:45:05 v=4 nauwk=20m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+11:45:07 ev happy: Draaien! Hoei!
+11:45:15 ev startled: Hé! Waar gaan we heen?
+11:45:16 v=0 nauwk=8m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=18 stemming=startled
+11:45:26 v=0 nauwk=6m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+11:45:33 ev content: Ah, weer lekker vast.
+11:45:37 v=0 nauwk=6m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+11:45:47 v=0 nauwk=7m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+11:45:48 ev clock: Het is 11:45.
+11:45:57 ev happy: Wiee, ander uitzicht!
+--- v102 · Linux; Android 10; K ---
+11:52:38 scherm-aan-slot gekregen
+11:52:38 scherm-aan-slot gekregen
+11:52:44 terug na 151 s zonder GPS
+11:52:44 v=0 nauwk=10m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=18 stemming=bored
+11:52:45 groep ververst: 5
+11:52:45 ANWB verkeer geladen: 15 meldingen in de buurt (van 52)
+11:52:45 NDW geladen: 209 meldingen in de buurt {"lane":80,"closure":93,"speed":33,"jam":2,"accident":1}
+11:52:46 flitsers via /flitsers: 16/16
+11:52:46 NDW melding lane 86 m: alleen icoontje
+11:52:47 retro meter: optrekken 0 -> 21
+11:52:47 limiet geschat uit je snelheid: 30

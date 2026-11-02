@@ -144,3 +144,71 @@
 23:27:29 NDW geladen: 323 meldingen in de buurt {"speed":39,"lane":72,"closure":212}
 --- v95 · iPhone; CPU iPhone OS 26_6_1 like Mac OS X ---
 23:27:30 bijwerken naar v97
+--- v102 · iPhone; CPU iPhone OS 26_6_1 like Mac OS X ---
+23:27:31 start v97
+11:44:26 start v102
+11:44:26 groep ververst: 5
+11:44:27 GPS automatisch aan
+11:44:27 scherm-aan-slot geweigerd: NotAllowedError
+--- v102 · iPhone; CPU iPhone OS 26_6_1 like Mac OS X ---
+23:27:31 start v97
+11:44:26 start v102
+11:44:44 start v102
+11:44:44 groep ververst: 5
+11:44:45 GPS automatisch aan
+11:44:45 scherm-aan-slot geweigerd: NotAllowedError
+11:44:47 limiet geschat uit je snelheid: 30
+11:44:47 matrix-locaties geladen: 6442
+11:44:47 flitsers via /flitsers: 18/18
+11:44:47 ANWB verkeer geladen: 15 meldingen in de buurt (van 48)
+11:44:47 osm flits via Worker (bewaard): 18 stuks
+11:44:47 flitsdata geladen: 15 flitsers, 0 trajecten (totaal 21/6)
+11:44:47 osm werk via Worker (bewaard): 400 stuks
+11:44:47 wegwerkzaamheden geladen: 400
+11:44:47 bruggen geladen: 0
+11:44:47 osm wegen via Worker (bewaard): 958 stuks
+11:44:47 wegen geladen: 958 wegen
+11:44:47 NDW geladen: 210 meldingen in de buurt {"lane":81,"closure":93,"speed":33,"jam":1,"accident":2}
+11:44:47 weer: 9.7 graden, code 3, neerslag 0, wind 13
+11:44:47 rws tegel 1723_103 (internet): 1509 wegvakken, versie 01-10-2026
+11:44:48 buienradar: nu 0 mm/u, regen over -1 min
+11:44:48 ev happy: Goedemorgen A3aan! Het is 10 graden, bewolkt. Ricardo is ook al onderweg.
+11:44:48 briefing: Goedemorgen A3aan! Het is 10 graden, bewolkt. Ricardo is ook al onderweg.
+11:44:54 terug na 6 s zonder GPS
+11:44:54 v=0 nauwk=14m limiet=70 wegen=2467 draai=0 vaste=21/6 gemeld=18 stemming=happy
+11:44:54 scherm-aan-slot geweigerd: NotAllowedError
+11:44:54 wakker blijven: filmpje-truc aan
+11:45:00 terug na 6 s zonder GPS
+--- v102 · iPhone; CPU iPhone OS 26_6_1 like Mac OS X ---
+11:45:06 terug na 6 s zonder GPS
+11:45:06 v=4 nauwk=13m limiet=70 wegen=2467 draai=0 vaste=21/6 gemeld=18 stemming=neutral
+11:45:06 ev excited: Groen! Daar gaan we.
+11:45:10 scherm-aan-slot geweigerd: NotAllowedError
+11:45:12 terug na 6 s zonder GPS
+11:45:18 terug na 6 s zonder GPS
+11:45:18 v=0 nauwk=14m limiet=70 wegen=2467 draai=0 vaste=21/6 gemeld=18 stemming=neutral
+11:45:24 terug na 6 s zonder GPS
+11:45:26 scherm-aan-slot geweigerd: NotAllowedError
+11:45:28 scherm-aan-slot geweigerd: NotAllowedError
+11:45:31 terug na 7 s zonder GPS
+11:45:31 v=4 nauwk=14m limiet=70 wegen=2467 draai=0 vaste=21/6 gemeld=18 stemming=neutral
+11:45:31 scherm-aan-slot geweigerd: NotAllowedError
+11:45:34 scherm-aan-slot geweigerd: NotAllowedError
+11:45:37 terug na 6 s zonder GPS
+11:45:38 scherm-aan-slot geweigerd: NotAllowedError
+11:45:42 terug na 5 s zonder GPS
+11:45:42 v=4 nauwk=13m limiet=70 wegen=2467 draai=0 vaste=21/6 gemeld=18 stemming=neutral
+11:45:42 scherm-aan-slot geweigerd: NotAllowedError
+11:45:47 scherm-aan-slot geweigerd: NotAllowedError
+11:45:49 terug na 7 s zonder GPS
+11:45:49 scherm-aan-slot geweigerd: NotAllowedError
+11:45:54 terug na 5 s zonder GPS
+11:45:54 v=3 nauwk=13m limiet=70 wegen=2467 draai=0 vaste=21/6 gemeld=18 stemming=neutral
+11:46:12 terug na 12 s zonder GPS
+11:46:12 v=0 nauwk=14m limiet=70 wegen=2467 draai=0 vaste=21/6 gemeld=18 stemming=neutral
+11:46:18 terug na 6 s zonder GPS
+11:46:24 terug na 6 s zonder GPS
+11:46:24 v=0 nauwk=14m limiet=70 wegen=2467 draai=0 vaste=21/6 gemeld=18 stemming=alert
+--- v102 · iPhone; CPU iPhone OS 26_6_1 like Mac OS X ---
+11:57:23 scherm-aan-slot geweigerd: NotAllowedError
+11:57:23 scherm-aan-slot geweigerd: NotAllowedError
