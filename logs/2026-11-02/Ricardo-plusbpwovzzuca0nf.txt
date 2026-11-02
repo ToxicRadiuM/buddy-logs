@@ -1192,3 +1192,212 @@ X! 0 satellieten
 [00:08:33] GPS: fix kwijt (0 sat)
 [00:08:33] GPS: FIX! 0 satellieten
 [00:08:34]
+--- Buddy+ v69 ---
+00:22:17] GPS: FIX! 0 satellieten
+[00:22:17] GPS: fix kwijt (0 sat)
+[00:22:18] GPS: FIX! 0 satellieten
+[00:22:19] GPS: fix kwijt (0 sat)
+[00:22:19] GPS: FIX! 0 satellieten
+[00:22:20] GPS: fix kwijt (0 sat)
+[00:22:20] GPS: FIX! 0 satellieten
+[00:22:21] GPS: fix kwijt (0 sat)
+[00:22:21] GPS: FIX! 0 satellieten
+[00:22:22] GPS: fix kwijt (0 sat)
+[00:22:22] GPS: FIX! 0 satellieten
+[00:22:23] GPS: fix kwijt (0 sat)
+[00:22:23] GPS: FIX! 0 satellieten
+[00:22:24] GPS: fix kwijt (0 sat)
+[00:22:24] GPS: FIX! 0 satellieten
+[00:22:25] GPS: fix kwijt (0 sat)
+[00:22:25] GPS: FIX! 0 satellieten
+[00:22:26] GPS: fix kwijt (0 sat)
+[00:22:26] GPS: FIX! 0 satellieten
+[00:22:27] GPS: fix kwijt (0 sat)
+[00:22:27] GPS: FIX! 0 satellieten
+[00:22:28] GPS: fix kwijt (0 sat)
+[00:22:28] GPS: FIX! 0 satellieten
+[00:22:29] GPS: fix kwijt (0 sat)
+[00:22:29] GPS: FIX! 0 satellieten
+[00:22:30] GPS: fix kwijt (0 sat)
+[00:22:30] GPS: FIX! 0 satellieten
+[00:22:31] GPS: fix kwijt (0 sat)
+[00:22:31] GPS: FIX! 0 satellieten
+[00:22:32] GPS: fix kwijt (0 sat)
+[00:22:32] GPS: FIX! 0 satellieten
+[00:22:33] GPS: fix kwijt (0 sat)
+[00:22:33] GPS: FIX! 0 satellieten
+[00:22:34] GPS: fix kwijt (0 sat)
+[00:22:34] GPS: FIX! 0 satellieten
+[00:22:35] GPS: fix kwijt (0 sat)
+[00:22:36] GPS: FIX! 0 satellieten
+[00:22:36] GPS: fix kwijt (0 sat)
+[00:22:37] GPS: FIX! 0 satellieten
+[00:22:37] GPS: fix kwijt (0 sat)
+[00:22:38] GPS: FIX! 0 satellieten
+[00:22:38] GPS: fix kwijt (0 sat)
+[00:22:39] GPS: FIX! 0 satellieten
+[00:22:39] GPS: fix kwijt (0 sat)
+[00:22:40] GPS: FIX! 0 satellieten
+[00:22:40] GPS: fix kwijt (0 sat)
+[00:22:41] GPS: FIX! 0 satellieten
+[00:22:41] GPS: fix kwijt (0 sat)
+[00:22:42] GPS: FIX! 0 satellieten
+[00:22:42] GPS: fix kwijt (0 sat)
+[00:22:43] GPS: FIX! 0 satellieten
+[00:22:43] GPS: fix kwijt (0 sat)
+[00:22:44] GPS: FIX! 0 satellieten
+[00:22:44] GPS: fix kwijt (0 sat)
+[00:22:45] GPS: FIX! 0 satellieten
+[00:22:45] GPS: fix kwijt (0 sat)
+[00:22:46] GPS: FIX! 0 satellieten
+[00:22:47] GPS: fix kwijt (0 sat)
+[00:22:47] GPS: FIX! 0 satellieten
+[00:22:48] GPS: fix kwijt (0 sat)
+[00:22:49] GPS: FIX! 0 satellieten
+[00:22:50] GPS: fix kwijt (0 sat)
+[00:22:50] GPS: FIX! 0 satellieten
+[00:22:51] GPS: fix kwijt (0 sat)
+[00:22:51] GPS: FIX! 0 satellieten
+[00:22:52] GPS: fix kwijt (0 sat)
+[00:22:52] GPS: FIX! 0 satellieten
+[00:22:53] GPS: fix kwijt (0 sat)
+[00:22:53] GPS: FIX! 0 satellieten
+[00:22:54] GPS: fix kwijt (0 sat)
+[00:22:54] GPS: FIX! 0 satellieten
+[00:22:55] GPS: fix kwijt (0 sat)
+[00:22:55] GPS: FIX! 0 satellieten
+[00:22:56] GPS: fix kwijt (0 sat)
+[00:22:56] GPS: FIX! 0 satellieten
+[00:22:57] GPS: fix kwijt (0 sat)
+[00:22:57] GPS: FIX! 0 satellieten
+[00:22:58] GPS: fix kwijt (0 sat)
+[00:22:58] GPS: FIX! 0 satellieten
+[00:22:59] GPS: fix kwijt (0 sat)
+[00:22:59] GPS: FIX! 0 satellieten
+[00:23:00] GPS: fix kwijt (0 sat)
+[00:23:00] GPS: FIX! 0 satellieten
+[00:23:00] status | klok 18:19 | gps TEL sat=0 zicht=0 nmea=16676/0 | 0 km/u | tel data | heap 70312 | licht 191 | fps 33 teken 20.1ms stuur 15.6ms
+[00:23:01] GPS: fix kwijt (0 sat)
+[00:23:01] GPS: FIX! 0 satellieten
+[00:23:02] GPS: fix kwijt (0 sat)
+[00:23:02] GPS: FIX! 0 satellieten
+[00:23:03] GPS: fix kwijt (0 sat)
+[00:23:03] GPS: FIX! 0 satellieten
+[00:23:04] GPS: fix kwijt (0 sat)
+[00:23:04] GPS: FIX! 0 satellieten
+[00:23:04] GPS: fix kwijt (0 sat)
+[00:23:05] GPS: FIX! 0 satellieten
+[00:23:05] GPS: fix kwijt (0 sat)
+[00:23:06] GPS: FIX! 0 satellieten
+[00:23:06] GPS: fix kwijt (0 sat)
+[00:23:07] GPS: FIX! 0 satellieten
+[00:23:07] GPS: fix kwijt (0 sat)
+[00:23:08] GPS: FIX! 0 satellieten
+[00:23:08] GPS: fix kwijt (0 sat)
+[00:23:09] GPS: FIX! 0 satellieten
+[00:23:09] GPS: fix kwijt (0 sat)
+[00:23:10] GPS: FIX! 0 satellieten
+[00:23:10] GPS-hulp gegeven: tijd ok, plek ok (51.9959, 4.7772)
+[00:23:10] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+[00:23:10] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
+[00:23:11] GPS: fix kwijt (0 sat)
+[00:23:11] GPS: FIX! 0 satellieten
+[00:23:12] GPS: fix kwijt (0 sat)
+[00:23:12] GPS: FIX! 0 satellieten
+[00:23:13] GPS: fix kwijt (0 sat)
+[00:23:13] GPS: FIX! 0 satellieten
+[00:23:14] GPS: fix kwijt (0 sat)
+[00:23:14] GPS: FIX! 0 satellieten
+[00:23:15] GPS: fix kwijt (0 sat)
+[00:23:15] GPS: FIX! 0 satellieten
+[00:23:15] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:23:16] GPS: fix kwijt (0 sat)
+[00:23:16] GPS: FIX! 0 satellieten
+[00:23:17] GPS: fix kwijt (0 sat)
+[00:23:17] GPS: FIX! 0 satellieten
+[00:23:18] GPS: fix kwijt (0 sat)
+[00:23:18] GPS: FIX! 0 satellieten
+[00:23:19] GPS: fix kwijt (0 sat)
+[00:23:19] GPS: FIX! 0 satellieten
+[00:23:20] GPS: fix kwijt (0 sat)
+[00:23:20] GPS: FIX! 0 satellieten
+[00:23:21] GPS: fix kwijt (0 sat)
+[00:23:23] GPS: FIX! 0 satellieten
+[00:23:23] GPS: fix kwijt (0 sat)
+[00:23:24] GPS: FIX! 0 satellieten
+[00:23:24] GPS: fix kwijt (0 sat)
+[00:23:25] GPS: FIX! 0 satellieten
+[00:23:25] GPS: fix kwijt (0 sat)
+[00:23:26] GPS: FIX! 0 satellieten
+[00:23:26] GPS: fix kwijt (0 sat)
+[00:23:27] GPS: FIX! 0 satellieten
+[00:23:28] GPS: fix kwijt (0 sat)
+[00:23:28] GPS: FIX! 0 satellieten
+[00:23:29] GPS: fix kwijt (0 sat)
+[00:23:29] GPS: FIX! 0 satellieten
+[00:23:30] GPS: fix kwijt (0 sat)
+[00:23:30] GPS: FIX! 0 satellieten
+[00:23:31] GPS: fix kwijt (0 sat)
+[00:23:31] GPS: FIX! 0 satellieten
+[00:23:32] GPS: fix kwijt (0 sat)
+[00:23:32] GPS: FIX! 0 satellieten
+[00:23:33] GPS: fix kwijt (0 sat)
+[00:23:33] GPS: FIX! 0 satellieten
+[00:23:34] GPS: fix kwijt (0 sat)
+[00:23:34] GPS: FIX! 0 satellieten
+[00:23:35] GPS: fix kwijt (0 sat)
+[00:23:35] GPS: FIX! 0 satellieten
+[00:23:36] GPS: fix kwijt (0 sat)
+[00:23:36] GPS: FIX! 0 satellieten
+[00:23:37] GPS: fix kwijt (0 sat)
+[00:23:37] GPS: FIX! 0 satellieten
+[00:23:38] GPS: fix kwijt (0 sat)
+[00:23:38] GPS: FIX! 0 satellieten
+[00:23:39] GPS: fix kwijt (0 sat)
+[00:23:39] GPS: FIX! 0 satellieten
+[00:23:40] GPS: fix kwijt (0 sat)
+[00:23:40] GPS: FIX! 0 satellieten
+[00:23:41] GPS: fix kwijt (0 sat)
+[00:23:41] GPS: FIX! 0 satellieten
+[00:23:42] GPS: fix kwijt (0 sat)
+[00:23:42] GPS: FIX! 0 satellieten
+[00:23:43] GPS: fix kwijt (0 sat)
+[00:23:43] GPS: FIX! 0 satellieten
+[00:23:44] GPS: fix kwijt (0 sat)
+[00:23:44] GPS: FIX! 0 satellieten
+[00:23:45] GPS: fix kwijt (0 sat)
+[00:23:45] GPS: FIX! 0 satellieten
+[00:23:46] GPS: fix kwijt (0 sat)
+[00:23:46] GPS: FIX! 0 satellieten
+[00:23:47] GPS: fix kwijt (0 sat)
+[00:23:48] GPS: FIX! 0 satellieten
+[00:23:48] GPS: fix kwijt (0 sat)
+[00:23:49] GPS: FIX! 0 satellieten
+[00:23:49] GPS: fix kwijt (0 sat)
+[00:23:50] GPS: FIX! 0 satellieten
+[00:23:50] GPS: fix kwijt (0 sat)
+[00:23:51] GPS: FIX! 0 satellieten
+[00:23:51] GPS: fix kwijt (0 sat)
+[00:23:52] GPS: FIX! 0 satellieten
+[00:23:52] GPS: fix kwijt (0 sat)
+[00:23:53] GPS: FIX! 0 satellieten
+[00:23:54] GPS: fix kwijt (0 sat)
+[00:23:55] GPS: FIX! 0 satellieten
+[00:23:56] GPS: fix kwijt (0 sat)
+[00:23:56] GPS: FIX! 0 satellieten
+[00:23:57] GPS: fix kwijt (0 sat)
+[00:00:01] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:01] geluid: ES8311 klaar, volume 55
+[00:00:02] ===== OPSTART v69 | reden: stroom aan | heap 115512 =====
+[00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:03] borden geleerd van de telefoon: 1 punten
+[00:00:17] groet: Hoi, Ricardo! Daar ben je! (vriend 99)
+[00:00:57] BLE: telefoon verbonden
+[00:00:58] BLE: code goed, verbonden met de app
+[00:00:59] groep/worker ingesteld (Ricardo)
+[00:00:59] klok gezet via de telefoon
+[00:01:00] status | klok 20:20 | gps zoekt sat=0 zicht=0 nmea=725/0 | 0 km/u | tel data | heap 67008 | licht 191 | fps 27 teken 32.1ms stuur 18.6ms
+[00:01:02] wifi ingesteld: Sultra
+[00:01:17] wifi verbonden (Sultra), IP 10.230.69.32
+[00:01:20] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:01:23] internet-check: dns ok, verbinding ok, laatste download gelukt
