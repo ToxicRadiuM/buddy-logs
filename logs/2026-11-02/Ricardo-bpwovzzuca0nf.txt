@@ -672,3 +672,742 @@
 09:50:53 terug na 15 s zonder GPS
 09:50:53 v=85 nauwk=4m limiet=100 wegen=1788 draai=0 vaste=97/12 gemeld=24 stemming=alert
 09:50:53 bruggen geladen: 0
+--- v101 · Linux; Android 10; K ---
+09:51:04 scherm| kwijt (0 sat)
+09:51:04 scherm| [00:25:03] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:03] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:04] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:04] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:05] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:05] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:06] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:06] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:07] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:07] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:08] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:08] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:09] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:09] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:10] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:10] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:11] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:11] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:12] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:12] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:13] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:13] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:14] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:14] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:15] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:15] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:16] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:16] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:17] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:17] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:18] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:18] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:19] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:19] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:20] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:20] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:21] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:21] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:22] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:22] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:24] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:24] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:25] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:25] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:26] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:26] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:27] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:27] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:28] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:28] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:29] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:29] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:30] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:30] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:31] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:31] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:32] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:32] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:33] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:33] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:34] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:34] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:35] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:35] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:36] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:36] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:37] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:37] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:38] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:38] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:39] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:39] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:40] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:40] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:41] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:41] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:42] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:42] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:43] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:43] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:44] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:44] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:45] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:45] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:47] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:47] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:48] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:48] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:49] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:49] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:25:50] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:25:50] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:26:00] status | klok 09:45 | gps zoekt sat=0 zicht=0 nmea=18725/0 | 98 km/u | tel data | heap 22984 | licht 165 | fps 39 teken 19.9ms stuur 17.1ms
+09:51:04 scherm| [00:26:01] net: ToxicRadiuM/GeenIdee/snelheden/t/1731_102.json -> -1
+09:51:04 scherm| [00:26:30] net: ers.dev/scherm?lat=51.93499&lon=5.15811&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+09:51:04 scherm| [00:27:00] status | klok 09:46 | gps zoekt sat=0 zicht=0 nmea=19445/0 | 0 km/u | tel stil | heap 71844 | licht 165 | fps 54 teken 13.4ms stuur 9.6ms
+09:51:04 scherm| [00:27:43] retro meter: optrekken 0 -> 98
+09:51:04 scherm| [00:27:43] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:43] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:44] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:44] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:45] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:45] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:46] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:46] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:47] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:47] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:48] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:48] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:49] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:49] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:50] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:50] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:51] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:51] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:52] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:52] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:53] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:53] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:54] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:54] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:55] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:56] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:57] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:57] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:58] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:58] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:27:59] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:27:59] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:00] status | klok 09:47 | gps zoekt sat=0 zicht=0 nmea=20165/0 | 101 km/u | tel data | heap 22964 | licht 165 | fps 34 teken 19.6ms stuur 19.0ms
+09:51:04 scherm| [00:28:00] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:00] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:01] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:01] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:02] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:02] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:03] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:03] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:04] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:04] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:05] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:05] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:06] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:06] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:07] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:07] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:08] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:08] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:09] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:09] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:10] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:10] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:11] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:11] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:12] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:12] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:13] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:13] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:14] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:14] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:16] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:16] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:17] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:17] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:18] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:18] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:19] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:19] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:34] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:34] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:35] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:35] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:36] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:36] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:37] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:37] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:38] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:38] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:39] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:39] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:40] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:40] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:41] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:41] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:42] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:42] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:43] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:43] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:44] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:45] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:46] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:46] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:47] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:47] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:48] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:48] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:49] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:49] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:50] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:50] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:51] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:51] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:52] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:52] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:53] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:53] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:54] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:54] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:55] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:55] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:56] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:56] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:57] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:57] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:58] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:58] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:28:59] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:28:59] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:00] status | klok 09:48 | gps zoekt sat=0 zicht=0 nmea=20885/0 | 93 km/u | tel data | heap 22964 | licht 165 | fps 30 teken 21.3ms stuur 18.7ms
+09:51:04 scherm| [00:29:00] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:00] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:01] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:01] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:02] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:02] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:03] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:03] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:04] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:04] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:05] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:05] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:06] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:06] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:07] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:07] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:08] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:08] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:09] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:09] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:11] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:11] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:12] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:12] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:13] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:13] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:14] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:14] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:15] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:15] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:16] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:16] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:17] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:17] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:18] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:18] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:19] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:19] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:20] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:20] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:21] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:21] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:22] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:22] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:23] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:23] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:24] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:24] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:26] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:26] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:28] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:29:28] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:29:43] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+09:51:04 scherm| [00:29:48] net: ers.dev/scherm?lat=51.88840&lon=5.20020&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+09:51:04 scherm| [00:29:49] update gevraagd vanuit de app
+09:51:04 scherm| [00:29:54] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+09:51:04 scherm| [00:30:00] status | klok 09:49 | gps zoekt sat=0 zicht=0 nmea=21605/0 | 92 km/u | tel data | heap 71844 | licht 165 | fps 38 teken 21.3ms stuur 15.8ms
+09:51:04 scherm| [00:30:49] retro meter: optrekken 0 -> 92
+09:51:04 scherm| [00:30:50] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:30:50] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:30:51] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:30:51] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:30:52] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:30:52] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:30:53] update gevraagd vanuit de app
+09:51:04 scherm| [00:30:53] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:30:53] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:30:54] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:30:54] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:30:55] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:30:55] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:30:56] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:30:56] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:30:58] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:30:58] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+09:51:04 scherm| [00:30:58] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:30:59] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:30:59] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:31:00] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:31:00] status | klok 09:50 | gps TEL sat=0 zicht=0 nmea=22325/0 | 91 km/u | tel data | heap 69284 | licht 165 | fps 30 teken 22.9ms stuur 16.9ms
+09:51:04 scherm| [00:31:00] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:31:01] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:31:01] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:31:04] net: ToxicRadiuM/GeenIdee/snelheden/t/1729_104.json -> -1
+09:51:04 scherm| [00:31:04] update gevraagd vanuit de app
+09:51:04 scherm| [00:31:09] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+09:51:04 scherm| [00:31:12] GPS: FIX! 0 satellieten
+09:51:04 scherm| [00:31:12] GPS: fix kwijt (0 sat)
+09:51:04 scherm| [00:31:12] update gevraagd vanuit de app
+09:51:05 osm wegen Worker: Failed to fetch, ik probeer Overpass rechtstreeks
+09:51:05 osm flits Worker: Failed to fetch, ik probeer Overpass rechtstreeks
+09:51:10 scherm geluid: ok/10/24
+09:51:10 scherm geluid: ok/10/24
+09:51:10 scherm geluid: ok/10/24
+09:51:10 scherm geluid: ok/10/24
+09:51:10 scherm geluid: ok/10/24
+09:51:10 scherm geluid: ok/10/24
+09:51:10 scherm geluid: ok/10/24
+09:51:28 overpass maps.mail.ru: Failed to fetch
+09:51:28 overpass maps.mail.ru: Failed to fetch
+09:51:30 overpass overpass-api.de: te traag
+09:51:35 overpass overpass-api.de: te traag
+09:51:38 overpass overpass.private.coffee: te traag
+09:51:40 scherm geluid: ok/10/24
+09:51:40 scherm geluid: ok/10/24
+09:51:40 scherm geluid: ok/10/24
+09:51:40 scherm geluid: ok/10/24
+09:51:40 scherm geluid: ok/10/24
+09:51:40 scherm geluid: ok/10/24
+09:51:40 scherm geluid: ok/10/24
+09:51:43 overpass overpass.private.coffee: te traag
+09:51:46 overpass overpass.kumi.systems: te traag
+09:51:46 FOUT wegenlimiet laden mislukt (overpass.kumi.systems: te traag) opnieuw over 8 s
+09:51:51 overpass overpass.kumi.systems: te traag
+09:51:51 FOUT flitsdata laden mislukt (overpass.kumi.systems: te traag) volgende poging over 120 s
+10:05:03 scherm-aan-slot gekregen
+--- v101 · Linux; Android 10; K ---
+10:05:03 scherm-aan-slot gekregen
+10:05:03 terug na 843 s zonder GPS
+10:05:03 ev alert: Afsluiting over 600 m. Let op de omleiding!
+10:05:03 NDW melding closure 645 m: Afsluiting over 600 m. Let op de omleiding!
+10:05:03 limiet geschat uit je snelheid: 80
+10:05:03 v=78 nauwk=4m limiet=80~ wegen=0 draai=0 vaste=97/12 gemeld=24 stemming=neutral
+10:05:03 groep ververst: 5
+10:05:03 weer: 10.3 graden, code 3, neerslag 0, wind 17
+10:05:03 bruggen geladen: 0
+10:05:03 ANWB verkeer geladen: 15 meldingen in de buurt (van 51)
+10:05:03 NDW geladen: 211 meldingen in de buurt {"lane":91,"closure":81,"speed":31,"jam":7,"accident":1}
+10:05:03 rws tegel 1724_106 (internet): 2450 wegvakken, versie 01-10-2026
+10:05:03 matrix geladen: 379 snelheid, 133 kruis
+10:05:03 buienradar: nu 0 mm/u, regen over -1 min
+10:05:04 rws tegel 1723_106 (internet): 4630 wegvakken, versie 01-10-2026
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 flitsers via /flitsers: 22/22
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:04 retro meter: optrekken 0 -> 77
+10:05:05 retro meter: optrekken 0 -> 77
+10:05:05 retro meter: optrekken 0 -> 77
+10:05:05 retro meter: optrekken 0 -> 77
+10:05:05 retro meter: optrekken 0 -> 77
+10:05:06 Buddy-scherm verbonden
+10:05:06 osm wegen Worker: Failed to fetch, ik probeer Overpass rechtstreeks
+10:05:06 osm flits Worker: Failed to fetch, ik probeer Overpass rechtstreeks
+10:05:06 osm werk Worker: Failed to fetch, ik probeer Overpass rechtstreeks
+--- v101 · Linux; Android 10; K ---
+10:05:06 start v101
+10:05:06 groep ververst: 5
+10:05:07 GPS automatisch aan
+10:05:07 scherm-aan-slot gekregen
+10:05:07 limiet geschat uit je snelheid: 80
+10:05:07 flitsers via /flitsers: 22/22
+10:05:07 ANWB verkeer geladen: 15 meldingen in de buurt (van 51)
+10:05:07 rws tegel 1724_106 (telefoon): 2450 wegvakken, versie 01-10-2026
+10:05:07 bruggen geladen: 0
+10:05:07 rws tegel 1723_106 (telefoon): 4630 wegvakken, versie 01-10-2026
+10:05:08 NDW geladen: 211 meldingen in de buurt {"lane":91,"closure":81,"speed":31,"jam":7,"accident":1}
+10:05:08 weer: 10.3 graden, code 3, neerslag 0, wind 17
+10:05:08 buienradar: nu 0 mm/u, regen over -1 min
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 matrix-locaties geladen: 6442
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 osm wegen via Worker (bewaard): 2987 stuks
+10:05:08 wegen geladen: 2987 wegen
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 22
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:08 retro meter: optrekken 0 -> 57
+10:05:09 matrix geladen: 379 snelheid, 133 kruis
+10:05:09 retro meter: optrekken 0 -> 57
+10:05:09 retro meter: optrekken 0 -> 57
+10:05:09 retro meter: optrekken 0 -> 57
+10:05:09 retro meter: optrekken 0 -> 57
+10:05:09 retro meter: optrekken 0 -> 57
+10:05:09 retro meter: optrekken 0 -> 57
+10:05:09 retro meter: optrekken 0 -> 57
+10:05:09 retro meter: optrekken 0 -> 57
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 0 -> 69
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:09 retro meter: optrekken 22 -> 73
+10:05:10 retro meter: optrekken 22 -> 73
+10:05:10 retro meter: optrekken 22 -> 73
+10:05:10 retro meter: optrekken 22 -> 73
+10:05:10 retro meter: optrekken 22 -> 73
+10:05:10 retro meter: optrekken 22 -> 73
+10:05:10 retro meter: optrekken 22 -> 73
+10:05:10 retro meter: optrekken 22 -> 73
+10:05:10 retro meter: optrekken 22 -> 73
+10:05:10 retro meter: optrekken 22 -> 73
+10:05:10 retro meter: optrekken 22 -> 73
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:10 retro meter: optrekken 57 -> 75
+10:05:13 bewegingssensor: granted
+10:05:14 rws tegel 1723_105 (internet): 3106 wegvakken, versie 01-10-2026
+10:05:15 v=76 nauwk=4m limiet=100 wegen=13173 draai=1 vaste=97/12 gemeld=22 stemming=relaxed
+10:05:25 v=78 nauwk=4m limiet=100 wegen=13173 draai=0 vaste=97/12 gemeld=22 stemming=relaxed
+--- v101 · Linux; Android 10; K ---
+10:05:29 voelen: sensor-teken omgekeerd
+10:05:35 v=79 nauwk=4m limiet=100 wegen=13173 draai=-0 vaste=97/12 gemeld=22 stemming=relaxed
+10:05:39 osm werk via Worker (oud): 400 stuks
+10:05:39 wegwerkzaamheden geladen: 400
+10:05:39 osm flits via Worker (oud): 31 stuks
+10:05:39 flitsdata geladen: 19 flitsers, 0 trajecten (totaal 115/12)
+--- v101 · Linux; Android 10; K ---
+10:06:29 scherm-aan-slot gekregen
+10:06:29 scherm-aan-slot gekregen
+10:06:29 terug na 44 s zonder GPS
+10:06:29 v=80 nauwk=10m limiet=100 wegen=13173 draai=0 vaste=115/12 gemeld=22 stemming=alert
+10:06:39 v=89 nauwk=10m limiet=100 wegen=13173 draai=-0 vaste=115/12 gemeld=22 stemming=relaxed
+10:06:49 voelen: ik weet nu waar vooruit is (52%)
+10:06:49 v=98 nauwk=5m limiet=100 wegen=10723 draai=-1 vaste=115/12 gemeld=22 stemming=focused
+--- v102 · Linux; Android 10; K ---
+10:08:10 start v102
+10:08:10 groep ververst: 5
+10:08:11 GPS automatisch aan
+10:08:11 scherm-aan-slot gekregen
+10:08:11 voelen: geleerde richting van vorige keer overgenomen
+10:08:11 limiet geschat uit je snelheid: 100
+10:08:11 flitsers via /flitsers: 24/24
+10:08:11 ANWB verkeer geladen: 18 meldingen in de buurt (van 52)
+10:08:11 rws tegel 1723_104 (telefoon): 1549 wegvakken, versie 01-10-2026
+10:08:11 rws tegel 1723_105 (telefoon): 3106 wegvakken, versie 01-10-2026
+10:08:12 matrix-locaties geladen: 6442
+10:08:12 bruggen geladen: 0
+10:08:12 NDW geladen: 209 meldingen in de buurt {"lane":82,"closure":89,"speed":32,"accident":1,"jam":5}
+10:08:12 retro meter: optrekken 0 -> 46
+10:08:13 matrix geladen: 378 snelheid, 152 kruis
+10:08:14 bewegingssensor: granted
+10:08:16 Buddy-scherm verbonden
+10:08:17 scherm: meldingen aan
+10:08:17 scherm: koppeling in orde
+10:08:17 scherm geluid: ok/10/5
+10:08:20 v=97 nauwk=4m limiet=100 wegen=5530 draai=0 vaste=115/12 gemeld=24 stemming=focused
+10:08:23 scherm geluid: ok/10/5
+10:08:23 scherm geluid: ok/10/5
+10:08:23 scherm geluid: ok/10/5
+10:08:23 scherm geluid: ok/10/5
+10:08:23 scherm geluid: ok/10/5
+10:08:23 scherm geluid: ok/10/5
+10:08:23 scherm geluid: ok/10/6
+10:08:25 voelen: sensor-teken gewoon
+--- v102 · Linux; Android 10; K ---
+10:08:30 v=98 nauwk=4m limiet=100 wegen=5530 draai=1 vaste=115/12 gemeld=24 stemming=focused
+10:08:32 weer: 10.3 graden, code 3, neerslag 0, wind 18
+10:08:32 buienradar: nu 0 mm/u, regen over -1 min
+10:08:40 v=102 nauwk=4m limiet=100 wegen=5530 draai=0 vaste=115/12 gemeld=24 stemming=focused
+10:08:48 scherm geluid: ok/10/6
+10:08:48 scherm geluid: ok/10/6
+10:08:48 scherm geluid: ok/10/6
+10:08:48 scherm geluid: ok/10/6
+10:08:48 scherm geluid: ok/10/6
+10:08:48 scherm geluid: ok/10/6
+10:08:48 scherm geluid: ok/10/6
+10:08:51 v=101 nauwk=4m limiet=100 wegen=5530 draai=0 vaste=115/12 gemeld=24 stemming=focused
+10:09:01 v=103 nauwk=4m limiet=100 wegen=5530 draai=1 vaste=115/12 gemeld=24 stemming=focused
+10:09:10 osm werk via Worker (bewaard): 400 stuks
+10:09:10 wegwerkzaamheden geladen: 400
+10:09:11 v=101 nauwk=4m limiet=100 wegen=5530 draai=-0 vaste=115/12 gemeld=24 stemming=content
+10:09:18 scherm geluid: ok/10/6
+10:09:18 scherm geluid: ok/10/6
+10:09:18 scherm geluid: ok/10/6
+10:09:18 scherm geluid: ok/10/6
+10:09:18 scherm geluid: ok/10/6
+10:09:18 scherm geluid: ok/10/6
+10:09:18 scherm geluid: ok/10/6
+10:09:21 v=99 nauwk=4m limiet=100 wegen=5530 draai=-1 vaste=115/12 gemeld=24 stemming=focused
+10:09:30 rws tegel 1722_104 (internet): 804 wegvakken, versie 01-10-2026
+10:09:32 v=101 nauwk=4m limiet=100 wegen=6334 draai=0 vaste=115/12 gemeld=24 stemming=happy
+10:09:43 v=101 nauwk=4m limiet=100 wegen=6334 draai=1 vaste=115/12 gemeld=24 stemming=focused
+10:09:48 scherm geluid: ok/10/6
+10:09:48 scherm geluid: ok/10/6
+10:09:48 scherm geluid: ok/10/6
+10:09:48 scherm geluid: ok/10/6
+10:09:48 scherm geluid: ok/10/6
+10:09:48 scherm geluid: ok/10/6
+10:09:48 scherm geluid: ok/10/6
+10:09:53 v=98 nauwk=4m limiet=100 wegen=3228 draai=1 vaste=115/12 gemeld=24 stemming=focused
+10:10:03 osm flits via Worker (overpass): 18 stuks
+10:10:03 flitsdata geladen: 15 flitsers, 0 trajecten (totaal 117/12)
+10:10:04 v=101 nauwk=4m limiet=100 wegen=3228 draai=0 vaste=117/12 gemeld=24 stemming=focused
+10:10:05 voelen: ik weet nu waar vooruit is (60%)
+10:10:13 ANWB verkeer geladen: 19 meldingen in de buurt (van 52)
+10:10:13 flitsers via /flitsers: 24/24
+10:10:14 v=80 nauwk=4m limiet=100 wegen=3228 draai=-0 vaste=117/12 gemeld=24 stemming=relaxed
+10:10:16 rws tegel 1723_103 (internet): 1509 wegvakken, versie 01-10-2026
+10:10:18 scherm geluid: ok/10/6
+10:10:18 scherm geluid: ok/10/6
+10:10:18 scherm geluid: ok/10/6
+10:10:18 scherm geluid: ok/10/6
+10:10:18 scherm geluid: ok/10/6
+10:10:18 scherm geluid: ok/10/6
+10:10:18 scherm geluid: ok/10/6
+10:10:25 v=82 nauwk=4m limiet=100 wegen=4737 draai=2 vaste=117/12 gemeld=24 stemming=relaxed
+10:10:36 v=81 nauwk=4m limiet=100 wegen=4737 draai=0 vaste=117/12 gemeld=24 stemming=relaxed
+10:10:46 v=54 nauwk=10m limiet=100 wegen=4737 draai=1 vaste=117/12 gemeld=24 stemming=relaxed
+10:10:48 scherm geluid: ok/10/6
+10:10:48 scherm geluid: ok/10/6
+10:10:48 scherm geluid: ok/10/6
+10:10:48 scherm geluid: ok/10/6
+10:10:48 scherm geluid: ok/10/6
+10:10:48 scherm geluid: ok/10/6
+10:10:48 scherm geluid: ok/10/6
+10:10:57 v=3 nauwk=4m limiet=50 wegen=4737 draai=-0 vaste=117/12 gemeld=24 stemming=neutral
+10:11:00 voelen: ik weet nu waar vooruit is (51%)
+10:11:01 drempel/schok sterkte 4.5 bij 8 km/h
+10:11:01 ev startled: Boing!
+10:11:02 drempel/schok sterkte 3.1 bij 11 km/h (tweede klap)
+10:11:03 retro meter: optrekken 8 -> 21
+10:11:04 drempel/schok sterkte 2.8 bij 31 km/h
+10:11:08 v=49 nauwk=4m limiet=50 wegen=4737 draai=5 vaste=117/12 gemeld=24 stemming=excited
+10:11:11 groep ververst: 5
+10:11:18 scherm geluid: ok/10/6
+10:11:18 scherm geluid: ok/10/6
+10:11:18 scherm geluid: ok/10/6
+10:11:18 scherm geluid: ok/10/6
+10:11:18 scherm geluid: ok/10/6
+10:11:18 scherm geluid: ok/10/6
+10:11:18 scherm geluid: ok/10/7
+10:11:18 v=38 nauwk=4m limiet=50 wegen=4737 draai=-1 vaste=117/12 gemeld=24 stemming=relaxed
+10:11:28 v=17 nauwk=4m limiet=50 wegen=4737 draai=1 vaste=117/12 gemeld=24 stemming=neutral
+10:11:39 v=0 nauwk=4m limiet=50 wegen=4737 draai=-0 vaste=117/12 gemeld=24 stemming=neutral
+10:11:48 scherm geluid: ok/10/7
+10:11:48 scherm geluid: ok/10/7
+10:11:48 scherm geluid: ok/10/7
+10:11:48 scherm geluid: ok/10/7
+10:11:48 scherm geluid: ok/10/7
+10:11:48 scherm geluid: ok/10/7
+10:11:48 scherm geluid: ok/10/7
+10:11:50 v=0 nauwk=4m limiet=50 wegen=4737 draai=-0 vaste=117/12 gemeld=24 stemming=alert
+10:11:58 ev excited: Groen! Daar gaan we.
+10:11:59 retro meter: optrekken 0 -> 12
+10:12:00 v=17 nauwk=10m limiet=50 wegen=4737 draai=0 vaste=117/12 gemeld=24 stemming=excited
+10:12:08 voelen: ik weet nu waar vooruit is (56%)
+10:12:10 drempel/schok sterkte 3.2 bij 8 km/h
+10:12:11 ev excited: Whoeeh, optrekken!
+10:12:11 osm wegen via Worker (bewaard): 654 stuks
+10:12:11 wegen geladen: 654 wegen
+10:12:11 rws tegel 1722_103 (internet): 964 wegvakken, versie 01-10-2026
+10:12:11 retro meter: optrekken 7 -> 21
+10:12:11 v=30 nauwk=6m limiet=50 wegen=6355 draai=-47 vaste=117/12 gemeld=24 stemming=excited
+10:12:12 drempel/schok sterkte 2.3 bij 24 km/h (tweede klap)
+10:12:13 flitsers via /flitsers: 24/24
+10:12:14 ANWB verkeer geladen: 20 meldingen in de buurt (van 53)
+10:12:18 scherm geluid: ok/10/7
+10:12:18 scherm geluid: ok/10/7
+10:12:18 scherm geluid: ok/10/7
+10:12:18 scherm geluid: ok/10/7
+10:12:18 scherm geluid: ok/10/7
+10:12:18 scherm geluid: ok/10/7
+10:12:18 scherm geluid: ok/10/10
+10:12:22 v=30 nauwk=4m limiet=50 wegen=6355 draai=-13 vaste=117/12 gemeld=24 stemming=relaxed
+10:12:23 drempel/schok sterkte 16.1 bij 30 km/h
+10:12:23 ev worried: Au! Wat een gat.
+10:12:32 v=54 nauwk=4m limiet=70 wegen=6355 draai=-8 vaste=117/12 gemeld=24 stemming=relaxed
+10:12:43 v=70 nauwk=4m limiet=70 wegen=6355 draai=1 vaste=117/12 gemeld=24 stemming=happy
+10:12:48 scherm geluid: ok/10/10
+10:12:48 scherm geluid: ok/10/10
+10:12:48 scherm geluid: ok/10/10
+10:12:48 scherm geluid: ok/10/10
+10:12:48 scherm geluid: ok/10/10
+10:12:48 scherm geluid: ok/10/10
+10:12:48 scherm geluid: ok/10/11
+10:12:53 v=68 nauwk=4m limiet=70 wegen=6355 draai=0 vaste=117/12 gemeld=24 stemming=relaxed
+10:12:54 NDW melding lane 887 m: alleen icoontje
+10:13:03 v=63 nauwk=4m limiet=70 wegen=6355 draai=-0 vaste=117/12 gemeld=24 stemming=relaxed
+10:13:13 NDW geladen: 212 meldingen in de buurt {"lane":79,"closure":94,"speed":33,"jam":6}
+10:13:13 v=65 nauwk=4m limiet=70 wegen=6355 draai=0 vaste=117/12 gemeld=24 stemming=relaxed
