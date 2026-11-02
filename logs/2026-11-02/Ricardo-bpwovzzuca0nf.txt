@@ -3921,3 +3921,287 @@
 15:58:13 scherm| [00:34:00] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
 --- v103 · Linux; Android 10; K ---
 15:58:15 v=11 nauwk=6m limiet=100 wegen=818 draai=-1 vaste=117/12 gemeld=18 stemming=neutral
+--- v103 · Linux; Android 10; K ---
+15:58:26 overpass overpass-api.de: Failed to fetch
+15:58:26 overpass maps.mail.ru: Failed to fetch
+15:58:33 scherm geluid: i2s-fout/55/0
+15:58:33 scherm geluid: i2s-fout/55/0
+15:58:33 scherm geluid: i2s-fout/55/0
+15:58:33 scherm geluid: i2s-fout/55/0
+15:58:33 scherm geluid: i2s-fout/55/0
+15:58:33 scherm geluid: i2s-fout/55/0
+15:58:33 scherm geluid: i2s-fout/55/0
+15:58:57 overpass overpass.private.coffee: te traag
+15:59:03 scherm geluid: i2s-fout/55/0
+15:59:03 scherm geluid: i2s-fout/55/0
+15:59:03 scherm geluid: i2s-fout/55/0
+15:59:03 scherm geluid: i2s-fout/55/0
+15:59:03 scherm geluid: i2s-fout/55/0
+15:59:03 scherm geluid: i2s-fout/55/0
+15:59:03 scherm geluid: i2s-fout/55/0
+15:59:05 overpass overpass.kumi.systems: te traag
+15:59:05 FOUT flitsdata laden mislukt (overpass.kumi.systems: te traag) volgende poging over 60 s
+15:59:58 scherm-aan-slot gekregen
+15:59:58 scherm-aan-slot gekregen
+15:59:58 voelen: telefoon gedraaid (31°), richting meegedraaid
+15:59:59 terug na 99 s zonder GPS
+15:59:59 v=9 nauwk=5m limiet=100 wegen=818 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+15:59:59 drempel/schok sterkte 7.6 bij 9 km/h
+15:59:59 ev startled: Drempel! Boing!
+15:59:59 groep ververst: 5
+15:59:59 drempel/schok sterkte 4.5 bij 9 km/h (tweede klap)
+16:00:00 NDW geladen: 256 meldingen in de buurt {"jam":21,"lane":85,"speed":31,"closure":107,"accident":12}
+16:00:00 scherm geluid: i2s-fout/55/0
+16:00:00 scherm geluid: i2s-fout/55/0
+16:00:00 scherm geluid: i2s-fout/55/0
+16:00:00 scherm geluid: i2s-fout/55/0
+16:00:00 scherm geluid: i2s-fout/55/0
+16:00:00 scherm geluid: i2s-fout/55/0
+16:00:00 scherm geluid: i2s-fout/55/0
+16:00:01 FOUT weer: http 503
+16:00:01 ANWB verkeer geladen: 28 meldingen in de buurt (van 71)
+16:00:01 flitsers via /flitsers: 20/20
+16:00:02 scherm geluid: i2s-fout/55/0
+16:00:02 scherm geluid: i2s-fout/55/0
+16:00:02 scherm geluid: i2s-fout/55/0
+16:00:02 scherm geluid: i2s-fout/55/0
+16:00:02 scherm geluid: i2s-fout/55/0
+16:00:02 scherm geluid: i2s-fout/55/0
+16:00:02 scherm geluid: i2s-fout/55/0
+16:00:09 v=2 nauwk=4m limiet=100 wegen=818 draai=-0 vaste=117/12 gemeld=20 stemming=neutral
+16:00:19 v=0 nauwk=4m limiet=100 wegen=818 draai=-0 vaste=117/12 gemeld=20 stemming=anticipate
+16:00:23 ev excited: Groen! Daar gaan we.
+16:00:30 v=2 nauwk=4m limiet=100 wegen=818 draai=-0 vaste=117/12 gemeld=20 stemming=neutral
+16:00:30 osm flits Worker: http 503, ik probeer Overpass rechtstreeks
+16:00:32 scherm geluid: i2s-fout/55/0
+16:00:32 scherm geluid: i2s-fout/55/0
+16:00:32 scherm geluid: i2s-fout/55/0
+16:00:32 scherm geluid: i2s-fout/55/0
+16:00:32 scherm geluid: i2s-fout/55/0
+16:00:32 scherm geluid: i2s-fout/55/0
+16:00:32 scherm geluid: i2s-fout/55/0
+16:00:40 v=0 nauwk=4m limiet=100 wegen=818 draai=-0 vaste=117/12 gemeld=20 stemming=anticipate
+16:00:51 v=0 nauwk=4m limiet=100 wegen=818 draai=-0 vaste=117/12 gemeld=20 stemming=anticipate
+16:01:00 overpass maps.mail.ru: te traag
+--- v103 · Linux; Android 10; K ---
+16:01:03 scherm geluid: i2s-fout/55/0
+16:01:03 scherm geluid: i2s-fout/55/0
+16:01:03 scherm geluid: i2s-fout/55/0
+16:01:03 scherm geluid: i2s-fout/55/0
+16:01:03 scherm geluid: i2s-fout/55/0
+16:01:03 scherm geluid: i2s-fout/55/0
+16:01:03 scherm geluid: i2s-fout/55/0
+16:01:06 overpass overpass.private.coffee: Failed to fetch
+16:01:06 overpass overpass-api.de: Failed to fetch
+16:01:06 overpass overpass.kumi.systems: Failed to fetch
+16:01:06 FOUT flitsdata laden mislukt (overpass.kumi.systems: Failed to fetch) volgende poging over 120 s
+16:01:33 scherm geluid: i2s-fout/55/0
+16:01:33 scherm geluid: i2s-fout/55/0
+16:01:33 scherm geluid: i2s-fout/55/0
+16:01:33 scherm geluid: i2s-fout/55/0
+16:01:33 scherm geluid: i2s-fout/55/0
+16:01:33 scherm geluid: i2s-fout/55/0
+16:01:33 scherm geluid: i2s-fout/55/0
+16:02:34 scherm-aan-slot gekregen
+16:02:35 scherm-aan-slot gekregen
+16:02:35 terug na 95 s zonder GPS
+16:02:35 v=0 nauwk=7m limiet=100 wegen=818 draai=0 vaste=117/12 gemeld=20 stemming=bored
+16:02:36 ANWB verkeer geladen: 29 meldingen in de buurt (van 76)
+16:02:36 flitsers via /flitsers: 20/20
+16:02:36 scherm geluid: i2s-fout/55/0
+16:02:36 scherm geluid: i2s-fout/55/0
+16:02:36 scherm geluid: i2s-fout/55/0
+16:02:36 scherm geluid: i2s-fout/55/0
+16:02:36 scherm geluid: i2s-fout/55/0
+16:02:36 scherm geluid: i2s-fout/55/0
+16:02:36 scherm geluid: i2s-fout/55/0
+16:02:37 FOUT weer: http 503
+--- v103 · Linux; Android 10; K ---
+16:03:03 scherm geluid: i2s-fout/55/0
+16:03:03 scherm geluid: i2s-fout/55/0
+16:03:03 scherm geluid: i2s-fout/55/0
+16:03:03 scherm geluid: i2s-fout/55/0
+16:03:03 scherm geluid: i2s-fout/55/0
+16:03:03 scherm geluid: i2s-fout/55/0
+16:03:03 scherm geluid: i2s-fout/55/0
+16:03:33 scherm geluid: i2s-fout/55/0
+16:03:33 scherm geluid: i2s-fout/55/0
+16:03:33 scherm geluid: i2s-fout/55/0
+16:03:33 scherm geluid: i2s-fout/55/0
+16:03:33 scherm geluid: i2s-fout/55/0
+16:03:33 scherm geluid: i2s-fout/55/0
+16:03:33 scherm geluid: i2s-fout/55/0
+16:08:56 scherm-aan-slot gekregen
+16:08:56 scherm-aan-slot gekregen
+--- v103 · Linux; Android 10; K ---
+16:08:57 terug na 380 s zonder GPS
+16:08:57 v=101 nauwk=4m limiet=100 wegen=691 draai=0 vaste=117/12 gemeld=20 stemming=happy
+16:08:57 ev excited: Groen! Daar gaan we.
+16:08:57 rws tegel 1730_103 (telefoon): 304 wegvakken, versie 01-10-2026
+16:08:57 groep ververst: 5
+16:08:57 FOUT weer: http 503
+16:08:57 retro meter: optrekken 0 -> 101
+16:08:57 ANWB verkeer geladen: 32 meldingen in de buurt (van 82)
+16:08:58 flitsers via /flitsers: 20/20
+16:08:58 bruggen geladen: 0
+16:08:58 scherm geluid: i2s-fout/55/0
+16:08:58 scherm geluid: i2s-fout/55/0
+16:08:58 scherm geluid: i2s-fout/55/0
+16:08:58 scherm geluid: i2s-fout/55/0
+16:08:58 scherm geluid: i2s-fout/55/0
+16:08:58 scherm geluid: i2s-fout/55/0
+16:08:58 scherm geluid: i2s-fout/55/0
+16:08:58 NDW geladen: 267 meldingen in de buurt {"lane":86,"speed":31,"closure":110,"jam":29,"accident":11}
+16:08:58 matrix geladen: 1102 snelheid, 103 kruis
+16:09:02 scherm geluid: i2s-fout/55/0
+16:09:02 scherm geluid: i2s-fout/55/0
+16:09:02 scherm geluid: i2s-fout/55/0
+16:09:02 scherm geluid: i2s-fout/55/0
+16:09:02 scherm geluid: i2s-fout/55/0
+16:09:02 scherm geluid: i2s-fout/55/0
+16:09:02 scherm geluid: i2s-fout/55/0
+16:09:07 v=102 nauwk=4m limiet=100 wegen=995 draai=0 vaste=117/12 gemeld=20 stemming=worried
+16:09:17 v=102 nauwk=4m limiet=100 wegen=569 draai=0 vaste=117/12 gemeld=20 stemming=worried
+16:09:27 v=100 nauwk=4m limiet=100 wegen=569 draai=0 vaste=117/12 gemeld=20 stemming=focused
+16:09:28 osm flits Worker: http 503, ik probeer Overpass rechtstreeks
+16:09:29 overpass maps.mail.ru: http 504
+16:09:29 overpass overpass-api.de: http 502
+16:09:32 scherm geluid: i2s-fout/55/0
+16:09:32 scherm geluid: i2s-fout/55/0
+16:09:32 scherm geluid: i2s-fout/55/0
+16:09:32 scherm geluid: i2s-fout/55/0
+16:09:32 scherm geluid: i2s-fout/55/0
+16:09:32 scherm geluid: i2s-fout/55/0
+16:09:32 scherm geluid: i2s-fout/55/0
+--- v103 · Linux; Android 10; K ---
+16:09:41 osm werk via Worker (oud): 400 stuks
+16:09:41 wegwerkzaamheden geladen: 400
+16:09:43 overpass overpass.kumi.systems: Failed to fetch
+16:09:43 overpass overpass.private.coffee: Failed to fetch
+16:09:43 FOUT flitsdata laden mislukt (overpass.private.coffee: Failed to fetch) volgende poging over 240 s
+16:10:03 scherm geluid: i2s-fout/55/0
+16:10:03 scherm geluid: i2s-fout/55/0
+16:10:03 scherm geluid: i2s-fout/55/0
+16:10:03 scherm geluid: i2s-fout/55/0
+16:10:03 scherm geluid: i2s-fout/55/0
+16:10:03 scherm geluid: i2s-fout/55/0
+16:10:03 scherm geluid: i2s-fout/55/0
+16:10:33 scherm geluid: i2s-fout/55/0
+16:10:33 scherm geluid: i2s-fout/55/0
+16:10:33 scherm geluid: i2s-fout/55/0
+16:10:33 scherm geluid: i2s-fout/55/0
+16:10:33 scherm geluid: i2s-fout/55/0
+16:10:33 scherm geluid: i2s-fout/55/0
+16:10:33 scherm geluid: i2s-fout/55/0
+16:10:48 scherm-aan-slot gekregen
+16:10:48 scherm-aan-slot gekregen
+16:10:49 terug na 74 s zonder GPS
+16:10:49 v=104 nauwk=5m limiet=100 wegen=1194 draai=0 vaste=117/12 gemeld=20 stemming=alert
+16:10:49 rws tegel 1731_103 (telefoon): 1030 wegvakken, versie 01-10-2026
+16:10:58 FOUT weer: http 503
+16:10:59 ANWB verkeer geladen: 38 meldingen in de buurt (van 87)
+16:10:59 flitsers via /flitsers: 22/22
+16:10:59 v=102 nauwk=4m limiet=100 wegen=2224 draai=0 vaste=117/12 gemeld=22 stemming=focused
+16:11:02 scherm geluid: i2s-fout/55/0
+16:11:02 scherm geluid: i2s-fout/55/0
+16:11:02 scherm geluid: i2s-fout/55/0
+16:11:02 scherm geluid: i2s-fout/55/0
+16:11:02 scherm geluid: i2s-fout/55/0
+16:11:02 scherm geluid: i2s-fout/55/0
+16:11:02 scherm geluid: i2s-fout/55/0
+16:11:10 v=103 nauwk=4m limiet=100 wegen=2224 draai=-1 vaste=117/12 gemeld=22 stemming=focused
+16:11:15 rws tegel 1731_102 (telefoon): 259 wegvakken, versie 01-10-2026
+16:11:20 v=103 nauwk=4m limiet=100 wegen=2483 draai=-0 vaste=117/12 gemeld=22 stemming=focused
+16:11:29 matrix geladen: 1136 snelheid, 105 kruis
+16:11:30 v=103 nauwk=4m limiet=100 wegen=2483 draai=-0 vaste=117/12 gemeld=22 stemming=focused
+16:11:32 scherm geluid: i2s-fout/55/0
+16:11:32 scherm geluid: i2s-fout/55/0
+16:11:32 scherm geluid: i2s-fout/55/0
+16:11:32 scherm geluid: i2s-fout/55/0
+16:11:32 scherm geluid: i2s-fout/55/0
+16:11:32 scherm geluid: i2s-fout/55/0
+16:11:32 scherm geluid: i2s-fout/55/0
+16:11:41 v=103 nauwk=4m limiet=100 wegen=2483 draai=-0 vaste=117/12 gemeld=22 stemming=focused
+16:11:51 v=103 nauwk=4m limiet=100 wegen=2483 draai=-0 vaste=117/12 gemeld=22 stemming=content
+16:11:58 groep ververst: 5
+16:12:02 scherm geluid: i2s-fout/55/0
+16:12:02 scherm geluid: i2s-fout/55/0
+16:12:02 scherm geluid: i2s-fout/55/0
+16:12:02 scherm geluid: i2s-fout/55/0
+16:12:02 scherm geluid: i2s-fout/55/0
+16:12:02 scherm geluid: i2s-fout/55/0
+16:12:02 scherm geluid: i2s-fout/55/0
+16:12:02 v=103 nauwk=4m limiet=100 wegen=1914 draai=-1 vaste=117/12 gemeld=22 stemming=focused
+16:12:12 v=103 nauwk=4m limiet=100 wegen=1914 draai=-0 vaste=117/12 gemeld=22 stemming=focused
+16:12:23 v=103 nauwk=4m limiet=100 wegen=1914 draai=-1 vaste=117/12 gemeld=22 stemming=focused
+16:12:32 scherm geluid: i2s-fout/55/0
+16:12:32 scherm geluid: i2s-fout/55/0
+16:12:32 scherm geluid: i2s-fout/55/0
+16:12:32 scherm geluid: i2s-fout/55/0
+16:12:32 scherm geluid: i2s-fout/55/0
+16:12:32 scherm geluid: i2s-fout/55/0
+16:12:32 scherm geluid: i2s-fout/55/0
+16:12:33 v=103 nauwk=4m limiet=100 wegen=1914 draai=0 vaste=117/12 gemeld=22 stemming=happy
+16:12:43 v=103 nauwk=4m limiet=100 wegen=1914 draai=0 vaste=117/12 gemeld=22 stemming=focused
+16:12:54 v=103 nauwk=4m limiet=100 wegen=1914 draai=0 vaste=117/12 gemeld=22 stemming=focused
+--- v103 · Linux; Android 10; K ---
+16:13:03 scherm geluid: i2s-fout/55/0
+16:13:03 scherm geluid: i2s-fout/55/0
+16:13:03 scherm geluid: i2s-fout/55/0
+16:13:03 scherm geluid: i2s-fout/55/0
+16:13:03 scherm geluid: i2s-fout/55/0
+16:13:03 scherm geluid: i2s-fout/55/0
+16:13:03 scherm geluid: i2s-fout/55/0
+16:13:33 osm werk Worker: te traag, ik probeer Overpass rechtstreeks
+16:13:33 overpass maps.mail.ru: Failed to fetch
+16:13:33 scherm geluid: i2s-fout/55/0
+16:13:33 scherm geluid: i2s-fout/55/0
+16:13:33 scherm geluid: i2s-fout/55/0
+16:13:33 scherm geluid: i2s-fout/55/0
+16:13:33 scherm geluid: i2s-fout/55/0
+16:13:33 scherm geluid: i2s-fout/55/0
+16:13:33 scherm geluid: i2s-fout/55/0
+16:13:41 overpass overpass.private.coffee: Failed to fetch
+16:15:00 scherm-aan-slot gekregen
+16:15:00 overpass overpass.kumi.systems: Failed to fetch
+16:15:00 scherm-aan-slot gekregen
+--- v103 · Linux; Android 10; K ---
+16:15:00 overpass overpass-api.de: te traag
+16:15:01 terug na 127 s zonder GPS
+16:15:01 NDW melding speed 1 m: alleen icoontje
+16:15:01 tijdelijke limiet 70 (NDW)
+16:15:01 v=100 nauwk=6m limiet=70 wegen=0 draai=0 vaste=117/12 gemeld=22 stemming=alert
+16:15:01 groep ververst: 5
+16:15:01 FOUT weer: http 503
+16:15:01 ANWB verkeer geladen: 38 meldingen in de buurt (van 86)
+16:15:02 bruggen geladen: 0
+16:15:02 NDW geladen: 275 meldingen in de buurt {"closure":125,"lane":79,"speed":28,"jam":31,"accident":12}
+16:15:02 rws tegel 1732_101 (internet): 1293 wegvakken, versie 01-10-2026
+16:15:02 matrix geladen: 1140 snelheid, 101 kruis
+16:15:02 retro meter: optrekken 0 -> 100
+16:15:02 scherm geluid: i2s-fout/55/0
+16:15:02 scherm geluid: i2s-fout/55/0
+16:15:02 scherm geluid: i2s-fout/55/0
+16:15:02 scherm geluid: i2s-fout/55/0
+16:15:02 scherm geluid: i2s-fout/55/0
+16:15:02 scherm geluid: i2s-fout/55/0
+16:15:02 scherm geluid: i2s-fout/55/0
+16:15:02 flitsers via /flitsers: 22/22
+16:15:02 tijdelijke limiet 90 (NDW)
+16:15:03 tijdelijke limiet 90 (NDW)
+16:15:04 tijdelijke limiet 90 (NDW)
+16:15:05 tijdelijke limiet 90 (NDW)
+16:15:06 tijdelijke limiet 90 (NDW)
+16:15:07 ev worried: Voetje van het gas?
+16:15:11 v=101 nauwk=4m limiet=90 wegen=1293 draai=-0 vaste=117/12 gemeld=22 stemming=focused
+16:15:20 tijdelijke limiet voorbij
+16:15:21 v=104 nauwk=4m limiet=90 wegen=1293 draai=-0 vaste=117/12 gemeld=22 stemming=content
+16:15:32 scherm geluid: i2s-fout/55/0
+16:15:32 scherm geluid: i2s-fout/55/0
+16:15:32 scherm geluid: i2s-fout/55/0
+16:15:32 scherm geluid: i2s-fout/55/0
+16:15:32 scherm geluid: i2s-fout/55/0
+16:15:32 scherm geluid: i2s-fout/55/0
+16:15:32 scherm geluid: i2s-fout/55/0
+16:15:32 v=101 nauwk=4m limiet=100 wegen=1293 draai=-0 vaste=117/12 gemeld=22 stemming=focused
+16:15:34 rws tegel 1733_101 (telefoon): 3098 wegvakken, versie 01-10-2026
