@@ -358,3 +358,18 @@
 13:07:01 terug na 6 s zonder GPS
 13:07:07 terug na 6 s zonder GPS
 13:07:07 v=3 nauwk=13m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+--- v102 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+13:30:23 scherm-aan-slot gekregen
+13:30:23 scherm-aan-slot gekregen
+13:30:23 terug na 656 s zonder GPS
+13:30:23 v=0 nauwk=11m limiet=70 wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:30:23 weer: 12.4 graden, code 2, neerslag 0, wind 16
+13:30:23 osm werk via Worker (bewaard): 400 stuks
+13:30:23 wegwerkzaamheden geladen: 400
+13:30:23 groep ververst: 5
+13:30:23 ev happy: Goedemiddag Aaan!
+13:30:23 bruggen geladen: 0
+13:30:24 buienradar: nu 0 mm/u, regen over -1 min
+13:30:24 ANWB verkeer geladen: 17 meldingen in de buurt (van 50)
+13:30:24 NDW geladen: 212 meldingen in de buurt {"lane":82,"closure":94,"speed":33,"accident":2,"jam":1}
+13:30:24 flitsers via /flitsers: 18/18
