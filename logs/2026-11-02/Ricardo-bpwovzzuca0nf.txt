@@ -5417,3 +5417,699 @@
 17:14:37 scherm| [00:02:18] GPS: FIX! 0 satellieten
 17:14:37 scherm| [00:02:19] GPS: fix kwijt (0 sat)
 17:14:38 v=0 nauwk=13m limiet=30 wegen=1597 draai=0 vaste=117/12 gemeld=21 stemming=neutral
+--- v103 · Linux; Android 10; K ---
+17:14:40 scherm geluid: i2s-fout/55/0
+17:14:40 scherm geluid: i2s-fout/55/0
+17:14:40 scherm geluid: i2s-fout/55/0
+17:14:40 scherm geluid: i2s-fout/55/0
+17:14:40 scherm geluid: i2s-fout/55/0
+17:14:40 scherm geluid: i2s-fout/55/0
+17:14:40 scherm geluid: i2s-fout/55/0
+17:15:12 scherm geluid: i2s-fout/55/0
+17:15:12 scherm geluid: i2s-fout/55/0
+17:15:12 scherm geluid: i2s-fout/55/0
+17:15:12 scherm geluid: i2s-fout/55/0
+17:15:12 scherm geluid: i2s-fout/55/0
+17:15:12 scherm geluid: i2s-fout/55/0
+17:15:12 scherm geluid: i2s-fout/55/0
+17:59:25 scherm-aan-slot gekregen
+--- v104 · Linux; Android 10; K ---
+17:59:28 start v104
+17:59:28 nachtstand aan
+17:59:28 groep ververst: 5
+17:59:29 GPS automatisch aan
+17:59:29 scherm-aan-slot gekregen
+17:59:29 voelen: geleerde richting van vorige keer overgenomen
+17:59:31 bewegingssensor: granted
+17:59:34 terug na 6 s zonder GPS
+17:59:34 limiet geschat uit je snelheid: 30
+17:59:34 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+17:59:34 matrix-locaties geladen: 6442
+17:59:35 weer: 9.8 graden, code 0, neerslag 0, wind 10
+17:59:35 osm werk via Worker (bewaard): 400 stuks
+17:59:35 wegwerkzaamheden geladen: 398
+17:59:35 bruggen geladen: 9
+17:59:35 ANWB verkeer geladen: 40 meldingen in de buurt (van 86)
+17:59:35 NDW geladen: 331 meldingen in de buurt {"closure":186,"speed":30,"lane":72,"jam":38,"accident":5}
+17:59:35 flitsers via /flitsers: 23/23
+17:59:35 buienradar: nu 0 mm/u, regen over -1 min
+17:59:36 Buddy-scherm verbonden
+17:59:36 scherm: meldingen aan
+17:59:36 scherm: code goed, verbonden
+17:59:38 scherm geluid: ok/55/7
+17:59:38 scherm geluid: ok/55/7
+17:59:38 scherm geluid: ok/55/7
+17:59:38 scherm geluid: ok/55/7
+17:59:38 scherm geluid: ok/55/7
+17:59:38 scherm geluid: ok/55/7
+17:59:38 scherm geluid: ok/55/7
+17:59:38 scherm geluid: ok/55/7
+17:59:44 terug na 10 s zonder GPS
+17:59:44 v=0 nauwk=12m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=anticipate
+--- v104 · Linux; Android 10; K ---
+17:59:48 scherm| satellieten
+17:59:48 scherm| [00:02:59] GPS: fix kwijt (0 sat)
+17:59:48 scherm| [00:02:59] GPS: FIX! 0 satellieten
+17:59:48 scherm| [00:03:00] status | klok 17:14 | gps TEL sat=0 zicht=0 nmea=2186/0 | 0 km/u | tel data | heap 69244 | licht 191 | fps 37 teken 17.3ms stuur 14.6ms
+17:59:48 scherm| [00:03:00] GPS: fix kwijt (0 sat)
+17:59:48 scherm| [00:03:00] GPS: FIX! 0 satellieten
+17:59:48 scherm| [00:03:01] GPS: fix kwijt (0 sat)
+17:59:48 scherm| [00:04:00] status | klok 17:15 | gps zoekt sat=0 zicht=0 nmea=2910/0 | 0 km/u | tel data | heap 69244 | licht 191 | fps 49 teken 15.9ms stuur 13.8ms
+17:59:48 scherm| [00:04:09] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+17:59:48 scherm| [00:04:33] geluid: niet klaar (i2s-fout)
+17:59:48 scherm| [00:05:00] status | klok 17:16 | gps zoekt sat=0 zicht=0 nmea=3634/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 10.8ms stuur 8.3ms
+17:59:48 scherm| [00:06:00] status | klok 17:17 | gps zoekt sat=0 zicht=0 nmea=4358/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 58 teken 10.8ms stuur 8.7ms
+17:59:48 scherm| [00:06:10] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+17:59:48 scherm| [00:07:00] status | klok 17:18 | gps zoekt sat=0 zicht=0 nmea=5082/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 43 teken 18.7ms stuur 13.7ms
+17:59:48 scherm| [00:07:38] geluid: niet klaar (i2s-fout)
+17:59:48 scherm| [00:08:00] status | klok 17:19 | gps zoekt sat=0 zicht=0 nmea=5806/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 58 teken 10.3ms stuur 8.2ms
+17:59:48 scherm| [00:08:10] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+17:59:48 scherm| [00:09:00] status | klok 17:20 | gps zoekt sat=0 zicht=1 nmea=6530/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 41 teken 19.7ms stuur 14.0ms
+17:59:48 scherm| [00:10:00] status | klok 17:21 | gps zoekt sat=0 zicht=0 nmea=7254/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 9.6ms stuur 7.8ms
+17:59:48 scherm| [00:10:10] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+17:59:48 scherm| [00:11:00] status | klok 17:22 | gps zoekt sat=0 zicht=0 nmea=7978/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 10.3ms stuur 8.2ms
+17:59:48 scherm| [00:12:00] status | klok 17:23 | gps zoekt sat=0 zicht=1 nmea=8702/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 9.2ms stuur 7.4ms
+17:59:48 scherm| [00:12:11] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+17:59:48 scherm| [00:13:00] status | klok 17:24 | gps zoekt sat=0 zicht=0 nmea=9426/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 9.8ms stuur 7.9ms
+17:59:48 scherm| [00:13:11] geluid: niet klaar (i2s-fout)
+17:59:48 scherm| [00:14:00] status | klok 17:25 | gps zoekt sat=0 zicht=1 nmea=10150/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 59 teken 7.7ms stuur 6.7ms
+17:59:48 scherm| [00:14:11] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+17:59:48 scherm| [00:14:32] geluid: niet klaar (i2s-fout)
+17:59:48 scherm| [00:15:00] status | klok 17:26 | gps zoekt sat=0 zicht=0 nmea=10874/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 59 teken 9.8ms stuur 7.8ms
+17:59:48 scherm| [00:16:00] status | klok 17:27 | gps zoekt sat=0 zicht=0 nmea=11598/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 58 teken 10.8ms stuur 9.0ms
+17:59:48 scherm| [00:16:12] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+17:59:48 scherm| [00:16:16] geluid: niet klaar (i2s-fout)
+17:59:48 scherm| [00:17:00] status | klok 17:28 | gps zoekt sat=0 zicht=0 nmea=12322/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 59 teken 10.4ms stuur 8.1ms
+17:59:48 scherm| [00:00:01] geluid: start, vrij DMA 248848 (grootste blok 188404)
+17:59:48 scherm| [00:00:02] geluid: start, vrij DMA 258652 (grootste blok 212980)
+17:59:48 scherm| [00:00:02] geluid: ES8311 klaar, volume 55
+17:59:48 scherm| [00:00:03] ===== OPSTART v69 | reden: onbekend | heap 115512 =====
+17:59:48 scherm| [00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+17:59:48 scherm| [00:00:06] groet: Vroeg vandaag, Ricardo! (vriend 97)
+17:59:48 scherm| [00:00:06] wifi verbonden (Sultra), IP 10.230.69.32
+17:59:48 scherm| [00:00:09] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+17:59:48 scherm| [00:00:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:00:36] geluid test (scherm): klaar=1 volume=16 status=ok
+17:59:48 scherm| [00:01:00] status | klok 17:30 | gps zoekt sat=0 zicht=0 nmea=643/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 27 teken 32.4ms stuur 18.6ms
+17:59:48 scherm| [00:01:03] update: dit is de nieuwste (v69)
+17:59:48 scherm| [00:02:00] status | klok 17:31 | gps zoekt sat=0 zicht=0 nmea=1367/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 59 teken 8.3ms stuur 7.3ms
+17:59:48 scherm| [00:02:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:03:00] status | klok 17:32 | gps zoekt sat=0 zicht=0 nmea=2091/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 58 teken 9.5ms stuur 8.8ms
+17:59:48 scherm| [00:03:54] geluid: hing vast, losgemaakt
+17:59:48 scherm| [00:04:00] status | klok 17:33 | gps zoekt sat=0 zicht=0 nmea=2815/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 47 teken 16.2ms stuur 14.2ms
+17:59:48 scherm| [00:04:13] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:05:00] status | klok 17:34 | gps zoekt sat=0 zicht=0 nmea=3539/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 48 teken 15.7ms stuur 14.3ms
+17:59:48 scherm| [00:06:00] status | klok 17:35 | gps zoekt sat=0 zicht=0 nmea=4263/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 59 teken 7.9ms stuur 7.1ms
+17:59:48 scherm| [00:06:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:07:00] status | klok 17:36 | gps zoekt sat=0 zicht=0 nmea=4987/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 58 teken 9.6ms stuur 8.8ms
+17:59:48 scherm| [00:08:00] status | klok 17:37 | gps zoekt sat=0 zicht=0 nmea=5711/0 | 0 km/u | tel nee | heap 71144 | licht 12 | fps 10 teken 9.7ms stuur 9.9ms | SLAAPT
+17:59:48 scherm| [00:08:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:09:00] status | klok 17:38 | gps zoekt sat=0 zicht=3 nmea=6435/0 | 0 km/u | tel nee | heap 71144 | licht 12 | fps 10 teken 9.6ms stuur 9.8ms | SLAAPT
+17:59:48 scherm| [00:09:08] geluid: hing vast, losgemaakt
+17:59:48 scherm| [00:00:01] geluid: start, vrij DMA 258652 (grootste blok 212980)
+17:59:48 scherm| [00:00:01] geluid: ES8311 klaar, volume 16
+17:59:48 scherm| [00:00:02] ===== OPSTART v69 | reden: CRASH (panic) | heap 115512 =====
+17:59:48 scherm| [00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+17:59:48 scherm| [00:00:04] groet: Vroeg vandaag, Ricardo! (vriend 98)
+17:59:48 scherm| [00:00:05] wifi verbonden (Sultra), IP 10.230.69.32
+17:59:48 scherm| [00:00:08] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+17:59:48 scherm| [00:00:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:01:00] status | klok 17:40 | gps zoekt sat=0 zicht=0 nmea=736/0 | 0 km/u | tel nee | heap 66436 | licht 191 | fps 59 teken 11.0ms stuur 9.2ms
+17:59:48 scherm| [00:01:03] update: dit is de nieuwste (v69)
+17:59:48 scherm| [00:02:00] status | klok 17:41 | gps zoekt sat=0 zicht=0 nmea=1460/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 48 teken 16.1ms stuur 14.2ms
+17:59:48 scherm| [00:02:10] groep: Henk : mijlpaal!
+17:59:48 scherm| [00:02:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:03:00] status | klok 17:42 | gps zoekt sat=0 zicht=2 nmea=2184/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 58 teken 10.7ms stuur 9.1ms
+17:59:48 scherm| [00:04:00] status | klok 17:43 | gps zoekt sat=0 zicht=0 nmea=2908/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 59 teken 7.6ms stuur 7.0ms
+17:59:48 scherm| [00:04:11] groep: Henk : mijlpaal!
+17:59:48 scherm| [00:04:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:05:00] status | klok 17:44 | gps zoekt sat=0 zicht=0 nmea=3632/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 55 teken 12.8ms stuur 11.7ms
+17:59:48 scherm| [00:05:04] geluid: hing vast, losgemaakt
+17:59:48 scherm| [00:00:01] geluid: start, vrij DMA 258652 (grootste blok 212980)
+17:59:48 scherm| [00:00:01] geluid: ES8311 klaar, volume 16
+17:59:48 scherm| [00:00:02] ===== OPSTART v69 | reden: CRASH (panic) | heap 115512 =====
+17:59:48 scherm| [00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+17:59:48 scherm| [00:00:04] groet: Vroeg vandaag, Ricardo! (vriend 98)
+17:59:48 scherm| [00:00:05] wifi verbonden (Sultra), IP 10.230.69.32
+17:59:48 scherm| [00:00:07] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+17:59:48 scherm| [00:00:10] groep: Henk : mijlpaal!
+17:59:48 scherm| [00:00:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:01:00] status | klok 17:45 | gps zoekt sat=0 zicht=0 nmea=724/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 59 teken 11.1ms stuur 9.3ms
+17:59:48 scherm| [00:01:03] update: dit is de nieuwste (v69)
+17:59:48 scherm| [00:02:00] status | klok 17:46 | gps zoekt sat=0 zicht=1 nmea=1448/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 58 teken 10.4ms stuur 8.7ms
+17:59:48 scherm| [00:02:11] groep: Henk : mijlpaal!
+17:59:48 scherm| [00:02:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:03:00] status | klok 17:47 | gps zoekt sat=0 zicht=0 nmea=2172/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 58 teken 10.5ms stuur 9.1ms
+17:59:48 scherm| [00:04:00] status | klok 17:48 | gps zoekt sat=0 zicht=0 nmea=2896/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.3ms stuur 9.7ms | SLAAPT
+17:59:48 scherm| [00:04:11] groep: Henk : mijlpaal!
+17:59:48 scherm| [00:04:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:05:00] status | klok 17:49 | gps zoekt sat=0 zicht=0 nmea=3620/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 10.2ms stuur 10.7ms | SLAAPT
+17:59:48 scherm| [00:06:00] status | klok 17:50 | gps zoekt sat=0 zicht=0 nmea=4337/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.9ms stuur 10.3ms | SLAAPT
+17:59:48 scherm| [00:06:12] groep: Henk : mijlpaal!
+17:59:48 scherm| [00:06:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:07:00] status | klok 17:51 | gps zoekt sat=0 zicht=0 nmea=5068/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 10.1ms stuur 10.2ms | SLAAPT
+17:59:48 scherm| [00:08:00] status | klok 17:52 | gps zoekt sat=0 zicht=0 nmea=5793/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.6ms stuur 9.9ms | SLAAPT
+17:59:48 scherm| [00:08:11] groep: Henk : mijlpaal!
+17:59:48 scherm| [00:08:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:09:00] status | klok 17:53 | gps zoekt sat=0 zicht=1 nmea=6517/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.7ms stuur 9.8ms | SLAAPT
+17:59:48 scherm| [00:10:00] status | klok 17:54 | gps zoekt sat=0 zicht=2 nmea=7241/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.8ms stuur 10.1ms | SLAAPT
+17:59:48 scherm| [00:10:02] uit (diepe slaap): 10 minuten niets. Wakker bij beweging.
+17:59:48 scherm| [00:00:02] geluid: start, vrij DMA 258652 (grootste blok 212980)
+17:59:48 scherm| [00:00:02] geluid: ES8311 klaar, volume 16
+17:59:48 scherm| [00:00:03] ===== OPSTART v69 | reden: uit diepe slaap | heap 115512 =====
+17:59:48 scherm| [00:00:03] wakker geworden door beweging (instappen?)
+17:59:48 scherm| [00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+17:59:48 scherm| [00:00:05] wifi verbonden (Sultra), IP 10.230.69.32
+17:59:48 scherm| [00:00:05] groet: Vroeg vandaag, Ricardo! (vriend 98)
+17:59:48 scherm| [00:00:07] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+17:59:48 scherm| [00:00:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:01:00] status | klok 17:56 | gps zoekt sat=0 zicht=0 nmea=800/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 50 teken 14.1ms stuur 13.2ms
+17:59:48 scherm| [00:01:03] update: dit is de nieuwste (v69)
+17:59:48 scherm| [00:00:01] geluid: start, vrij DMA 258652 (grootste blok 212980)
+17:59:48 scherm| [00:00:01] geluid: ES8311 klaar, volume 16
+17:59:48 scherm| [00:00:02] ===== OPSTART v69 | reden: CRASH (panic) | heap 115500 =====
+17:59:48 scherm| [00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+17:59:48 scherm| [00:00:04] wifi verbonden (Sultra), IP 10.230.69.32
+17:59:48 scherm| [00:00:04] groet: Vroeg vandaag, Ricardo! (vriend 98)
+17:59:48 scherm| [00:00:06] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+17:59:48 scherm| [00:00:08] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:01:00] status | klok 17:57 | gps zoekt sat=0 zicht=2 nmea=736/0 | 0 km/u | tel nee | heap 71156 | licht 191 | fps 53 teken 12.8ms stuur 10.3ms
+17:59:48 scherm| [00:01:02] update: dit is de nieuwste (v69)
+17:59:48 scherm| [00:02:00] status | klok 17:58 | gps zoekt sat=0 zicht=0 nmea=1448/0 | 0 km/u | tel nee | heap 71156 | licht 191 | fps 58 teken 10.5ms stuur 8.8ms
+17:59:48 scherm| [00:02:10] groep: Henk : mijlpaal!
+17:59:48 scherm| [00:02:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+17:59:48 scherm| [00:02:48] BLE: telefoon verbonden
+17:59:48 scherm| [00:02:53] BLE: telefoon weg
+17:59:48 scherm| [00:02:56] BLE: telefoon verbonden
+17:59:48 scherm| [00:02:57] BLE: code goed, verbonden met de app
+17:59:48 scherm| [00:02:58] groep/worker ingesteld (Ricardo)
+17:59:48 scherm| [00:03:00] status | klok 17:59 | gps zoekt sat=0 zicht=0 nmea=2184/0 | 0 km/u | tel data | heap 70876 | licht 191 | fps 42 teken 16.7ms stuur 13.6ms
+17:59:48 scherm| [00:03:00] sprint-show 4
+--- v104 · Linux; Android 10; K ---
+17:59:52 ev excited: Groen! Daar gaan we.
+17:59:54 v=0 nauwk=15m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:00:05 v=0 nauwk=7m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=alert
+18:00:07 scherm geluid: ok/55/7
+18:00:07 scherm geluid: ok/55/7
+18:00:07 scherm geluid: ok/55/7
+18:00:07 scherm geluid: ok/55/7
+18:00:07 scherm geluid: ok/55/7
+18:00:07 scherm geluid: ok/55/7
+18:00:07 scherm geluid: ok/55/9
+18:00:15 v=0 nauwk=5m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:00:25 v=0 nauwk=5m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:00:33 ev clock: Het is 18:00.
+18:00:35 v=0 nauwk=5m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=clock
+18:00:37 scherm geluid: ok/55/9
+18:00:37 scherm geluid: ok/55/9
+18:00:37 scherm geluid: ok/55/9
+18:00:37 scherm geluid: ok/55/9
+18:00:37 scherm geluid: ok/55/9
+18:00:37 scherm geluid: ok/55/9
+18:00:37 scherm geluid: ok/55/14
+18:00:45 v=0 nauwk=5m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=alert
+18:00:56 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:01:07 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=yawn
+18:01:08 scherm geluid: ok/55/14
+18:01:08 scherm geluid: ok/55/14
+18:01:08 scherm geluid: ok/55/14
+18:01:08 scherm geluid: ok/55/14
+18:01:08 scherm geluid: ok/55/14
+18:01:08 scherm geluid: ok/55/14
+18:01:08 scherm geluid: ok/55/15
+18:01:18 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:01:29 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=alert
+18:01:36 ANWB verkeer geladen: 42 meldingen in de buurt (van 85)
+18:01:37 flitsers via /flitsers: 21/21
+18:01:37 scherm geluid: ok/55/15
+18:01:37 scherm geluid: ok/55/15
+18:01:37 scherm geluid: ok/55/15
+18:01:37 scherm geluid: ok/55/15
+18:01:37 scherm geluid: ok/55/15
+18:01:37 scherm geluid: ok/55/15
+18:01:37 scherm geluid: ok/55/15
+18:01:39 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=bored
+18:01:49 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=relaxed
+18:01:59 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=content
+18:02:07 scherm geluid: ok/55/15
+18:02:07 scherm geluid: ok/55/15
+18:02:07 scherm geluid: ok/55/15
+18:02:07 scherm geluid: ok/55/15
+18:02:07 scherm geluid: ok/55/15
+18:02:07 scherm geluid: ok/55/15
+18:02:07 scherm geluid: ok/55/15
+18:02:10 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=content
+18:02:20 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=yawn
+18:02:23 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+18:02:24 osm laad via Worker (bewaard): 3 stuks
+18:02:24 laadpaal: niet gevonden in de buurt
+18:02:28 groep ververst: 5
+18:02:31 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=happy
+18:02:37 scherm geluid: ok/55/15
+18:02:37 scherm geluid: ok/55/15
+18:02:37 scherm geluid: ok/55/15
+18:02:37 scherm geluid: ok/55/15
+18:02:37 scherm geluid: ok/55/15
+18:02:37 scherm geluid: ok/55/15
+18:02:37 scherm geluid: ok/55/15
+18:02:41 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=yawn
+18:02:52 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=bored
+18:03:02 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=yawn
+18:03:07 scherm geluid: ok/55/15
+18:03:07 scherm geluid: ok/55/15
+18:03:07 scherm geluid: ok/55/15
+18:03:07 scherm geluid: ok/55/15
+18:03:07 scherm geluid: ok/55/15
+18:03:07 scherm geluid: ok/55/15
+18:03:07 scherm geluid: ok/55/15
+18:03:12 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleepy
+18:03:23 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleepy
+18:03:33 ev clock: Het is 18:03.
+18:03:33 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=clock
+18:03:37 ANWB verkeer geladen: 44 meldingen in de buurt (van 88)
+18:03:37 flitsers via /flitsers: 23/23
+18:03:37 scherm geluid: ok/55/15
+18:03:37 scherm geluid: ok/55/15
+18:03:37 scherm geluid: ok/55/15
+18:03:37 scherm geluid: ok/55/15
+18:03:37 scherm geluid: ok/55/15
+18:03:37 scherm geluid: ok/55/15
+18:03:37 scherm geluid: ok/55/15
+18:03:44 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleepy
+18:03:54 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleepy
+18:04:04 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleepy
+18:04:07 scherm geluid: ok/55/15
+18:04:07 scherm geluid: ok/55/15
+18:04:07 scherm geluid: ok/55/15
+18:04:07 scherm geluid: ok/55/15
+18:04:07 scherm geluid: ok/55/15
+18:04:07 scherm geluid: ok/55/15
+18:04:07 scherm geluid: ok/55/15
+18:04:15 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleepy
+18:04:25 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:04:35 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:04:36 NDW geladen: 327 meldingen in de buurt {"closure":186,"speed":30,"lane":72,"jam":35,"accident":4}
+18:04:37 scherm geluid: ok/55/15
+18:04:37 scherm geluid: ok/55/15
+18:04:37 scherm geluid: ok/55/15
+18:04:37 scherm geluid: ok/55/15
+18:04:37 scherm geluid: ok/55/15
+18:04:37 scherm geluid: ok/55/15
+18:04:37 scherm geluid: ok/55/15
+18:04:45 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:04:55 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:05:05 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:05:07 scherm geluid: ok/55/15
+18:05:07 scherm geluid: ok/55/15
+18:05:07 scherm geluid: ok/55/15
+18:05:07 scherm geluid: ok/55/15
+18:05:07 scherm geluid: ok/55/15
+18:05:07 scherm geluid: ok/55/15
+18:05:07 scherm geluid: ok/55/15
+18:05:16 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:05:26 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:05:30 groep ververst: 5
+18:05:36 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:05:37 scherm geluid: ok/55/15
+18:05:37 scherm geluid: ok/55/15
+18:05:37 scherm geluid: ok/55/15
+18:05:37 scherm geluid: ok/55/15
+18:05:37 scherm geluid: ok/55/15
+18:05:37 scherm geluid: ok/55/15
+18:05:37 scherm geluid: ok/55/15
+18:05:38 ANWB verkeer geladen: 46 meldingen in de buurt (van 87)
+18:05:38 flitsers via /flitsers: 23/23
+18:05:46 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:05:57 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:06:07 scherm geluid: ok/55/15
+18:06:07 scherm geluid: ok/55/15
+18:06:07 scherm geluid: ok/55/15
+18:06:07 scherm geluid: ok/55/15
+18:06:07 scherm geluid: ok/55/15
+18:06:07 scherm geluid: ok/55/15
+18:06:07 scherm geluid: ok/55/15
+18:06:07 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:06:17 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:06:28 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:06:37 scherm geluid: ok/55/15
+18:06:37 scherm geluid: ok/55/15
+18:06:37 scherm geluid: ok/55/15
+18:06:37 scherm geluid: ok/55/15
+18:06:37 scherm geluid: ok/55/15
+18:06:37 scherm geluid: ok/55/15
+18:06:37 scherm geluid: ok/55/15
+18:06:38 v=0 nauwk=12m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:06:48 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:06:58 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:07:07 scherm geluid: ok/55/15
+18:07:07 scherm geluid: ok/55/15
+18:07:07 scherm geluid: ok/55/15
+18:07:07 scherm geluid: ok/55/15
+18:07:07 scherm geluid: ok/55/15
+18:07:07 scherm geluid: ok/55/15
+18:07:07 scherm geluid: ok/55/15
+18:07:09 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:07:19 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:07:29 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:07:37 scherm geluid: ok/55/15
+18:07:37 scherm geluid: ok/55/15
+18:07:37 scherm geluid: ok/55/15
+18:07:37 scherm geluid: ok/55/15
+18:07:37 scherm geluid: ok/55/15
+18:07:37 scherm geluid: ok/55/15
+18:07:37 scherm geluid: ok/55/15
+18:07:39 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:07:40 flitsers via /flitsers: 23/23
+18:07:40 ANWB verkeer geladen: 35 meldingen in de buurt (van 74)
+18:07:50 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:08:00 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:08:07 scherm geluid: ok/55/15
+18:08:07 scherm geluid: ok/55/15
+18:08:07 scherm geluid: ok/55/15
+18:08:07 scherm geluid: ok/55/15
+18:08:07 scherm geluid: ok/55/15
+18:08:07 scherm geluid: ok/55/15
+18:08:07 scherm geluid: ok/55/15
+18:08:11 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:08:22 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:08:31 groep ververst: 5
+18:08:33 v=0 nauwk=13m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:08:37 scherm geluid: ok/55/15
+18:08:37 scherm geluid: ok/55/15
+18:08:37 scherm geluid: ok/55/15
+18:08:37 scherm geluid: ok/55/15
+18:08:37 scherm geluid: ok/55/15
+18:08:37 scherm geluid: ok/55/15
+18:08:37 scherm geluid: ok/55/15
+18:08:43 v=0 nauwk=12m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:08:54 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:09:04 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=happy
+18:09:07 scherm geluid: ok/55/15
+18:09:07 scherm geluid: ok/55/15
+18:09:07 scherm geluid: ok/55/15
+18:09:07 scherm geluid: ok/55/15
+18:09:07 scherm geluid: ok/55/15
+18:09:07 scherm geluid: ok/55/15
+18:09:07 scherm geluid: ok/55/15
+18:09:09 ev relaxed: Lekker liggen…
+18:09:14 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:09:25 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+--- v104 · Linux; Android 10; K ---
+18:09:36 bruggen geladen: 9
+18:09:36 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=startled
+18:09:37 NDW geladen: 323 meldingen in de buurt {"closure":186,"speed":30,"lane":71,"jam":32,"accident":4}
+18:09:37 scherm geluid: ok/55/15
+18:09:37 scherm geluid: ok/55/15
+18:09:37 scherm geluid: ok/55/15
+18:09:37 scherm geluid: ok/55/15
+18:09:37 scherm geluid: ok/55/15
+18:09:37 scherm geluid: ok/55/15
+18:09:37 scherm geluid: bezig/55/15
+18:09:38 flitsers via /flitsers: 23/23
+18:09:40 ANWB verkeer geladen: 34 meldingen in de buurt (van 71)
+18:09:44 ev clock: Het is 18:09.
+18:09:47 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=clock
+18:09:57 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=focused
+18:10:07 scherm geluid: bezig/55/15
+18:10:07 scherm geluid: bezig/55/15
+18:10:07 scherm geluid: bezig/55/15
+18:10:07 scherm geluid: bezig/55/15
+18:10:07 scherm geluid: bezig/55/15
+18:10:07 scherm geluid: bezig/55/15
+18:10:07 scherm geluid: ok/55/15
+18:10:08 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:10:19 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=happy
+18:10:29 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:10:37 scherm geluid: ok/55/15
+18:10:37 scherm geluid: ok/55/15
+18:10:37 scherm geluid: ok/55/15
+18:10:37 scherm geluid: ok/55/15
+18:10:37 scherm geluid: ok/55/15
+18:10:37 scherm geluid: ok/55/15
+18:10:37 scherm geluid: bezig/55/15
+18:10:39 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:10:49 voelen: sensor-teken omgekeerd
+18:10:49 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:11:00 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:11:07 scherm geluid: bezig/55/15
+18:11:07 scherm geluid: bezig/55/15
+18:11:07 scherm geluid: bezig/55/15
+18:11:07 scherm geluid: bezig/55/15
+18:11:07 scherm geluid: bezig/55/15
+18:11:07 scherm geluid: bezig/55/15
+18:11:07 scherm geluid: ok/55/15
+18:11:11 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:11:21 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:11:31 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:11:31 groep ververst: 5
+18:11:36 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+18:11:37 scherm geluid: ok/55/15
+18:11:37 scherm geluid: ok/55/15
+18:11:37 scherm geluid: ok/55/15
+18:11:37 scherm geluid: ok/55/15
+18:11:37 scherm geluid: ok/55/15
+18:11:37 scherm geluid: ok/55/15
+18:11:37 scherm geluid: ok/55/15
+18:11:39 flitsers via /flitsers: 21/21
+18:11:41 ANWB verkeer geladen: 35 meldingen in de buurt (van 71)
+18:11:42 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=yawn
+18:11:52 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=excited
+18:12:03 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=yawn
+18:12:07 scherm geluid: ok/55/15
+18:12:07 scherm geluid: ok/55/15
+18:12:07 scherm geluid: ok/55/15
+18:12:07 scherm geluid: ok/55/15
+18:12:07 scherm geluid: ok/55/15
+18:12:07 scherm geluid: ok/55/15
+18:12:07 scherm geluid: ok/55/15
+18:12:13 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=relaxed
+18:12:24 v=0 nauwk=12m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=excited
+18:12:34 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleepy
+18:12:37 scherm geluid: ok/55/15
+18:12:37 scherm geluid: ok/55/15
+18:12:37 scherm geluid: ok/55/15
+18:12:37 scherm geluid: ok/55/15
+18:12:37 scherm geluid: ok/55/15
+18:12:37 scherm geluid: ok/55/15
+18:12:37 scherm geluid: bezig/55/16
+18:12:44 ev clock: Het is 18:12.
+18:12:44 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=clock
+18:12:54 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleepy
+18:13:05 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=yawn
+18:13:07 scherm geluid: bezig/55/16
+18:13:07 scherm geluid: bezig/55/16
+18:13:07 scherm geluid: bezig/55/16
+18:13:07 scherm geluid: bezig/55/16
+18:13:07 scherm geluid: bezig/55/16
+18:13:07 scherm geluid: bezig/55/16
+18:13:07 scherm geluid: ok/55/16
+18:13:16 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=happy
+18:13:26 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=yawn
+18:13:36 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleepy
+18:13:37 scherm geluid: ok/55/16
+18:13:37 scherm geluid: ok/55/16
+18:13:37 scherm geluid: ok/55/16
+18:13:37 scherm geluid: ok/55/16
+18:13:37 scherm geluid: ok/55/16
+18:13:37 scherm geluid: ok/55/16
+18:13:37 scherm geluid: ok/55/16
+18:13:39 flitsers via /flitsers: 21/21
+18:13:42 ANWB verkeer geladen: 36 meldingen in de buurt (van 70)
+18:13:46 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:13:57 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:14:07 scherm geluid: ok/55/16
+18:14:07 scherm geluid: ok/55/16
+18:14:07 scherm geluid: ok/55/16
+18:14:07 scherm geluid: ok/55/16
+18:14:07 scherm geluid: ok/55/16
+18:14:07 scherm geluid: ok/55/16
+18:14:07 scherm geluid: ok/55/16
+18:14:08 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:14:18 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:14:29 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:14:32 groep ververst: 5
+18:14:36 weer: 9.7 graden, code 0, neerslag 0, wind 11
+18:14:36 buienradar: nu 0 mm/u, regen over -1 min
+18:14:37 scherm geluid: ok/55/16
+18:14:37 scherm geluid: ok/55/16
+18:14:37 scherm geluid: ok/55/16
+18:14:37 scherm geluid: ok/55/16
+18:14:37 scherm geluid: ok/55/16
+18:14:37 scherm geluid: ok/55/16
+18:14:37 scherm geluid: ok/55/16
+18:14:38 NDW geladen: 319 meldingen in de buurt {"closure":186,"speed":30,"lane":71,"jam":28,"accident":4}
+18:14:39 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:14:49 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:15:00 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:15:07 scherm geluid: ok/55/16
+18:15:07 scherm geluid: ok/55/16
+18:15:07 scherm geluid: ok/55/16
+18:15:07 scherm geluid: ok/55/16
+18:15:07 scherm geluid: ok/55/16
+18:15:07 scherm geluid: ok/55/16
+18:15:07 scherm geluid: ok/55/16
+18:15:10 v=0 nauwk=8m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:15:21 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:15:31 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:15:37 scherm geluid: ok/55/16
+18:15:37 scherm geluid: ok/55/16
+18:15:37 scherm geluid: ok/55/16
+18:15:37 scherm geluid: ok/55/16
+18:15:37 scherm geluid: ok/55/16
+18:15:37 scherm geluid: ok/55/16
+18:15:37 scherm geluid: ok/55/16
+18:15:40 flitsers via /flitsers: 21/21
+18:15:41 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:15:44 ANWB verkeer geladen: 34 meldingen in de buurt (van 69)
+18:15:51 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:16:01 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:16:07 scherm geluid: ok/55/16
+18:16:07 scherm geluid: ok/55/16
+18:16:07 scherm geluid: ok/55/16
+18:16:07 scherm geluid: ok/55/16
+18:16:07 scherm geluid: ok/55/16
+18:16:07 scherm geluid: ok/55/16
+18:16:07 scherm geluid: ok/55/16
+18:16:12 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:16:23 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:16:33 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:16:37 scherm geluid: ok/55/16
+18:16:37 scherm geluid: ok/55/16
+18:16:37 scherm geluid: ok/55/16
+18:16:37 scherm geluid: ok/55/16
+18:16:37 scherm geluid: ok/55/16
+18:16:37 scherm geluid: ok/55/16
+18:16:37 scherm geluid: ok/55/16
+18:16:43 v=0 nauwk=12m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:16:53 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:17:03 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:17:07 scherm geluid: ok/55/16
+18:17:07 scherm geluid: ok/55/16
+18:17:07 scherm geluid: ok/55/16
+18:17:07 scherm geluid: ok/55/16
+18:17:07 scherm geluid: ok/55/16
+18:17:07 scherm geluid: ok/55/16
+18:17:07 scherm geluid: ok/55/16
+18:17:14 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:17:24 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:17:32 groep ververst: 5
+18:17:35 v=2 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleeping
+18:17:37 scherm geluid: ok/55/16
+18:17:37 scherm geluid: ok/55/16
+18:17:37 scherm geluid: ok/55/16
+18:17:37 scherm geluid: ok/55/16
+18:17:37 scherm geluid: ok/55/16
+18:17:37 scherm geluid: ok/55/16
+18:17:37 scherm geluid: bezig/55/16
+18:17:40 flitsers via /flitsers: 23/23
+18:17:45 ANWB verkeer geladen: 34 meldingen in de buurt (van 66)
+18:17:46 v=0 nauwk=13m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:17:56 v=0 nauwk=13m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:18:06 v=0 nauwk=12m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:18:07 scherm geluid: bezig/55/16
+18:18:07 scherm geluid: bezig/55/16
+18:18:07 scherm geluid: bezig/55/16
+18:18:07 scherm geluid: bezig/55/16
+18:18:07 scherm geluid: bezig/55/16
+18:18:07 scherm geluid: bezig/55/16
+18:18:07 scherm geluid: ok/55/16
+18:18:16 v=0 nauwk=13m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:18:20 ev clock: Het is 18:18.
+18:18:26 v=0 nauwk=13m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:18:37 scherm geluid: ok/55/16
+18:18:37 scherm geluid: ok/55/16
+18:18:37 scherm geluid: ok/55/16
+18:18:37 scherm geluid: ok/55/16
+18:18:37 scherm geluid: ok/55/16
+18:18:37 scherm geluid: ok/55/16
+18:18:37 scherm geluid: ok/55/16
+18:18:37 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:18:47 v=0 nauwk=12m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:18:58 v=0 nauwk=12m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=content
+18:19:07 scherm geluid: ok/55/16
+18:19:07 scherm geluid: ok/55/16
+18:19:07 scherm geluid: ok/55/16
+18:19:07 scherm geluid: ok/55/16
+18:19:07 scherm geluid: ok/55/16
+18:19:07 scherm geluid: ok/55/16
+18:19:07 scherm geluid: ok/55/16
+18:19:08 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:19:11 ev relaxed: Lekker liggen…
+18:19:18 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=alert
+--- v104 · Linux; Android 10; K ---
+18:19:28 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:19:37 bruggen geladen: 9
+18:19:37 scherm geluid: ok/55/16
+18:19:37 scherm geluid: ok/55/16
+18:19:37 scherm geluid: ok/55/16
+18:19:37 scherm geluid: ok/55/16
+18:19:37 scherm geluid: ok/55/16
+18:19:37 scherm geluid: ok/55/16
+18:19:37 scherm geluid: ok/55/16
+18:19:38 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=happy
+18:19:39 NDW geladen: 307 meldingen in de buurt {"closure":186,"speed":30,"lane":71,"jam":16,"accident":4}
+18:19:40 flitsers via /flitsers: 21/21
+18:19:46 ANWB verkeer geladen: 31 meldingen in de buurt (van 62)
+18:19:49 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=neutral
+18:19:59 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=content
+18:20:07 scherm geluid: ok/55/16
+18:20:07 scherm geluid: ok/55/16
+18:20:07 scherm geluid: ok/55/16
+18:20:07 scherm geluid: ok/55/16
+18:20:07 scherm geluid: ok/55/16
+18:20:07 scherm geluid: ok/55/16
+18:20:07 scherm geluid: ok/55/16
+18:20:09 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=neutral
+18:20:20 v=0 nauwk=12m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=anticipate
+18:20:30 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=bored
+18:20:32 groep ververst: 5
+18:20:40 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=alert
+18:20:51 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=bored
+18:21:01 v=0 nauwk=12m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=yawn
+18:21:12 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=content
+18:21:20 ev clock: Het is 18:21.
+18:21:23 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=clock
+18:21:33 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=happy
+18:21:42 flitsers via /flitsers: 21/21
+18:21:43 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=bored
+18:21:46 ANWB verkeer geladen: 29 meldingen in de buurt (van 59)
+18:21:54 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=bored
+18:21:57 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+18:22:05 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=alert
+18:22:15 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=bored
+18:22:26 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleepy
+18:22:36 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleepy
+18:22:47 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=relaxed
+18:22:57 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleepy
+18:23:07 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleepy
+18:23:18 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=happy
+18:23:29 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=sleepy
+18:23:32 groep ververst: 5
+18:23:39 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=21 stemming=content
+18:23:42 flitsers via /flitsers: 23/23
+18:23:47 ANWB verkeer geladen: 25 meldingen in de buurt (van 56)
+18:23:49 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleepy
+18:23:59 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=worried
+18:24:09 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:24:19 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+18:24:30 v=0 nauwk=13m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:24:40 NDW geladen: 305 meldingen in de buurt {"closure":184,"speed":30,"lane":71,"jam":15,"accident":5}
+18:24:40 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:24:50 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:25:00 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=neutral
+18:25:04 ev clock: Het is 18:25.
+18:25:10 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=content
+18:25:20 v=0 nauwk=9m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:25:31 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=excited
+18:25:41 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:25:42 flitsers via /flitsers: 23/23
+18:25:48 ANWB verkeer geladen: 27 meldingen in de buurt (van 58)
+18:25:51 v=0 nauwk=11m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:26:01 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:26:11 v=0 nauwk=10m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:26:21 v=0 nauwk=13m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=yawn
+18:26:32 v=0 nauwk=12m limiet=30 wegen=1477 draai=0 vaste=117/12 gemeld=23 stemming=bored
+18:26:32 groep ververst: 5
+--- v104 · Linux; Android 10; K ---
+18:36:07 scherm-aan-slot gekregen
+18:36:07 scherm-aan-slot gekregen

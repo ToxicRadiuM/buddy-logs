@@ -1,0 +1,1194 @@
+--- Buddy+ v69 ---
+START v66 | reden: stroom aan | heap 116072 =====
+[00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:05] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:06] geluid: niet klaar (i2s-fout)
+[00:00:06] groet: Vroeg vandaag, Ricardo! (vriend 96)
+[00:00:08] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:08] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:00:59] BLE: telefoon verbonden
+[00:01:00] status | klok 17:12 | gps zoekt sat=0 zicht=0 nmea=725/0 | 0 km/u | tel stil | heap 70372 | licht 242 | fps 59 teken 9.5ms stuur 8.2ms
+[00:01:00] BLE: code goed, verbonden met de app
+[00:01:00] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+[00:01:56] update gevraagd vanuit de app
+[00:01:56] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+[00:01:56] GPS-hulp gegeven: tijd ok, plek ok (51.9959, 4.7772)
+[00:01:56] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+[00:01:56] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
+[00:01:58] GPS: FIX! 0 satellieten
+[00:01:58] GPS: fix kwijt (0 sat)
+[00:01:59] GPS: FIX! 0 satellieten
+[00:01:59] tegel 1733_95: 876 wegvakken
+[00:02:00] status | klok 17:13 | gps zoekt sat=0 zicht=2 nmea=1453/0 | 0 km/u | tel data | heap 60596 | licht 242 | fps 41 teken 18.9ms stuur 16.6ms
+[00:02:00] GPS: FIX! 0 satellieten
+[00:02:00] GPS: fix kwijt (0 sat)
+[00:02:01] wifi ingesteld: Sultra
+[00:02:01] GPS: FIX! 0 satellieten
+[00:02:01] GPS: fix kwijt (0 sat)
+[00:02:02] GPS: FIX! 0 satellieten
+[00:02:02] GPS: fix kwijt (0 sat)
+[00:02:03] GPS: FIX! 0 satellieten
+[00:02:03] GPS: fix kwijt (0 sat)
+[00:02:04] GPS: FIX! 0 satellieten
+[00:02:04] GPS: fix kwijt (0 sat)
+[00:02:05] GPS: FIX! 0 satellieten
+[00:02:05] GPS: fix kwijt (0 sat)
+[00:02:06] GPS: FIX! 0 satellieten
+[00:02:06] GPS: fix kwijt (0 sat)
+[00:02:06] geluid: niet klaar (i2s-fout)
+[00:02:07] GPS: FIX! 0 satellieten
+[00:02:07] GPS: fix kwijt (0 sat)
+[00:02:08] GPS: FIX! 0 satellieten
+[00:02:08] GPS: fix kwijt (0 sat)
+[00:02:09] net: ers.dev/scherm?lat=51.99592&lon=4.77719&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:02:09] GPS: FIX! 0 satellieten
+[00:02:09] GPS: fix kwijt (0 sat)
+[00:02:10] GPS: FIX! 0 satellieten
+[00:02:10] GPS: fix kwijt (0 sat)
+[00:02:11] GPS: FIX! 0 satellieten
+[00:02:11] net: cast?latitude=51.996&longitude=4.777&current=temperature_2m,weather_code,precipitation&minutely_15=precipitation&forecast_minutely_15=4&timezone=auto -> -1
+[00:02:11] GPS: fix kwijt (0 sat)
+[00:02:12] GPS: FIX! 0 satellieten
+[00:02:12] GPS: fix kwijt (0 sat)
+[00:02:13] GPS: FIX! 0 satellieten
+[00:02:13] GPS: fix kwijt (0 sat)
+[00:02:14] GPS: FIX! 0 satellieten
+[00:02:14] GPS: fix kwijt (0 sat)
+[00:02:15] GPS: FIX! 0 satellieten
+[00:02:16] GPS: fix kwijt (0 sat)
+[00:02:16] GPS: FIX! 0 satellieten
+[00:02:17] GPS: fix kwijt (0 sat)
+[00:02:17] GPS: FIX! 0 satellieten
+[00:02:18] GPS: fix kwijt (0 sat)
+[00:02:18] GPS: FIX! 0 satellieten
+[00:02:19] GPS: fix kwijt (0 sat)
+[00:02:46] GPS: FIX! 0 satellieten
+[00:02:46] GPS: fix kwijt (0 sat)
+[00:02:47] GPS: FIX! 0 satellieten
+[00:02:47] GPS: fix kwijt (0 sat)
+[00:02:48] GPS: FIX! 0 satellieten
+[00:02:48] GPS: fix kwijt (0 sat)
+[00:02:49] GPS: FIX! 0 satellieten
+[00:02:49] GPS: fix kwijt (0 sat)
+[00:02:50] GPS: FIX! 0 satellieten
+[00:02:50] GPS: fix kwijt (0 sat)
+[00:02:51] GPS: FIX! 0 satellieten
+[00:02:51] GPS: fix kwijt (0 sat)
+[00:02:52] GPS: FIX! 0 satellieten
+[00:02:52] GPS: fix kwijt (0 sat)
+[00:02:53] GPS: FIX! 0 satellieten
+[00:02:53] GPS: fix kwijt (0 sat)
+[00:02:54] GPS: FIX! 0 satellieten
+[00:02:54] GPS: fix kwijt (0 sat)
+[00:02:55] GPS: FIX! 0 satellieten
+[00:02:55] GPS: fix kwijt (0 sat)
+[00:02:56] GPS: FIX! 0 satellieten
+[00:02:56] GPS: fix kwijt (0 sat)
+[00:02:57] GPS: FIX! 0 satellieten
+[00:02:57] GPS: fix kwijt (0 sat)
+[00:02:58] GPS: FIX! 0 satellieten
+[00:02:59] GPS: fix kwijt (0 sat)
+[00:02:59] GPS: FIX! 0 satellieten
+[00:03:00] status | klok 17:14 | gps TEL sat=0 zicht=0 nmea=2186/0 | 0 km/u | tel data | heap 69244 | licht 191 | fps 37 teken 17.3ms stuur 14.6ms
+[00:03:00] GPS: fix kwijt (0 sat)
+[00:03:00] GPS: FIX! 0 satellieten
+[00:03:01] GPS: fix kwijt (0 sat)
+[00:04:00] status | klok 17:15 | gps zoekt sat=0 zicht=0 nmea=2910/0 | 0 km/u | tel data | heap 69244 | licht 191 | fps 49 teken 15.9ms stuur 13.8ms
+[00:04:09] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:04:33] geluid: niet klaar (i2s-fout)
+[00:05:00] status | klok 17:16 | gps zoekt sat=0 zicht=0 nmea=3634/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 10.8ms stuur 8.3ms
+[00:06:00] status | klok 17:17 | gps zoekt sat=0 zicht=0 nmea=4358/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 58 teken 10.8ms stuur 8.7ms
+[00:06:10] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:07:00] status | klok 17:18 | gps zoekt sat=0 zicht=0 nmea=5082/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 43 teken 18.7ms stuur 13.7ms
+[00:07:38] geluid: niet klaar (i2s-fout)
+[00:08:00] status | klok 17:19 | gps zoekt sat=0 zicht=0 nmea=5806/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 58 teken 10.3ms stuur 8.2ms
+[00:08:10] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:09:00] status | klok 17:20 | gps zoekt sat=0 zicht=1 nmea=6530/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 41 teken 19.7ms stuur 14.0ms
+[00:10:00] status | klok 17:21 | gps zoekt sat=0 zicht=0 nmea=7254/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 9.6ms stuur 7.8ms
+[00:10:10] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:11:00] status | klok 17:22 | gps zoekt sat=0 zicht=0 nmea=7978/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 10.3ms stuur 8.2ms
+[00:12:00] status | klok 17:23 | gps zoekt sat=0 zicht=1 nmea=8702/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 9.2ms stuur 7.4ms
+[00:12:11] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:13:00] status | klok 17:24 | gps zoekt sat=0 zicht=0 nmea=9426/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 9.8ms stuur 7.9ms
+[00:13:11] geluid: niet klaar (i2s-fout)
+[00:14:00] status | klok 17:25 | gps zoekt sat=0 zicht=1 nmea=10150/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 59 teken 7.7ms stuur 6.7ms
+[00:14:11] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:14:32] geluid: niet klaar (i2s-fout)
+[00:15:00] status | klok 17:26 | gps zoekt sat=0 zicht=0 nmea=10874/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 59 teken 9.8ms stuur 7.8ms
+[00:16:00] status | klok 17:27 | gps zoekt sat=0 zicht=0 nmea=11598/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 58 teken 10.8ms stuur 9.0ms
+[00:16:12] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:16:16] geluid: niet klaar (i2s-fout)
+[00:17:00] status | klok 17:28 | gps zoekt sat=0 zicht=0 nmea=12322/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 59 teken 10.4ms stuur 8.1ms
+[00:00:01] geluid: start, vrij DMA 248848 (grootste blok 188404)
+[00:00:02] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:02] geluid: ES8311 klaar, volume 55
+[00:00:03] ===== OPSTART v69 | reden: onbekend | heap 115512 =====
+[00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:06] groet: Vroeg vandaag, Ricardo! (vriend 97)
+[00:00:06] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:09] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:00:36] geluid test (scherm): klaar=1 volume=16 status=ok
+[00:01:00] status | klok 17:30 | gps zoekt sat=0 zicht=0 nmea=643/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 27 teken 32.4ms stuur 18.6ms
+--- Buddy+ v69 ---
+[00:01:03] update: dit is de nieuwste (v69)
+[00:02:00] status | klok 17:31 | gps zoekt sat=0 zicht=0 nmea=1367/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 59 teken 8.3ms stuur 7.3ms
+[00:02:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:03:00] status | klok 17:32 | gps zoekt sat=0 zicht=0 nmea=2091/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 58 teken 9.5ms stuur 8.8ms
+[00:03:54] geluid: hing vast, losgemaakt
+[00:04:00] status | klok 17:33 | gps zoekt sat=0 zicht=0 nmea=2815/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 47 teken 16.2ms stuur 14.2ms
+[00:04:13] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:05:00] status | klok 17:34 | gps zoekt sat=0 zicht=0 nmea=3539/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 48 teken 15.7ms stuur 14.3ms
+[00:06:00] status | klok 17:35 | gps zoekt sat=0 zicht=0 nmea=4263/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 59 teken 7.9ms stuur 7.1ms
+--- Buddy+ v69 ---
+ sat)
+[00:02:11] GPS: FIX! 0 satellieten
+[00:02:11] net: cast?latitude=51.996&longitude=4.777&current=temperature_2m,weather_code,precipitation&minutely_15=precipitation&forecast_minutely_15=4&timezone=auto -> -1
+[00:02:11] GPS: fix kwijt (0 sat)
+[00:02:12] GPS: FIX! 0 satellieten
+[00:02:12] GPS: fix kwijt (0 sat)
+[00:02:13] GPS: FIX! 0 satellieten
+[00:02:13] GPS: fix kwijt (0 sat)
+[00:02:14] GPS: FIX! 0 satellieten
+[00:02:14] GPS: fix kwijt (0 sat)
+[00:02:15] GPS: FIX! 0 satellieten
+[00:02:16] GPS: fix kwijt (0 sat)
+[00:02:16] GPS: FIX! 0 satellieten
+[00:02:17] GPS: fix kwijt (0 sat)
+[00:02:17] GPS: FIX! 0 satellieten
+[00:02:18] GPS: fix kwijt (0 sat)
+[00:02:18] GPS: FIX! 0 satellieten
+[00:02:19] GPS: fix kwijt (0 sat)
+[00:02:46] GPS: FIX! 0 satellieten
+[00:02:46] GPS: fix kwijt (0 sat)
+[00:02:47] GPS: FIX! 0 satellieten
+[00:02:47] GPS: fix kwijt (0 sat)
+[00:02:48] GPS: FIX! 0 satellieten
+[00:02:48] GPS: fix kwijt (0 sat)
+[00:02:49] GPS: FIX! 0 satellieten
+[00:02:49] GPS: fix kwijt (0 sat)
+[00:02:50] GPS: FIX! 0 satellieten
+[00:02:50] GPS: fix kwijt (0 sat)
+[00:02:51] GPS: FIX! 0 satellieten
+[00:02:51] GPS: fix kwijt (0 sat)
+[00:02:52] GPS: FIX! 0 satellieten
+[00:02:52] GPS: fix kwijt (0 sat)
+[00:02:53] GPS: FIX! 0 satellieten
+[00:02:53] GPS: fix kwijt (0 sat)
+[00:02:54] GPS: FIX! 0 satellieten
+[00:02:54] GPS: fix kwijt (0 sat)
+[00:02:55] GPS: FIX! 0 satellieten
+[00:02:55] GPS: fix kwijt (0 sat)
+[00:02:56] GPS: FIX! 0 satellieten
+[00:02:56] GPS: fix kwijt (0 sat)
+[00:02:57] GPS: FIX! 0 satellieten
+[00:02:57] GPS: fix kwijt (0 sat)
+[00:02:58] GPS: FIX! 0 satellieten
+[00:02:59] GPS: fix kwijt (0 sat)
+[00:02:59] GPS: FIX! 0 satellieten
+[00:03:00] status | klok 17:14 | gps TEL sat=0 zicht=0 nmea=2186/0 | 0 km/u | tel data | heap 69244 | licht 191 | fps 37 teken 17.3ms stuur 14.6ms
+[00:03:00] GPS: fix kwijt (0 sat)
+[00:03:00] GPS: FIX! 0 satellieten
+[00:03:01] GPS: fix kwijt (0 sat)
+[00:04:00] status | klok 17:15 | gps zoekt sat=0 zicht=0 nmea=2910/0 | 0 km/u | tel data | heap 69244 | licht 191 | fps 49 teken 15.9ms stuur 13.8ms
+[00:04:09] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:04:33] geluid: niet klaar (i2s-fout)
+[00:05:00] status | klok 17:16 | gps zoekt sat=0 zicht=0 nmea=3634/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 10.8ms stuur 8.3ms
+[00:06:00] status | klok 17:17 | gps zoekt sat=0 zicht=0 nmea=4358/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 58 teken 10.8ms stuur 8.7ms
+[00:06:10] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:07:00] status | klok 17:18 | gps zoekt sat=0 zicht=0 nmea=5082/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 43 teken 18.7ms stuur 13.7ms
+[00:07:38] geluid: niet klaar (i2s-fout)
+[00:08:00] status | klok 17:19 | gps zoekt sat=0 zicht=0 nmea=5806/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 58 teken 10.3ms stuur 8.2ms
+[00:08:10] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:09:00] status | klok 17:20 | gps zoekt sat=0 zicht=1 nmea=6530/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 41 teken 19.7ms stuur 14.0ms
+[00:10:00] status | klok 17:21 | gps zoekt sat=0 zicht=0 nmea=7254/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 9.6ms stuur 7.8ms
+[00:10:10] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:11:00] status | klok 17:22 | gps zoekt sat=0 zicht=0 nmea=7978/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 10.3ms stuur 8.2ms
+[00:12:00] status | klok 17:23 | gps zoekt sat=0 zicht=1 nmea=8702/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 9.2ms stuur 7.4ms
+[00:12:11] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:13:00] status | klok 17:24 | gps zoekt sat=0 zicht=0 nmea=9426/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 9.8ms stuur 7.9ms
+[00:13:11] geluid: niet klaar (i2s-fout)
+[00:14:00] status | klok 17:25 | gps zoekt sat=0 zicht=1 nmea=10150/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 59 teken 7.7ms stuur 6.7ms
+[00:14:11] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:14:32] geluid: niet klaar (i2s-fout)
+[00:15:00] status | klok 17:26 | gps zoekt sat=0 zicht=0 nmea=10874/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 59 teken 9.8ms stuur 7.8ms
+[00:16:00] status | klok 17:27 | gps zoekt sat=0 zicht=0 nmea=11598/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 58 teken 10.8ms stuur 9.0ms
+[00:16:12] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:16:16] geluid: niet klaar (i2s-fout)
+[00:17:00] status | klok 17:28 | gps zoekt sat=0 zicht=0 nmea=12322/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 59 teken 10.4ms stuur 8.1ms
+[00:00:01] geluid: start, vrij DMA 248848 (grootste blok 188404)
+[00:00:02] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:02] geluid: ES8311 klaar, volume 55
+[00:00:03] ===== OPSTART v69 | reden: onbekend | heap 115512 =====
+[00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:06] groet: Vroeg vandaag, Ricardo! (vriend 97)
+[00:00:06] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:09] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:00:36] geluid test (scherm): klaar=1 volume=16 status=ok
+[00:01:00] status | klok 17:30 | gps zoekt sat=0 zicht=0 nmea=643/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 27 teken 32.4ms stuur 18.6ms
+[00:01:03] update: dit is de nieuwste (v69)
+[00:02:00] status | klok 17:31 | gps zoekt sat=0 zicht=0 nmea=1367/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 59 teken 8.3ms stuur 7.3ms
+[00:02:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:03:00] status | klok 17:32 | gps zoekt sat=0 zicht=0 nmea=2091/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 58 teken 9.5ms stuur 8.8ms
+[00:03:54] geluid: hing vast, losgemaakt
+[00:04:00] status | klok 17:33 | gps zoekt sat=0 zicht=0 nmea=2815/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 47 teken 16.2ms stuur 14.2ms
+[00:04:13] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:05:00] status | klok 17:34 | gps zoekt sat=0 zicht=0 nmea=3539/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 48 teken 15.7ms stuur 14.3ms
+[00:06:00] status | klok 17:35 | gps zoekt sat=0 zicht=0 nmea=4263/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 59 teken 7.9ms stuur 7.1ms
+[00:06:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:07:00] status | klok 17:36 | gps zoekt sat=0 zicht=0 nmea=4987/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 58 teken 9.6ms stuur 8.8ms
+[00:08:00] status | klok 17:37 | gps zoekt sat=0 zicht=0 nmea=5711/0 | 0 km/u | tel nee | heap 71144 | licht 12 | fps 10 teken 9.7ms stuur 9.9ms | SLAAPT
+[00:08:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:09:00] status | klok 17:38 | gps zoekt sat=0 zicht=3 nmea=6435/0 | 0 km/u | tel nee | heap 71144 | licht 12 | fps 10 teken 9.6ms stuur 9.8ms | SLAAPT
+[00:09:08] geluid: hing vast, losgemaakt
+[00:00:01] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:01] geluid: ES8311 klaar, volume 16
+[00:00:02] ===== OPSTART v69 | reden: CRASH (panic) | heap 115512 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:04] groet: Vroeg vandaag, Ricardo! (vriend 98)
+[00:00:05] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:08] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:01:00] status | klok 17:40 | gps zoekt sat=0 zicht=0 nmea=736/0 | 0 km/u | tel nee | heap 66436 | licht 191 | fps 59 teken 11.0ms stuur 9.2ms
+--- Buddy+ v69 ---
+(0 sat)
+[00:02:58] GPS: FIX! 0 satellieten
+[00:02:59] GPS: fix kwijt (0 sat)
+[00:02:59] GPS: FIX! 0 satellieten
+[00:03:00] status | klok 17:14 | gps TEL sat=0 zicht=0 nmea=2186/0 | 0 km/u | tel data | heap 69244 | licht 191 | fps 37 teken 17.3ms stuur 14.6ms
+[00:03:00] GPS: fix kwijt (0 sat)
+[00:03:00] GPS: FIX! 0 satellieten
+[00:03:01] GPS: fix kwijt (0 sat)
+[00:04:00] status | klok 17:15 | gps zoekt sat=0 zicht=0 nmea=2910/0 | 0 km/u | tel data | heap 69244 | licht 191 | fps 49 teken 15.9ms stuur 13.8ms
+[00:04:09] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:04:33] geluid: niet klaar (i2s-fout)
+[00:05:00] status | klok 17:16 | gps zoekt sat=0 zicht=0 nmea=3634/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 10.8ms stuur 8.3ms
+[00:06:00] status | klok 17:17 | gps zoekt sat=0 zicht=0 nmea=4358/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 58 teken 10.8ms stuur 8.7ms
+[00:06:10] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:07:00] status | klok 17:18 | gps zoekt sat=0 zicht=0 nmea=5082/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 43 teken 18.7ms stuur 13.7ms
+[00:07:38] geluid: niet klaar (i2s-fout)
+[00:08:00] status | klok 17:19 | gps zoekt sat=0 zicht=0 nmea=5806/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 58 teken 10.3ms stuur 8.2ms
+[00:08:10] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:09:00] status | klok 17:20 | gps zoekt sat=0 zicht=1 nmea=6530/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 41 teken 19.7ms stuur 14.0ms
+[00:10:00] status | klok 17:21 | gps zoekt sat=0 zicht=0 nmea=7254/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 9.6ms stuur 7.8ms
+[00:10:10] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:11:00] status | klok 17:22 | gps zoekt sat=0 zicht=0 nmea=7978/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 10.3ms stuur 8.2ms
+[00:12:00] status | klok 17:23 | gps zoekt sat=0 zicht=1 nmea=8702/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 9.2ms stuur 7.4ms
+[00:12:11] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:13:00] status | klok 17:24 | gps zoekt sat=0 zicht=0 nmea=9426/0 | 0 km/u | tel stil | heap 69244 | licht 191 | fps 59 teken 9.8ms stuur 7.9ms
+[00:13:11] geluid: niet klaar (i2s-fout)
+[00:14:00] status | klok 17:25 | gps zoekt sat=0 zicht=1 nmea=10150/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 59 teken 7.7ms stuur 6.7ms
+[00:14:11] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:14:32] geluid: niet klaar (i2s-fout)
+[00:15:00] status | klok 17:26 | gps zoekt sat=0 zicht=0 nmea=10874/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 59 teken 9.8ms stuur 7.8ms
+[00:16:00] status | klok 17:27 | gps zoekt sat=0 zicht=0 nmea=11598/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 58 teken 10.8ms stuur 9.0ms
+[00:16:12] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:16:16] geluid: niet klaar (i2s-fout)
+[00:17:00] status | klok 17:28 | gps zoekt sat=0 zicht=0 nmea=12322/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 59 teken 10.4ms stuur 8.1ms
+[00:00:01] geluid: start, vrij DMA 248848 (grootste blok 188404)
+[00:00:02] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:02] geluid: ES8311 klaar, volume 55
+[00:00:03] ===== OPSTART v69 | reden: onbekend | heap 115512 =====
+[00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:06] groet: Vroeg vandaag, Ricardo! (vriend 97)
+[00:00:06] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:09] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:00:36] geluid test (scherm): klaar=1 volume=16 status=ok
+[00:01:00] status | klok 17:30 | gps zoekt sat=0 zicht=0 nmea=643/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 27 teken 32.4ms stuur 18.6ms
+[00:01:03] update: dit is de nieuwste (v69)
+[00:02:00] status | klok 17:31 | gps zoekt sat=0 zicht=0 nmea=1367/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 59 teken 8.3ms stuur 7.3ms
+[00:02:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:03:00] status | klok 17:32 | gps zoekt sat=0 zicht=0 nmea=2091/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 58 teken 9.5ms stuur 8.8ms
+[00:03:54] geluid: hing vast, losgemaakt
+[00:04:00] status | klok 17:33 | gps zoekt sat=0 zicht=0 nmea=2815/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 47 teken 16.2ms stuur 14.2ms
+[00:04:13] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:05:00] status | klok 17:34 | gps zoekt sat=0 zicht=0 nmea=3539/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 48 teken 15.7ms stuur 14.3ms
+[00:06:00] status | klok 17:35 | gps zoekt sat=0 zicht=0 nmea=4263/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 59 teken 7.9ms stuur 7.1ms
+[00:06:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:07:00] status | klok 17:36 | gps zoekt sat=0 zicht=0 nmea=4987/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 58 teken 9.6ms stuur 8.8ms
+[00:08:00] status | klok 17:37 | gps zoekt sat=0 zicht=0 nmea=5711/0 | 0 km/u | tel nee | heap 71144 | licht 12 | fps 10 teken 9.7ms stuur 9.9ms | SLAAPT
+[00:08:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:09:00] status | klok 17:38 | gps zoekt sat=0 zicht=3 nmea=6435/0 | 0 km/u | tel nee | heap 71144 | licht 12 | fps 10 teken 9.6ms stuur 9.8ms | SLAAPT
+[00:09:08] geluid: hing vast, losgemaakt
+[00:00:01] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:01] geluid: ES8311 klaar, volume 16
+[00:00:02] ===== OPSTART v69 | reden: CRASH (panic) | heap 115512 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:04] groet: Vroeg vandaag, Ricardo! (vriend 98)
+[00:00:05] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:08] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:01:00] status | klok 17:40 | gps zoekt sat=0 zicht=0 nmea=736/0 | 0 km/u | tel nee | heap 66436 | licht 191 | fps 59 teken 11.0ms stuur 9.2ms
+[00:01:03] update: dit is de nieuwste (v69)
+[00:02:00] status | klok 17:41 | gps zoekt sat=0 zicht=0 nmea=1460/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 48 teken 16.1ms stuur 14.2ms
+[00:02:10] groep: Henk : mijlpaal!
+[00:02:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:03:00] status | klok 17:42 | gps zoekt sat=0 zicht=2 nmea=2184/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 58 teken 10.7ms stuur 9.1ms
+[00:04:00] status | klok 17:43 | gps zoekt sat=0 zicht=0 nmea=2908/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 59 teken 7.6ms stuur 7.0ms
+[00:04:11] groep: Henk : mijlpaal!
+[00:04:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:05:00] status | klok 17:44 | gps zoekt sat=0 zicht=0 nmea=3632/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 55 teken 12.8ms stuur 11.7ms
+[00:05:04] geluid: hing vast, losgemaakt
+[00:00:01] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:01] geluid: ES8311 klaar, volume 16
+[00:00:02] ===== OPSTART v69 | reden: CRASH (panic) | heap 115512 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:04] groet: Vroeg vandaag, Ricardo! (vriend 98)
+[00:00:05] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:07] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:10] groep: Henk : mijlpaal!
+[00:00:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:01:00] status | klok 17:45 | gps zoekt sat=0 zicht=0 nmea=724/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 59 teken 11.1ms stuur 9.3ms
+--- Buddy+ v69 ---
+[00:01:03] update: dit is de nieuwste (v69)
+[00:02:00] status | klok 17:46 | gps zoekt sat=0 zicht=1 nmea=1448/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 58 teken 10.4ms stuur 8.7ms
+[00:02:11] groep: Henk : mijlpaal!
+[00:02:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:03:00] status | klok 17:47 | gps zoekt sat=0 zicht=0 nmea=2172/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 58 teken 10.5ms stuur 9.1ms
+[00:04:00] status | klok 17:48 | gps zoekt sat=0 zicht=0 nmea=2896/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.3ms stuur 9.7ms | SLAAPT
+[00:04:11] groep: Henk : mijlpaal!
+[00:04:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:05:00] status | klok 17:49 | gps zoekt sat=0 zicht=0 nmea=3620/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 10.2ms stuur 10.7ms | SLAAPT
+[00:06:00] status | klok 17:50 | gps zoekt sat=0 zicht=0 nmea=4337/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.9ms stuur 10.3ms | SLAAPT
+--- Buddy+ v69 ---
+at=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:14:32] geluid: niet klaar (i2s-fout)
+[00:15:00] status | klok 17:26 | gps zoekt sat=0 zicht=0 nmea=10874/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 59 teken 9.8ms stuur 7.8ms
+[00:16:00] status | klok 17:27 | gps zoekt sat=0 zicht=0 nmea=11598/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 58 teken 10.8ms stuur 9.0ms
+[00:16:12] net: ers.dev/scherm?lat=51.99591&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+[00:16:16] geluid: niet klaar (i2s-fout)
+[00:17:00] status | klok 17:28 | gps zoekt sat=0 zicht=0 nmea=12322/0 | 0 km/u | tel stil | heap 69184 | licht 191 | fps 59 teken 10.4ms stuur 8.1ms
+[00:00:01] geluid: start, vrij DMA 248848 (grootste blok 188404)
+[00:00:02] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:02] geluid: ES8311 klaar, volume 55
+[00:00:03] ===== OPSTART v69 | reden: onbekend | heap 115512 =====
+[00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:06] groet: Vroeg vandaag, Ricardo! (vriend 97)
+[00:00:06] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:09] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:00:36] geluid test (scherm): klaar=1 volume=16 status=ok
+[00:01:00] status | klok 17:30 | gps zoekt sat=0 zicht=0 nmea=643/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 27 teken 32.4ms stuur 18.6ms
+[00:01:03] update: dit is de nieuwste (v69)
+[00:02:00] status | klok 17:31 | gps zoekt sat=0 zicht=0 nmea=1367/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 59 teken 8.3ms stuur 7.3ms
+[00:02:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:03:00] status | klok 17:32 | gps zoekt sat=0 zicht=0 nmea=2091/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 58 teken 9.5ms stuur 8.8ms
+[00:03:54] geluid: hing vast, losgemaakt
+[00:04:00] status | klok 17:33 | gps zoekt sat=0 zicht=0 nmea=2815/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 47 teken 16.2ms stuur 14.2ms
+[00:04:13] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:05:00] status | klok 17:34 | gps zoekt sat=0 zicht=0 nmea=3539/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 48 teken 15.7ms stuur 14.3ms
+[00:06:00] status | klok 17:35 | gps zoekt sat=0 zicht=0 nmea=4263/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 59 teken 7.9ms stuur 7.1ms
+[00:06:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:07:00] status | klok 17:36 | gps zoekt sat=0 zicht=0 nmea=4987/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 58 teken 9.6ms stuur 8.8ms
+[00:08:00] status | klok 17:37 | gps zoekt sat=0 zicht=0 nmea=5711/0 | 0 km/u | tel nee | heap 71144 | licht 12 | fps 10 teken 9.7ms stuur 9.9ms | SLAAPT
+[00:08:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:09:00] status | klok 17:38 | gps zoekt sat=0 zicht=3 nmea=6435/0 | 0 km/u | tel nee | heap 71144 | licht 12 | fps 10 teken 9.6ms stuur 9.8ms | SLAAPT
+[00:09:08] geluid: hing vast, losgemaakt
+[00:00:01] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:01] geluid: ES8311 klaar, volume 16
+[00:00:02] ===== OPSTART v69 | reden: CRASH (panic) | heap 115512 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:04] groet: Vroeg vandaag, Ricardo! (vriend 98)
+[00:00:05] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:08] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:01:00] status | klok 17:40 | gps zoekt sat=0 zicht=0 nmea=736/0 | 0 km/u | tel nee | heap 66436 | licht 191 | fps 59 teken 11.0ms stuur 9.2ms
+[00:01:03] update: dit is de nieuwste (v69)
+[00:02:00] status | klok 17:41 | gps zoekt sat=0 zicht=0 nmea=1460/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 48 teken 16.1ms stuur 14.2ms
+[00:02:10] groep: Henk : mijlpaal!
+[00:02:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:03:00] status | klok 17:42 | gps zoekt sat=0 zicht=2 nmea=2184/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 58 teken 10.7ms stuur 9.1ms
+[00:04:00] status | klok 17:43 | gps zoekt sat=0 zicht=0 nmea=2908/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 59 teken 7.6ms stuur 7.0ms
+[00:04:11] groep: Henk : mijlpaal!
+[00:04:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:05:00] status | klok 17:44 | gps zoekt sat=0 zicht=0 nmea=3632/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 55 teken 12.8ms stuur 11.7ms
+[00:05:04] geluid: hing vast, losgemaakt
+[00:00:01] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:01] geluid: ES8311 klaar, volume 16
+[00:00:02] ===== OPSTART v69 | reden: CRASH (panic) | heap 115512 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:04] groet: Vroeg vandaag, Ricardo! (vriend 98)
+[00:00:05] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:07] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:10] groep: Henk : mijlpaal!
+[00:00:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:01:00] status | klok 17:45 | gps zoekt sat=0 zicht=0 nmea=724/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 59 teken 11.1ms stuur 9.3ms
+[00:01:03] update: dit is de nieuwste (v69)
+[00:02:00] status | klok 17:46 | gps zoekt sat=0 zicht=1 nmea=1448/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 58 teken 10.4ms stuur 8.7ms
+[00:02:11] groep: Henk : mijlpaal!
+[00:02:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:03:00] status | klok 17:47 | gps zoekt sat=0 zicht=0 nmea=2172/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 58 teken 10.5ms stuur 9.1ms
+[00:04:00] status | klok 17:48 | gps zoekt sat=0 zicht=0 nmea=2896/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.3ms stuur 9.7ms | SLAAPT
+[00:04:11] groep: Henk : mijlpaal!
+[00:04:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:05:00] status | klok 17:49 | gps zoekt sat=0 zicht=0 nmea=3620/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 10.2ms stuur 10.7ms | SLAAPT
+[00:06:00] status | klok 17:50 | gps zoekt sat=0 zicht=0 nmea=4337/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.9ms stuur 10.3ms | SLAAPT
+[00:06:12] groep: Henk : mijlpaal!
+[00:06:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:07:00] status | klok 17:51 | gps zoekt sat=0 zicht=0 nmea=5068/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 10.1ms stuur 10.2ms | SLAAPT
+[00:08:00] status | klok 17:52 | gps zoekt sat=0 zicht=0 nmea=5793/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.6ms stuur 9.9ms | SLAAPT
+[00:08:11] groep: Henk : mijlpaal!
+[00:08:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:09:00] status | klok 17:53 | gps zoekt sat=0 zicht=1 nmea=6517/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.7ms stuur 9.8ms | SLAAPT
+[00:10:00] status | klok 17:54 | gps zoekt sat=0 zicht=2 nmea=7241/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.8ms stuur 10.1ms | SLAAPT
+[00:10:02] uit (diepe slaap): 10 minuten niets. Wakker bij beweging.
+[00:00:02] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:02] geluid: ES8311 klaar, volume 16
+[00:00:03] ===== OPSTART v69 | reden: uit diepe slaap | heap 115512 =====
+[00:00:03] wakker geworden door beweging (instappen?)
+[00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:05] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:05] groet: Vroeg vandaag, Ricardo! (vriend 98)
+[00:00:07] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:01:00] status | klok 17:56 | gps zoekt sat=0 zicht=0 nmea=800/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 50 teken 14.1ms stuur 13.2ms
+--- Buddy+ v69 ---
+0:00:01] geluid: start, vrij DMA 248848 (grootste blok 188404)
+[00:00:02] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:02] geluid: ES8311 klaar, volume 55
+[00:00:03] ===== OPSTART v69 | reden: onbekend | heap 115512 =====
+[00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:06] groet: Vroeg vandaag, Ricardo! (vriend 97)
+[00:00:06] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:09] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:00:36] geluid test (scherm): klaar=1 volume=16 status=ok
+[00:01:00] status | klok 17:30 | gps zoekt sat=0 zicht=0 nmea=643/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 27 teken 32.4ms stuur 18.6ms
+[00:01:03] update: dit is de nieuwste (v69)
+[00:02:00] status | klok 17:31 | gps zoekt sat=0 zicht=0 nmea=1367/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 59 teken 8.3ms stuur 7.3ms
+[00:02:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:03:00] status | klok 17:32 | gps zoekt sat=0 zicht=0 nmea=2091/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 58 teken 9.5ms stuur 8.8ms
+[00:03:54] geluid: hing vast, losgemaakt
+[00:04:00] status | klok 17:33 | gps zoekt sat=0 zicht=0 nmea=2815/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 47 teken 16.2ms stuur 14.2ms
+[00:04:13] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:05:00] status | klok 17:34 | gps zoekt sat=0 zicht=0 nmea=3539/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 48 teken 15.7ms stuur 14.3ms
+[00:06:00] status | klok 17:35 | gps zoekt sat=0 zicht=0 nmea=4263/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 59 teken 7.9ms stuur 7.1ms
+[00:06:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:07:00] status | klok 17:36 | gps zoekt sat=0 zicht=0 nmea=4987/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 58 teken 9.6ms stuur 8.8ms
+[00:08:00] status | klok 17:37 | gps zoekt sat=0 zicht=0 nmea=5711/0 | 0 km/u | tel nee | heap 71144 | licht 12 | fps 10 teken 9.7ms stuur 9.9ms | SLAAPT
+[00:08:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:09:00] status | klok 17:38 | gps zoekt sat=0 zicht=3 nmea=6435/0 | 0 km/u | tel nee | heap 71144 | licht 12 | fps 10 teken 9.6ms stuur 9.8ms | SLAAPT
+[00:09:08] geluid: hing vast, losgemaakt
+[00:00:01] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:01] geluid: ES8311 klaar, volume 16
+[00:00:02] ===== OPSTART v69 | reden: CRASH (panic) | heap 115512 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:04] groet: Vroeg vandaag, Ricardo! (vriend 98)
+[00:00:05] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:08] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:01:00] status | klok 17:40 | gps zoekt sat=0 zicht=0 nmea=736/0 | 0 km/u | tel nee | heap 66436 | licht 191 | fps 59 teken 11.0ms stuur 9.2ms
+[00:01:03] update: dit is de nieuwste (v69)
+[00:02:00] status | klok 17:41 | gps zoekt sat=0 zicht=0 nmea=1460/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 48 teken 16.1ms stuur 14.2ms
+[00:02:10] groep: Henk : mijlpaal!
+[00:02:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:03:00] status | klok 17:42 | gps zoekt sat=0 zicht=2 nmea=2184/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 58 teken 10.7ms stuur 9.1ms
+[00:04:00] status | klok 17:43 | gps zoekt sat=0 zicht=0 nmea=2908/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 59 teken 7.6ms stuur 7.0ms
+[00:04:11] groep: Henk : mijlpaal!
+[00:04:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:05:00] status | klok 17:44 | gps zoekt sat=0 zicht=0 nmea=3632/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 55 teken 12.8ms stuur 11.7ms
+[00:05:04] geluid: hing vast, losgemaakt
+[00:00:01] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:01] geluid: ES8311 klaar, volume 16
+[00:00:02] ===== OPSTART v69 | reden: CRASH (panic) | heap 115512 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:04] groet: Vroeg vandaag, Ricardo! (vriend 98)
+[00:00:05] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:07] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:10] groep: Henk : mijlpaal!
+[00:00:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:01:00] status | klok 17:45 | gps zoekt sat=0 zicht=0 nmea=724/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 59 teken 11.1ms stuur 9.3ms
+[00:01:03] update: dit is de nieuwste (v69)
+[00:02:00] status | klok 17:46 | gps zoekt sat=0 zicht=1 nmea=1448/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 58 teken 10.4ms stuur 8.7ms
+[00:02:11] groep: Henk : mijlpaal!
+[00:02:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:03:00] status | klok 17:47 | gps zoekt sat=0 zicht=0 nmea=2172/0 | 0 km/u | tel nee | heap 71164 | licht 191 | fps 58 teken 10.5ms stuur 9.1ms
+[00:04:00] status | klok 17:48 | gps zoekt sat=0 zicht=0 nmea=2896/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.3ms stuur 9.7ms | SLAAPT
+[00:04:11] groep: Henk : mijlpaal!
+[00:04:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:05:00] status | klok 17:49 | gps zoekt sat=0 zicht=0 nmea=3620/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 10.2ms stuur 10.7ms | SLAAPT
+[00:06:00] status | klok 17:50 | gps zoekt sat=0 zicht=0 nmea=4337/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.9ms stuur 10.3ms | SLAAPT
+[00:06:12] groep: Henk : mijlpaal!
+[00:06:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:07:00] status | klok 17:51 | gps zoekt sat=0 zicht=0 nmea=5068/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 10.1ms stuur 10.2ms | SLAAPT
+[00:08:00] status | klok 17:52 | gps zoekt sat=0 zicht=0 nmea=5793/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.6ms stuur 9.9ms | SLAAPT
+[00:08:11] groep: Henk : mijlpaal!
+[00:08:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:09:00] status | klok 17:53 | gps zoekt sat=0 zicht=1 nmea=6517/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.7ms stuur 9.8ms | SLAAPT
+[00:10:00] status | klok 17:54 | gps zoekt sat=0 zicht=2 nmea=7241/0 | 0 km/u | tel nee | heap 71164 | licht 12 | fps 10 teken 9.8ms stuur 10.1ms | SLAAPT
+[00:10:02] uit (diepe slaap): 10 minuten niets. Wakker bij beweging.
+[00:00:02] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:02] geluid: ES8311 klaar, volume 16
+[00:00:03] ===== OPSTART v69 | reden: uit diepe slaap | heap 115512 =====
+[00:00:03] wakker geworden door beweging (instappen?)
+[00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:05] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:05] groet: Vroeg vandaag, Ricardo! (vriend 98)
+[00:00:07] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:01:00] status | klok 17:56 | gps zoekt sat=0 zicht=0 nmea=800/0 | 0 km/u | tel nee | heap 71144 | licht 191 | fps 50 teken 14.1ms stuur 13.2ms
+[00:01:03] update: dit is de nieuwste (v69)
+[00:00:01] geluid: start, vrij DMA 258652 (grootste blok 212980)
+[00:00:01] geluid: ES8311 klaar, volume 16
+[00:00:02] ===== OPSTART v69 | reden: CRASH (panic) | heap 115500 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:04] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:04] groet: Vroeg vandaag, Ricardo! (vriend 98)
+[00:00:06] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:08] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:01:00] status | klok 17:57 | gps zoekt sat=0 zicht=2 nmea=736/0 | 0 km/u | tel nee | heap 71156 | licht 191 | fps 53 teken 12.8ms stuur 10.3ms
+--- Buddy+ v69 ---
+[00:01:02] update: dit is de nieuwste (v69)
+[00:02:00] status | klok 17:58 | gps zoekt sat=0 zicht=0 nmea=1448/0 | 0 km/u | tel nee | heap 71156 | licht 191 | fps 58 teken 10.5ms stuur 8.8ms
+[00:02:10] groep: Henk : mijlpaal!
+[00:02:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:02:48] BLE: telefoon verbonden
+[00:02:53] BLE: telefoon weg
+[00:02:56] BLE: telefoon verbonden
+[00:02:57] BLE: code goed, verbonden met de app
+[00:02:58] groep/worker ingesteld (Ricardo)
+[00:03:00] status | klok 17:59 | gps zoekt sat=0 zicht=0 nmea=2184/0 | 0 km/u | tel data | heap 70876 | licht 191 | fps 42 teken 16.7ms stuur 13.6ms
+[00:03:00] sprint-show 4
+[00:03:09] GPS: FIX! 0 satellieten
+[00:03:09] GPS-hulp gegeven: tijd ok, plek ok (51.9959, 4.7772)
+[00:03:09] sprint-show 1
+[00:03:09] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
+[00:03:09] tegel 1733_95: 876 wegvakken
+[00:03:10] GPS: fix kwijt (0 sat)
+[00:03:10] GPS: FIX! 0 satellieten
+[00:03:11] GPS: fix kwijt (0 sat)
+[00:03:11] GPS: FIX! 0 satellieten
+[00:03:12] GPS: fix kwijt (0 sat)
+[00:03:12] GPS: FIX! 0 satellieten
+[00:03:13] GPS: fix kwijt (0 sat)
+[00:03:13] GPS: FIX! 0 satellieten
+[00:03:14] GPS: fix kwijt (0 sat)
+[00:03:15] GPS: FIX! 0 satellieten
+[00:03:15] GPS: fix kwijt (0 sat)
+[00:03:16] GPS: FIX! 0 satellieten
+[00:03:16] GPS: fix kwijt (0 sat)
+[00:03:17] GPS: FIX! 0 satellieten
+[00:03:17] GPS: fix kwijt (0 sat)
+[00:03:18] GPS: FIX! 0 satellieten
+[00:03:18] GPS: fix kwijt (0 sat)
+[00:03:19] GPS: FIX! 0 satellieten
+[00:03:19] GPS: fix kwijt (0 sat)
+[00:03:20] GPS: FIX! 0 satellieten
+[00:03:20] GPS: fix kwijt (0 sat)
+[00:03:21] GPS: FIX! 0 satellieten
+[00:03:22] GPS: fix kwijt (0 sat)
+[00:03:22] GPS: FIX! 0 satellieten
+[00:03:23] GPS: fix kwijt (0 sat)
+[00:03:23] GPS: FIX! 0 satellieten
+[00:03:24] GPS: fix kwijt (0 sat)
+[00:03:24] GPS: FIX! 0 satellieten
+[00:03:25] GPS: fix kwijt (0 sat)
+[00:03:25] GPS: FIX! 0 satellieten
+[00:03:26] GPS: fix kwijt (0 sat)
+[00:03:26] GPS: FIX! 0 satellieten
+[00:03:27] GPS: fix kwijt (0 sat)
+[00:03:27] GPS: FIX! 0 satellieten
+[00:03:28] GPS: fix kwijt (0 sat)
+[00:03:28] GPS: FIX! 0 satellieten
+[00:03:29] GPS: fix kwijt (0 sat)
+[00:03:29] GPS: FIX! 0 satellieten
+[00:03:30] GPS: fix kwijt (0 sat)
+[00:03:30] GPS: FIX! 0 satellieten
+[00:03:30] sprint-show 2
+[00:03:31] GPS: fix kwijt (0 sat)
+[00:03:31] GPS: FIX! 0 satellieten
+[00:03:32] GPS: fix kwijt (0 sat)
+[00:03:32] GPS: FIX! 0 satellieten
+[00:03:33] GPS: fix kwijt (0 sat)
+[00:03:33] GPS: FIX! 0 satellieten
+[00:03:34] GPS: fix kwijt (0 sat)
+[00:03:34] GPS: FIX! 0 satellieten
+[00:03:35] GPS: fix kwijt (0 sat)
+[00:03:35] GPS: FIX! 0 satellieten
+[00:03:36] GPS: fix kwijt (0 sat)
+[00:03:37] GPS: FIX! 0 satellieten
+[00:03:37] GPS: fix kwijt (0 sat)
+[00:03:38] GPS: FIX! 0 satellieten
+[00:03:38] GPS: fix kwijt (0 sat)
+[00:03:39] sprint-show 3
+[00:03:39] GPS: FIX! 0 satellieten
+[00:03:40] GPS: fix kwijt (0 sat)
+[00:03:41] GPS: FIX! 0 satellieten
+[00:03:41] GPS: fix kwijt (0 sat)
+[00:03:42] GPS: FIX! 0 satellieten
+[00:03:42] GPS: fix kwijt (0 sat)
+[00:03:43] GPS: FIX! 0 satellieten
+[00:03:43] GPS: fix kwijt (0 sat)
+[00:03:44] GPS: FIX! 0 satellieten
+[00:03:44] GPS: fix kwijt (0 sat)
+[00:03:45] GPS: FIX! 0 satellieten
+[00:03:45] GPS: fix kwijt (0 sat)
+[00:03:46] GPS: FIX! 0 satellieten
+[00:03:47] GPS: fix kwijt (0 sat)
+[00:03:47] GPS: FIX! 0 satellieten
+[00:03:48] GPS: fix kwijt (0 sat)
+[00:03:48] sprint-show 5
+[00:03:48] GPS: FIX! 0 satellieten
+[00:03:49] GPS: fix kwijt (0 sat)
+[00:03:49] GPS: FIX! 0 satellieten
+[00:03:50] GPS: fix kwijt (0 sat)
+[00:03:50] GPS: FIX! 0 satellieten
+[00:03:51] GPS: fix kwijt (0 sat)
+[00:03:51] GPS: FIX! 0 satellieten
+[00:03:52] GPS: fix kwijt (0 sat)
+[00:03:52] GPS: FIX! 0 satellieten
+[00:03:53] GPS: fix kwijt (0 sat)
+[00:03:53] GPS: FIX! 0 satellieten
+[00:03:54] GPS: fix kwijt (0 sat)
+[00:03:54] GPS: FIX! 0 satellieten
+[00:03:55] GPS: fix kwijt (0 sat)
+[00:03:55] GPS: FIX! 0 satellieten
+[00:03:55] sprint-show 6
+[00:03:56] GPS: fix kwijt (0 sat)
+[00:03:56] GPS: FIX! 0 satellieten
+[00:03:57] GPS: fix kwijt (0 sat)
+[00:03:57] GPS: FIX! 0 satellieten
+[00:03:58] GPS: fix kwijt (0 sat)
+[00:03:58] GPS: FIX! 0 satellieten
+[00:03:59] GPS: fix kwijt (0 sat)
+[00:03:59] GPS: FIX! 0 satellieten
+[00:04:00] status | klok 18:00 | gps TEL sat=0 zicht=2 nmea=2904/0 | 0 km/u | tel data | heap 24024 | licht 191 | fps 27 teken 24.9ms stuur 20.0ms
+[00:04:00] GPS: fix kwijt (0 sat)
+[00:04:00] GPS: FIX! 0 satellieten
+[00:04:01] GPS: fix kwijt (0 sat)
+[00:04:01] GPS: FIX! 0 satellieten
+[00:04:02] weer: 9.8 graden, code 0, regen over -1 min (buienradar)
+[00:04:02] GPS: fix kwijt (0 sat)
+[00:04:03] GPS: FIX! 0 satellieten
+[00:04:03] GPS: fix kwijt (0 sat)
+[00:04:04] GPS: FIX! 0 satellieten
+[00:04:04] GPS: fix kwijt (0 sat)
+[00:04:05] GPS: FIX! 0 satellieten
+[00:04:05] GPS: fix kwijt (0 sat)
+[00:04:06] GPS: FIX! 0 satellieten
+[00:04:06] GPS: fix kwijt (0 sat)
+[00:04:07] GPS: FIX! 0 satellieten
+[00:04:07] GPS: fix kwijt (0 sat)
+[00:04:08] GPS: FIX! 0 satellieten
+[00:04:08] GPS: fix kwijt (0 sat)
+[00:04:09] GPS: FIX! 0 satellieten
+[00:04:10] GPS: fix kwijt (0 sat)
+[00:04:10] GPS: FIX! 0 satellieten
+[00:04:11] GPS: fix kwijt (0 sat)
+[00:04:11] GPS: FIX! 0 satellieten
+[00:04:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:04:12] GPS: fix kwijt (0 sat)
+[00:04:12] GPS: FIX! 0 satellieten
+[00:04:13] GPS: fix kwijt (0 sat)
+[00:04:13] GPS: FIX! 0 satellieten
+[00:04:14] GPS: fix kwijt (0 sat)
+[00:04:14] GPS: FIX! 0 satellieten
+[00:04:15] GPS: fix kwijt (0 sat)
+[00:04:15] GPS: FIX! 0 satellieten
+[00:04:16] GPS: fix kwijt (0 sat)
+[00:04:16] GPS: FIX! 0 satellieten
+[00:04:17] GPS: fix kwijt (0 sat)
+[00:04:17] GPS: FIX! 0 satellieten
+[00:04:18] GPS: fix kwijt (0 sat)
+[00:04:18] GPS: FIX! 0 satellieten
+[00:04:19] GPS: fix kwijt (0 sat)
+[00:04:19] GPS: FIX! 0 satellieten
+[00:04:20] GPS: fix kwijt (0 sat)
+[00:04:20] GPS: FIX! 0 satellieten
+[00:04:21] GPS: fix kwijt (0 sat)
+[00:04:21] GPS: FIX! 0 satellieten
+[00:04:22] GPS: fix kwijt (0 sat)
+[00:04:22] GPS: FIX! 0 satellieten
+[00:04:23] GPS: fix kwijt (0 sat)
+[00:04:23] GPS: FIX! 0 satellieten
+[00:04:24] GPS: fix kwijt (0 sat)
+[00:04:24] GPS: FIX! 0 satellieten
+[00:04:25] GPS: fix kwijt (0 sat)
+[00:04:25] GPS: FIX! 0 satellieten
+[00:04:26] GPS: fix kwijt (0 sat)
+[00:04:26] GPS: FIX! 0 satellieten
+[00:04:27] GPS: fix kwijt (0 sat)
+[00:04:27] GPS: FIX! 0 satellieten
+[00:04:28] GPS: fix kwijt (0 sat)
+[00:04:28] GPS: FIX! 0 satellieten
+[00:04:30] GPS: fix kwijt (0 sat)
+[00:04:32] GPS: FIX! 0 satellieten
+[00:04:32] GPS: fix kwijt (0 sat)
+[00:04:33] GPS: FIX! 0 satellieten
+[00:04:33] GPS: fix kwijt (0 sat)
+[00:04:34] GPS: FIX! 0 satellieten
+[00:04:34] GPS: fix kwijt (0 sat)
+[00:04:35] GPS: FIX! 0 satellieten
+[00:04:35] GPS: fix kwijt (0 sat)
+[00:04:36] GPS: FIX! 0 satellieten
+[00:04:36] GPS: fix kwijt (0 sat)
+[00:04:37] GPS: FIX! 0 satellieten
+[00:04:37] GPS: fix kwijt (0 sat)
+[00:04:38] GPS: FIX! 0 satellieten
+[00:04:38] GPS: fix kwijt (0 sat)
+[00:04:39] GPS: FIX! 0 satellieten
+[00:04:40] GPS: fix kwijt (0 sat)
+[00:04:40] GPS: FIX! 0 satellieten
+[00:04:41] GPS: fix kwijt (0 sat)
+[00:04:41] GPS: FIX! 0 satellieten
+[00:04:42] GPS: fix kwijt (0 sat)
+[00:04:42] GPS: FIX! 0 satellieten
+[00:04:43] GPS: fix kwijt (0 sat)
+[00:04:43] GPS: FIX! 0 satellieten
+[00:04:44] GPS: fix kwijt (0 sat)
+[00:04:44] GPS: FIX! 0 satellieten
+[00:04:45] GPS: fix kwijt (0 sat)
+[00:04:45] GPS: FIX! 0 satellieten
+[00:04:46] GPS: fix kwijt (0 sat)
+[00:04:46] GPS: FIX! 0 satellieten
+[00:04:47] GPS: fix kwijt (0 sat)
+[00:04:47] GPS: FIX! 0 satellieten
+[00:04:48] GPS: fix kwijt (0 sat)
+[00:04:48] GPS: FIX! 0 satellieten
+[00:04:49] GPS: fix kwijt (0 sat)
+[00:04:49] GPS: FIX! 0 satellieten
+[00:04:50] GPS: fix kwijt (0 sat)
+[00:04:50] GPS: FIX! 0 satellieten
+[00:04:51] GPS: fix kwi
+--- Buddy+ v69 ---
+jt (0 sat)
+[00:04:51] GPS: FIX! 0 satellieten
+[00:04:52] GPS: fix kwijt (0 sat)
+[00:04:52] GPS: FIX! 0 satellieten
+[00:04:52] GPS: fix kwijt (0 sat)
+[00:04:53] GPS: FIX! 0 satellieten
+[00:04:53] GPS: fix kwijt (0 sat)
+[00:04:54] GPS: FIX! 0 satellieten
+[00:04:54] GPS: fix kwijt (0 sat)
+[00:04:55] GPS: FIX! 0 satellieten
+[00:04:55] GPS: fix kwijt (0 sat)
+[00:04:56] GPS: FIX! 0 satellieten
+[00:04:56] GPS: fix kwijt (0 sat)
+[00:04:57] GPS: FIX! 0 satellieten
+[00:04:57] GPS: fix kwijt (0 sat)
+[00:04:58] GPS: FIX! 0 satellieten
+[00:04:58] GPS: fix kwijt (0 sat)
+[00:04:59] GPS: FIX! 0 satellieten
+[00:04:59] GPS: fix kwijt (0 sat)
+[00:05:00] status | klok 18:01 | gps zoekt sat=0 zicht=0 nmea=3640/0 | 0 km/u | tel data | heap 70360 | licht 191 | fps 35 teken 18.1ms stuur 15.1ms
+[00:05:00] GPS: FIX! 0 satellieten
+[00:05:00] GPS: fix kwijt (0 sat)
+[00:05:01] GPS: FIX! 0 satellieten
+[00:05:02] GPS: fix kwijt (0 sat)
+[00:05:02] GPS: FIX! 0 satellieten
+[00:05:03] GPS: fix kwijt (0 sat)
+[00:05:03] GPS: FIX! 0 satellieten
+[00:05:04] GPS: fix kwijt (0 sat)
+[00:05:04] GPS: FIX! 0 satellieten
+[00:05:05] GPS: fix kwijt (0 sat)
+[00:05:05] GPS: FIX! 0 satellieten
+[00:05:06] GPS: fix kwijt (0 sat)
+[00:05:06] GPS: FIX! 0 satellieten
+[00:05:07] GPS: fix kwijt (0 sat)
+[00:05:07] GPS: FIX! 0 satellieten
+[00:05:08] GPS: fix kwijt (0 sat)
+[00:05:08] GPS: FIX! 0 satellieten
+[00:05:09] GPS: fix kwijt (0 sat)
+[00:05:09] GPS: FIX! 0 satellieten
+[00:05:10] GPS: fix kwijt (0 sat)
+[00:05:10] GPS: FIX! 0 satellieten
+[00:05:11] GPS: fix kwijt (0 sat)
+[00:05:11] GPS: FIX! 0 satellieten
+[00:05:12] GPS: fix kwijt (0 sat)
+[00:05:12] GPS: FIX! 0 satellieten
+[00:05:13] GPS: fix kwijt (0 sat)
+[00:05:13] GPS: FIX! 0 satellieten
+[00:05:14] GPS: fix kwijt (0 sat)
+[00:05:14] GPS: FIX! 0 satellieten
+[00:05:15] GPS: fix kwijt (0 sat)
+[00:05:15] GPS: FIX! 0 satellieten
+[00:05:16] GPS: fix kwijt (0 sat)
+[00:05:16] GPS: FIX! 0 satellieten
+[00:05:17] GPS: fix kwijt (0 sat)
+[00:05:17] GPS: FIX! 0 satellieten
+[00:05:18] GPS: fix kwijt (0 sat)
+[00:05:19] GPS: FIX! 0 satellieten
+[00:05:19] GPS: fix kwijt (0 sat)
+[00:05:20] GPS: FIX! 0 satellieten
+[00:05:20] GPS: fix kwijt (0 sat)
+[00:05:21] GPS: FIX! 0 satellieten
+[00:05:21] GPS: fix kwijt (0 sat)
+[00:05:22] GPS: FIX! 0 satellieten
+[00:05:22] GPS: fix kwijt (0 sat)
+[00:05:23] GPS: FIX! 0 satellieten
+[00:05:23] GPS: fix kwijt (0 sat)
+[00:05:24] GPS: FIX! 0 satellieten
+[00:05:24] GPS: fix kwijt (0 sat)
+[00:05:25] GPS: FIX! 0 satellieten
+[00:05:25] GPS: fix kwijt (0 sat)
+[00:05:26] GPS: FIX! 0 satellieten
+[00:05:27] GPS: fix kwijt (0 sat)
+[00:05:27] GPS: FIX! 0 satellieten
+[00:05:27] GPS: fix kwijt (0 sat)
+[00:05:28] GPS: FIX! 0 satellieten
+[00:05:29] GPS: fix kwijt (0 sat)
+[00:05:29] GPS: FIX! 0 satellieten
+[00:05:30] GPS: fix kwijt (0 sat)
+[00:05:30] GPS: FIX! 0 satellieten
+[00:05:31] GPS: fix kwijt (0 sat)
+[00:05:31] GPS: FIX! 0 satellieten
+[00:05:32] GPS: fix kwijt (0 sat)
+[00:05:32] GPS: FIX! 0 satellieten
+[00:05:33] GPS: fix kwijt (0 sat)
+[00:05:33] GPS: FIX! 0 satellieten
+[00:05:34] GPS: fix kwijt (0 sat)
+[00:05:34] GPS: FIX! 0 satellieten
+[00:05:35] GPS: fix kwijt (0 sat)
+[00:05:35] GPS: FIX! 0 satellieten
+[00:05:36] GPS: fix kwijt (0 sat)
+[00:05:36] GPS: FIX! 0 satellieten
+[00:05:37] GPS: fix kwijt (0 sat)
+[00:05:37] GPS: FIX! 0 satellieten
+[00:05:38] GPS: fix kwijt (0 sat)
+[00:05:38] GPS: FIX! 0 satellieten
+[00:05:39] GPS: fix kwijt (0 sat)
+[00:05:39] GPS: FIX! 0 satellieten
+[00:05:40] GPS: fix kwijt (0 sat)
+[00:05:40] GPS: FIX! 0 satellieten
+[00:05:40] GPS: fix kwijt (0 sat)
+[00:05:41] GPS: FIX! 0 satellieten
+[00:05:41] GPS: fix kwijt (0 sat)
+[00:05:42] GPS: FIX! 0 satellieten
+[00:05:42] GPS: fix kwijt (0 sat)
+[00:05:43] GPS: FIX! 0 satellieten
+[00:05:43] GPS: fix kwijt (0 sat)
+[00:05:44] GPS: FIX! 0 satellieten
+[00:05:44] GPS: fix kwijt (0 sat)
+[00:05:45] GPS: FIX! 0 satellieten
+[00:05:45] GPS: fix kwijt (0 sat)
+[00:05:46] GPS: FIX! 0 satellieten
+[00:05:46] GPS: fix kwijt (0 sat)
+[00:05:47] GPS: FIX! 0 satellieten
+[00:05:47] GPS: fix kwijt (0 sat)
+[00:05:48] GPS: FIX! 0 satellieten
+[00:05:48] GPS: fix kwijt (0 sat)
+[00:05:49] GPS: FIX! 0 satellieten
+[00:05:50] GPS: fix kwijt (0 sat)
+[00:05:50] GPS: FIX! 0 satellieten
+[00:05:51] GPS: fix kwijt (0 sat)
+[00:05:51] GPS: FIX! 0 satellieten
+[00:05:52] GPS: fix kwijt (0 sat)
+[00:05:52] GPS: FIX! 0 satellieten
+[00:05:53] GPS: fix kwijt (0 sat)
+[00:05:53] GPS: FIX! 0 satellieten
+[00:05:54] GPS: fix kwijt (0 sat)
+[00:05:54] GPS: FIX! 0 satellieten
+[00:05:55] GPS: fix kwijt (0 sat)
+[00:05:55] GPS: FIX! 0 satellieten
+[00:05:56] GPS: fix kwijt (0 sat)
+[00:05:56] GPS: FIX! 0 satellieten
+[00:05:57] GPS: fix kwijt (0 sat)
+[00:05:57] GPS: FIX! 0 satellieten
+[00:05:58] GPS: fix kwijt (0 sat)
+[00:05:58] GPS: FIX! 0 satellieten
+[00:05:59] GPS: fix kwijt (0 sat)
+[00:05:59] GPS: FIX! 0 satellieten
+[00:06:00] status | klok 18:02 | gps TEL sat=0 zicht=0 nmea=4348/0 | 0 km/u | tel data | heap 70360 | licht 191 | fps 36 teken 18.1ms stuur 14.9ms
+[00:06:00] GPS: fix kwijt (0 sat)
+[00:06:00] GPS: FIX! 0 satellieten
+[00:06:01] GPS: fix kwijt (0 sat)
+[00:06:01] GPS: FIX! 0 satellieten
+[00:06:02] GPS: fix kwijt (0 sat)
+[00:06:02] GPS: FIX! 0 satellieten
+[00:06:03] GPS: fix kwijt (0 sat)
+[00:06:03] GPS: FIX! 0 satellieten
+[00:06:04] GPS: fix kwijt (0 sat)
+[00:06:04] GPS: FIX! 0 satellieten
+[00:06:05] GPS: fix kwijt (0 sat)
+[00:06:05] GPS: FIX! 0 satellieten
+[00:06:06] GPS: fix kwijt (0 sat)
+[00:06:06] GPS: FIX! 0 satellieten
+[00:06:07] GPS: fix kwijt (0 sat)
+[00:06:07] GPS: FIX! 0 satellieten
+[00:06:08] GPS: fix kwijt (0 sat)
+[00:06:08] GPS: FIX! 0 satellieten
+[00:06:09] GPS: fix kwijt (0 sat)
+[00:06:09] GPS: FIX! 0 satellieten
+[00:06:09] GPS: fix kwijt (0 sat)
+[00:06:10] GPS: FIX! 0 satellieten
+[00:06:10] GPS: fix kwijt (0 sat)
+[00:06:11] GPS: FIX! 0 satellieten
+[00:06:11] GPS: fix kwijt (0 sat)
+[00:06:12] GPS: FIX! 0 satellieten
+[00:06:12] GPS: fix kwijt (0 sat)
+[00:06:13] GPS: FIX! 0 satellieten
+[00:06:13] GPS: fix kwijt (0 sat)
+[00:06:14] GPS: FIX! 0 satellieten
+[00:06:14] GPS: fix kwijt (0 sat)
+[00:06:15] GPS: FIX! 0 satellieten
+[00:06:15] GPS: fix kwijt (0 sat)
+[00:06:16] GPS: FIX! 0 satellieten
+[00:06:16] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:06:17] GPS: fix kwijt (0 sat)
+[00:06:17] GPS: FIX! 0 satellieten
+[00:06:17] GPS: fix kwijt (0 sat)
+[00:06:18] GPS: FIX! 0 satellieten
+[00:06:18] GPS: fix kwijt (0 sat)
+[00:06:19] GPS: FIX! 0 satellieten
+[00:06:20] GPS: fix kwijt (0 sat)
+[00:06:20] GPS: FIX! 0 satellieten
+[00:06:21] GPS: fix kwijt (0 sat)
+[00:06:21] GPS: FIX! 0 satellieten
+[00:06:22] GPS: fix kwijt (0 sat)
+[00:06:22] GPS: FIX! 0 satellieten
+[00:06:23] GPS: fix kwijt (0 sat)
+[00:06:23] GPS: FIX! 0 satellieten
+[00:06:24] GPS: fix kwijt (0 sat)
+[00:06:24] GPS: FIX! 0 satellieten
+[00:06:25] GPS: fix kwijt (0 sat)
+[00:06:25] GPS: FIX! 0 satellieten
+[00:06:26] GPS: fix kwijt (0 sat)
+[00:06:26] GPS: FIX! 0 satellieten
+[00:06:27] GPS: fix kwijt (0 sat)
+[00:06:27] GPS: FIX! 0 satellieten
+[00:06:28] GPS: fix kwijt (0 sat)
+[00:06:28] GPS: FIX! 0 satellieten
+[00:06:29] GPS: fix kwijt (0 sat)
+[00:06:29] GPS: FIX! 0 satellieten
+[00:06:30] GPS: fix kwijt (0 sat)
+[00:06:30] GPS: FIX! 0 satellieten
+[00:06:31] GPS: fix kwijt (0 sat)
+[00:06:31] GPS: FIX! 0 satellieten
+[00:06:32] GPS: fix kwijt (0 sat)
+[00:06:32] GPS: FIX! 0 satellieten
+[00:06:33] GPS: fix kwijt (0 sat)
+[00:06:33] GPS: FIX! 0 satellieten
+[00:06:34] GPS: fix kwijt (0 sat)
+[00:06:34] GPS: FIX! 0 satellieten
+[00:06:35] GPS: fix kwijt (0 sat)
+[00:06:36] GPS: FIX! 0 satellieten
+[00:06:36] GPS: fix kwijt (0 sat)
+[00:06:37] GPS: FIX! 0 satellieten
+[00:06:37] GPS: fix kwijt (0 sat)
+[00:06:38] GPS: FIX! 0 satellieten
+[00:06:38] GPS: fix kwijt (0 sat)
+[00:06:39] GPS: FIX! 0 satellieten
+[00:06:39] GPS: fix kwijt (0 sat)
+[00:06:40] GPS: FI
+--- Buddy+ v69 ---
+X! 0 satellieten
+[00:06:40] GPS: fix kwijt (0 sat)
+[00:06:41] GPS: FIX! 0 satellieten
+[00:06:41] GPS: fix kwijt (0 sat)
+[00:06:42] GPS: FIX! 0 satellieten
+[00:06:43] GPS: fix kwijt (0 sat)
+[00:06:43] GPS: FIX! 0 satellieten
+[00:06:44] GPS: fix kwijt (0 sat)
+[00:06:44] GPS: FIX! 0 satellieten
+[00:06:45] GPS: fix kwijt (0 sat)
+[00:06:45] GPS: FIX! 0 satellieten
+[00:06:46] GPS: fix kwijt (0 sat)
+[00:06:46] GPS: FIX! 0 satellieten
+[00:06:47] GPS: fix kwijt (0 sat)
+[00:06:47] GPS: FIX! 0 satellieten
+[00:06:48] GPS: fix kwijt (0 sat)
+[00:06:48] GPS: FIX! 0 satellieten
+[00:06:49] GPS: fix kwijt (0 sat)
+[00:06:49] GPS: FIX! 0 satellieten
+[00:06:50] GPS: fix kwijt (0 sat)
+[00:06:50] GPS: FIX! 0 satellieten
+[00:06:51] GPS: fix kwijt (0 sat)
+[00:06:51] GPS: FIX! 0 satellieten
+[00:06:52] GPS: fix kwijt (0 sat)
+[00:06:52] GPS: FIX! 0 satellieten
+[00:06:53] GPS: fix kwijt (0 sat)
+[00:06:53] GPS: FIX! 0 satellieten
+[00:06:54] GPS: fix kwijt (0 sat)
+[00:06:54] GPS: FIX! 0 satellieten
+[00:06:55] GPS: fix kwijt (0 sat)
+[00:06:55] GPS: FIX! 0 satellieten
+[00:06:56] GPS: fix kwijt (0 sat)
+[00:06:56] GPS: FIX! 0 satellieten
+[00:06:57] GPS: fix kwijt (0 sat)
+[00:06:58] GPS: FIX! 0 satellieten
+[00:06:58] GPS: fix kwijt (0 sat)
+[00:06:59] GPS: FIX! 0 satellieten
+[00:06:59] GPS: fix kwijt (0 sat)
+[00:07:00] status | klok 18:03 | gps zoekt sat=0 zicht=0 nmea=5088/0 | 0 km/u | tel data | heap 70360 | licht 191 | fps 37 teken 19.0ms stuur 14.7ms
+[00:07:00] GPS: FIX! 0 satellieten
+[00:07:00] GPS: fix kwijt (0 sat)
+[00:07:01] GPS: FIX! 0 satellieten
+[00:07:01] GPS: fix kwijt (0 sat)
+[00:07:02] GPS: FIX! 0 satellieten
+[00:07:02] GPS: fix kwijt (0 sat)
+[00:07:03] GPS: FIX! 0 satellieten
+[00:07:03] GPS: fix kwijt (0 sat)
+[00:07:04] GPS: FIX! 0 satellieten
+[00:07:04] GPS: fix kwijt (0 sat)
+[00:07:05] GPS: FIX! 0 satellieten
+[00:07:06] GPS: fix kwijt (0 sat)
+[00:07:06] GPS: FIX! 0 satellieten
+[00:07:07] GPS: fix kwijt (0 sat)
+[00:07:07] GPS: FIX! 0 satellieten
+[00:07:08] GPS: fix kwijt (0 sat)
+[00:07:08] GPS: FIX! 0 satellieten
+[00:07:09] GPS: fix kwijt (0 sat)
+[00:07:09] GPS: FIX! 0 satellieten
+[00:07:10] GPS: fix kwijt (0 sat)
+[00:07:10] GPS: FIX! 0 satellieten
+[00:07:11] GPS: fix kwijt (0 sat)
+[00:07:11] GPS: FIX! 0 satellieten
+[00:07:12] GPS: fix kwijt (0 sat)
+[00:07:12] GPS: FIX! 0 satellieten
+[00:07:13] GPS: fix kwijt (0 sat)
+[00:07:13] GPS: FIX! 0 satellieten
+[00:07:14] GPS: fix kwijt (0 sat)
+[00:07:14] GPS: FIX! 0 satellieten
+[00:07:15] GPS: fix kwijt (0 sat)
+[00:07:15] GPS: FIX! 0 satellieten
+[00:07:16] GPS: fix kwijt (0 sat)
+[00:07:16] GPS: FIX! 0 satellieten
+[00:07:17] GPS: fix kwijt (0 sat)
+[00:07:17] GPS: FIX! 0 satellieten
+[00:07:18] GPS: fix kwijt (0 sat)
+[00:07:18] GPS: FIX! 0 satellieten
+[00:07:19] GPS: fix kwijt (0 sat)
+[00:07:19] GPS: FIX! 0 satellieten
+[00:07:20] GPS: fix kwijt (0 sat)
+[00:07:21] GPS: FIX! 0 satellieten
+[00:07:21] GPS: fix kwijt (0 sat)
+[00:07:22] GPS: FIX! 0 satellieten
+[00:07:22] GPS: fix kwijt (0 sat)
+[00:07:23] GPS: FIX! 0 satellieten
+[00:07:23] GPS: fix kwijt (0 sat)
+[00:07:24] GPS: FIX! 0 satellieten
+[00:07:24] GPS: fix kwijt (0 sat)
+[00:07:25] GPS: FIX! 0 satellieten
+[00:07:25] GPS: fix kwijt (0 sat)
+[00:07:26] GPS: FIX! 0 satellieten
+[00:07:26] GPS: fix kwijt (0 sat)
+[00:07:27] GPS: FIX! 0 satellieten
+[00:07:27] GPS: fix kwijt (0 sat)
+[00:07:28] GPS: FIX! 0 satellieten
+[00:07:29] GPS: fix kwijt (0 sat)
+[00:07:29] GPS: FIX! 0 satellieten
+[00:07:30] GPS: fix kwijt (0 sat)
+[00:07:30] GPS: FIX! 0 satellieten
+[00:07:31] GPS: fix kwijt (0 sat)
+[00:07:31] GPS: FIX! 0 satellieten
+[00:07:32] GPS: fix kwijt (0 sat)
+[00:07:32] GPS: FIX! 0 satellieten
+[00:07:33] GPS: fix kwijt (0 sat)
+[00:07:33] GPS: FIX! 0 satellieten
+[00:07:34] GPS: fix kwijt (0 sat)
+[00:07:34] GPS: FIX! 0 satellieten
+[00:07:35] GPS: fix kwijt (0 sat)
+[00:07:35] GPS: FIX! 0 satellieten
+[00:07:36] GPS: fix kwijt (0 sat)
+[00:07:36] GPS: FIX! 0 satellieten
+[00:07:37] GPS: fix kwijt (0 sat)
+[00:07:37] GPS: FIX! 0 satellieten
+[00:07:38] GPS: fix kwijt (0 sat)
+[00:07:38] GPS: FIX! 0 satellieten
+[00:07:39] GPS: fix kwijt (0 sat)
+[00:07:39] GPS: FIX! 0 satellieten
+[00:07:40] GPS: fix kwijt (0 sat)
+[00:07:40] GPS: FIX! 0 satellieten
+[00:07:41] GPS: fix kwijt (0 sat)
+[00:07:41] GPS: FIX! 0 satellieten
+[00:07:42] GPS: fix kwijt (0 sat)
+[00:07:42] GPS: FIX! 0 satellieten
+[00:07:43] GPS: fix kwijt (0 sat)
+[00:07:44] GPS: FIX! 0 satellieten
+[00:07:45] GPS: fix kwijt (0 sat)
+[00:07:48] GPS: FIX! 0 satellieten
+[00:07:48] GPS: fix kwijt (0 sat)
+[00:07:49] GPS: FIX! 0 satellieten
+[00:07:49] GPS: fix kwijt (0 sat)
+[00:07:50] GPS: FIX! 0 satellieten
+[00:07:50] GPS: fix kwijt (0 sat)
+[00:07:51] GPS: FIX! 0 satellieten
+[00:07:51] GPS: fix kwijt (0 sat)
+[00:07:52] GPS: FIX! 0 satellieten
+[00:07:52] GPS: fix kwijt (0 sat)
+[00:07:53] GPS: FIX! 0 satellieten
+[00:07:53] GPS: fix kwijt (0 sat)
+[00:07:54] GPS: FIX! 0 satellieten
+[00:07:54] GPS: fix kwijt (0 sat)
+[00:07:55] GPS: FIX! 0 satellieten
+[00:07:55] GPS: fix kwijt (0 sat)
+[00:07:56] GPS: FIX! 0 satellieten
+[00:07:57] GPS: fix kwijt (0 sat)
+[00:07:57] GPS: FIX! 0 satellieten
+[00:07:58] GPS: fix kwijt (0 sat)
+[00:07:58] GPS: FIX! 0 satellieten
+[00:07:59] GPS: fix kwijt (0 sat)
+[00:07:59] GPS: FIX! 0 satellieten
+[00:08:00] GPS: fix kwijt (0 sat)
+[00:08:00] status | klok 18:04 | gps zoekt sat=0 zicht=0 nmea=5812/0 | 0 km/u | tel data | heap 70360 | licht 191 | fps 44 teken 13.7ms stuur 13.0ms
+[00:08:00] GPS: FIX! 0 satellieten
+[00:08:01] GPS: fix kwijt (0 sat)
+[00:08:01] GPS: FIX! 0 satellieten
+[00:08:02] GPS: fix kwijt (0 sat)
+[00:08:02] GPS: FIX! 0 satellieten
+[00:08:03] GPS: fix kwijt (0 sat)
+[00:08:03] GPS: FIX! 0 satellieten
+[00:08:04] GPS: fix kwijt (0 sat)
+[00:08:04] GPS: FIX! 0 satellieten
+[00:08:05] GPS: fix kwijt (0 sat)
+[00:08:05] GPS: FIX! 0 satellieten
+[00:08:06] GPS: fix kwijt (0 sat)
+[00:08:06] GPS: FIX! 0 satellieten
+[00:08:07] GPS: fix kwijt (0 sat)
+[00:08:07] GPS: FIX! 0 satellieten
+[00:08:08] GPS: fix kwijt (0 sat)
+[00:08:08] GPS: FIX! 0 satellieten
+[00:08:09] GPS: fix kwijt (0 sat)
+[00:08:09] GPS: FIX! 0 satellieten
+[00:08:10] GPS: fix kwijt (0 sat)
+[00:08:10] GPS: FIX! 0 satellieten
+[00:08:11] GPS: fix kwijt (0 sat)
+[00:08:11] GPS: FIX! 0 satellieten
+[00:08:12] GPS: fix kwijt (0 sat)
+[00:08:12] GPS: FIX! 0 satellieten
+[00:08:12] GPS: fix kwijt (0 sat)
+[00:08:13] GPS: FIX! 0 satellieten
+[00:08:13] GPS: fix kwijt (0 sat)
+[00:08:14] GPS: FIX! 0 satellieten
+[00:08:14] GPS: fix kwijt (0 sat)
+[00:08:15] GPS: FIX! 0 satellieten
+[00:08:15] GPS: fix kwijt (0 sat)
+[00:08:16] GPS: FIX! 0 satellieten
+[00:08:16] GPS: fix kwijt (0 sat)
+[00:08:17] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:08:17] GPS: FIX! 0 satellieten
+[00:08:17] GPS: fix kwijt (0 sat)
+[00:08:18] GPS: FIX! 0 satellieten
+[00:08:18] GPS: fix kwijt (0 sat)
+[00:08:19] GPS: FIX! 0 satellieten
+[00:08:19] GPS: fix kwijt (0 sat)
+[00:08:20] GPS: FIX! 0 satellieten
+[00:08:20] GPS: fix kwijt (0 sat)
+[00:08:21] GPS: FIX! 0 satellieten
+[00:08:22] GPS: fix kwijt (0 sat)
+[00:08:22] GPS: FIX! 0 satellieten
+[00:08:23] GPS: fix kwijt (0 sat)
+[00:08:23] GPS: FIX! 0 satellieten
+[00:08:24] GPS: fix kwijt (0 sat)
+[00:08:24] GPS: FIX! 0 satellieten
+[00:08:25] GPS: fix kwijt (0 sat)
+[00:08:25] GPS: FIX! 0 satellieten
+[00:08:26] GPS: fix kwijt (0 sat)
+[00:08:26] GPS: FIX! 0 satellieten
+[00:08:27] GPS: fix kwijt (0 sat)
+[00:08:27] GPS: FIX! 0 satellieten
+[00:08:28] GPS: fix kwijt (0 sat)
+[00:08:28] GPS: FIX! 0 satellieten
+[00:08:29] GPS: fix kwijt (0 sat)
+[00:08:29] GPS: FIX! 0 satellieten
+[00:08:30] GPS: fix kwijt (0 sat)
+[00:08:30] GPS: FIX! 0 satellieten
+[00:08:31] GPS: fix kwijt (0 sat)
+[00:08:31] GPS: FIX! 0 satellieten
+[00:08:32] GPS: fix kwijt (0 sat)
+[00:08:32] GPS: FIX! 0 satellieten
+[00:08:33] GPS: fix kwijt (0 sat)
+[00:08:33] GPS: FIX! 0 satellieten
+[00:08:34]
