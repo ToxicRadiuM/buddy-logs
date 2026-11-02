@@ -1604,3 +1604,49 @@ X! 0 satellieten
 [00:00:51] sprint-show 3
 [00:00:52] sprint-show 4
 [00:01:00] status | klok 21:06 | gps zoekt sat=0 zicht=0 nmea=732/0 | 0 km/u | tel data | heap 61144 | licht 114 | fps 6 teken 156.5ms stuur 18.4ms
+--- Buddy+ v71 ---
+[00:01:02] update: dit is de nieuwste (v71)
+[00:02:00] status | klok 21:07 | gps zoekt sat=0 zicht=0 nmea=1452/0 | 0 km/u | tel data | heap 61144 | licht 114 | fps 56 teken 12.0ms stuur 12.4ms
+[00:02:08] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:03:00] status | klok 21:08 | gps zoekt sat=0 zicht=0 nmea=2172/0 | 0 km/u | tel data | heap 61144 | licht 114 | fps 57 teken 12.2ms stuur 12.6ms
+[00:04:00] status | klok 21:09 | gps zoekt sat=0 zicht=0 nmea=2892/0 | 0 km/u | tel data | heap 61144 | licht 114 | fps 56 teken 12.7ms stuur 13.2ms
+[00:04:08] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:05:00] status | klok 21:10 | gps zoekt sat=0 zicht=0 nmea=3612/0 | 0 km/u | tel data | heap 61144 | licht 114 | fps 57 teken 12.1ms stuur 12.5ms
+[00:06:00] status | klok 21:11 | gps zoekt sat=0 zicht=0 nmea=4332/0 | 0 km/u | tel data | heap 61144 | licht 114 | fps 56 teken 12.4ms stuur 12.8ms
+[00:06:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:07:00] status | klok 21:12 | gps zoekt sat=0 zicht=0 nmea=5052/0 | 0 km/u | tel data | heap 61144 | licht 114 | fps 55 teken 13.1ms stuur 13.6ms
+[00:08:00] status | klok 21:13 | gps zoekt sat=0 zicht=0 nmea=5772/0 | 0 km/u | tel data | heap 61144 | licht 114 | fps 58 teken 11.5ms stuur 11.9ms
+[00:08:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:09:00] status | klok 21:14 | gps zoekt sat=0 zicht=0 nmea=6492/0 | 0 km/u | tel data | heap 61144 | licht 114 | fps 55 teken 13.0ms stuur 13.4ms
+[00:10:00] status | klok 21:15 | gps zoekt sat=0 zicht=0 nmea=7212/0 | 0 km/u | tel data | heap 61144 | licht 114 | fps 55 teken 13.0ms stuur 13.5ms
+[00:10:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:11:00] status | klok 21:16 | gps zoekt sat=0 zicht=0 nmea=7932/0 | 0 km/u | tel data | heap 60996 | licht 114 | fps 56 teken 12.6ms stuur 13.0ms
+[00:12:00] status | klok 21:17 | gps zoekt sat=0 zicht=0 nmea=8652/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 59 teken 11.6ms stuur 9.3ms
+[00:12:11] groep: Henk : mijlpaal!
+[00:12:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:13:00] status | klok 21:18 | gps zoekt sat=0 zicht=0 nmea=9372/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 57 teken 10.5ms stuur 8.7ms
+[00:14:00] status | klok 21:19 | gps zoekt sat=0 zicht=0 nmea=10092/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 58 teken 11.5ms stuur 9.5ms
+[00:14:10] groep: Henk : mijlpaal!
+[00:14:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:15:00] status | klok 21:20 | gps zoekt sat=0 zicht=0 nmea=10802/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 56 teken 12.7ms stuur 11.3ms
+[00:16:00] status | klok 21:21 | gps zoekt sat=0 zicht=0 nmea=11532/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 54 teken 13.2ms stuur 11.7ms
+[00:16:10] groep: Henk : mijlpaal!
+[00:16:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:17:00] status | klok 21:22 | gps zoekt sat=0 zicht=0 nmea=12252/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 54 teken 13.1ms stuur 11.5ms
+[00:18:00] status | klok 21:23 | gps zoekt sat=0 zicht=0 nmea=12972/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 55 teken 12.8ms stuur 10.9ms
+[00:18:11] groep: Henk : mijlpaal!
+[00:18:13] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:19:00] status | klok 21:24 | gps zoekt sat=0 zicht=0 nmea=13692/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 55 teken 12.9ms stuur 11.5ms
+[00:20:00] status | klok 21:25 | gps zoekt sat=0 zicht=0 nmea=14412/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 48 teken 15.7ms stuur 13.9ms
+[00:20:13] groep: Henk : mijlpaal!
+[00:20:13] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:21:00] status | klok 21:26 | gps zoekt sat=0 zicht=0 nmea=15132/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 48 teken 15.6ms stuur 13.8ms
+[00:22:00] status | klok 21:27 | gps zoekt sat=0 zicht=0 nmea=15852/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 48 teken 15.7ms stuur 13.9ms
+[00:22:12] groep: Henk : mijlpaal!
+[00:22:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:23:00] status | klok 21:28 | gps zoekt sat=0 zicht=0 nmea=16572/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 41 teken 19.3ms stuur 14.1ms
+[00:24:00] status | klok 21:29 | gps zoekt sat=0 zicht=0 nmea=17292/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 58 teken 9.9ms stuur 8.2ms
+[00:24:13] groep: Henk : mijlpaal!
+[00:24:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:25:00] status | klok 21:30 | gps zoekt sat=0 zicht=0 nmea=18012/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 50 teken 14.4ms stuur 12.7ms
+[00:26:00] status | klok 21:31 | gps zoekt sat=0 zicht=0 nmea=18732/0 | 0 km/u | tel stil | heap 60996 | licht 114 | fps 59 teken 11.2ms stuur 9.1ms
