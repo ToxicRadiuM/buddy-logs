@@ -6113,3 +6113,12 @@
 --- v104 · Linux; Android 10; K ---
 18:36:07 scherm-aan-slot gekregen
 18:36:07 scherm-aan-slot gekregen
+--- v104 · Linux; Android 10; K ---
+19:23:35 start v104
+19:23:35 nachtstand aan
+19:23:36 groep ververst: 5
+19:23:36 GPS automatisch aan
+19:23:36 scherm-aan-slot gekregen
+19:23:38 voelen: sensor-teken gewoon
+19:23:39 bewegingssensor: granted
+19:23:41 voelen: geleerde richting van vorige keer meegedraaid
