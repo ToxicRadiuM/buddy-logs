@@ -1,20 +1,4 @@
-tro meter: optrekken 0 -> 77
-10:05:04 flitsers via /flitsers: 22/22
-10:05:04 retro meter: optrekken 0 -> 77
-10:05:04 retro meter: optrekken 0 -> 77
-10:05:04 retro meter: optrekken 0 -> 77
-10:05:04 retro meter: optrekken 0 -> 77
-10:05:04 retro meter: optrekken 0 -> 77
-10:05:04 retro meter: optrekken 0 -> 77
-10:05:04 retro meter: optrekken 0 -> 77
-10:05:04 retro meter: optrekken 0 -> 77
-10:05:04 retro meter: optrekken 0 -> 77
-10:05:04 retro meter: optrekken 0 -> 77
-10:05:04 retro meter: optrekken 0 -> 77
-10:05:04 retro meter: optrekken 0 -> 77
-10:05:04 retro meter: optrekken 0 -> 77
-10:05:04 retro meter: optrekken 0 -> 77
-10:05:05 retro meter: optrekken 0 -> 77
+05:05 retro meter: optrekken 0 -> 77
 10:05:05 retro meter: optrekken 0 -> 77
 10:05:05 retro meter: optrekken 0 -> 77
 10:05:05 retro meter: optrekken 0 -> 77
@@ -6285,3 +6269,20 @@ tro meter: optrekken 0 -> 77
 20:47:17 scherm geluid: i2s-fout/45/0
 20:47:17 scherm geluid: i2s-fout/45/0
 20:47:17 scherm geluid: i2s-fout/45/0
+--- v105 · Linux; Android 10; K ---
+20:48:46 scherm geluid: i2s-fout/45/0
+20:48:46 scherm geluid: i2s-fout/45/0
+20:48:46 scherm geluid: i2s-fout/45/0
+20:48:46 scherm geluid: i2s-fout/45/0
+20:48:46 scherm geluid: i2s-fout/45/0
+20:48:46 scherm geluid: i2s-fout/45/0
+20:48:46 scherm geluid: i2s-fout/45/0
+20:50:32 scherm geluid: i2s-fout/45/0
+20:50:32 scherm geluid: i2s-fout/45/0
+20:50:32 scherm geluid: i2s-fout/45/0
+20:50:32 scherm geluid: i2s-fout/45/0
+20:50:32 scherm geluid: i2s-fout/45/0
+20:50:32 scherm geluid: i2s-fout/45/0
+20:50:32 scherm geluid: i2s-fout/45/0
+20:51:31 GPS automatisch aan
+20:51:31 scherm-aan-slot gekregen
