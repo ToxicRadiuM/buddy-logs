@@ -514,3 +514,161 @@
 09:45:20 v=98 nauwk=10m limiet=100 wegen=1914 draai=1 vaste=97/12 gemeld=24 stemming=focused
 09:45:24 overpass overpass.kumi.systems: te traag
 09:45:24 FOUT flitsdata laden mislukt (overpass.kumi.systems: te traag) volgende poging over 30 s
+--- v101 · Linux; Android 10; K ---
+09:45:40 scherm geluid: ok/80/21
+09:45:40 scherm geluid: ok/80/21
+09:45:40 scherm geluid: ok/80/21
+09:45:40 scherm geluid: ok/80/21
+09:45:40 scherm geluid: ok/80/21
+09:45:40 scherm geluid: ok/80/21
+09:45:40 scherm geluid: ok/80/21
+09:46:10 scherm geluid: ok/80/21
+09:46:10 scherm geluid: ok/80/21
+09:46:10 scherm geluid: ok/80/21
+09:46:10 scherm geluid: ok/80/21
+09:46:10 scherm geluid: ok/80/21
+09:46:10 scherm geluid: ok/80/21
+09:46:10 scherm geluid: ok/80/21
+09:47:23 scherm-aan-slot gekregen
+09:47:23 scherm-aan-slot gekregen
+09:47:23 terug na 117 s zonder GPS
+09:47:23 limiet geschat uit je snelheid: 100
+09:47:23 v=101 nauwk=4m limiet=100~ wegen=0 draai=0 vaste=97/12 gemeld=24 stemming=neutral
+09:47:24 osm wegen via Worker (bewaard): 265 stuks
+09:47:24 wegen geladen: 265 wegen
+09:47:24 ANWB verkeer geladen: 22 meldingen in de buurt (van 57)
+09:47:24 rws tegel 1730_103 (internet): 304 wegvakken, versie 01-10-2026
+09:47:24 matrix geladen: 488 snelheid, 121 kruis
+09:47:24 flitsers via /flitsers: 22/22
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 scherm geluid: ok/80/21
+09:47:25 scherm geluid: ok/80/21
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 scherm geluid: ok/80/21
+09:47:25 scherm geluid: ok/80/21
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 scherm geluid: ok/80/21
+09:47:25 scherm geluid: ok/80/21
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 scherm geluid: ok/80/22
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:25 retro meter: optrekken 0 -> 101
+09:47:26 retro meter: optrekken 0 -> 101
+09:47:26 retro meter: optrekken 0 -> 101
+--- v101 · Linux; Android 10; K ---
+09:47:29 NDW geladen: 243 meldingen in de buurt {"lane":87,"speed":30,"accident":4,"closure":115,"jam":7}
+09:47:32 sprint-animatie: podium
+09:47:32 FOUT frame Cannot read properties of undefined (reading 'forEach')
+09:47:34 v=100 nauwk=4m limiet=100 wegen=569 draai=0 vaste=97/12 gemeld=22 stemming=focused
+09:47:38 scherm geluid: ok/80/22
+09:47:38 scherm geluid: ok/80/22
+09:47:38 scherm geluid: ok/80/22
+09:47:38 scherm geluid: ok/80/22
+09:47:38 scherm geluid: ok/80/22
+09:47:38 scherm geluid: ok/80/22
+09:47:38 scherm geluid: ok/80/22
+09:47:42 rws tegel 1729_103 (internet): 568 wegvakken, versie 01-10-2026
+09:47:45 v=104 nauwk=4m limiet=100 wegen=1137 draai=-1 vaste=97/12 gemeld=22 stemming=focused
+09:47:55 osm werk via Worker (oud): 400 stuks
+09:47:55 wegwerkzaamheden geladen: 400
+09:47:55 osm flits Worker: http 503, ik probeer Overpass rechtstreeks
+09:47:55 overpass overpass-api.de: http 502
+09:47:55 v=96 nauwk=4m limiet=100 wegen=1137 draai=-1 vaste=97/12 gemeld=22 stemming=happy
+--- v101 · Linux; Android 10; K ---
+09:48:01 overpass overpass.private.coffee: Failed to fetch
+09:48:08 overpass maps.mail.ru: Failed to fetch
+09:48:10 scherm geluid: ok/80/22
+09:48:10 scherm geluid: ok/80/22
+09:48:10 scherm geluid: ok/80/22
+09:48:10 scherm geluid: ok/80/22
+09:48:10 scherm geluid: ok/80/22
+09:48:10 scherm geluid: ok/80/22
+09:48:10 scherm geluid: ok/80/23
+09:48:14 scherm-aan-slot gekregen
+09:48:14 scherm-aan-slot gekregen
+09:48:14 terug na 19 s zonder GPS
+09:48:14 v=90 nauwk=4m limiet=100 wegen=1137 draai=0 vaste=97/12 gemeld=22 stemming=alert
+09:48:15 groep ververst: 5
+09:48:25 v=88 nauwk=4m limiet=100 wegen=1137 draai=-0 vaste=97/12 gemeld=22 stemming=relaxed
+09:48:31 overpass overpass.kumi.systems: te traag
+09:48:31 FOUT flitsdata laden mislukt (overpass.kumi.systems: te traag) volgende poging over 60 s
+09:48:36 osm wegen via Worker (bewaard): 426 stuks
+09:48:36 wegen geladen: 426 wegen
+09:48:36 rws tegel 1729_104 (internet): 525 wegvakken, versie 01-10-2026
+09:48:36 v=94 nauwk=4m limiet=100 wegen=2088 draai=0 vaste=97/12 gemeld=22 stemming=relaxed
+09:48:38 scherm geluid: ok/80/23
+09:48:38 scherm geluid: ok/80/23
+09:48:38 scherm geluid: ok/80/23
+09:48:38 scherm geluid: ok/80/23
+09:48:38 scherm geluid: ok/80/23
+09:48:38 scherm geluid: ok/80/23
+09:48:38 scherm geluid: ok/10/23
+09:48:47 v=96 nauwk=4m limiet=100 wegen=2088 draai=0 vaste=97/12 gemeld=22 stemming=happy
+09:48:57 v=91 nauwk=4m limiet=100 wegen=2088 draai=0 vaste=97/12 gemeld=22 stemming=relaxed
+--- v101 · Linux; Android 10; K ---
+09:49:10 scherm geluid: ok/10/23
+09:49:10 scherm geluid: ok/10/23
+09:49:10 scherm geluid: ok/10/23
+09:49:10 scherm geluid: ok/10/23
+09:49:10 scherm geluid: ok/10/23
+09:49:10 scherm geluid: ok/10/23
+09:49:10 scherm geluid: ok/10/23
+09:49:40 scherm geluid: ok/10/23
+09:49:40 scherm geluid: ok/10/23
+09:49:40 scherm geluid: ok/10/23
+09:49:40 scherm geluid: ok/10/23
+09:49:40 scherm geluid: ok/10/23
+09:49:40 scherm geluid: ok/10/23
+09:49:40 scherm geluid: ok/10/23
+09:50:30 scherm-aan-slot gekregen
+09:50:30 scherm-aan-slot gekregen
+09:50:30 terug na 85 s zonder GPS
+09:50:30 v=88 nauwk=4m limiet=100 wegen=1519 draai=0 vaste=97/12 gemeld=22 stemming=alert
+09:50:31 ANWB verkeer geladen: 21 meldingen in de buurt (van 58)
+09:50:31 flitsers via /flitsers: 24/24
+09:50:31 matrix geladen: 448 snelheid, 121 kruis
+09:50:32 rws tegel 1728_104 (internet): 269 wegvakken, versie 01-10-2026
+09:50:32 scherm geluid: ok/10/23
+09:50:32 scherm geluid: ok/10/23
+09:50:32 scherm geluid: ok/10/23
+09:50:32 scherm geluid: ok/10/23
+09:50:32 scherm geluid: ok/10/23
+09:50:32 scherm geluid: ok/10/23
+09:50:32 scherm geluid: ok/10/24
+--- v101 · Linux; Android 10; K ---
+09:50:38 scherm geluid: ok/10/24
+09:50:38 scherm geluid: ok/10/24
+09:50:38 scherm geluid: ok/10/24
+09:50:38 scherm geluid: ok/10/24
+09:50:38 scherm geluid: ok/10/24
+09:50:38 scherm geluid: ok/10/24
+09:50:38 scherm geluid: ok/10/24
+09:50:52 scherm-aan-slot gekregen
+09:50:53 scherm-aan-slot gekregen
+09:50:53 terug na 15 s zonder GPS
+09:50:53 v=85 nauwk=4m limiet=100 wegen=1788 draai=0 vaste=97/12 gemeld=24 stemming=alert
+09:50:53 bruggen geladen: 0
