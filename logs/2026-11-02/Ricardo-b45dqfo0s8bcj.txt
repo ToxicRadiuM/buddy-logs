@@ -1033,3 +1033,364 @@
 00:49:36 ANWB verkeer geladen: 32 meldingen in de buurt (van 65)
 00:49:37 flitsers via /flitsers: 16/16
 00:49:46 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+--- v101 · Linux; Android 10; K ---
+00:53:21 scherm-aan-slot gekregen
+00:53:21 scherm-aan-slot gekregen
+00:53:23 terug na 212 s zonder GPS
+00:53:23 v=0 nauwk=13m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
+00:53:23 groep ververst: 5
+00:53:23 ANWB verkeer geladen: 32 meldingen in de buurt (van 65)
+00:53:24 flitsers via /flitsers: 16/16
+00:53:29 Buddy-scherm verbonden
+00:53:29 scherm: meldingen aan
+00:53:29 scherm: koppeling in orde
+00:53:29 scherm geluid: i2s-fout/10/0
+00:53:29 scherm geluid: i2s-fout/10/0
+00:53:29 scherm geluid: i2s-fout/10/0
+00:53:29 scherm geluid: i2s-fout/10/0
+00:53:29 scherm geluid: i2s-fout/10/0
+00:53:29 scherm geluid: i2s-fout/10/0
+00:53:29 scherm geluid: ok/0/7
+00:53:30 ev clock: Het is 00:53.
+00:53:30 ev excited: Binnen!
+00:53:30 geklopt (2×)
+00:53:32 scherm geluid: ok/0/7
+00:53:32 scherm geluid: ok/0/7
+00:53:32 scherm geluid: ok/0/7
+00:53:32 scherm geluid: ok/0/7
+00:53:32 scherm geluid: ok/0/7
+00:53:32 scherm geluid: ok/0/7
+00:53:32 scherm geluid: ok/0/7
+00:53:33 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+00:53:34 bruggen geladen: 0
+00:53:42 scherm| (0 sat)
+00:53:42 scherm| [00:15:41] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:41] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:42] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:42] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:43] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:43] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:44] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:44] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:45] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:45] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:46] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:46] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:47] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:47] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:48] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:48] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:49] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:49] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:50] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:50] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:51] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:51] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:52] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:52] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:53] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:53] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:54] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:55] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:55] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:56] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:56] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:57] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:57] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:58] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:58] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:15:59] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:15:59] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:00] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:00] status | klok 00:44 | gps zoekt sat=0 zicht=0 nmea=11524/0 | 0 km/u | tel data | heap 30680 | licht 97 | fps 39 teken 15.7ms stuur 15.4ms
+00:53:42 scherm| [00:16:00] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:01] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:02] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:02] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:03] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:03] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:04] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:04] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:05] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:05] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:06] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:06] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:07] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:07] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:08] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:08] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:09] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:09] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:10] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:10] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:11] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:11] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:12] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:12] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:13] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:13] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:14] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:14] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:15] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:15] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:16] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:16] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:17] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:17] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:18] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:18] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:19] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:19] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:20] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:20] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:21] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:22] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:22] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:23] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:23] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:24] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:24] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:25] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:25] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:25] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:26] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:26] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:27] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:27] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:28] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:28] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:29] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:29] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:30] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:30] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:31] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:31] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:32] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:32] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:33] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:33] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:34] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:34] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:35] wifi ingesteld: Sultra
+00:53:42 scherm| [00:16:35] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:35] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:36] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:36] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:37] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:37] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:38] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:38] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:39] weer: 9.8 graden, code 3, regen over -1 min (buienradar)
+00:53:42 scherm| [00:16:39] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:39] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:40] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:40] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:41] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:41] update gevraagd vanuit de app
+00:53:42 scherm| [00:16:42] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:42] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:42] update: v59 -> v60 wordt binnengehaald
+00:53:42 scherm| [00:16:43] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:43] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:44] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:44] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:45] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:45] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:46] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:46] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:47] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:48] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:48] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:49] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:49] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:50] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:50] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:51] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:51] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:52] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:52] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:53] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:53] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:54] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:54] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:55] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:55] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:56] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:56] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:57] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:58] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:58] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:58] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:16:59] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:16:59] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:00] status | klok 00:45 | gps zoekt sat=0 zicht=0 nmea=12252/0 | 0 km/u | tel data | heap 24460 | licht 97 | fps 32 teken 20.3ms stuur 15.8ms
+00:53:42 scherm| [00:17:00] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:01] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:01] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:01] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:02] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:02] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:03] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:03] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:04] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:04] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:05] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:05] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:06] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:06] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:07] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:07] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:08] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:08] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:09] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:09] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:10] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:10] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:11] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:11] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:12] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:12] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:13] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:13] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:14] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:14] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:15] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:15] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:16] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:16] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:17] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:17] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:18] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:18] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:19] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:19] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:20] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:20] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:21] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:21] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:22] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:22] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:23] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:24] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:24] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:25] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:17:25] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:17:26] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:00:02] ===== OPSTART v60 | reden: herstart door software | heap 117300 =====
+00:53:42 scherm| [00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+00:53:42 scherm| [00:00:04] groet: Pfoe, vroeg, Ricardo... koffie? (vriend 66)
+00:53:42 scherm| [00:00:05] wifi verbonden (Sultra), IP 10.230.69.32
+00:53:42 scherm| [00:00:07] BLE: telefoon verbonden
+00:53:42 scherm| [00:00:07] BLE: telefoon weg
+00:53:42 scherm| [00:00:07] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+00:53:42 scherm| [00:00:15] BLE: telefoon verbonden
+00:53:42 scherm| [00:00:15] BLE: telefoon weg
+00:53:42 scherm| [00:00:23] BLE: telefoon verbonden
+00:53:42 scherm| [00:00:23] BLE: telefoon weg
+00:53:42 scherm| [00:00:31] BLE: telefoon verbonden
+00:53:42 scherm| [00:00:31] BLE: telefoon weg
+00:53:42 scherm| [00:00:37] BLE: telefoon verbonden
+00:53:42 scherm| [00:00:37] BLE: telefoon weg
+00:53:42 scherm| [00:00:45] BLE: telefoon verbonden
+00:53:42 scherm| [00:00:45] BLE: telefoon weg
+00:53:42 scherm| [00:00:53] BLE: telefoon verbonden
+00:53:42 scherm| [00:00:53] BLE: telefoon weg
+00:53:42 scherm| [00:01:00] status | klok 00:46 | gps zoekt sat=0 zicht=0 nmea=732/0 | 0 km/u | tel nee | heap 72548 | licht 97 | fps 53 teken 12.8ms stuur 10.7ms
+00:53:42 scherm| [00:01:01] update: dit is de nieuwste (v60)
+00:53:42 scherm| [00:01:02] BLE: telefoon verbonden
+00:53:42 scherm| [00:01:02] BLE: telefoon weg
+00:53:42 scherm| [00:01:10] BLE: telefoon verbonden
+00:53:42 scherm| [00:01:10] BLE: telefoon weg
+00:53:42 scherm| [00:01:18] BLE: telefoon verbonden
+00:53:42 scherm| [00:01:18] BLE: telefoon weg
+00:53:42 scherm| [00:01:26] BLE: telefoon verbonden
+00:53:42 scherm| [00:01:34] BLE: telefoon verbonden
+00:53:42 scherm| [00:01:34] BLE: telefoon weg
+00:53:42 scherm| [00:01:40] BLE: telefoon verbonden
+00:53:42 scherm| [00:01:40] BLE: telefoon weg
+00:53:42 scherm| [00:01:48] BLE: telefoon verbonden
+00:53:42 scherm| [00:01:48] BLE: telefoon weg
+00:53:42 scherm| [00:01:56] BLE: telefoon verbonden
+00:53:42 scherm| [00:01:56] BLE: telefoon weg
+00:53:42 scherm| [00:02:00] status | klok 00:47 | gps zoekt sat=0 zicht=0 nmea=1440/0 | 0 km/u | tel nee | heap 72548 | licht 97 | fps 58 teken 10.5ms stuur 8.6ms
+00:53:42 scherm| [00:02:04] BLE: telefoon verbonden
+00:53:42 scherm| [00:02:04] BLE: telefoon weg
+00:53:42 scherm| [00:02:13] BLE: telefoon verbonden
+00:53:42 scherm| [00:02:13] BLE: telefoon weg
+00:53:42 scherm| [00:02:21] BLE: telefoon verbonden
+00:53:42 scherm| [00:02:21] BLE: telefoon weg
+00:53:42 scherm| [00:02:29] BLE: telefoon verbonden
+00:53:42 scherm| [00:02:29] BLE: telefoon weg
+00:53:42 scherm| [00:02:37] BLE: telefoon verbonden
+00:53:42 scherm| [00:02:37] BLE: telefoon weg
+00:53:42 scherm| [00:02:43] geluid test (scherm): klaar=1 volume=8 status=ok
+00:53:42 scherm| [00:02:45] geluid test (scherm): klaar=1 volume=5 status=ok
+00:53:42 scherm| [00:02:46] BLE: telefoon verbonden
+00:53:42 scherm| [00:02:46] BLE: telefoon weg
+00:53:42 scherm| [00:02:54] BLE: telefoon verbonden
+00:53:42 scherm| [00:02:54] BLE: telefoon weg
+00:53:42 scherm| [00:03:00] status | klok 00:48 | gps zoekt sat=0 zicht=0 nmea=2172/0 | 0 km/u | tel nee | heap 72400 | licht 97 | fps 24 teken 34.9ms stuur 19.7ms
+00:53:42 scherm| [00:03:25] BLE: telefoon verbonden
+00:53:42 scherm| [00:03:25] BLE: telefoon weg
+00:53:42 scherm| [00:03:33] BLE: telefoon verbonden
+00:53:42 scherm| [00:03:33] BLE: telefoon weg
+00:53:42 scherm| [00:03:41] BLE: telefoon verbonden
+00:53:42 scherm| [00:03:41] BLE: telefoon weg
+00:53:42 scherm| [00:03:49] BLE: telefoon verbonden
+00:53:42 scherm| [00:03:49] BLE: telefoon weg
+00:53:42 scherm| [00:03:57] BLE: telefoon verbonden
+00:53:42 scherm| [00:03:57] BLE: telefoon weg
+00:53:42 scherm| [00:04:00] status | klok 00:49 | gps zoekt sat=0 zicht=0 nmea=2880/0 | 0 km/u | tel nee | heap 72400 | licht 97 | fps 38 teken 20.4ms stuur 13.0ms
+00:53:42 scherm| [00:04:05] BLE: telefoon verbonden
+00:53:42 scherm| [00:04:05] BLE: telefoon weg
+00:53:42 scherm| [00:04:14] BLE: telefoon verbonden
+00:53:42 scherm| [00:04:14] BLE: telefoon weg
+00:53:42 scherm| [00:04:23] BLE: telefoon verbonden
+00:53:42 scherm| [00:04:23] BLE: telefoon weg
+00:53:42 scherm| [00:04:31] BLE: telefoon verbonden
+00:53:42 scherm| [00:04:31] BLE: telefoon weg
+00:53:42 scherm| [00:04:40] BLE: telefoon verbonden
+00:53:42 scherm| [00:04:40] BLE: telefoon weg
+00:53:42 scherm| [00:04:48] BLE: telefoon verbonden
+00:53:42 scherm| [00:04:48] BLE: telefoon weg
+00:53:42 scherm| [00:04:56] BLE: telefoon verbonden
+00:53:42 scherm| [00:04:56] BLE: telefoon weg
+00:53:42 scherm| [00:05:00] status | klok 00:50 | gps zoekt sat=0 zicht=0 nmea=3612/0 | 0 km/u | tel nee | heap 72400 | licht 97 | fps 55 teken 11.4ms stuur 9.7ms
+00:53:42 scherm| [00:05:04] BLE: telefoon verbonden
+00:53:42 scherm| [00:05:04] BLE: telefoon weg
+00:53:42 scherm| [00:06:00] status | klok 00:51 | gps zoekt sat=0 zicht=0 nmea=4320/0 | 0 km/u | tel nee | heap 72400 | licht 97 | fps 58 teken 10.6ms stuur 8.9ms
+00:53:42 scherm| [00:07:00] status | klok 00:52 | gps zoekt sat=0 zicht=0 nmea=5052/0 | 0 km/u | tel nee | heap 72400 | licht 97 | fps 57 teken 10.2ms stuur 8.5ms
+00:53:42 scherm| [00:07:41] BLE: telefoon verbonden
+00:53:42 scherm| [00:07:42] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:07:42] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:07:43] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:07:44] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:07:44] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:07:44] GPS: fix kwijt (0 sat)
+00:53:42 scherm| [00:07:45] groep/worker ingesteld (Ricardo)
+00:53:42 scherm| [00:07:45] GPS: FIX! 0 satellieten
+00:53:42 scherm| [00:07:46] GPS: fix kwijt (0 sat)
+--- v101 · Linux; Android 10; K ---
+00:53:43 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=blow
+00:53:54 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+00:54:00 ev relaxed: Lekker liggen…
+00:54:02 scherm geluid: ok/0/7
+00:54:02 scherm geluid: ok/0/7
+00:54:02 scherm geluid: ok/0/7
+00:54:02 scherm geluid: ok/0/7
+00:54:02 scherm geluid: ok/0/7
+00:54:02 scherm geluid: ok/0/7
+00:54:02 scherm geluid: ok/0/7
+00:54:04 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=alert
+00:54:12 NDW geladen: 325 meldingen in de buurt {"speed":40,"lane":77,"closure":208}
+00:54:14 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=neutral
+00:54:25 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=excited
+00:54:32 scherm geluid: ok/0/7
+00:54:32 scherm geluid: ok/0/7
+00:54:32 scherm geluid: ok/0/7
+00:54:32 scherm geluid: ok/0/7
+00:54:32 scherm geluid: ok/0/7
+00:54:32 scherm geluid: ok/0/7
+00:54:32 scherm geluid: ok/5/11
+00:54:36 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=bored
+00:54:47 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=68/0 gemeld=16 stemming=happy
