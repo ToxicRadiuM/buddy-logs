@@ -1256,3 +1256,8 @@
 13:04:37 v=0 nauwk=6m limiet=30~ wegen=2466 draai=0 vaste=176/18 gemeld=20 stemming=neutral
 13:04:37 ev excited: Hoi! Zin om te rijden?
 13:04:37 geklopt (2×)
+--- v102 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+15:13:11 scherm-aan-slot gekregen
+15:13:11 scherm-aan-slot gekregen
+15:13:11 terug na 503 s zonder GPS
+15:13:11 v=0 nauwk=15m limiet=30~ wegen=2466 draai=0 vaste=176/18 gemeld=20 stemming=content
