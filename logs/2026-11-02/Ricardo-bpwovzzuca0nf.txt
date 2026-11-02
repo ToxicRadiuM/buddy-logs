@@ -4205,3 +4205,401 @@
 16:15:32 scherm geluid: i2s-fout/55/0
 16:15:32 v=101 nauwk=4m limiet=100 wegen=1293 draai=-0 vaste=117/12 gemeld=22 stemming=focused
 16:15:34 rws tegel 1733_101 (telefoon): 3098 wegvakken, versie 01-10-2026
+--- v103 · Linux; Android 10; K ---
+16:15:38 osm wegen Worker: http 503, ik probeer Overpass rechtstreeks
+16:15:39 overpass maps.mail.ru: http 504
+16:15:47 overpass overpass.private.coffee: Failed to fetch
+16:15:55 overpass overpass.kumi.systems: Failed to fetch
+16:16:03 scherm geluid: i2s-fout/55/0
+16:16:03 scherm geluid: i2s-fout/55/0
+16:16:03 scherm geluid: i2s-fout/55/0
+16:16:03 scherm geluid: i2s-fout/55/0
+16:16:03 scherm geluid: i2s-fout/55/0
+16:16:03 scherm geluid: i2s-fout/55/0
+16:16:03 scherm geluid: i2s-fout/55/0
+16:16:03 scherm-aan-slot gekregen
+16:16:03 scherm-aan-slot gekregen
+16:16:04 overpass overpass-api.de: te traag
+16:16:04 FOUT wegenlimiet laden mislukt (overpass-api.de: te traag) opnieuw over 8 s
+16:16:04 terug na 30 s zonder GPS
+16:16:04 v=101 nauwk=6m limiet=100 wegen=4391 draai=0 vaste=117/12 gemeld=22 stemming=alert
+16:16:14 v=100 nauwk=4m limiet=100 wegen=4391 draai=0 vaste=117/12 gemeld=22 stemming=focused
+16:16:25 v=101 nauwk=4m limiet=100 wegen=4391 draai=0 vaste=117/12 gemeld=22 stemming=happy
+16:16:32 scherm geluid: i2s-fout/55/0
+16:16:32 scherm geluid: i2s-fout/55/0
+16:16:32 scherm geluid: i2s-fout/55/0
+16:16:32 scherm geluid: i2s-fout/55/0
+16:16:32 scherm geluid: i2s-fout/55/0
+16:16:32 scherm geluid: i2s-fout/55/0
+16:16:32 scherm geluid: i2s-fout/55/0
+--- v103 · Linux; Android 10; K ---
+16:18:48 start v103
+16:18:48 groep ververst: 5
+16:18:49 GPS automatisch aan
+16:18:49 scherm-aan-slot gekregen
+16:18:49 voelen: geleerde richting van vorige keer overgenomen
+16:18:49 limiet geschat uit je snelheid: 30
+16:18:49 rws tegel 1734_101 (telefoon): 4487 wegvakken, versie 01-10-2026
+16:18:49 ANWB verkeer geladen: 40 meldingen in de buurt (van 87)
+16:18:49 flitsers via /flitsers: 22/22
+16:18:49 bruggen geladen: 0
+16:18:49 NDW geladen: 292 meldingen in de buurt {"closure":134,"lane":81,"speed":30,"jam":37,"accident":10}
+16:18:49 matrix-locaties geladen: 6442
+16:18:50 FOUT weer: http 503
+16:18:50 bewegingssensor: granted
+16:18:54 Buddy-scherm verbonden
+16:18:54 scherm: meldingen aan
+16:18:54 scherm: code goed, verbonden
+16:18:55 retro meter: optrekken 1 -> 15
+16:18:57 scherm geluid: i2s-fout/55/0
+16:18:57 scherm geluid: i2s-fout/55/0
+16:18:57 scherm geluid: i2s-fout/55/0
+16:18:57 scherm geluid: i2s-fout/55/0
+16:18:57 scherm geluid: i2s-fout/55/0
+16:18:57 scherm geluid: i2s-fout/55/0
+16:18:57 scherm geluid: i2s-fout/55/0
+16:18:57 scherm geluid: i2s-fout/55/0
+16:18:57 v=29 nauwk=4m limiet=100 wegen=7316 draai=0 vaste=117/12 gemeld=22 stemming=excited
+16:19:03 matrix geladen: 1117 snelheid, 99 kruis
+16:19:03 zon in je ogen (hoogte 6°)
+16:19:07 scherm| ] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:30:34] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:30:34] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:30:35] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:30:35] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:30:35] wifi verbonden (Sultra), IP 10.230.69.32
+16:19:07 scherm| [00:30:36] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:30:36] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:30:37] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:30:37] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:30:38] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:30:38] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:30:39] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:30:40] wifi ingesteld: Sultra
+16:19:07 scherm| [00:30:40] net: ToxicRadiuM/GeenIdee/snelheden/flitsers.json -> -1
+16:19:07 scherm| [00:30:40] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+16:19:07 scherm| [00:30:45] net: cast?latitude=51.859&longitude=5.227&current=temperature_2m,weather_code,precipitation&minutely_15=precipitation&forecast_minutely_15=4&timezone=auto -> -1
+16:19:07 scherm| [00:30:51] net: ers.dev/scherm?lat=51.85899&lon=5.22707&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:30:52] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:30:55] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:30:56] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:30:56] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:30:57] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:30:57] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:30:58] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:30:58] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:30:59] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:31:00] status | klok 15:54 | gps FIX sat=4 zicht=12 nmea=26127/0 | 9 km/u | tel data | heap 66688 | licht 242 | fps 40 teken 18.5ms stuur 15.4ms
+16:19:07 scherm| [00:31:07] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:31:14] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:31:21] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:31:26] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:31:32] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:32:00] status | klok 15:55 | gps FIX sat=6 zicht=7 nmea=26958/0 | 10 km/u | tel data | heap 22744 | licht 242 | fps 42 teken 19.4ms stuur 16.2ms
+16:19:07 scherm| [00:33:00] status | klok 15:56 | gps FIX sat=5 zicht=12 nmea=27833/0 | 5 km/u | tel data | heap 22744 | licht 242 | fps 43 teken 18.9ms stuur 15.9ms
+16:19:07 scherm| [00:33:33] net: ers.dev/scherm?lat=51.85963&lon=5.22629&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:33:38] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:33:44] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:33:49] net: ers.dev/scherm?lat=51.86265&lon=5.22389&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:33:54] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:34:00] status | klok 15:57 | gps FIX sat=6 zicht=13 nmea=28649/0 | 7 km/u | tel data | heap 66692 | licht 242 | fps 43 teken 18.7ms stuur 15.1ms
+16:19:07 scherm| [00:34:00] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:35:00] status | klok 15:58 | gps FIX sat=7 zicht=11 nmea=29512/0 | 13 km/u | tel data | heap 21940 | licht 242 | fps 42 teken 19.3ms stuur 16.1ms
+16:19:07 scherm| [00:35:33] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:36:00] status | klok 15:59 | gps zoekt sat=0 zicht=12 nmea=30355/0 | 0 km/u | tel stil | heap 21940 | licht 242 | fps 53 teken 14.4ms stuur 10.2ms
+16:19:07 scherm| [00:36:00] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:36:11] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+16:19:07 scherm| [00:36:17] net: ers.dev/scherm?lat=51.86457&lon=5.22190&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:36:19] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:36:19] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:36:20] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:36:36] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:36:39] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:36:39] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:36:40] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:36:40] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:36:41] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:36:41] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:36:42] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:36:42] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:36:43] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:36:43] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:36:44] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:36:44] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:36:45] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:36:48] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:36:51] GPS: FIX! 0 satellieten
+16:19:07 scherm| [00:36:58] GPS: fix kwijt (0 sat)
+16:19:07 scherm| [00:37:00] GPS: FIX! 5 satellieten
+16:19:07 scherm| [00:37:00] status | klok 16:00 | gps FIX sat=5 zicht=13 nmea=31214/0 | 0 km/u | tel data | heap 21920 | licht 242 | fps 40 teken 19.9ms stuur 16.1ms
+16:19:07 scherm| [00:38:00] status | klok 16:01 | gps FIX sat=8 zicht=11 nmea=32073/0 | 6 km/u | tel data | heap 21920 | licht 242 | fps 41 teken 19.8ms stuur 15.8ms
+16:19:07 scherm| [00:38:19] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:38:24] net: ers.dev/scherm?lat=51.86699&lon=5.22022&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:39:00] status | klok 16:02 | gps FIX sat=7 zicht=8 nmea=32905/0 | 2 km/u | tel data | heap 21856 | licht 242 | fps 45 teken 17.7ms stuur 14.6ms
+16:19:07 scherm| [00:39:27] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:39:34] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:39:39] net: ers.dev/scherm?lat=51.86753&lon=5.21967&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:39:44] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:39:50] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:39:55] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:40:00] status | klok 16:03 | gps FIX sat=7 zicht=12 nmea=33735/0 | 6 km/u | tel stil | heap 66576 | licht 242 | fps 44 teken 18.3ms stuur 15.0ms
+16:19:07 scherm| [00:40:01] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:40:06] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:40:12] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:40:17] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:40:24] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:40:39] net: ers.dev/scherm?lat=51.86834&lon=5.21905&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:40:44] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:41:00] status | klok 16:04 | gps FIX sat=7 zicht=12 nmea=34563/0 | 8 km/u | tel stil | heap 21856 | licht 242 | fps 47 teken 16.8ms stuur 14.7ms
+16:19:07 scherm| [00:42:00] status | klok 16:05 | gps FIX sat=8 zicht=12 nmea=35436/0 | 6 km/u | tel stil | heap 21856 | licht 242 | fps 47 teken 16.7ms stuur 14.7ms
+16:19:07 scherm| [00:42:07] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:42:12] net: ers.dev/scherm?lat=51.86948&lon=5.21801&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:42:17] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:42:28] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:19:07 scherm| [00:42:33] net: ToxicRadiuM/GeenIdee/snelheden/t/1729_104.json -> -1
+16:19:07 scherm| [00:43:00] status | klok 16:06 | gps FIX sat=6 zicht=12 nmea=36292/0 | 86 km/u | tel stil | heap 21852 | licht 242 | fps 41 teken 19.4ms stuur 15.7ms
+16:19:07 scherm| [00:43:02] geluid: niet klaar (i2s-fout)
+16:19:07 scherm| [00:44:00] status | klok 16:07 | gps FIX sat=8 zicht=12 nmea=37172/0 | 104 km/u | tel stil | heap 21852 | licht 242 | fps 46 teken 17.2ms stuur 14.7ms
+16:19:07 scherm| [00:44:34] net: ToxicRadiuM/GeenIdee/snelheden/t/1729_104.json -> -1
+16:19:07 scherm| [00:44:40] net: ers.dev/scherm?lat=51.89631&lon=5.19355&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:44:45] net: ToxicRadiuM/GeenIdee/snelheden/t/1729_103.json -> -1
+16:19:07 scherm| [00:44:51] net: ToxicRadiuM/GeenIdee/snelheden/t/1729_103.json -> -1
+16:19:07 scherm| [00:44:56] net: ToxicRadiuM/GeenIdee/snelheden/t/1729_103.json -> -1
+16:19:07 scherm| [00:45:00] status | klok 16:08 | gps FIX sat=8 zicht=13 nmea=38025/0 | 103 km/u | tel stil | heap 66576 | licht 242 | fps 46 teken 17.1ms stuur 14.0ms
+16:19:07 scherm| [00:45:02] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:45:07] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:45:13] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:45:18] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:45:24] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:45:30] net: ers.dev/scherm?lat=51.90736&lon=5.18350&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:45:35] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:45:41] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:45:46] net: cast?latitude=51.911&longitude=5.181&current=temperature_2m,weather_code,precipitation&minutely_15=precipitation&forecast_minutely_15=4&timezone=auto -> -1
+16:19:07 scherm| [00:45:51] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:45:57] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:46:00] status | klok 16:09 | gps FIX sat=8 zicht=12 nmea=38897/0 | 101 km/u | tel data | heap 66576 | licht 242 | fps 42 teken 19.4ms stuur 15.4ms
+16:19:07 scherm| [00:46:02] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:46:09] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:46:14] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:46:20] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:46:25] net: ers.dev/scherm?lat=51.91991&lon=5.17393&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:46:30] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:47:00] status | klok 16:10 | gps FIX sat=8 zicht=11 nmea=39738/0 | 100 km/u | tel stil | heap 21832 | licht 242 | fps 42 teken 19.2ms stuur 14.8ms
+16:19:07 scherm| [00:47:01] te hard: 101 bij 80
+16:19:07 scherm| [00:48:00] status | klok 16:11 | gps FIX sat=5 zicht=12 nmea=40575/0 | 101 km/u | tel data | heap 21832 | licht 242 | fps 41 teken 19.7ms stuur 16.2ms
+16:19:07 scherm| [00:48:34] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:19:07 scherm| [00:48:39] net: ers.dev/scherm?lat=51.94653&lon=5.13940&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:49:00] status | klok 16:12 | gps FIX sat=5 zicht=6 nmea=41367/0 | 102 km/u | tel data | heap 21848 | licht 242 | fps 40 teken 20.5ms stuur 16.2ms
+16:19:07 scherm| [00:50:00] status | klok 16:13 | gps FIX sat=8 zicht=11 nmea=42196/0 | 103 km/u | tel data | heap 21848 | licht 242 | fps 41 teken 19.7ms stuur 16.2ms
+16:19:07 scherm| [00:50:42] net: ToxicRadiuM/GeenIdee/snelheden/t/1731_102.json -> -1
+16:19:07 scherm| [00:50:54] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_102.json -> -1
+16:19:07 scherm| [00:50:59] net: ers.dev/scherm?lat=51.97498&lon=5.10421&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:51:00] status | klok 16:14 | gps FIX sat=5 zicht=11 nmea=43023/0 | 99 km/u | tel stil | heap 66576 | licht 242 | fps 47 teken 17.0ms stuur 14.3ms
+16:19:07 scherm| [00:51:04] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_102.json -> -1
+16:19:07 scherm| [00:51:10] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_102.json -> -1
+16:19:07 scherm| [00:51:15] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_102.json -> -1
+16:19:07 scherm| [00:51:21] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_101.json -> -1
+16:19:07 scherm| [00:51:26] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_101.json -> -1
+16:19:07 scherm| [00:51:32] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_101.json -> -1
+16:19:07 scherm| [00:51:33] te hard: 101 bij 90
+16:19:07 scherm| [00:51:37] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_101.json -> -1
+16:19:07 scherm| [00:51:44] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_101.json -> -1
+16:19:07 scherm| [00:52:00] status | klok 16:15 | gps FIX sat=6 zicht=12 nmea=43870/0 | 98 km/u | tel data | heap 22620 | licht 242 | fps 42 teken 19.5ms stuur 16.1ms
+16:19:07 scherm| [00:53:00] status | klok 16:16 | gps FIX sat=9 zicht=11 nmea=44711/0 | 100 km/u | tel data | heap 22620 | licht 242 | fps 41 teken 19.7ms stuur 16.1ms
+16:19:07 scherm| [00:53:44] net: ers.dev/scherm?lat=51.98417&lon=5.09046&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:54:00] status | klok 16:17 | gps FIX sat=7 zicht=11 nmea=45551/0 | 98 km/u | tel stil | heap 21852 | licht 242 | fps 46 teken 17.3ms stuur 14.8ms
+16:19:07 scherm| [00:54:07] wifi ingesteld: Sultra
+16:19:07 scherm| [00:54:44] net: ToxicRadiuM/GeenIdee/snelheden/t/1733_101.json -> -1
+16:19:07 scherm| [00:54:44] update gevraagd vanuit de app
+16:19:07 scherm| [00:54:49] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+16:19:07 scherm| [00:54:55] net: ToxicRadiuM/GeenIdee/snelheden/t/1734_101.json -> -1
+16:19:07 scherm| [00:55:00] status | klok 16:18 | gps FIX sat=9 zicht=12 nmea=46391/0 | 19 km/u | tel data | heap 91088 | licht 242 | fps 43 teken 19.0ms stuur 14.1ms
+16:19:07 scherm| [00:55:02] net: ers.dev/scherm?lat=52.02600&lon=5.06657&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:19:07 scherm| [00:55:09] net: ToxicRadiuM/GeenIdee/snelheden/t/1734_101.json -> -1
+16:19:07 scherm| [00:55:09] update gevraagd vanuit de app
+16:19:07 scherm| [00:55:11] BLE: telefoon weg
+16:19:07 scherm| [00:55:13] BLE: telefoon verbonden
+16:19:07 scherm| [00:55:13] BLE: code goed, verbonden met de app
+16:19:07 scherm| [00:55:14] groep/worker ingesteld (Ricardo)
+16:19:07 scherm| [00:55:16] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+16:19:07 v=50 nauwk=4m limiet=80 wegen=7316 draai=-0 vaste=117/12 gemeld=22 stemming=content
+--- v103 · Linux; Android 10; K ---
+16:19:12 wifi naar scherm gestuurd: Sultra
+16:19:18 v=68 nauwk=4m limiet=80 wegen=7316 draai=-0 vaste=117/12 gemeld=22 stemming=relaxed
+16:19:22 rws tegel 1733_101 (telefoon): 3098 wegvakken, versie 01-10-2026
+16:19:26 scherm geluid: i2s-fout/55/0
+16:19:26 scherm geluid: i2s-fout/55/0
+16:19:26 scherm geluid: i2s-fout/55/0
+16:19:26 scherm geluid: i2s-fout/55/0
+16:19:26 scherm geluid: i2s-fout/55/0
+16:19:26 scherm geluid: i2s-fout/55/0
+16:19:26 scherm geluid: i2s-fout/55/0
+16:19:29 v=71 nauwk=4m limiet=80 wegen=10414 draai=-5 vaste=117/12 gemeld=22 stemming=happy
+16:19:37 voelen: sensor-teken gewoon
+16:19:39 v=67 nauwk=4m limiet=80 wegen=10414 draai=-1 vaste=117/12 gemeld=22 stemming=relaxed
+16:19:44 voelen: ik weet nu waar vooruit is (61%)
+16:19:47 ev startled: Oef, stevig remmen!
+16:19:50 v=5 nauwk=4m limiet=80 wegen=10414 draai=-0 vaste=117/12 gemeld=22 stemming=neutral
+16:19:56 scherm geluid: i2s-fout/55/0
+16:19:56 scherm geluid: i2s-fout/55/0
+16:19:56 scherm geluid: i2s-fout/55/0
+16:19:56 scherm geluid: i2s-fout/55/0
+16:19:56 scherm geluid: i2s-fout/55/0
+16:19:56 scherm geluid: i2s-fout/55/0
+16:19:56 scherm geluid: i2s-fout/55/0
+16:20:01 v=0 nauwk=4m limiet=80 wegen=10414 draai=-0 vaste=117/12 gemeld=22 stemming=anticipate
+16:20:12 v=0 nauwk=4m limiet=80 wegen=10414 draai=-0 vaste=117/12 gemeld=22 stemming=focused
+16:20:15 scherm| st?latitude=51.859&longitude=5.227&current=temperature_2m,weather_code,precipitation&minutely_15=precipitation&forecast_minutely_15=4&timezone=auto -> -1
+16:20:15 scherm| [00:30:51] net: ers.dev/scherm?lat=51.85899&lon=5.22707&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:30:52] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:30:55] GPS: FIX! 0 satellieten
+16:20:15 scherm| [00:30:56] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:30:56] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:30:57] GPS: FIX! 0 satellieten
+16:20:15 scherm| [00:30:57] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:30:58] GPS: FIX! 0 satellieten
+16:20:15 scherm| [00:30:58] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:30:59] GPS: FIX! 0 satellieten
+16:20:15 scherm| [00:31:00] status | klok 15:54 | gps FIX sat=4 zicht=12 nmea=26127/0 | 9 km/u | tel data | heap 66688 | licht 242 | fps 40 teken 18.5ms stuur 15.4ms
+16:20:15 scherm| [00:31:07] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:31:14] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:31:21] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:31:26] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:31:32] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:32:00] status | klok 15:55 | gps FIX sat=6 zicht=7 nmea=26958/0 | 10 km/u | tel data | heap 22744 | licht 242 | fps 42 teken 19.4ms stuur 16.2ms
+16:20:15 scherm| [00:33:00] status | klok 15:56 | gps FIX sat=5 zicht=12 nmea=27833/0 | 5 km/u | tel data | heap 22744 | licht 242 | fps 43 teken 18.9ms stuur 15.9ms
+16:20:15 scherm| [00:33:33] net: ers.dev/scherm?lat=51.85963&lon=5.22629&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:33:38] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:33:44] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:33:49] net: ers.dev/scherm?lat=51.86265&lon=5.22389&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:33:54] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:34:00] status | klok 15:57 | gps FIX sat=6 zicht=13 nmea=28649/0 | 7 km/u | tel data | heap 66692 | licht 242 | fps 43 teken 18.7ms stuur 15.1ms
+16:20:15 scherm| [00:34:00] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:35:00] status | klok 15:58 | gps FIX sat=7 zicht=11 nmea=29512/0 | 13 km/u | tel data | heap 21940 | licht 242 | fps 42 teken 19.3ms stuur 16.1ms
+16:20:15 scherm| [00:35:33] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:36:00] status | klok 15:59 | gps zoekt sat=0 zicht=12 nmea=30355/0 | 0 km/u | tel stil | heap 21940 | licht 242 | fps 53 teken 14.4ms stuur 10.2ms
+16:20:15 scherm| [00:36:00] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:36:11] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+16:20:15 scherm| [00:36:17] net: ers.dev/scherm?lat=51.86457&lon=5.22190&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:36:19] GPS: FIX! 0 satellieten
+16:20:15 scherm| [00:36:19] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:36:20] GPS: FIX! 0 satellieten
+16:20:15 scherm| [00:36:36] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:36:39] GPS: FIX! 0 satellieten
+16:20:15 scherm| [00:36:39] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:36:40] GPS: FIX! 0 satellieten
+16:20:15 scherm| [00:36:40] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:36:41] GPS: FIX! 0 satellieten
+16:20:15 scherm| [00:36:41] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:36:42] GPS: FIX! 0 satellieten
+16:20:15 scherm| [00:36:42] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:36:43] GPS: FIX! 0 satellieten
+16:20:15 scherm| [00:36:43] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:36:44] GPS: FIX! 0 satellieten
+16:20:15 scherm| [00:36:44] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:36:45] GPS: FIX! 0 satellieten
+16:20:15 scherm| [00:36:48] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:36:51] GPS: FIX! 0 satellieten
+16:20:15 scherm| [00:36:58] GPS: fix kwijt (0 sat)
+16:20:15 scherm| [00:37:00] GPS: FIX! 5 satellieten
+16:20:15 scherm| [00:37:00] status | klok 16:00 | gps FIX sat=5 zicht=13 nmea=31214/0 | 0 km/u | tel data | heap 21920 | licht 242 | fps 40 teken 19.9ms stuur 16.1ms
+16:20:15 scherm| [00:38:00] status | klok 16:01 | gps FIX sat=8 zicht=11 nmea=32073/0 | 6 km/u | tel data | heap 21920 | licht 242 | fps 41 teken 19.8ms stuur 15.8ms
+16:20:15 scherm| [00:38:19] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:38:24] net: ers.dev/scherm?lat=51.86699&lon=5.22022&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:39:00] status | klok 16:02 | gps FIX sat=7 zicht=8 nmea=32905/0 | 2 km/u | tel data | heap 21856 | licht 242 | fps 45 teken 17.7ms stuur 14.6ms
+16:20:15 scherm| [00:39:27] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:39:34] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:39:39] net: ers.dev/scherm?lat=51.86753&lon=5.21967&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:39:44] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:39:50] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:39:55] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:40:00] status | klok 16:03 | gps FIX sat=7 zicht=12 nmea=33735/0 | 6 km/u | tel stil | heap 66576 | licht 242 | fps 44 teken 18.3ms stuur 15.0ms
+16:20:15 scherm| [00:40:01] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:40:06] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:40:12] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:40:17] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:40:24] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:40:39] net: ers.dev/scherm?lat=51.86834&lon=5.21905&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:40:44] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:41:00] status | klok 16:04 | gps FIX sat=7 zicht=12 nmea=34563/0 | 8 km/u | tel stil | heap 21856 | licht 242 | fps 47 teken 16.8ms stuur 14.7ms
+16:20:15 scherm| [00:42:00] status | klok 16:05 | gps FIX sat=8 zicht=12 nmea=35436/0 | 6 km/u | tel stil | heap 21856 | licht 242 | fps 47 teken 16.7ms stuur 14.7ms
+16:20:15 scherm| [00:42:07] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:42:12] net: ers.dev/scherm?lat=51.86948&lon=5.21801&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:42:17] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:42:28] net: ToxicRadiuM/GeenIdee/snelheden/t/1728_104.json -> -1
+16:20:15 scherm| [00:42:33] net: ToxicRadiuM/GeenIdee/snelheden/t/1729_104.json -> -1
+16:20:15 scherm| [00:43:00] status | klok 16:06 | gps FIX sat=6 zicht=12 nmea=36292/0 | 86 km/u | tel stil | heap 21852 | licht 242 | fps 41 teken 19.4ms stuur 15.7ms
+16:20:15 scherm| [00:43:02] geluid: niet klaar (i2s-fout)
+16:20:15 scherm| [00:44:00] status | klok 16:07 | gps FIX sat=8 zicht=12 nmea=37172/0 | 104 km/u | tel stil | heap 21852 | licht 242 | fps 46 teken 17.2ms stuur 14.7ms
+16:20:15 scherm| [00:44:34] net: ToxicRadiuM/GeenIdee/snelheden/t/1729_104.json -> -1
+16:20:15 scherm| [00:44:40] net: ers.dev/scherm?lat=51.89631&lon=5.19355&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:44:45] net: ToxicRadiuM/GeenIdee/snelheden/t/1729_103.json -> -1
+16:20:15 scherm| [00:44:51] net: ToxicRadiuM/GeenIdee/snelheden/t/1729_103.json -> -1
+16:20:15 scherm| [00:44:56] net: ToxicRadiuM/GeenIdee/snelheden/t/1729_103.json -> -1
+16:20:15 scherm| [00:45:00] status | klok 16:08 | gps FIX sat=8 zicht=13 nmea=38025/0 | 103 km/u | tel stil | heap 66576 | licht 242 | fps 46 teken 17.1ms stuur 14.0ms
+16:20:15 scherm| [00:45:02] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:45:07] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:45:13] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:45:18] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:45:24] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:45:30] net: ers.dev/scherm?lat=51.90736&lon=5.18350&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:45:35] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:45:41] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:45:46] net: cast?latitude=51.911&longitude=5.181&current=temperature_2m,weather_code,precipitation&minutely_15=precipitation&forecast_minutely_15=4&timezone=auto -> -1
+16:20:15 scherm| [00:45:51] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:45:57] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:46:00] status | klok 16:09 | gps FIX sat=8 zicht=12 nmea=38897/0 | 101 km/u | tel data | heap 66576 | licht 242 | fps 42 teken 19.4ms stuur 15.4ms
+16:20:15 scherm| [00:46:02] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:46:09] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:46:14] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:46:20] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:46:25] net: ers.dev/scherm?lat=51.91991&lon=5.17393&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:46:30] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:47:00] status | klok 16:10 | gps FIX sat=8 zicht=11 nmea=39738/0 | 100 km/u | tel stil | heap 21832 | licht 242 | fps 42 teken 19.2ms stuur 14.8ms
+16:20:15 scherm| [00:47:01] te hard: 101 bij 80
+16:20:15 scherm| [00:48:00] status | klok 16:11 | gps FIX sat=5 zicht=12 nmea=40575/0 | 101 km/u | tel data | heap 21832 | licht 242 | fps 41 teken 19.7ms stuur 16.2ms
+16:20:15 scherm| [00:48:34] net: ToxicRadiuM/GeenIdee/snelheden/t/1730_103.json -> -1
+16:20:15 scherm| [00:48:39] net: ers.dev/scherm?lat=51.94653&lon=5.13940&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:49:00] status | klok 16:12 | gps FIX sat=5 zicht=6 nmea=41367/0 | 102 km/u | tel data | heap 21848 | licht 242 | fps 40 teken 20.5ms stuur 16.2ms
+16:20:15 scherm| [00:50:00] status | klok 16:13 | gps FIX sat=8 zicht=11 nmea=42196/0 | 103 km/u | tel data | heap 21848 | licht 242 | fps 41 teken 19.7ms stuur 16.2ms
+16:20:15 scherm| [00:50:42] net: ToxicRadiuM/GeenIdee/snelheden/t/1731_102.json -> -1
+16:20:15 scherm| [00:50:54] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_102.json -> -1
+16:20:15 scherm| [00:50:59] net: ers.dev/scherm?lat=51.97498&lon=5.10421&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:51:00] status | klok 16:14 | gps FIX sat=5 zicht=11 nmea=43023/0 | 99 km/u | tel stil | heap 66576 | licht 242 | fps 47 teken 17.0ms stuur 14.3ms
+16:20:15 scherm| [00:51:04] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_102.json -> -1
+16:20:15 scherm| [00:51:10] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_102.json -> -1
+16:20:15 scherm| [00:51:15] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_102.json -> -1
+16:20:15 scherm| [00:51:21] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_101.json -> -1
+16:20:15 scherm| [00:51:26] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_101.json -> -1
+16:20:15 scherm| [00:51:32] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_101.json -> -1
+16:20:15 scherm| [00:51:33] te hard: 101 bij 90
+16:20:15 scherm| [00:51:37] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_101.json -> -1
+16:20:15 scherm| [00:51:44] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_101.json -> -1
+16:20:15 scherm| [00:52:00] status | klok 16:15 | gps FIX sat=6 zicht=12 nmea=43870/0 | 98 km/u | tel data | heap 22620 | licht 242 | fps 42 teken 19.5ms stuur 16.1ms
+16:20:15 scherm| [00:53:00] status | klok 16:16 | gps FIX sat=9 zicht=11 nmea=44711/0 | 100 km/u | tel data | heap 22620 | licht 242 | fps 41 teken 19.7ms stuur 16.1ms
+16:20:15 scherm| [00:53:44] net: ers.dev/scherm?lat=51.98417&lon=5.09046&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:54:00] status | klok 16:17 | gps FIX sat=7 zicht=11 nmea=45551/0 | 98 km/u | tel stil | heap 21852 | licht 242 | fps 46 teken 17.3ms stuur 14.8ms
+16:20:15 scherm| [00:54:07] wifi ingesteld: Sultra
+16:20:15 scherm| [00:54:44] net: ToxicRadiuM/GeenIdee/snelheden/t/1733_101.json -> -1
+16:20:15 scherm| [00:54:44] update gevraagd vanuit de app
+16:20:15 scherm| [00:54:49] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+16:20:15 scherm| [00:54:55] net: ToxicRadiuM/GeenIdee/snelheden/t/1734_101.json -> -1
+16:20:15 scherm| [00:55:00] status | klok 16:18 | gps FIX sat=9 zicht=12 nmea=46391/0 | 19 km/u | tel data | heap 91088 | licht 242 | fps 43 teken 19.0ms stuur 14.1ms
+16:20:15 scherm| [00:55:02] net: ers.dev/scherm?lat=52.02600&lon=5.06657&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
+16:20:15 scherm| [00:55:09] net: ToxicRadiuM/GeenIdee/snelheden/t/1734_101.json -> -1
+16:20:15 scherm| [00:55:09] update gevraagd vanuit de app
+16:20:15 scherm| [00:55:11] BLE: telefoon weg
+16:20:15 scherm| [00:55:13] BLE: telefoon verbonden
+16:20:15 scherm| [00:55:13] BLE: code goed, verbonden met de app
+16:20:15 scherm| [00:55:14] groep/worker ingesteld (Ricardo)
+16:20:15 scherm| [00:55:16] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+16:20:15 scherm| [00:55:18] geluid: niet klaar (i2s-fout)
+16:20:15 scherm| [00:55:18] retro meter: optrekken 11 -> 24
+16:20:15 scherm| [00:55:23] net: ToxicRadiuM/GeenIdee/snelheden/t/1734_101.json -> -1
+16:20:15 scherm| [00:55:26] net: ToxicRadiuM/GeenIdee/snelheden/t/1734_101.json -> -1
+16:20:15 scherm| [00:55:31] wifi ingesteld: Sultra
+16:20:15 scherm| [00:55:32] net: ToxicRadiuM/GeenIdee/snelheden/t/1734_101.json -> -1
+16:20:15 scherm| [00:55:39] net: ToxicRadiuM/GeenIdee/snelheden/t/1734_101.json -> -1
+16:20:15 scherm| [00:55:39] update gevraagd vanuit de app
+16:20:15 scherm| [00:55:46] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+16:20:15 scherm| [00:56:00] status | klok 16:19 | gps FIX sat=8 zicht=11 nmea=47218/0 | 73 km/u | tel data | heap 21512 | licht 242 | fps 28 teken 30.3ms stuur 20.5ms
