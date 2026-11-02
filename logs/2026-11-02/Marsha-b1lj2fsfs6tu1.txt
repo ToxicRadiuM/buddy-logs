@@ -16,3 +16,12 @@
 09:23:12 bewegingssensor: granted
 --- v101 · Linux; Android 10; K ---
 09:23:37 voelen: sensor-teken gewoon
+--- v103 · Linux; Android 10; K ---
+17:05:38 start v103
+17:05:38 nachtstand aan
+17:05:39 groep ververst: 5
+17:05:39 GPS automatisch aan
+17:05:39 scherm-aan-slot gekregen
+17:05:47 back-up (dag) 41 kB
+--- v103 · Linux; Android 10; K ---
+17:06:00 voelen: sensor-teken gewoon
