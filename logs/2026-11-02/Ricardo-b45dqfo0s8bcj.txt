@@ -1851,3 +1851,407 @@
 08:02:34 osm werk via Worker (bewaard): 400 stuks
 08:02:34 wegwerkzaamheden geladen: 398
 08:02:34 NDW geladen: 350 meldingen in de buurt {"closure":193,"speed":30,"lane":67,"accident":8,"jam":52}
+--- v101 · Linux; Android 10; K ---
+08:02:34 ANWB verkeer geladen: 55 meldingen in de buurt (van 149)
+08:02:34 flitsers via /flitsers: 14/14
+08:02:34 bruggen geladen: 9
+09:16:26 scherm-aan-slot gekregen
+--- v101 · Linux; Android 10; K ---
+09:16:26 scherm-aan-slot gekregen
+09:16:26 terug na 2729 s zonder GPS
+09:16:26 limiet geschat uit je snelheid: 50
+09:16:26 v=58 nauwk=10m limiet=50~ wegen=0 draai=0 vaste=68/0 gemeld=14 stemming=yawn
+09:16:26 osm laad via Worker (bewaard): 3 stuks
+09:16:26 laadpaal: niet gevonden in de buurt
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 ev happy: Goedemorgen Ricardo!
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 groep ververst: 5
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 ANWB verkeer geladen: 37 meldingen in de buurt (van 84)
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 weer: 10 graden, code 3, neerslag 0, wind 12
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 osm wegen via Worker (bewaard): 444 stuks
+09:16:27 wegen geladen: 444 wegen
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 bruggen geladen: 10
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 rws tegel 1734_97 (internet): 667 wegvakken, versie 01-10-2026
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 NDW geladen: 341 meldingen in de buurt {"closure":197,"lane":77,"speed":31,"accident":7,"jam":29}
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 buienradar: nu 0 mm/u, regen over -1 min
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 flitsers via /flitsers: 22/22
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:27 retro meter: optrekken 0 -> 58
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:28 retro meter: optrekken 0 -> 57
+09:16:33 sprint-animatie: ruimte
+09:16:37 v=48 nauwk=10m limiet=50 wegen=1111 draai=-6 vaste=68/0 gemeld=22 stemming=relaxed
+09:16:47 v=48 nauwk=4m limiet=50 wegen=1111 draai=5 vaste=68/0 gemeld=22 stemming=relaxed
+09:16:48 osm flits via Worker (bewaard): 213 stuks
+09:16:48 flitsdata geladen: 35 flitsers, 12 trajecten (totaal 90/12)
+09:16:54 drempel/schok sterkte 3.8 bij 46 km/h
+09:16:54 ev startled: Boing!
+09:16:58 v=41 nauwk=4m limiet=50 wegen=1111 draai=1 vaste=90/12 gemeld=22 stemming=relaxed
+09:17:05 osm werk via Worker (oud): 400 stuks
+09:17:05 wegwerkzaamheden geladen: 397
+09:17:09 rws tegel 1733_97 (internet): 416 wegvakken, versie 01-10-2026
+09:17:09 drempel/schok sterkte 9.8 bij 24 km/h
+09:17:09 ev worried: Au! Wat een gat.
+09:17:09 v=26 nauwk=4m limiet=50 wegen=1527 draai=14 vaste=90/12 gemeld=22 stemming=worried
+09:17:15 voelen: ik weet nu waar vooruit is (55%)
+09:17:19 v=45 nauwk=4m limiet=50 wegen=1527 draai=-1 vaste=90/12 gemeld=22 stemming=relaxed
+09:17:25 drempel/schok sterkte 4.0 bij 38 km/h
+09:17:30 v=45 nauwk=4m limiet=50 wegen=1527 draai=-8 vaste=90/12 gemeld=22 stemming=relaxed
+09:17:36 drempel/schok sterkte 14.0 bij 49 km/h
+09:17:36 ev worried: Au! Wat een gat.
+09:17:40 v=47 nauwk=4m limiet=50 wegen=1527 draai=6 vaste=90/12 gemeld=22 stemming=relaxed
+09:17:51 v=50 nauwk=10m limiet=50 wegen=1527 draai=-4 vaste=90/12 gemeld=22 stemming=focused
+09:18:02 v=49 nauwk=4m limiet=50 wegen=1527 draai=-2 vaste=90/12 gemeld=22 stemming=relaxed
+09:18:12 v=47 nauwk=4m limiet=50 wegen=1527 draai=-6 vaste=90/12 gemeld=22 stemming=alert
+09:18:23 drempel/schok sterkte 6.2 bij 50 km/h
+09:18:23 v=49 nauwk=4m limiet=50 wegen=1527 draai=2 vaste=90/12 gemeld=22 stemming=relaxed
+09:18:28 ANWB verkeer geladen: 43 meldingen in de buurt (van 94)
+09:18:28 flitsers via /flitsers: 24/24
+09:18:33 v=50 nauwk=4m limiet=50 wegen=1527 draai=-0 vaste=90/12 gemeld=24 stemming=relaxed
+09:18:44 v=52 nauwk=4m limiet=60 wegen=1527 draai=-0 vaste=90/12 gemeld=24 stemming=relaxed
+09:18:44 drempel/schok sterkte 5.2 bij 53 km/h
+09:18:49 voelen: telefoon gedraaid (35°), richting meegedraaid
+09:18:52 drempel/schok sterkte 3.6 bij 57 km/h
+09:18:54 drempel/schok sterkte 3.6 bij 58 km/h
+09:18:55 v=57 nauwk=4m limiet=60 wegen=1527 draai=-4 vaste=90/12 gemeld=24 stemming=alert
+09:18:57 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+09:18:57 hobbelige weg (4 klappen in 20 s)
+09:19:06 v=59 nauwk=10m limiet=60 wegen=1527 draai=-0 vaste=90/12 gemeld=24 stemming=relaxed
+09:19:16 v=54 nauwk=4m limiet=60 wegen=1527 draai=3 vaste=90/12 gemeld=24 stemming=happy
+09:19:27 v=48 nauwk=4m limiet=60 wegen=1527 draai=1 vaste=90/12 gemeld=24 stemming=relaxed
+09:19:28 groep ververst: 5
+09:19:34 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+09:19:38 v=50 nauwk=4m limiet=60 wegen=1527 draai=0 vaste=90/12 gemeld=24 stemming=relaxed
+09:19:41 rws tegel 1734_98 (internet): 731 wegvakken, versie 01-10-2026
+09:19:48 v=53 nauwk=4m limiet=60 wegen=2258 draai=-3 vaste=90/12 gemeld=24 stemming=relaxed
+09:19:58 v=49 nauwk=4m limiet=60 wegen=2258 draai=-0 vaste=90/12 gemeld=24 stemming=relaxed
+09:20:09 v=49 nauwk=4m limiet=60 wegen=2258 draai=-1 vaste=90/12 gemeld=24 stemming=alert
+09:20:19 v=57 nauwk=10m limiet=60 wegen=2258 draai=-0 vaste=90/12 gemeld=24 stemming=relaxed
+09:20:29 drempel/schok sterkte 3.9 bij 49 km/h
+09:20:29 ev startled: Boing!
+09:20:29 ANWB verkeer geladen: 35 meldingen in de buurt (van 85)
+09:20:29 flitsers via /flitsers: 22/22
+09:20:29 drempel/schok sterkte 3.8 bij 48 km/h (tweede klap)
+09:20:29 v=46 nauwk=10m limiet=60 wegen=2258 draai=3 vaste=90/12 gemeld=22 stemming=startled
+09:20:40 v=52 nauwk=10m limiet=60 wegen=2258 draai=0 vaste=90/12 gemeld=22 stemming=relaxed
+09:20:51 v=58 nauwk=10m limiet=60 wegen=2258 draai=-1 vaste=90/12 gemeld=22 stemming=content
+09:21:01 v=58 nauwk=10m limiet=60 wegen=2258 draai=2 vaste=90/12 gemeld=22 stemming=relaxed
+09:21:11 v=59 nauwk=9m limiet=60 wegen=2258 draai=-2 vaste=90/12 gemeld=22 stemming=relaxed
+09:21:22 v=60 nauwk=4m limiet=60 wegen=2258 draai=-3 vaste=90/12 gemeld=22 stemming=relaxed
+09:21:28 NDW geladen: 327 meldingen in de buurt {"closure":190,"lane":76,"speed":31,"accident":7,"jam":23}
+09:21:32 v=40 nauwk=4m limiet=60 wegen=2258 draai=-0 vaste=90/12 gemeld=22 stemming=relaxed
+--- v101 · Linux; Android 10; K ---
+09:21:42 v=53 nauwk=4m limiet=60 wegen=2258 draai=1 vaste=90/12 gemeld=22 stemming=relaxed
+09:21:52 drempel/schok sterkte 9.1 bij 56 km/h
+09:21:52 ev worried: Au! Wat een gat.
+09:21:53 v=55 nauwk=4m limiet=60 wegen=2258 draai=-7 vaste=90/12 gemeld=22 stemming=relaxed
+--- v101 · Linux; Android 10; K ---
+09:22:03 scherm-aan-slot gekregen
+09:22:03 scherm-aan-slot gekregen
+--- v101 · Linux; Android 10; K ---
+09:22:07 scherm-aan-slot gekregen
+09:22:07 scherm-aan-slot gekregen
+09:22:09 terug na 13 s zonder GPS
+09:22:09 v=59 nauwk=4m limiet=60 wegen=1842 draai=0 vaste=90/12 gemeld=22 stemming=alert
+09:22:19 v=58 nauwk=4m limiet=60 wegen=1842 draai=-1 vaste=90/12 gemeld=22 stemming=relaxed
+09:22:29 groep ververst: 5
+09:22:30 ANWB verkeer geladen: 35 meldingen in de buurt (van 82)
+09:22:30 flitsers via /flitsers: 22/22
+09:22:30 v=53 nauwk=4m limiet=60 wegen=1842 draai=1 vaste=90/12 gemeld=22 stemming=relaxed
+--- v101 · Linux; Android 10; K ---
+09:25:55 scherm-aan-slot gekregen
+09:25:55 scherm-aan-slot gekregen
+09:25:55 terug na 198 s zonder GPS
+09:25:55 v=73 nauwk=4m limiet=60 wegen=731 draai=0 vaste=90/12 gemeld=22 stemming=neutral
+09:25:56 groep ververst: 5
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 ANWB verkeer geladen: 29 meldingen in de buurt (van 71)
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 flitsers via /flitsers: 24/24
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:56 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 osm wegen via Worker (bewaard): 234 stuks
+09:25:57 wegen geladen: 234 wegen
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 56 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 rws tegel 1733_99 (internet): 343 wegvakken, versie 01-10-2026
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:57 retro meter: optrekken 0 -> 73
+09:25:59 rws tegel 1734_99 (internet): 607 wegvakken, versie 01-10-2026
+09:26:06 v=76 nauwk=4m limiet=80 wegen=1915 draai=0 vaste=90/12 gemeld=24 stemming=relaxed
+09:26:16 v=79 nauwk=4m limiet=80 wegen=1915 draai=-1 vaste=90/12 gemeld=24 stemming=relaxed
+09:26:22 drempel/schok sterkte 34.4 bij 78 km/h
+09:26:22 ev worried: Au! Wat een gat.
+09:26:24 drempel/schok sterkte 6.2 bij 78 km/h
+--- v101 · Linux; Android 10; K ---
+09:26:56 osm werk Worker: te traag, ik probeer Overpass rechtstreeks
+09:26:56 overpass overpass-api.de: Failed to fetch
+09:26:56 overpass overpass.private.coffee: Failed to fetch
+09:26:56 overpass overpass.kumi.systems: Failed to fetch
+09:26:56 overpass maps.mail.ru: Failed to fetch
+--- v101 · Linux; Android 10; K ---
+09:34:32 scherm-aan-slot gekregen
+09:34:32 scherm-aan-slot gekregen
+09:34:32 terug na 485 s zonder GPS
+09:34:32 limiet geschat uit je snelheid: 30
+09:34:32 v=29 nauwk=10m limiet=30~ wegen=0 draai=0 vaste=90/12 gemeld=24 stemming=neutral
+09:34:32 weer: 10.6 graden, code 3, neerslag 0, wind 17
+09:34:32 osm flits via Worker (bewaard): 174 stuks
+09:34:32 flitsdata geladen: 23 flitsers, 12 trajecten (totaal 97/12)
+09:34:32 groep ververst: 5
+09:34:32 bruggen geladen: 0
+09:34:32 ANWB verkeer geladen: 28 meldingen in de buurt (van 63)
+09:34:32 NDW geladen: 275 meldingen in de buurt {"closure":146,"lane":75,"speed":28,"accident":10,"jam":16}
+09:34:32 buienradar: nu 0 mm/u, regen over -1 min
+09:34:32 rws tegel 1733_100 (internet): 1658 wegvakken, versie 01-10-2026
+09:34:33 matrix geladen: 569 snelheid, 114 kruis
+09:34:33 rws tegel 1733_101 (internet): 3098 wegvakken, versie 01-10-2026
+09:34:33 flitsers via /flitsers: 24/24
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:33 retro meter: optrekken 0 -> 31
+09:34:34 retro meter: optrekken 0 -> 31
+09:34:34 retro meter: optrekken 0 -> 31
+09:34:34 retro meter: optrekken 0 -> 31
+09:34:34 retro meter: optrekken 0 -> 31
+09:34:34 retro meter: optrekken 0 -> 31
+09:34:34 retro meter: optrekken 0 -> 31
+09:34:34 retro meter: optrekken 0 -> 31
+09:34:34 retro meter: optrekken 0 -> 31
+09:34:40 sprint-animatie: turbo
+09:34:40 FOUT frame Cannot read properties of undefined (reading 'filter')
+09:34:42 v=49 nauwk=10m limiet=80 wegen=4756 draai=-1 vaste=97/12 gemeld=24 stemming=relaxed
+09:34:53 v=60 nauwk=10m limiet=80 wegen=4756 draai=0 vaste=97/12 gemeld=24 stemming=relaxed
+--- v101 · Linux; Android 10; K ---
+09:35:32 osm werk Worker: te traag, ik probeer Overpass rechtstreeks
+09:35:32 osm wegen Worker: te traag, ik probeer Overpass rechtstreeks
+09:35:32 overpass overpass-api.de: Failed to fetch
+09:35:32 overpass overpass-api.de: Failed to fetch
+09:35:32 overpass overpass.private.coffee: Failed to fetch
+09:35:32 overpass overpass.private.coffee: Failed to fetch
+09:35:32 overpass overpass.kumi.systems: Failed to fetch
+09:35:32 overpass overpass.kumi.systems: Failed to fetch
+09:35:32 overpass maps.mail.ru: Failed to fetch
+09:35:32 overpass maps.mail.ru: Failed to fetch
+09:35:32 FOUT wegenlimiet laden mislukt (maps.mail.ru: Failed to fetch) opnieuw over 8 s
+09:36:09 scherm-aan-slot gekregen
+09:36:09 scherm-aan-slot gekregen
+09:36:09 terug na 70 s zonder GPS
+09:36:09 v=62 nauwk=10m limiet=80 wegen=4756 draai=0 vaste=97/12 gemeld=24 stemming=alert

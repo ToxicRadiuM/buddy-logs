@@ -1,0 +1,516 @@
+--- v101 · Linux; Android 10; K ---
+09:35:32 osm werk Worker: te traag, ik probeer Overpass rechtstreeks
+09:35:32 osm wegen Worker: te traag, ik probeer Overpass rechtstreeks
+09:35:32 overpass overpass-api.de: Failed to fetch
+09:35:32 overpass overpass-api.de: Failed to fetch
+09:35:32 overpass overpass.private.coffee: Failed to fetch
+09:35:32 overpass overpass.private.coffee: Failed to fetch
+09:35:32 overpass overpass.kumi.systems: Failed to fetch
+09:35:32 overpass overpass.kumi.systems: Failed to fetch
+09:35:32 overpass maps.mail.ru: Failed to fetch
+09:35:32 overpass maps.mail.ru: Failed to fetch
+09:35:32 FOUT wegenlimiet laden mislukt (maps.mail.ru: Failed to fetch) opnieuw over 8 s
+09:36:09 scherm-aan-slot gekregen
+09:37:26 start v101
+09:37:26 groep ververst: 5
+09:37:27 GPS automatisch aan
+09:37:27 scherm-aan-slot gekregen
+09:37:27 ev bored: Maandagochtend… dapper blijven.
+09:37:27 limiet geschat uit je snelheid: 30
+09:37:27 matrix-locaties geladen: 6442
+09:37:27 weer: 10.6 graden, code 3, neerslag 0, wind 14
+09:37:27 ANWB verkeer geladen: 30 meldingen in de buurt (van 63)
+09:37:27 bruggen geladen: 0
+09:37:27 buienradar: nu 0 mm/u, regen over -1 min
+09:37:27 flitsers via /flitsers: 24/24
+09:37:27 rws tegel 1734_101 (internet): 4487 wegvakken, versie 01-10-2026
+09:37:27 NDW geladen: 255 meldingen in de buurt {"closure":133,"lane":75,"speed":28,"accident":8,"jam":11}
+09:37:27 osm wegen via Worker (bewaard): 2829 stuks
+09:37:27 wegen geladen: 2829 wegen
+09:37:28 vaste flitsers NL: 515, trajectcontroles: 76 (versie 24-10-2026)
+09:37:31 bewegingssensor: granted
+09:37:31 ev excited: Joepie! Nu voel ik elke bocht.
+09:37:31 ev happy: Nieuwe badge: Tweeling 👯!
+09:37:34 back-up (dag) 44 kB
+09:37:35 v=9 nauwk=4m limiet=80 wegen=7316 draai=0 vaste=97/12 gemeld=24 stemming=happy
+09:37:36 Buddy-scherm verbonden
+09:37:36 scherm: meldingen aan
+09:37:37 scherm: koppeling in orde
+09:37:37 scherm geluid: ok/30/14
+09:37:43 voelen: sensor-teken gewoon
+09:37:43 scherm geluid: ok/30/14
+09:37:43 scherm geluid: ok/30/14
+09:37:43 scherm geluid: ok/30/14
+09:37:43 scherm geluid: ok/30/14
+09:37:43 scherm geluid: ok/30/14
+09:37:43 scherm geluid: ok/30/14
+09:37:43 scherm geluid: ok/80/15
+09:37:45 v=32 nauwk=4m limiet=100 wegen=7316 draai=18 vaste=97/12 gemeld=24 stemming=relaxed
+--- v101 · Linux; Android 10; K ---
+09:37:46 matrix geladen: 522 snelheid, 110 kruis
+09:37:55 rws tegel 1733_101 (telefoon): 3098 wegvakken, versie 01-10-2026
+09:37:56 v=47 nauwk=4m limiet=100 wegen=10414 draai=10 vaste=97/12 gemeld=24 stemming=relaxed
+09:38:04 osm werk via Worker (oud): 400 stuks
+09:38:04 wegwerkzaamheden geladen: 400
+09:38:06 v=61 nauwk=10m limiet=100 wegen=10414 draai=0 vaste=97/12 gemeld=24 stemming=alert
+09:38:08 scherm geluid: ok/80/15
+09:38:08 scherm geluid: ok/80/15
+09:38:08 scherm geluid: ok/80/15
+09:38:08 scherm geluid: ok/80/15
+09:38:08 scherm geluid: ok/80/15
+09:38:08 scherm geluid: ok/80/15
+09:38:08 scherm geluid: ok/80/15
+09:38:17 v=76 nauwk=4m limiet=100 wegen=10414 draai=1 vaste=97/12 gemeld=24 stemming=relaxed
+09:38:27 v=94 nauwk=4m limiet=100 wegen=10414 draai=1 vaste=97/12 gemeld=24 stemming=alert
+09:38:37 v=97 nauwk=4m limiet=100 wegen=10414 draai=1 vaste=97/12 gemeld=24 stemming=worried
+09:38:38 scherm geluid: ok/80/15
+09:38:38 scherm geluid: ok/80/15
+09:38:38 scherm geluid: ok/80/15
+09:38:38 scherm geluid: ok/80/15
+09:38:38 scherm geluid: ok/80/15
+09:38:38 scherm geluid: ok/80/15
+09:38:38 scherm geluid: ok/80/15
+--- v101 · Linux; Android 10; K ---
+09:39:10 scherm geluid: ok/80/15
+09:39:10 scherm geluid: ok/80/15
+09:39:10 scherm geluid: ok/80/15
+09:39:10 scherm geluid: ok/80/15
+09:39:10 scherm geluid: ok/80/15
+09:39:10 scherm geluid: ok/80/15
+09:39:10 scherm geluid: ok/80/15
+09:42:02 scherm-aan-slot gekregen
+09:42:02 scherm-aan-slot gekregen
+09:42:02 scherm geluid: ok/80/15
+09:42:02 scherm geluid: ok/80/15
+09:42:02 scherm geluid: ok/80/15
+09:42:02 scherm geluid: ok/80/15
+09:42:02 scherm geluid: ok/80/15
+09:42:02 scherm geluid: ok/80/15
+09:42:02 scherm geluid: ok/80/18
+09:42:02 terug na 203 s zonder GPS
+09:42:02 NDW melding speed 2 m: alleen icoontje
+09:42:02 tijdelijke limiet 90 (NDW)
+09:42:02 v=90 nauwk=4m limiet=90 wegen=0 draai=0 vaste=97/12 gemeld=24 stemming=alert
+09:42:03 groep ververst: 5
+09:42:03 osm wegen via Worker (bewaard): 777 stuks
+09:42:03 wegen geladen: 777 wegen
+09:42:03 ANWB verkeer geladen: 25 meldingen in de buurt (van 59)
+09:42:03 rws tegel 1732_102 (internet): 1110 wegvakken, versie 01-10-2026
+09:42:03 matrix geladen: 502 snelheid, 110 kruis
+09:42:03 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 scherm geluid: ok/80/18
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 scherm geluid: ok/80/18
+09:42:04 scherm geluid: ok/80/18
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 scherm geluid: ok/80/18
+09:42:04 scherm geluid: ok/80/18
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 scherm geluid: ok/80/18
+09:42:04 scherm geluid: ok/80/18
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 retro meter: optrekken 0 -> 90
+09:42:04 flitsers via /flitsers: 24/24
+09:42:04 tijdelijke limiet 90 (NDW)
+09:42:06 tijdelijke limiet 90 (NDW)
+09:42:08 tijdelijke limiet 90 (NDW)
+09:42:10 Buddy-scherm verbonden
+09:42:10 scherm: meldingen aan
+09:42:10 scherm: koppeling in orde
+09:42:10 scherm geluid: ok/80/18
+09:42:10 scherm geluid: ok/80/18
+09:42:10 scherm geluid: ok/80/18
+09:42:10 scherm geluid: ok/80/18
+09:42:10 scherm geluid: ok/80/18
+09:42:10 scherm geluid: ok/80/18
+09:42:10 scherm geluid: bezig/80/20
+09:42:12 v=87 nauwk=4m limiet=100 wegen=1887 draai=-1 vaste=97/12 gemeld=24 stemming=relaxed
+09:42:23 scherm| | licht 216 | fps 59 teken 9.9ms stuur 8.3ms
+09:42:23 scherm| [00:02:00] status | klok 09:09 | gps zoekt sat=0 zicht=4 nmea=1468/0 | 0 km/u | tel nee | heap 73780 | licht 216 | fps 59 teken 7.8ms stuur 6.9ms
+09:42:23 scherm| [00:03:00] status | klok 09:10 | gps zoekt sat=0 zicht=2 nmea=2199/0 | 0 km/u | tel nee | heap 73780 | licht 216 | fps 49 teken 15.6ms stuur 14.3ms
+09:42:23 scherm| [00:04:00] status | klok 09:11 | gps zoekt sat=0 zicht=0 nmea=2923/0 | 0 km/u | tel nee | heap 73780 | licht 216 | fps 59 teken 7.9ms stuur 7.1ms
+09:42:23 scherm| [00:05:00] status | klok 09:12 | gps zoekt sat=0 zicht=0 nmea=3647/0 | 0 km/u | tel nee | heap 73780 | licht 216 | fps 58 teken 11.5ms stuur 9.8ms
+09:42:23 scherm| [00:06:00] status | klok 09:13 | gps zoekt sat=0 zicht=3 nmea=4371/0 | 0 km/u | tel nee | heap 73780 | licht 12 | fps 51 teken 12.9ms stuur 11.0ms | SLAAPT
+09:42:23 scherm| [00:07:00] status | klok 09:14 | gps zoekt sat=0 zicht=0 nmea=5097/0 | 0 km/u | tel nee | heap 73780 | licht 216 | fps 58 teken 10.5ms stuur 8.8ms
+09:42:23 scherm| [00:08:00] status | klok 09:15 | gps zoekt sat=0 zicht=0 nmea=5821/0 | 0 km/u | tel nee | heap 73692 | licht 216 | fps 59 teken 11.2ms stuur 9.1ms
+09:42:23 scherm| [00:09:00] status | klok 09:16 | gps zoekt sat=0 zicht=0 nmea=6545/0 | 0 km/u | tel nee | heap 73692 | licht 216 | fps 54 teken 11.8ms stuur 9.5ms
+09:42:23 scherm| [00:10:00] status | klok 09:17 | gps zoekt sat=0 zicht=1 nmea=7269/0 | 0 km/u | tel nee | heap 73544 | licht 216 | fps 58 teken 11.0ms stuur 9.2ms
+09:42:23 scherm| [00:11:00] status | klok 09:18 | gps zoekt sat=0 zicht=2 nmea=7993/0 | 0 km/u | tel nee | heap 73544 | licht 216 | fps 44 teken 17.5ms stuur 14.3ms
+09:42:23 scherm| [00:11:50] wifi verbonden (Sultra), IP 10.230.69.32
+09:42:23 scherm| [00:12:00] status | klok 09:19 | gps zoekt sat=0 zicht=0 nmea=8717/0 | 0 km/u | tel nee | heap 24044 | licht 216 | fps 58 teken 10.9ms stuur 10.2ms
+09:42:23 scherm| [00:00:02] ===== OPSTART v61 | reden: stroom aan | heap 117544 =====
+09:42:23 scherm| [00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+09:42:23 scherm| [00:00:04] wifi verbonden (Sultra), IP 10.230.69.32
+09:42:23 scherm| [00:00:09] net: ToxicRadiuM/GeenIdee/snelheden/flitsers.json -> -1
+09:42:23 scherm| [00:00:09] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+09:42:23 scherm| [00:00:14] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=b45dqfo0s8bcj&sinds=0 -> -1
+09:42:23 scherm| [00:00:16] groet: Hoi, Ricardo! Daar ben je! (vriend 75)
+09:42:23 scherm| [00:01:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=725/0 | 0 km/u | tel nee | heap 73096 | licht 216 | fps 59 teken 10.7ms stuur 8.8ms
+09:42:23 scherm| [00:02:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=1445/0 | 0 km/u | tel nee | heap 24076 | licht 216 | fps 57 teken 10.7ms stuur 9.4ms
+09:42:23 scherm| [00:03:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2153/0 | 0 km/u | tel nee | heap 24076 | licht 216 | fps 57 teken 11.5ms stuur 10.4ms
+09:42:23 scherm| [00:03:00] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+09:42:23 scherm| [00:03:06] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=b45dqfo0s8bcj&sinds=0 -> -1
+09:42:23 scherm| [00:04:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=2885/0 | 0 km/u | tel nee | heap 72956 | licht 216 | fps 59 teken 7.8ms stuur 6.9ms
+09:42:23 scherm| [00:05:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=3605/0 | 0 km/u | tel nee | heap 72956 | licht 12 | fps 10 teken 10.2ms stuur 10.4ms | SLAAPT
+09:42:23 scherm| [00:05:06] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=b45dqfo0s8bcj&sinds=0 -> -1
+09:42:23 scherm| [00:06:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=4325/0 | 0 km/u | tel nee | heap 72956 | licht 216 | fps 34 teken 24.8ms stuur 16.6ms
+09:42:23 scherm| [00:07:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5045/0 | 0 km/u | tel nee | heap 72956 | licht 216 | fps 51 teken 14.0ms stuur 11.9ms
+09:42:23 scherm| [00:08:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=5765/0 | 0 km/u | tel nee | heap 20228 | licht 216 | fps 46 teken 16.7ms stuur 15.4ms
+09:42:23 scherm| [00:09:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=6485/0 | 0 km/u | tel nee | heap 24956 | licht 216 | fps 56 teken 12.3ms stuur 11.7ms
+09:42:23 scherm| [00:09:01] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=b45dqfo0s8bcj&sinds=0 -> -1
+09:42:23 scherm| [00:09:07] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=b45dqfo0s8bcj&sinds=0 -> -1
+09:42:23 scherm| [00:10:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=7205/0 | 0 km/u | tel nee | heap 72956 | licht 216 | fps 51 teken 14.5ms stuur 12.8ms
+09:42:23 scherm| [00:11:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=7925/0 | 0 km/u | tel nee | heap 72956 | licht 216 | fps 51 teken 14.6ms stuur 13.1ms
+09:42:23 scherm| [00:12:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=8645/0 | 0 km/u | tel nee | heap 24956 | licht 216 | fps 57 teken 12.1ms stuur 10.5ms
+09:42:23 scherm| [00:13:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=9365/0 | 0 km/u | tel nee | heap 24956 | licht 12 | fps 23 teken 9.6ms stuur 9.7ms | SLAAPT
+09:42:23 scherm| [00:13:03] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=b45dqfo0s8bcj&sinds=0 -> -1
+09:42:23 scherm| [00:13:09] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=b45dqfo0s8bcj&sinds=0 -> -1
+09:42:23 scherm| [00:14:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=10085/0 | 0 km/u | tel nee | heap 72956 | licht 12 | fps 10 teken 9.1ms stuur 9.4ms | SLAAPT
+09:42:23 scherm| [00:15:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=10805/0 | 0 km/u | tel nee | heap 72908 | licht 216 | fps 59 teken 9.6ms stuur 8.4ms
+09:42:23 scherm| [00:15:09] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=b45dqfo0s8bcj&sinds=0 -> -1
+09:42:23 scherm| [00:16:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=11525/0 | 0 km/u | tel nee | heap 72908 | licht 216 | fps 52 teken 12.5ms stuur 10.9ms
+09:42:23 scherm| [00:17:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=12245/0 | 0 km/u | tel nee | heap 72908 | licht 216 | fps 56 teken 12.6ms stuur 11.1ms
+09:42:23 scherm| [00:17:09] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=b45dqfo0s8bcj&sinds=0 -> -1
+09:42:23 scherm| [00:17:45] geluid: hing vast, losgemaakt
+09:42:23 scherm| [00:17:54] BLE: telefoon verbonden
+09:42:23 scherm| [00:17:56] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:17:56] retro meter: optrekken 0 -> 13
+09:42:23 scherm| [00:17:56] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:17:57] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:17:57] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:17:58] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:17:58] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:17:59] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:17:59] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:00] status | klok -1:00 | gps zoekt sat=0 zicht=0 nmea=12965/0 | 20 km/u | tel data | heap 72264 | licht 165 | fps 13 teken 60.4ms stuur 21.5ms
+09:42:23 scherm| [00:18:00] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:00] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:00] klok gezet via de telefoon
+09:42:23 scherm| [00:18:01] Rit begonnen
+09:42:23 scherm| [00:18:01] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:01] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:02] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:02] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:03] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:03] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:04] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:04] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:05] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:05] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:06] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:06] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:07] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:07] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:08] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:08] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:09] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:09] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:10] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:10] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:11] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:11] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:12] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:12] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:13] net: ToxicRadiuM/GeenIdee/snelheden/t/1734_101.json -> -1
+09:42:23 scherm| [00:18:14] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:15] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:16] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:16] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:17] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:17] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:18] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:18] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:19] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:19] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:19] net: ToxicRadiuM/GeenIdee/snelheden/t/1734_101.json -> -1
+09:42:23 scherm| [00:18:20] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:20] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:21] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:21] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:22] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:22] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:23] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:23] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:24] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:24] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:25] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:25] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:26] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:26] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:27] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:27] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:28] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:28] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:29] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:29] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:30] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:30] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:31] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:31] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:32] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:32] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:33] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:33] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:34] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:34] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:35] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:35] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:36] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:36] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:37] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:37] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:39] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:39] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:41] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:41] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:42] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:42] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:43] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:43] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:44] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:44] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:45] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:45] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:46] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:46] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:47] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:47] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:48] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:48] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:49] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:49] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:50] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:50] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:51] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:51] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:52] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:52] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:53] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:53] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:54] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:54] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:55] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:55] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:56] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:56] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:57] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:57] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:18:58] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:18:58] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:19:00] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:19:00] status | klok 09:38 | gps TEL sat=0 zicht=0 nmea=13685/0 | 97 km/u | tel data | heap 72264 | licht 165 | fps 34 teken 19.3ms stuur 16.7ms
+09:42:23 scherm| [00:19:00] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:19:01] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:19:01] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:19:02] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:19:02] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:19:03] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:19:03] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:20:00] status | klok 09:39 | gps zoekt sat=0 zicht=0 nmea=14405/0 | 97 km/u | tel data | heap 24060 | licht 165 | fps 40 teken 19.7ms stuur 17.1ms
+09:42:23 scherm| [00:21:00] status | klok 09:40 | gps zoekt sat=0 zicht=0 nmea=15125/0 | 0 km/u | tel stil | heap 24060 | licht 165 | fps 59 teken 8.3ms stuur 7.7ms
+09:42:23 scherm| [00:21:05] net: ers.dev/scherm?lat=52.01304&lon=5.06982&g=123456&van=b45dqfo0s8bcj&sinds=0 -> -1
+09:42:23 scherm| [00:21:11] net: ers.dev/scherm?lat=52.01304&lon=5.06982&g=123456&van=b45dqfo0s8bcj&sinds=0 -> -1
+09:42:23 scherm| [00:22:00] status | klok 09:41 | gps zoekt sat=0 zicht=0 nmea=15845/0 | 0 km/u | tel stil | heap 72032 | licht 165 | fps 59 teken 9.5ms stuur 8.8ms
+09:42:23 scherm| [00:22:06] geluid: hing vast, losgemaakt
+09:42:23 scherm| [00:22:22] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:22:22] retro meter: optrekken 0 -> 90
+09:42:23 scherm| [00:22:22] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:22:27] BLE: telefoon weg
+09:42:23 scherm| [00:22:27] net: ToxicRadiuM/GeenIdee/snelheden/t/1732_102.json -> -1
+09:42:23 scherm| [00:22:28] BLE: telefoon verbonden
+09:42:23 scherm| [00:22:29] sprint-show 3
+09:42:23 scherm| [00:22:29] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:22:29] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:22:30] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:22:30] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:22:31] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:22:31] GPS: fix kwijt (0 sat)
+09:42:23 scherm| [00:22:32] groep/worker ingesteld (Ricardo)
+09:42:23 scherm| [00:22:32] GPS: FIX! 0 satellieten
+09:42:23 scherm| [00:22:32] GPS: fix kwijt (0 sat)
+09:42:23 v=90 nauwk=10m limiet=100 wegen=1887 draai=0 vaste=97/12 gemeld=24 stemming=relaxed
+--- v101 · Linux; Android 10; K ---
+09:42:27 NDW melding lane 889 m: alleen icoontje
+09:42:28 NDW geladen: 245 meldingen in de buurt {"closure":129,"lane":77,"speed":28,"accident":4,"jam":7}
+09:42:34 osm werk via Worker (oud): 400 stuks
+09:42:34 wegwerkzaamheden geladen: 400
+09:42:34 v=93 nauwk=10m limiet=100 wegen=1887 draai=0 vaste=97/12 gemeld=24 stemming=relaxed
+09:42:36 rws tegel 1731_102 (internet): 259 wegvakken, versie 01-10-2026
+09:42:38 scherm geluid: bezig/80/20
+09:42:38 scherm geluid: bezig/80/20
+09:42:38 scherm geluid: bezig/80/20
+09:42:38 scherm geluid: bezig/80/20
+09:42:38 scherm geluid: bezig/80/20
+09:42:38 scherm geluid: bezig/80/20
+09:42:38 scherm geluid: ok/80/20
+09:42:44 v=96 nauwk=10m limiet=100 wegen=2146 draai=1 vaste=97/12 gemeld=24 stemming=focused
+09:42:54 v=94 nauwk=10m limiet=100 wegen=2146 draai=-0 vaste=97/12 gemeld=24 stemming=happy
+09:43:04 osm flits Worker: http 503, ik probeer Overpass rechtstreeks
+09:43:04 overpass overpass-api.de: http 502
+09:43:05 NDW melding lane 891 m: alleen icoontje
+09:43:05 v=91 nauwk=10m limiet=100 wegen=2146 draai=-1 vaste=97/12 gemeld=24 stemming=relaxed
+09:43:08 scherm geluid: ok/80/20
+09:43:08 scherm geluid: ok/80/20
+09:43:08 scherm geluid: ok/80/20
+09:43:08 scherm geluid: ok/80/20
+09:43:08 scherm geluid: ok/80/20
+09:43:08 scherm geluid: ok/80/20
+09:43:08 scherm geluid: ok/80/21
+09:43:16 v=91 nauwk=10m limiet=100 wegen=2146 draai=0 vaste=97/12 gemeld=24 stemming=relaxed
+09:43:19 overpass maps.mail.ru: http 504
+09:43:27 v=95 nauwk=6m limiet=100 wegen=2146 draai=-1 vaste=97/12 gemeld=24 stemming=focused
+09:43:34 overpass overpass.private.coffee: te traag
+09:43:37 v=94 nauwk=4m limiet=100 wegen=2146 draai=-0 vaste=97/12 gemeld=24 stemming=alert
+09:43:38 scherm geluid: ok/80/21
+09:43:38 scherm geluid: ok/80/21
+09:43:38 scherm geluid: ok/80/21
+09:43:38 scherm geluid: ok/80/21
+09:43:38 scherm geluid: ok/80/21
+09:43:38 scherm geluid: ok/80/21
+09:43:38 scherm geluid: ok/80/21
+09:43:41 overpass overpass.kumi.systems: te traag
+09:43:41 FOUT flitsdata laden mislukt (overpass.kumi.systems: te traag) volgende poging over 15 s
+09:43:47 v=93 nauwk=4m limiet=100 wegen=2146 draai=1 vaste=97/12 gemeld=24 stemming=relaxed
+09:43:57 v=98 nauwk=4m limiet=100 wegen=2146 draai=-1 vaste=97/12 gemeld=24 stemming=happy
+09:44:01 scherm| [00:00:03] ===== OPSTART v47 | reden: onbekend | heap 117444 =====
+09:44:01 scherm| [00:23:38] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:39] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:39] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:42] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:42] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:43] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:43] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:44] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:44] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:45] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:45] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:46] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:46] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:47] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:47] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:48] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:48] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:49] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:49] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:50] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:50] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:51] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:51] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:52] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:52] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:53] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:53] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:54] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:54] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:55] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:55] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:56] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:56] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:57] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:57] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:58] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:58] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:23:59] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:23:59] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:00] status | klok 09:43 | gps zoekt sat=0 zicht=0 nmea=17285/0 | 95 km/u | tel data | heap 22972 | licht 165 | fps 32 teken 20.9ms stuur 18.5ms
+09:44:01 scherm| [00:24:00] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:00] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:01] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:01] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:02] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:02] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:03] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:03] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:04] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:05] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:05] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:06] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:07] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:07] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:08] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:08] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:09] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:09] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:10] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:10] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:11] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:11] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:12] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:12] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:13] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:13] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:14] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:14] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:15] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:15] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:16] GPS: FIX! 0 satellieten
+09:44:01 scherm| [00:24:16] GPS: fix kwijt (0 sat)
+09:44:01 scherm| [00:24:17] GPS: FIX! 0 satellieten
+09:44:03 flitsers via /flitsers: 24/24
+--- v101 · Linux; Android 10; K ---
+09:44:04 ANWB verkeer geladen: 24 meldingen in de buurt (van 56)
+09:44:08 scherm geluid: ok/80/21
+09:44:08 scherm geluid: ok/80/21
+09:44:08 scherm geluid: ok/80/21
+09:44:08 scherm geluid: ok/80/21
+09:44:08 scherm geluid: ok/80/21
+09:44:08 scherm geluid: ok/80/21
+09:44:08 scherm geluid: ok/80/21
+09:44:08 v=101 nauwk=4m limiet=100 wegen=2146 draai=0 vaste=97/12 gemeld=24 stemming=focused
+09:44:18 v=100 nauwk=4m limiet=100 wegen=2146 draai=-0 vaste=97/12 gemeld=24 stemming=focused
+09:44:29 v=100 nauwk=5m limiet=100 wegen=2146 draai=-0 vaste=97/12 gemeld=24 stemming=focused
+09:44:31 bruggen geladen: 0
+09:44:33 osm wegen via Worker (bewaard): 625 stuks
+09:44:33 wegen geladen: 625 wegen
+09:44:33 rws tegel 1731_103 (internet): 1030 wegvakken, versie 01-10-2026
+09:44:34 matrix geladen: 475 snelheid, 120 kruis
+09:44:38 scherm geluid: ok/80/21
+09:44:38 scherm geluid: ok/80/21
+09:44:38 scherm geluid: ok/80/21
+09:44:38 scherm geluid: ok/80/21
+09:44:38 scherm geluid: ok/80/21
+09:44:38 scherm geluid: ok/80/21
+09:44:38 scherm geluid: ok/80/21
+09:44:39 v=98 nauwk=10m limiet=100 wegen=1914 draai=-0 vaste=97/12 gemeld=24 stemming=alert
+09:44:40 osm flits Worker: http 503, ik probeer Overpass rechtstreeks
+09:44:49 v=98 nauwk=10m limiet=100 wegen=1914 draai=0 vaste=97/12 gemeld=24 stemming=focused
+09:45:00 v=96 nauwk=10m limiet=100 wegen=1914 draai=0 vaste=97/12 gemeld=24 stemming=focused
+09:45:01 overpass maps.mail.ru: http 504
+09:45:03 groep ververst: 5
+09:45:08 scherm geluid: ok/80/21
+09:45:08 scherm geluid: ok/80/21
+09:45:08 scherm geluid: ok/80/21
+09:45:08 scherm geluid: ok/80/21
+09:45:08 scherm geluid: ok/80/21
+09:45:08 scherm geluid: ok/80/21
+09:45:08 scherm geluid: ok/80/21
+09:45:10 overpass overpass-api.de: te traag
+09:45:10 v=98 nauwk=10m limiet=100 wegen=1914 draai=-0 vaste=97/12 gemeld=24 stemming=focused
+09:45:17 overpass overpass.private.coffee: te traag
+09:45:20 v=98 nauwk=10m limiet=100 wegen=1914 draai=1 vaste=97/12 gemeld=24 stemming=focused
+09:45:24 overpass overpass.kumi.systems: te traag
+09:45:24 FOUT flitsdata laden mislukt (overpass.kumi.systems: te traag) volgende poging over 30 s
