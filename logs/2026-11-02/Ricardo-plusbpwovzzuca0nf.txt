@@ -1401,3 +1401,206 @@ X! 0 satellieten
 [00:01:17] wifi verbonden (Sultra), IP 10.230.69.32
 [00:01:20] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
 [00:01:23] internet-check: dns ok, verbinding ok, laatste download gelukt
+--- Buddy+ v70 ---
+] BLE: telefoon verbonden
+[00:00:08] BLE: code goed, verbonden met de app
+[00:00:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:01:00] status | klok 20:43 | gps zoekt sat=0 zicht=0 nmea=732/0 | 0 km/u | tel data | heap 69476 | licht 255 | fps 57 teken 11.5ms stuur 11.5ms
+[00:01:00] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+[00:01:08] geluid: niet klaar (i2s-fout)
+[00:02:00] status | klok 20:44 | gps zoekt sat=0 zicht=0 nmea=1452/0 | 0 km/u | tel stil | heap 69476 | licht 255 | fps 50 teken 15.0ms stuur 12.8ms
+[00:02:07] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:02:10] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:02:13] geluid: niet klaar (i2s-fout)
+[00:03:00] status | klok 20:45 | gps zoekt sat=0 zicht=0 nmea=2172/0 | 0 km/u | tel stil | heap 69476 | licht 255 | fps 51 teken 14.2ms stuur 12.3ms
+[00:03:13] geluid: niet klaar (i2s-fout)
+[00:04:00] status | klok 20:46 | gps zoekt sat=0 zicht=0 nmea=2892/0 | 0 km/u | tel data | heap 60328 | licht 255 | fps 49 teken 14.9ms stuur 14.8ms
+[00:04:08] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:04:10] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:04:13] geluid: niet klaar (i2s-fout)
+[00:05:00] status | klok 20:47 | gps zoekt sat=0 zicht=0 nmea=3612/0 | 0 km/u | tel data | heap 68900 | licht 255 | fps 51 teken 13.2ms stuur 11.9ms
+[00:05:13] geluid: niet klaar (i2s-fout)
+[00:06:00] status | klok 20:48 | gps zoekt sat=0 zicht=0 nmea=4332/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 52 teken 13.9ms stuur 11.9ms
+[00:06:09] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:06:11] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:06:13] geluid: niet klaar (i2s-fout)
+[00:07:00] status | klok 20:49 | gps zoekt sat=0 zicht=0 nmea=5052/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 53 teken 12.3ms stuur 11.0ms
+[00:07:14] geluid: niet klaar (i2s-fout)
+[00:08:00] status | klok 20:50 | gps zoekt sat=0 zicht=0 nmea=5772/0 | 0 km/u | tel data | heap 68900 | licht 255 | fps 47 teken 15.7ms stuur 13.6ms
+[00:08:09] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:08:11] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:08:14] geluid: niet klaar (i2s-fout)
+[00:09:00] status | klok 20:51 | gps zoekt sat=0 zicht=0 nmea=6492/0 | 0 km/u | tel data | heap 68900 | licht 255 | fps 49 teken 14.8ms stuur 12.9ms
+[00:09:14] geluid: niet klaar (i2s-fout)
+[00:10:00] status | klok 20:52 | gps zoekt sat=0 zicht=0 nmea=7212/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 50 teken 14.6ms stuur 12.7ms
+[00:10:11] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:10:12] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:10:14] geluid: niet klaar (i2s-fout)
+[00:11:00] status | klok 20:53 | gps zoekt sat=0 zicht=0 nmea=7932/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 48 teken 15.5ms stuur 13.4ms
+[00:11:17] geluid: niet klaar (i2s-fout)
+[00:12:00] status | klok 20:54 | gps zoekt sat=0 zicht=0 nmea=8652/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 52 teken 12.7ms stuur 11.0ms
+[00:12:10] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:12:15] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:12:17] geluid: niet klaar (i2s-fout)
+[00:13:00] status | klok 20:55 | gps zoekt sat=0 zicht=0 nmea=9372/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 51 teken 13.1ms stuur 11.1ms
+[00:13:17] geluid: niet klaar (i2s-fout)
+[00:14:00] status | klok 20:56 | gps zoekt sat=0 zicht=0 nmea=10092/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 47 teken 16.0ms stuur 13.5ms
+[00:14:11] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:14:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:14:20] geluid: niet klaar (i2s-fout)
+[00:15:00] status | klok 20:57 | gps zoekt sat=0 zicht=0 nmea=10812/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 48 teken 15.4ms stuur 11.8ms
+[00:15:20] geluid: niet klaar (i2s-fout)
+[00:16:00] status | klok 20:58 | gps zoekt sat=0 zicht=0 nmea=11532/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 54 teken 13.3ms stuur 11.1ms
+[00:16:12] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:16:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:16:24] geluid: niet klaar (i2s-fout)
+[00:17:00] status | klok 20:59 | gps zoekt sat=0 zicht=0 nmea=12252/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 57 teken 11.6ms stuur 9.3ms
+[00:17:27] geluid: niet klaar (i2s-fout)
+[00:18:00] status | klok 21:00 | gps zoekt sat=0 zicht=0 nmea=12972/0 | 0 km/u | tel stil | heap 68900 | licht 114 | fps 47 teken 16.0ms stuur 13.3ms
+[00:18:12] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:18:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:18:27] geluid: niet klaar (i2s-fout)
+[00:19:00] status | klok 21:01 | gps zoekt sat=0 zicht=0 nmea=13692/0 | 0 km/u | tel stil | heap 68900 | licht 114 | fps 57 teken 10.9ms stuur 8.9ms
+[00:19:29] geluid: niet klaar (i2s-fout)
+[00:19:40] wifi ingesteld: Sultra
+[00:20:00] status | klok 21:02 | gps zoekt sat=0 zicht=0 nmea=14412/0 | 0 km/u | tel data | heap 68844 | licht 114 | fps 43 teken 18.5ms stuur 14.8ms
+[00:20:08] update gevraagd vanuit de app
+[00:20:08] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+[00:20:12] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:20:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:20:25] update gevraagd vanuit de app
+[00:20:25] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+[00:20:29] geluid: niet klaar (i2s-fout)
+[00:20:30] wifi ingesteld: Sultra
+[00:00:01] geluid: start, vrij DMA 247960 (grootste blok 188404)
+[00:00:01] geluid fout 1: E (1438) gdma: gdma_register_tx_event_callbacks(464): user context not in internal RAM
+[00:00:01] geluid fout 2: E (1439) i2s_common: i2s_init_dma_intr(734): Register tx callback failed
+[00:00:01] geluid fout 3: E (1441) i2s_std: i2s_channel_init_std_mode(236): initialize dma interrupt failed
+[00:00:02] geluid fout 4: E (1449) i2s_common: i2s_channel_disable(1116): the channel has not been enabled yet
+[00:00:02] geluid: alleen speaker ook mislukt
+[00:00:02] geluid: I2S start mislukt
+[00:00:02] geluid fout 1: E (2148) i2s_common: i2s_channel_disable(1116): the channel has not been enabled yet
+[00:00:02] geluid fout 2: E (2299) i2s_common: i2s_new_channel(902): no available channel found
+[00:00:03] ===== OPSTART v70 | reden: stroom aan | heap 115100 =====
+[00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:03] borden geleerd van de telefoon: 1 punten
+[00:00:04] BLE: telefoon verbonden
+[00:00:04] BLE: code goed, verbonden met de app
+[00:00:04] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:05] groep/worker ingesteld (Ricardo)
+[00:00:06] geluid: niet klaar (i2s-fout)
+[00:00:06] groet: Goedenavond, Ricardo! (vriend 100)
+[00:00:07] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:07] groep/worker ingesteld (Ricardo)
+[00:00:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:00:54] update gevraagd vanuit de app
+[00:00:55] update: v70 -> v71 wordt op de achtergrond binnengehaald
+[00:01:00] status | klok 21:04 | gps zoekt sat=0 zicht=0 nmea=725/0 | 0 km/u | tel data | heap 18488 | licht 114 | fps 20 teken 33.8ms stuur 48.0ms
+[00:01:19] geluid: niet klaar (i2s-fout)
+[00:01:19] update: v71 staat klaar. Installeren via het info-venster of de app
+--- Buddy+ v71 ---
+000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:04:10] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:04:13] geluid: niet klaar (i2s-fout)
+[00:05:00] status | klok 20:47 | gps zoekt sat=0 zicht=0 nmea=3612/0 | 0 km/u | tel data | heap 68900 | licht 255 | fps 51 teken 13.2ms stuur 11.9ms
+[00:05:13] geluid: niet klaar (i2s-fout)
+[00:06:00] status | klok 20:48 | gps zoekt sat=0 zicht=0 nmea=4332/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 52 teken 13.9ms stuur 11.9ms
+[00:06:09] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:06:11] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:06:13] geluid: niet klaar (i2s-fout)
+[00:07:00] status | klok 20:49 | gps zoekt sat=0 zicht=0 nmea=5052/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 53 teken 12.3ms stuur 11.0ms
+[00:07:14] geluid: niet klaar (i2s-fout)
+[00:08:00] status | klok 20:50 | gps zoekt sat=0 zicht=0 nmea=5772/0 | 0 km/u | tel data | heap 68900 | licht 255 | fps 47 teken 15.7ms stuur 13.6ms
+[00:08:09] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:08:11] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:08:14] geluid: niet klaar (i2s-fout)
+[00:09:00] status | klok 20:51 | gps zoekt sat=0 zicht=0 nmea=6492/0 | 0 km/u | tel data | heap 68900 | licht 255 | fps 49 teken 14.8ms stuur 12.9ms
+[00:09:14] geluid: niet klaar (i2s-fout)
+[00:10:00] status | klok 20:52 | gps zoekt sat=0 zicht=0 nmea=7212/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 50 teken 14.6ms stuur 12.7ms
+[00:10:11] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:10:12] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:10:14] geluid: niet klaar (i2s-fout)
+[00:11:00] status | klok 20:53 | gps zoekt sat=0 zicht=0 nmea=7932/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 48 teken 15.5ms stuur 13.4ms
+[00:11:17] geluid: niet klaar (i2s-fout)
+[00:12:00] status | klok 20:54 | gps zoekt sat=0 zicht=0 nmea=8652/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 52 teken 12.7ms stuur 11.0ms
+[00:12:10] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:12:15] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:12:17] geluid: niet klaar (i2s-fout)
+[00:13:00] status | klok 20:55 | gps zoekt sat=0 zicht=0 nmea=9372/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 51 teken 13.1ms stuur 11.1ms
+[00:13:17] geluid: niet klaar (i2s-fout)
+[00:14:00] status | klok 20:56 | gps zoekt sat=0 zicht=0 nmea=10092/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 47 teken 16.0ms stuur 13.5ms
+[00:14:11] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:14:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:14:20] geluid: niet klaar (i2s-fout)
+[00:15:00] status | klok 20:57 | gps zoekt sat=0 zicht=0 nmea=10812/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 48 teken 15.4ms stuur 11.8ms
+[00:15:20] geluid: niet klaar (i2s-fout)
+[00:16:00] status | klok 20:58 | gps zoekt sat=0 zicht=0 nmea=11532/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 54 teken 13.3ms stuur 11.1ms
+[00:16:12] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:16:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:16:24] geluid: niet klaar (i2s-fout)
+[00:17:00] status | klok 20:59 | gps zoekt sat=0 zicht=0 nmea=12252/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 57 teken 11.6ms stuur 9.3ms
+[00:17:27] geluid: niet klaar (i2s-fout)
+[00:18:00] status | klok 21:00 | gps zoekt sat=0 zicht=0 nmea=12972/0 | 0 km/u | tel stil | heap 68900 | licht 114 | fps 47 teken 16.0ms stuur 13.3ms
+[00:18:12] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:18:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:18:27] geluid: niet klaar (i2s-fout)
+[00:19:00] status | klok 21:01 | gps zoekt sat=0 zicht=0 nmea=13692/0 | 0 km/u | tel stil | heap 68900 | licht 114 | fps 57 teken 10.9ms stuur 8.9ms
+[00:19:29] geluid: niet klaar (i2s-fout)
+[00:19:40] wifi ingesteld: Sultra
+[00:20:00] status | klok 21:02 | gps zoekt sat=0 zicht=0 nmea=14412/0 | 0 km/u | tel data | heap 68844 | licht 114 | fps 43 teken 18.5ms stuur 14.8ms
+[00:20:08] update gevraagd vanuit de app
+[00:20:08] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+[00:20:12] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+[00:20:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+[00:20:25] update gevraagd vanuit de app
+[00:20:25] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+[00:20:29] geluid: niet klaar (i2s-fout)
+[00:20:30] wifi ingesteld: Sultra
+[00:00:01] geluid: start, vrij DMA 247960 (grootste blok 188404)
+[00:00:01] geluid fout 1: E (1438) gdma: gdma_register_tx_event_callbacks(464): user context not in internal RAM
+[00:00:01] geluid fout 2: E (1439) i2s_common: i2s_init_dma_intr(734): Register tx callback failed
+[00:00:01] geluid fout 3: E (1441) i2s_std: i2s_channel_init_std_mode(236): initialize dma interrupt failed
+[00:00:02] geluid fout 4: E (1449) i2s_common: i2s_channel_disable(1116): the channel has not been enabled yet
+[00:00:02] geluid: alleen speaker ook mislukt
+[00:00:02] geluid: I2S start mislukt
+[00:00:02] geluid fout 1: E (2148) i2s_common: i2s_channel_disable(1116): the channel has not been enabled yet
+[00:00:02] geluid fout 2: E (2299) i2s_common: i2s_new_channel(902): no available channel found
+[00:00:03] ===== OPSTART v70 | reden: stroom aan | heap 115100 =====
+[00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:03] borden geleerd van de telefoon: 1 punten
+[00:00:04] BLE: telefoon verbonden
+[00:00:04] BLE: code goed, verbonden met de app
+[00:00:04] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:05] groep/worker ingesteld (Ricardo)
+[00:00:06] geluid: niet klaar (i2s-fout)
+[00:00:06] groet: Goedenavond, Ricardo! (vriend 100)
+[00:00:07] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:07] groep/worker ingesteld (Ricardo)
+[00:00:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:00:54] update gevraagd vanuit de app
+[00:00:55] update: v70 -> v71 wordt op de achtergrond binnengehaald
+[00:01:00] status | klok 21:04 | gps zoekt sat=0 zicht=0 nmea=725/0 | 0 km/u | tel data | heap 18488 | licht 114 | fps 20 teken 33.8ms stuur 48.0ms
+[00:01:19] geluid: niet klaar (i2s-fout)
+[00:01:19] update: v71 staat klaar. Installeren via het info-venster of de app
+[00:01:25] update: v71 wordt geinstalleerd, herstarten...
+[00:00:01] geluid: start, vrij DMA 247768 (grootste blok 188404)
+[00:00:01] geluid: PSRAM tijdelijk bezet (3 blokken, 0 vrij over)
+[00:00:01] geluid: ES8311 klaar, volume 25
+[00:00:02] ===== OPSTART v71 | reden: herstart door software | heap 106864 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:02] borden geleerd van de telefoon: 1 punten
+[00:00:03] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:05] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:05] groet: Goedenavond, Ricardo! (vriend 100)
+[00:00:07] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:00:07] BLE: telefoon verbonden
+[00:00:07] BLE: code goed, verbonden met de app
+[00:00:09] groep/worker ingesteld (Ricardo)
+[00:00:10] groep/worker ingesteld (Ricardo)
+[00:00:22] sprint-show 5
+[00:00:29] sprint-show 6
+[00:00:33] sprint-show 1
+[00:00:42] sprint-show 2
+[00:00:51] sprint-show 3
+[00:00:52] sprint-show 4
+[00:01:00] status | klok 21:06 | gps zoekt sat=0 zicht=0 nmea=732/0 | 0 km/u | tel data | heap 61144 | licht 114 | fps 6 teken 156.5ms stuur 18.4ms

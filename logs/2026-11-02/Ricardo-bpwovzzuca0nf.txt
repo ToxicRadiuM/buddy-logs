@@ -1,680 +1,4 @@
-05:05 retro meter: optrekken 0 -> 77
-10:05:05 retro meter: optrekken 0 -> 77
-10:05:05 retro meter: optrekken 0 -> 77
-10:05:05 retro meter: optrekken 0 -> 77
-10:05:06 Buddy-scherm verbonden
-10:05:06 osm wegen Worker: Failed to fetch, ik probeer Overpass rechtstreeks
-10:05:06 osm flits Worker: Failed to fetch, ik probeer Overpass rechtstreeks
-10:05:06 osm werk Worker: Failed to fetch, ik probeer Overpass rechtstreeks
---- v101 · Linux; Android 10; K ---
-10:05:06 start v101
-10:05:06 groep ververst: 5
-10:05:07 GPS automatisch aan
-10:05:07 scherm-aan-slot gekregen
-10:05:07 limiet geschat uit je snelheid: 80
-10:05:07 flitsers via /flitsers: 22/22
-10:05:07 ANWB verkeer geladen: 15 meldingen in de buurt (van 51)
-10:05:07 rws tegel 1724_106 (telefoon): 2450 wegvakken, versie 01-10-2026
-10:05:07 bruggen geladen: 0
-10:05:07 rws tegel 1723_106 (telefoon): 4630 wegvakken, versie 01-10-2026
-10:05:08 NDW geladen: 211 meldingen in de buurt {"lane":91,"closure":81,"speed":31,"jam":7,"accident":1}
-10:05:08 weer: 10.3 graden, code 3, neerslag 0, wind 17
-10:05:08 buienradar: nu 0 mm/u, regen over -1 min
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 matrix-locaties geladen: 6442
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 osm wegen via Worker (bewaard): 2987 stuks
-10:05:08 wegen geladen: 2987 wegen
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 22
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:08 retro meter: optrekken 0 -> 57
-10:05:09 matrix geladen: 379 snelheid, 133 kruis
-10:05:09 retro meter: optrekken 0 -> 57
-10:05:09 retro meter: optrekken 0 -> 57
-10:05:09 retro meter: optrekken 0 -> 57
-10:05:09 retro meter: optrekken 0 -> 57
-10:05:09 retro meter: optrekken 0 -> 57
-10:05:09 retro meter: optrekken 0 -> 57
-10:05:09 retro meter: optrekken 0 -> 57
-10:05:09 retro meter: optrekken 0 -> 57
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 0 -> 69
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:09 retro meter: optrekken 22 -> 73
-10:05:10 retro meter: optrekken 22 -> 73
-10:05:10 retro meter: optrekken 22 -> 73
-10:05:10 retro meter: optrekken 22 -> 73
-10:05:10 retro meter: optrekken 22 -> 73
-10:05:10 retro meter: optrekken 22 -> 73
-10:05:10 retro meter: optrekken 22 -> 73
-10:05:10 retro meter: optrekken 22 -> 73
-10:05:10 retro meter: optrekken 22 -> 73
-10:05:10 retro meter: optrekken 22 -> 73
-10:05:10 retro meter: optrekken 22 -> 73
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:10 retro meter: optrekken 57 -> 75
-10:05:13 bewegingssensor: granted
-10:05:14 rws tegel 1723_105 (internet): 3106 wegvakken, versie 01-10-2026
-10:05:15 v=76 nauwk=4m limiet=100 wegen=13173 draai=1 vaste=97/12 gemeld=22 stemming=relaxed
-10:05:25 v=78 nauwk=4m limiet=100 wegen=13173 draai=0 vaste=97/12 gemeld=22 stemming=relaxed
---- v101 · Linux; Android 10; K ---
-10:05:29 voelen: sensor-teken omgekeerd
-10:05:35 v=79 nauwk=4m limiet=100 wegen=13173 draai=-0 vaste=97/12 gemeld=22 stemming=relaxed
-10:05:39 osm werk via Worker (oud): 400 stuks
-10:05:39 wegwerkzaamheden geladen: 400
-10:05:39 osm flits via Worker (oud): 31 stuks
-10:05:39 flitsdata geladen: 19 flitsers, 0 trajecten (totaal 115/12)
---- v101 · Linux; Android 10; K ---
-10:06:29 scherm-aan-slot gekregen
-10:06:29 scherm-aan-slot gekregen
-10:06:29 terug na 44 s zonder GPS
-10:06:29 v=80 nauwk=10m limiet=100 wegen=13173 draai=0 vaste=115/12 gemeld=22 stemming=alert
-10:06:39 v=89 nauwk=10m limiet=100 wegen=13173 draai=-0 vaste=115/12 gemeld=22 stemming=relaxed
-10:06:49 voelen: ik weet nu waar vooruit is (52%)
-10:06:49 v=98 nauwk=5m limiet=100 wegen=10723 draai=-1 vaste=115/12 gemeld=22 stemming=focused
---- v102 · Linux; Android 10; K ---
-10:08:10 start v102
-10:08:10 groep ververst: 5
-10:08:11 GPS automatisch aan
-10:08:11 scherm-aan-slot gekregen
-10:08:11 voelen: geleerde richting van vorige keer overgenomen
-10:08:11 limiet geschat uit je snelheid: 100
-10:08:11 flitsers via /flitsers: 24/24
-10:08:11 ANWB verkeer geladen: 18 meldingen in de buurt (van 52)
-10:08:11 rws tegel 1723_104 (telefoon): 1549 wegvakken, versie 01-10-2026
-10:08:11 rws tegel 1723_105 (telefoon): 3106 wegvakken, versie 01-10-2026
-10:08:12 matrix-locaties geladen: 6442
-10:08:12 bruggen geladen: 0
-10:08:12 NDW geladen: 209 meldingen in de buurt {"lane":82,"closure":89,"speed":32,"accident":1,"jam":5}
-10:08:12 retro meter: optrekken 0 -> 46
-10:08:13 matrix geladen: 378 snelheid, 152 kruis
-10:08:14 bewegingssensor: granted
-10:08:16 Buddy-scherm verbonden
-10:08:17 scherm: meldingen aan
-10:08:17 scherm: koppeling in orde
-10:08:17 scherm geluid: ok/10/5
-10:08:20 v=97 nauwk=4m limiet=100 wegen=5530 draai=0 vaste=115/12 gemeld=24 stemming=focused
-10:08:23 scherm geluid: ok/10/5
-10:08:23 scherm geluid: ok/10/5
-10:08:23 scherm geluid: ok/10/5
-10:08:23 scherm geluid: ok/10/5
-10:08:23 scherm geluid: ok/10/5
-10:08:23 scherm geluid: ok/10/5
-10:08:23 scherm geluid: ok/10/6
-10:08:25 voelen: sensor-teken gewoon
---- v102 · Linux; Android 10; K ---
-10:08:30 v=98 nauwk=4m limiet=100 wegen=5530 draai=1 vaste=115/12 gemeld=24 stemming=focused
-10:08:32 weer: 10.3 graden, code 3, neerslag 0, wind 18
-10:08:32 buienradar: nu 0 mm/u, regen over -1 min
-10:08:40 v=102 nauwk=4m limiet=100 wegen=5530 draai=0 vaste=115/12 gemeld=24 stemming=focused
-10:08:48 scherm geluid: ok/10/6
-10:08:48 scherm geluid: ok/10/6
-10:08:48 scherm geluid: ok/10/6
-10:08:48 scherm geluid: ok/10/6
-10:08:48 scherm geluid: ok/10/6
-10:08:48 scherm geluid: ok/10/6
-10:08:48 scherm geluid: ok/10/6
-10:08:51 v=101 nauwk=4m limiet=100 wegen=5530 draai=0 vaste=115/12 gemeld=24 stemming=focused
-10:09:01 v=103 nauwk=4m limiet=100 wegen=5530 draai=1 vaste=115/12 gemeld=24 stemming=focused
-10:09:10 osm werk via Worker (bewaard): 400 stuks
-10:09:10 wegwerkzaamheden geladen: 400
-10:09:11 v=101 nauwk=4m limiet=100 wegen=5530 draai=-0 vaste=115/12 gemeld=24 stemming=content
-10:09:18 scherm geluid: ok/10/6
-10:09:18 scherm geluid: ok/10/6
-10:09:18 scherm geluid: ok/10/6
-10:09:18 scherm geluid: ok/10/6
-10:09:18 scherm geluid: ok/10/6
-10:09:18 scherm geluid: ok/10/6
-10:09:18 scherm geluid: ok/10/6
-10:09:21 v=99 nauwk=4m limiet=100 wegen=5530 draai=-1 vaste=115/12 gemeld=24 stemming=focused
-10:09:30 rws tegel 1722_104 (internet): 804 wegvakken, versie 01-10-2026
-10:09:32 v=101 nauwk=4m limiet=100 wegen=6334 draai=0 vaste=115/12 gemeld=24 stemming=happy
-10:09:43 v=101 nauwk=4m limiet=100 wegen=6334 draai=1 vaste=115/12 gemeld=24 stemming=focused
-10:09:48 scherm geluid: ok/10/6
-10:09:48 scherm geluid: ok/10/6
-10:09:48 scherm geluid: ok/10/6
-10:09:48 scherm geluid: ok/10/6
-10:09:48 scherm geluid: ok/10/6
-10:09:48 scherm geluid: ok/10/6
-10:09:48 scherm geluid: ok/10/6
-10:09:53 v=98 nauwk=4m limiet=100 wegen=3228 draai=1 vaste=115/12 gemeld=24 stemming=focused
-10:10:03 osm flits via Worker (overpass): 18 stuks
-10:10:03 flitsdata geladen: 15 flitsers, 0 trajecten (totaal 117/12)
-10:10:04 v=101 nauwk=4m limiet=100 wegen=3228 draai=0 vaste=117/12 gemeld=24 stemming=focused
-10:10:05 voelen: ik weet nu waar vooruit is (60%)
-10:10:13 ANWB verkeer geladen: 19 meldingen in de buurt (van 52)
-10:10:13 flitsers via /flitsers: 24/24
-10:10:14 v=80 nauwk=4m limiet=100 wegen=3228 draai=-0 vaste=117/12 gemeld=24 stemming=relaxed
-10:10:16 rws tegel 1723_103 (internet): 1509 wegvakken, versie 01-10-2026
-10:10:18 scherm geluid: ok/10/6
-10:10:18 scherm geluid: ok/10/6
-10:10:18 scherm geluid: ok/10/6
-10:10:18 scherm geluid: ok/10/6
-10:10:18 scherm geluid: ok/10/6
-10:10:18 scherm geluid: ok/10/6
-10:10:18 scherm geluid: ok/10/6
-10:10:25 v=82 nauwk=4m limiet=100 wegen=4737 draai=2 vaste=117/12 gemeld=24 stemming=relaxed
-10:10:36 v=81 nauwk=4m limiet=100 wegen=4737 draai=0 vaste=117/12 gemeld=24 stemming=relaxed
-10:10:46 v=54 nauwk=10m limiet=100 wegen=4737 draai=1 vaste=117/12 gemeld=24 stemming=relaxed
-10:10:48 scherm geluid: ok/10/6
-10:10:48 scherm geluid: ok/10/6
-10:10:48 scherm geluid: ok/10/6
-10:10:48 scherm geluid: ok/10/6
-10:10:48 scherm geluid: ok/10/6
-10:10:48 scherm geluid: ok/10/6
-10:10:48 scherm geluid: ok/10/6
-10:10:57 v=3 nauwk=4m limiet=50 wegen=4737 draai=-0 vaste=117/12 gemeld=24 stemming=neutral
-10:11:00 voelen: ik weet nu waar vooruit is (51%)
-10:11:01 drempel/schok sterkte 4.5 bij 8 km/h
-10:11:01 ev startled: Boing!
-10:11:02 drempel/schok sterkte 3.1 bij 11 km/h (tweede klap)
-10:11:03 retro meter: optrekken 8 -> 21
-10:11:04 drempel/schok sterkte 2.8 bij 31 km/h
-10:11:08 v=49 nauwk=4m limiet=50 wegen=4737 draai=5 vaste=117/12 gemeld=24 stemming=excited
-10:11:11 groep ververst: 5
-10:11:18 scherm geluid: ok/10/6
-10:11:18 scherm geluid: ok/10/6
-10:11:18 scherm geluid: ok/10/6
-10:11:18 scherm geluid: ok/10/6
-10:11:18 scherm geluid: ok/10/6
-10:11:18 scherm geluid: ok/10/6
-10:11:18 scherm geluid: ok/10/7
-10:11:18 v=38 nauwk=4m limiet=50 wegen=4737 draai=-1 vaste=117/12 gemeld=24 stemming=relaxed
-10:11:28 v=17 nauwk=4m limiet=50 wegen=4737 draai=1 vaste=117/12 gemeld=24 stemming=neutral
-10:11:39 v=0 nauwk=4m limiet=50 wegen=4737 draai=-0 vaste=117/12 gemeld=24 stemming=neutral
-10:11:48 scherm geluid: ok/10/7
-10:11:48 scherm geluid: ok/10/7
-10:11:48 scherm geluid: ok/10/7
-10:11:48 scherm geluid: ok/10/7
-10:11:48 scherm geluid: ok/10/7
-10:11:48 scherm geluid: ok/10/7
-10:11:48 scherm geluid: ok/10/7
-10:11:50 v=0 nauwk=4m limiet=50 wegen=4737 draai=-0 vaste=117/12 gemeld=24 stemming=alert
-10:11:58 ev excited: Groen! Daar gaan we.
-10:11:59 retro meter: optrekken 0 -> 12
-10:12:00 v=17 nauwk=10m limiet=50 wegen=4737 draai=0 vaste=117/12 gemeld=24 stemming=excited
-10:12:08 voelen: ik weet nu waar vooruit is (56%)
-10:12:10 drempel/schok sterkte 3.2 bij 8 km/h
-10:12:11 ev excited: Whoeeh, optrekken!
-10:12:11 osm wegen via Worker (bewaard): 654 stuks
-10:12:11 wegen geladen: 654 wegen
-10:12:11 rws tegel 1722_103 (internet): 964 wegvakken, versie 01-10-2026
-10:12:11 retro meter: optrekken 7 -> 21
-10:12:11 v=30 nauwk=6m limiet=50 wegen=6355 draai=-47 vaste=117/12 gemeld=24 stemming=excited
-10:12:12 drempel/schok sterkte 2.3 bij 24 km/h (tweede klap)
-10:12:13 flitsers via /flitsers: 24/24
-10:12:14 ANWB verkeer geladen: 20 meldingen in de buurt (van 53)
-10:12:18 scherm geluid: ok/10/7
-10:12:18 scherm geluid: ok/10/7
-10:12:18 scherm geluid: ok/10/7
-10:12:18 scherm geluid: ok/10/7
-10:12:18 scherm geluid: ok/10/7
-10:12:18 scherm geluid: ok/10/7
-10:12:18 scherm geluid: ok/10/10
-10:12:22 v=30 nauwk=4m limiet=50 wegen=6355 draai=-13 vaste=117/12 gemeld=24 stemming=relaxed
-10:12:23 drempel/schok sterkte 16.1 bij 30 km/h
-10:12:23 ev worried: Au! Wat een gat.
-10:12:32 v=54 nauwk=4m limiet=70 wegen=6355 draai=-8 vaste=117/12 gemeld=24 stemming=relaxed
-10:12:43 v=70 nauwk=4m limiet=70 wegen=6355 draai=1 vaste=117/12 gemeld=24 stemming=happy
-10:12:48 scherm geluid: ok/10/10
-10:12:48 scherm geluid: ok/10/10
-10:12:48 scherm geluid: ok/10/10
-10:12:48 scherm geluid: ok/10/10
-10:12:48 scherm geluid: ok/10/10
-10:12:48 scherm geluid: ok/10/10
-10:12:48 scherm geluid: ok/10/11
-10:12:53 v=68 nauwk=4m limiet=70 wegen=6355 draai=0 vaste=117/12 gemeld=24 stemming=relaxed
-10:12:54 NDW melding lane 887 m: alleen icoontje
-10:13:03 v=63 nauwk=4m limiet=70 wegen=6355 draai=-0 vaste=117/12 gemeld=24 stemming=relaxed
-10:13:13 NDW geladen: 212 meldingen in de buurt {"lane":79,"closure":94,"speed":33,"jam":6}
-10:13:13 v=65 nauwk=4m limiet=70 wegen=6355 draai=0 vaste=117/12 gemeld=24 stemming=relaxed
---- v102 · Linux; Android 10; K ---
-10:13:20 scherm geluid: ok/10/11
-10:13:20 scherm geluid: ok/10/11
-10:13:20 scherm geluid: ok/10/11
-10:13:20 scherm geluid: ok/10/11
-10:13:20 scherm geluid: ok/10/11
-10:13:20 scherm geluid: ok/10/11
-10:13:20 scherm geluid: ok/10/11
-10:13:50 scherm geluid: ok/10/11
-10:13:50 scherm geluid: ok/10/11
-10:13:50 scherm geluid: ok/10/11
-10:13:50 scherm geluid: ok/10/11
-10:13:50 scherm geluid: ok/10/11
-10:13:50 scherm geluid: ok/10/11
-10:13:50 scherm geluid: ok/10/11
-10:32:27 scherm-aan-slot gekregen
---- v102 · Linux; Android 10; K ---
-10:32:27 scherm-aan-slot gekregen
-10:32:27 ev happy: Goedemorgen Ricardo!
-10:32:29 terug na 743 s zonder GPS
-10:32:29 v=0 nauwk=18m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=24 stemming=happy
-10:32:29 groep ververst: 5
-10:32:29 ANWB verkeer geladen: 15 meldingen in de buurt (van 46)
-10:32:29 weer: 10.1 graden, code 3, neerslag 0, wind 15
-10:32:29 bruggen geladen: 0
-10:32:29 NDW geladen: 217 meldingen in de buurt {"lane":81,"closure":96,"speed":33,"jam":6,"accident":1}
-10:32:29 buienradar: nu 0.21 mm/u, regen over -1 min
-10:32:30 Buddy-scherm verbonden
-10:32:30 scherm: meldingen aan
-10:32:30 scherm: bericht geweigerd (GATT Server is disconnected. Cannot perform GATT operations. (Re)connect first with `device.gatt.connect`.), koppelen nodig
-10:32:30 flitsers via /flitsers: 22/22
-10:32:36 Buddy-scherm verbonden
-10:32:36 scherm: meldingen aan
-10:32:36 scherm: koppeling in orde
-10:32:36 scherm geluid: ok/10/11
-10:32:36 scherm geluid: ok/10/11
-10:32:36 scherm geluid: ok/10/11
-10:32:36 scherm geluid: ok/10/11
-10:32:36 scherm geluid: ok/10/11
-10:32:36 scherm geluid: ok/10/11
-10:32:36 scherm geluid: ok/10/1
-10:32:36 scherm geluid: ok/10/1
-10:32:36 scherm geluid: ok/10/1
-10:32:36 scherm geluid: ok/10/1
-10:32:36 scherm geluid: ok/10/1
-10:32:36 scherm geluid: ok/10/1
-10:32:37 scherm geluid: ok/10/1
-10:32:37 scherm geluid: ok/10/1
-10:32:38 ev relaxed: Lekker liggen…
-10:32:38 scherm geluid: ok/10/1
-10:32:38 scherm geluid: ok/10/1
-10:32:38 scherm geluid: ok/10/1
-10:32:38 scherm geluid: ok/10/1
-10:32:38 scherm geluid: ok/10/1
-10:32:38 scherm geluid: ok/10/1
-10:32:38 scherm geluid: ok/10/1
-10:32:39 v=0 nauwk=23m limiet=70 wegen=3127 draai=0 vaste=117/12 gemeld=22 stemming=relaxed
-10:32:47 ev excited: Binnen!
-10:32:47 geklopt (2×)
-10:32:49 scherm| at)
-10:32:49 scherm| [00:06:13] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:13] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:14] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:14] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:15] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:15] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:16] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:16] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:17] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:17] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:18] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:18] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:19] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:19] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:20] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:20] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:21] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:21] retro meter: optrekken 3 -> 15
-10:32:49 scherm| [00:06:21] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:22] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:22] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:23] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:23] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:24] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:24] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:26] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:26] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:27] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:27] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:28] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:28] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:29] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:29] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:30] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:30] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:31] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:31] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:32] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:32] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:33] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:33] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:34] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:34] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:35] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:35] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:36] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:36] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:37] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:37] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:38] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:38] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:39] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:39] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:40] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:40] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:41] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:41] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:42] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:42] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:43] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:43] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:44] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:44] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:45] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:45] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:46] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:46] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:47] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:47] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:48] net: ers.dev/scherm?lat=51.69516&lon=5.19591&g=123456&van=bpwovzzuca0nf&sinds=0 -> -1
-10:32:49 scherm| [00:06:48] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:49] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:50] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:50] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:51] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:51] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:52] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:52] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:53] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:53] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:54] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:54] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:55] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:55] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:56] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:56] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:57] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:57] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:58] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:58] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:06:59] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:06:59] net: ToxicRadiuM/GeenIdee/snelheden/t/1723_103.json -> -1
-10:32:49 scherm| [00:06:59] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:00] status | klok 10:11 | gps zoekt sat=0 zicht=0 nmea=5087/0 | 0 km/u | tel data | heap 72212 | licht 165 | fps 34 teken 20.2ms stuur 15.4ms
-10:32:49 scherm| [00:07:00] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:00] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:01] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:01] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:02] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:02] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:03] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:03] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:04] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:04] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:05] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:05] net: ToxicRadiuM/GeenIdee/snelheden/t/1723_103.json -> -1
-10:32:49 scherm| [00:07:05] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:06] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:06] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:07] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:07] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:08] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:08] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:09] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:09] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:10] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:11] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:11] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:11] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:12] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:12] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:13] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:13] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:14] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:14] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:15] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:15] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:16] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:16] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:17] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:17] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:18] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:18] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:18] retro meter: optrekken 1 -> 14
-10:32:49 scherm| [00:07:19] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:19] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:20] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:20] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:21] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:21] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:22] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:22] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:23] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:23] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:24] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:24] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:25] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:25] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:26] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:26] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:27] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:27] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:28] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:28] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:29] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:29] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:30] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:30] geluid: hing vast, losgemaakt
-10:32:49 scherm| [00:07:30] retro meter: optrekken 6 -> 23
-10:32:49 scherm| [00:07:30] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:31] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:31] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:32] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:32] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:33] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:33] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:34] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:34] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:35] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:35] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:36] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:36] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:36] sprint-show 4
-10:32:49 scherm| [00:07:37] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:37] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:38] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:38] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:39] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:39] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:40] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:40] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:43] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:44] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:45] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:45] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:46] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:46] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:47] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:47] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:48] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:48] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:49] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:49] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:50] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:50] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:51] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:51] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:52] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:52] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:53] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:53] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:54] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:54] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:55] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:55] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:56] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:56] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:57] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:57] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:58] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:58] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:07:59] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:07:59] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:00] status | klok 10:12 | gps zoekt sat=0 zicht=4 nmea=5811/0 | 68 km/u | tel data | heap 23132 | licht 165 | fps 32 teken 21.3ms stuur 18.3ms
-10:32:49 scherm| [00:08:00] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:00] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:01] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:01] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:02] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:02] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:03] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:03] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:04] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:04] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:05] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:05] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:06] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:06] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:07] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:07] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:08] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:08] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:09] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:09] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:10] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:10] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:11] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:11] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:12] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:12] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:13] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:13] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:14] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:14] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:15] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:15] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:16] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:16] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:17] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:17] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:18] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:18] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:19] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:19] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:20] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:20] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:21] GPS: FIX! 0 satellieten
-10:32:49 scherm| [00:08:21] GPS: fix kwijt (0 sat)
-10:32:49 scherm| [00:08:22] GPS: FIX! 0 satellieten
+8:22] GPS: FIX! 0 satellieten
 10:32:49 scherm| [00:08:22] GPS: fix kwijt (0 sat)
 10:32:49 scherm| [00:08:23] GPS: FIX! 0 satellieten
 10:32:49 scherm| [00:08:23] GPS: fix kwijt (0 sat)
@@ -6286,3 +5610,394 @@
 20:50:32 scherm geluid: i2s-fout/45/0
 20:51:31 GPS automatisch aan
 20:51:31 scherm-aan-slot gekregen
+--- v105 · Linux; Android 10; K ---
+20:51:47 scherm geluid: i2s-fout/45/0
+20:51:47 scherm geluid: i2s-fout/45/0
+20:51:47 scherm geluid: i2s-fout/45/0
+20:51:47 scherm geluid: i2s-fout/45/0
+20:51:47 scherm geluid: i2s-fout/45/0
+20:51:47 scherm geluid: i2s-fout/45/0
+20:51:47 scherm geluid: i2s-fout/45/0
+20:52:16 scherm geluid: i2s-fout/45/0
+20:52:16 scherm geluid: i2s-fout/45/0
+20:52:16 scherm geluid: i2s-fout/45/0
+20:52:16 scherm geluid: i2s-fout/45/0
+20:52:16 scherm geluid: i2s-fout/45/0
+20:52:16 scherm geluid: i2s-fout/45/0
+20:52:16 scherm geluid: i2s-fout/45/0
+21:02:22 GPS automatisch aan
+21:02:22 scherm-aan-slot gekregen
+21:02:24 scherm geluid: i2s-fout/45/0
+21:02:24 scherm geluid: i2s-fout/45/0
+21:02:24 scherm geluid: i2s-fout/45/0
+21:02:24 scherm geluid: i2s-fout/45/0
+21:02:24 scherm geluid: i2s-fout/45/0
+21:02:24 scherm geluid: i2s-fout/45/0
+21:02:24 scherm geluid: i2s-fout/45/0
+21:02:25 wifi naar scherm gestuurd: Sultra
+21:02:26 voelen: telefoon gedraaid (34°), richting meegedraaid
+--- v105 · Linux; Android 10; K ---
+21:02:49 scherm geluid: i2s-fout/45/0
+21:02:49 scherm geluid: i2s-fout/45/0
+21:02:49 scherm geluid: i2s-fout/45/0
+21:02:49 scherm geluid: i2s-fout/45/0
+21:02:49 scherm geluid: i2s-fout/45/0
+21:02:49 scherm geluid: i2s-fout/45/0
+21:02:49 scherm geluid: i2s-fout/45/0
+21:02:57 voelen: telefoon gedraaid (33°), richting meegedraaid
+21:03:16 wifi naar scherm gestuurd: Sultra
+21:03:19 scherm geluid: i2s-fout/45/0
+21:03:19 scherm geluid: i2s-fout/45/0
+21:03:19 scherm geluid: i2s-fout/45/0
+21:03:19 scherm geluid: i2s-fout/45/0
+21:03:19 scherm geluid: i2s-fout/45/0
+21:03:19 scherm geluid: i2s-fout/45/0
+21:03:19 scherm geluid: i2s-fout/45/0
+21:03:38 Buddy-scherm verbonden
+21:03:38 scherm: meldingen aan
+21:03:38 scherm: code goed, verbonden
+21:03:41 scherm geluid: i2s-fout/45/0
+21:03:41 scherm geluid: i2s-fout/45/0
+21:03:41 scherm geluid: i2s-fout/45/0
+21:03:41 scherm geluid: i2s-fout/45/0
+21:03:41 scherm geluid: i2s-fout/45/0
+21:03:41 scherm geluid: i2s-fout/45/0
+21:03:41 scherm geluid: i2s-fout/25/0
+21:03:41 scherm geluid: i2s-fout/25/0
+21:03:41 scherm geluid: i2s-fout/25/0
+21:03:41 scherm geluid: i2s-fout/25/0
+21:03:41 scherm geluid: i2s-fout/25/0
+21:03:41 scherm geluid: i2s-fout/25/0
+21:03:41 scherm geluid: i2s-fout/25/0
+21:03:41 scherm geluid: i2s-fout/25/0
+21:03:51 scherm| t 191 | fps 57 teken 12.0ms stuur 12.2ms
+21:03:51 scherm| [00:10:09] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:10:11] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:10:25] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:11:00] status | klok 20:32 | gps zoekt sat=0 zicht=0 nmea=7932/0 | 0 km/u | tel data | heap 69340 | licht 255 | fps 58 teken 11.7ms stuur 11.8ms
+21:03:51 scherm| [00:11:25] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:12:00] status | klok 20:33 | gps zoekt sat=0 zicht=0 nmea=8652/0 | 0 km/u | tel data | heap 69340 | licht 255 | fps 50 teken 15.0ms stuur 13.5ms
+21:03:51 scherm| [00:12:09] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:12:11] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:12:27] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:13:00] status | klok 20:34 | gps zoekt sat=0 zicht=0 nmea=9372/0 | 0 km/u | tel data | heap 69340 | licht 255 | fps 52 teken 14.2ms stuur 13.6ms
+21:03:51 scherm| [00:13:27] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:14:00] status | klok 20:35 | gps zoekt sat=0 zicht=0 nmea=10092/0 | 0 km/u | tel data | heap 69340 | licht 255 | fps 58 teken 11.0ms stuur 11.3ms
+21:03:51 scherm| [00:14:09] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:14:12] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:14:30] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:15:00] status | klok 20:36 | gps zoekt sat=0 zicht=0 nmea=10812/0 | 0 km/u | tel data | heap 69340 | licht 255 | fps 49 teken 15.5ms stuur 13.6ms
+21:03:51 scherm| [00:15:30] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:16:00] status | klok 20:37 | gps zoekt sat=0 zicht=0 nmea=11532/0 | 0 km/u | tel data | heap 69340 | licht 255 | fps 56 teken 11.1ms stuur 11.1ms
+21:03:51 scherm| [00:16:10] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:16:12] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:16:30] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:17:00] status | klok 20:38 | gps zoekt sat=0 zicht=0 nmea=12252/0 | 0 km/u | tel data | heap 69340 | licht 255 | fps 56 teken 11.5ms stuur 11.6ms
+21:03:51 scherm| [00:17:30] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:18:00] status | klok 20:39 | gps zoekt sat=0 zicht=0 nmea=12972/0 | 0 km/u | tel data | heap 67572 | licht 255 | fps 57 teken 11.4ms stuur 11.5ms
+21:03:51 scherm| [00:18:10] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:18:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:18:30] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:19:00] status | klok 20:40 | gps zoekt sat=0 zicht=0 nmea=13692/0 | 0 km/u | tel stil | heap 69340 | licht 255 | fps 53 teken 12.6ms stuur 9.3ms
+21:03:51 scherm| [00:19:00] geluid test (scherm): klaar=0 volume=45 status=i2s-fout
+21:03:51 scherm| [00:19:01] geluid test (scherm): klaar=0 volume=45 status=i2s-fout
+21:03:51 scherm| [00:19:33] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:20:00] status | klok 20:41 | gps zoekt sat=0 zicht=0 nmea=14412/0 | 0 km/u | tel stil | heap 69196 | licht 255 | fps 51 teken 14.5ms stuur 12.7ms
+21:03:51 scherm| [00:20:11] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:20:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:20:33] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:00:01] geluid: start, vrij DMA 247960 (grootste blok 188404)
+21:03:51 scherm| [00:00:01] geluid fout 1: E (1137) gdma: gdma_register_tx_event_callbacks(464): user context not in internal RAM
+21:03:51 scherm| [00:00:01] geluid fout 2: E (1138) i2s_common: i2s_init_dma_intr(734): Register tx callback failed
+21:03:51 scherm| [00:00:01] geluid fout 3: E (1141) i2s_std: i2s_channel_init_std_mode(236): initialize dma interrupt failed
+21:03:51 scherm| [00:00:01] geluid fout 4: E (1148) i2s_common: i2s_channel_disable(1116): the channel has not been enabled yet
+21:03:51 scherm| [00:00:01] geluid: alleen speaker ook mislukt
+21:03:51 scherm| [00:00:02] geluid: I2S start mislukt
+21:03:51 scherm| [00:00:02] geluid fout 1: E (1768) i2s_common: i2s_channel_disable(1116): the channel has not been enabled yet
+21:03:51 scherm| [00:00:02] geluid fout 2: E (1919) i2s_common: i2s_new_channel(902): no available channel found
+21:03:51 scherm| [00:00:03] ===== OPSTART v70 | reden: CRASH (panic) | heap 115100 =====
+21:03:51 scherm| [00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+21:03:51 scherm| [00:00:03] borden geleerd van de telefoon: 1 punten
+21:03:51 scherm| [00:00:04] wifi verbonden (Sultra), IP 10.230.69.32
+21:03:51 scherm| [00:00:05] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:00:05] groet: Goedenavond, Ricardo! (vriend 100)
+21:03:51 scherm| [00:00:06] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+21:03:51 scherm| [00:00:07] BLE: telefoon verbonden
+21:03:51 scherm| [00:00:08] BLE: code goed, verbonden met de app
+21:03:51 scherm| [00:00:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+21:03:51 scherm| [00:01:00] status | klok 20:43 | gps zoekt sat=0 zicht=0 nmea=732/0 | 0 km/u | tel data | heap 69476 | licht 255 | fps 57 teken 11.5ms stuur 11.5ms
+21:03:51 scherm| [00:01:00] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+21:03:51 scherm| [00:01:08] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:02:00] status | klok 20:44 | gps zoekt sat=0 zicht=0 nmea=1452/0 | 0 km/u | tel stil | heap 69476 | licht 255 | fps 50 teken 15.0ms stuur 12.8ms
+21:03:51 scherm| [00:02:07] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:02:10] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:02:13] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:03:00] status | klok 20:45 | gps zoekt sat=0 zicht=0 nmea=2172/0 | 0 km/u | tel stil | heap 69476 | licht 255 | fps 51 teken 14.2ms stuur 12.3ms
+21:03:51 scherm| [00:03:13] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:04:00] status | klok 20:46 | gps zoekt sat=0 zicht=0 nmea=2892/0 | 0 km/u | tel data | heap 60328 | licht 255 | fps 49 teken 14.9ms stuur 14.8ms
+21:03:51 scherm| [00:04:08] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:04:10] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:04:13] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:05:00] status | klok 20:47 | gps zoekt sat=0 zicht=0 nmea=3612/0 | 0 km/u | tel data | heap 68900 | licht 255 | fps 51 teken 13.2ms stuur 11.9ms
+21:03:51 scherm| [00:05:13] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:06:00] status | klok 20:48 | gps zoekt sat=0 zicht=0 nmea=4332/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 52 teken 13.9ms stuur 11.9ms
+21:03:51 scherm| [00:06:09] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:06:11] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:06:13] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:07:00] status | klok 20:49 | gps zoekt sat=0 zicht=0 nmea=5052/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 53 teken 12.3ms stuur 11.0ms
+21:03:51 scherm| [00:07:14] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:08:00] status | klok 20:50 | gps zoekt sat=0 zicht=0 nmea=5772/0 | 0 km/u | tel data | heap 68900 | licht 255 | fps 47 teken 15.7ms stuur 13.6ms
+21:03:51 scherm| [00:08:09] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:08:11] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:08:14] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:09:00] status | klok 20:51 | gps zoekt sat=0 zicht=0 nmea=6492/0 | 0 km/u | tel data | heap 68900 | licht 255 | fps 49 teken 14.8ms stuur 12.9ms
+21:03:51 scherm| [00:09:14] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:10:00] status | klok 20:52 | gps zoekt sat=0 zicht=0 nmea=7212/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 50 teken 14.6ms stuur 12.7ms
+21:03:51 scherm| [00:10:11] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:10:12] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:10:14] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:11:00] status | klok 20:53 | gps zoekt sat=0 zicht=0 nmea=7932/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 48 teken 15.5ms stuur 13.4ms
+21:03:51 scherm| [00:11:17] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:12:00] status | klok 20:54 | gps zoekt sat=0 zicht=0 nmea=8652/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 52 teken 12.7ms stuur 11.0ms
+21:03:51 scherm| [00:12:10] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:12:15] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:12:17] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:13:00] status | klok 20:55 | gps zoekt sat=0 zicht=0 nmea=9372/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 51 teken 13.1ms stuur 11.1ms
+21:03:51 scherm| [00:13:17] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:14:00] status | klok 20:56 | gps zoekt sat=0 zicht=0 nmea=10092/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 47 teken 16.0ms stuur 13.5ms
+21:03:51 scherm| [00:14:11] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:14:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:14:20] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:15:00] status | klok 20:57 | gps zoekt sat=0 zicht=0 nmea=10812/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 48 teken 15.4ms stuur 11.8ms
+21:03:51 scherm| [00:15:20] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:16:00] status | klok 20:58 | gps zoekt sat=0 zicht=0 nmea=11532/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 54 teken 13.3ms stuur 11.1ms
+21:03:51 scherm| [00:16:12] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:16:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:16:24] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:17:00] status | klok 20:59 | gps zoekt sat=0 zicht=0 nmea=12252/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 57 teken 11.6ms stuur 9.3ms
+21:03:51 scherm| [00:17:27] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:18:00] status | klok 21:00 | gps zoekt sat=0 zicht=0 nmea=12972/0 | 0 km/u | tel stil | heap 68900 | licht 114 | fps 47 teken 16.0ms stuur 13.3ms
+21:03:51 scherm| [00:18:12] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:18:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:18:27] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:19:00] status | klok 21:01 | gps zoekt sat=0 zicht=0 nmea=13692/0 | 0 km/u | tel stil | heap 68900 | licht 114 | fps 57 teken 10.9ms stuur 8.9ms
+21:03:51 scherm| [00:19:29] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:19:40] wifi ingesteld: Sultra
+21:03:51 scherm| [00:20:00] status | klok 21:02 | gps zoekt sat=0 zicht=0 nmea=14412/0 | 0 km/u | tel data | heap 68844 | licht 114 | fps 43 teken 18.5ms stuur 14.8ms
+21:03:51 scherm| [00:20:08] update gevraagd vanuit de app
+21:03:51 scherm| [00:20:08] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+21:03:51 scherm| [00:20:12] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:03:51 scherm| [00:20:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:03:51 scherm| [00:20:25] update gevraagd vanuit de app
+21:03:51 scherm| [00:20:25] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+21:03:51 scherm| [00:20:29] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:20:30] wifi ingesteld: Sultra
+21:03:51 scherm| [00:00:01] geluid: start, vrij DMA 247960 (grootste blok 188404)
+21:03:51 scherm| [00:00:01] geluid fout 1: E (1438) gdma: gdma_register_tx_event_callbacks(464): user context not in internal RAM
+21:03:51 scherm| [00:00:01] geluid fout 2: E (1439) i2s_common: i2s_init_dma_intr(734): Register tx callback failed
+21:03:51 scherm| [00:00:01] geluid fout 3: E (1441) i2s_std: i2s_channel_init_std_mode(236): initialize dma interrupt failed
+21:03:51 scherm| [00:00:02] geluid fout 4: E (1449) i2s_common: i2s_channel_disable(1116): the channel has not been enabled yet
+21:03:51 scherm| [00:00:02] geluid: alleen speaker ook mislukt
+21:03:51 scherm| [00:00:02] geluid: I2S start mislukt
+21:03:51 scherm| [00:00:02] geluid fout 1: E (2148) i2s_common: i2s_channel_disable(1116): the channel has not been enabled yet
+21:03:51 scherm| [00:00:02] geluid fout 2: E (2299) i2s_common: i2s_new_channel(902): no available channel found
+21:03:51 scherm| [00:00:03] ===== OPSTART v70 | reden: stroom aan | heap 115100 =====
+21:03:51 scherm| [00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+21:03:51 scherm| [00:00:03] borden geleerd van de telefoon: 1 punten
+21:03:51 scherm| [00:00:04] BLE: telefoon verbonden
+21:03:51 scherm| [00:00:04] BLE: code goed, verbonden met de app
+21:03:51 scherm| [00:00:04] wifi verbonden (Sultra), IP 10.230.69.32
+21:03:51 scherm| [00:00:05] groep/worker ingesteld (Ricardo)
+21:03:51 scherm| [00:00:06] geluid: niet klaar (i2s-fout)
+21:03:51 scherm| [00:00:06] groet: Goedenavond, Ricardo! (vriend 100)
+21:03:51 scherm| [00:00:07] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+21:03:51 scherm| [00:00:07] groep/worker ingesteld (Ricardo)
+--- v105 · Linux; Android 10; K ---
+21:04:19 scherm geluid: i2s-fout/25/0
+21:04:19 scherm geluid: i2s-fout/25/0
+21:04:19 scherm geluid: i2s-fout/25/0
+21:04:19 scherm geluid: i2s-fout/25/0
+21:04:19 scherm geluid: i2s-fout/25/0
+21:04:19 scherm geluid: i2s-fout/25/0
+21:04:19 scherm geluid: i2s-fout/25/0
+21:04:49 scherm geluid: i2s-fout/25/0
+21:04:49 scherm geluid: i2s-fout/25/0
+21:04:49 scherm geluid: i2s-fout/25/0
+21:04:49 scherm geluid: i2s-fout/25/0
+21:04:49 scherm geluid: i2s-fout/25/0
+21:04:49 scherm geluid: i2s-fout/25/0
+21:04:49 scherm geluid: i2s-fout/25/0
+21:04:53 scherm geluid: i2s-fout/25/0
+21:04:53 scherm geluid: i2s-fout/25/0
+21:04:53 scherm geluid: i2s-fout/25/0
+21:04:53 scherm geluid: i2s-fout/25/0
+21:04:53 scherm geluid: i2s-fout/25/0
+21:04:53 scherm geluid: i2s-fout/25/0
+21:04:53 scherm geluid: i2s-fout/25/0
+21:04:53 scherm geluid: i2s-fout/25/0
+21:05:08 Buddy-scherm verbonden
+21:05:08 scherm: meldingen aan
+21:05:08 scherm: code goed, verbonden
+21:05:11 scherm geluid: i2s-fout/25/0
+21:05:11 scherm geluid: i2s-fout/25/0
+21:05:11 scherm geluid: i2s-fout/25/0
+21:05:11 scherm geluid: i2s-fout/25/0
+21:05:11 scherm geluid: i2s-fout/25/0
+21:05:11 scherm geluid: i2s-fout/25/0
+21:05:11 scherm geluid: ok/25/2
+21:05:11 scherm geluid: ok/25/2
+21:05:11 scherm geluid: ok/25/2
+21:05:11 scherm geluid: ok/25/2
+21:05:11 scherm geluid: ok/25/2
+21:05:11 scherm geluid: ok/25/2
+21:05:11 scherm geluid: ok/25/2
+21:05:11 scherm geluid: ok/25/2
+21:05:21 scherm| g ok, laatste download mislukt
+21:05:21 scherm| [00:14:30] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:15:00] status | klok 20:36 | gps zoekt sat=0 zicht=0 nmea=10812/0 | 0 km/u | tel data | heap 69340 | licht 255 | fps 49 teken 15.5ms stuur 13.6ms
+21:05:21 scherm| [00:15:30] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:16:00] status | klok 20:37 | gps zoekt sat=0 zicht=0 nmea=11532/0 | 0 km/u | tel data | heap 69340 | licht 255 | fps 56 teken 11.1ms stuur 11.1ms
+21:05:21 scherm| [00:16:10] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:05:21 scherm| [00:16:12] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:05:21 scherm| [00:16:30] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:17:00] status | klok 20:38 | gps zoekt sat=0 zicht=0 nmea=12252/0 | 0 km/u | tel data | heap 69340 | licht 255 | fps 56 teken 11.5ms stuur 11.6ms
+21:05:21 scherm| [00:17:30] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:18:00] status | klok 20:39 | gps zoekt sat=0 zicht=0 nmea=12972/0 | 0 km/u | tel data | heap 67572 | licht 255 | fps 57 teken 11.4ms stuur 11.5ms
+21:05:21 scherm| [00:18:10] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:05:21 scherm| [00:18:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:05:21 scherm| [00:18:30] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:19:00] status | klok 20:40 | gps zoekt sat=0 zicht=0 nmea=13692/0 | 0 km/u | tel stil | heap 69340 | licht 255 | fps 53 teken 12.6ms stuur 9.3ms
+21:05:21 scherm| [00:19:00] geluid test (scherm): klaar=0 volume=45 status=i2s-fout
+21:05:21 scherm| [00:19:01] geluid test (scherm): klaar=0 volume=45 status=i2s-fout
+21:05:21 scherm| [00:19:33] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:20:00] status | klok 20:41 | gps zoekt sat=0 zicht=0 nmea=14412/0 | 0 km/u | tel stil | heap 69196 | licht 255 | fps 51 teken 14.5ms stuur 12.7ms
+21:05:21 scherm| [00:20:11] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:05:21 scherm| [00:20:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:05:21 scherm| [00:20:33] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:00:01] geluid: start, vrij DMA 247960 (grootste blok 188404)
+21:05:21 scherm| [00:00:01] geluid fout 1: E (1137) gdma: gdma_register_tx_event_callbacks(464): user context not in internal RAM
+21:05:21 scherm| [00:00:01] geluid fout 2: E (1138) i2s_common: i2s_init_dma_intr(734): Register tx callback failed
+21:05:21 scherm| [00:00:01] geluid fout 3: E (1141) i2s_std: i2s_channel_init_std_mode(236): initialize dma interrupt failed
+21:05:21 scherm| [00:00:01] geluid fout 4: E (1148) i2s_common: i2s_channel_disable(1116): the channel has not been enabled yet
+21:05:21 scherm| [00:00:01] geluid: alleen speaker ook mislukt
+21:05:21 scherm| [00:00:02] geluid: I2S start mislukt
+21:05:21 scherm| [00:00:02] geluid fout 1: E (1768) i2s_common: i2s_channel_disable(1116): the channel has not been enabled yet
+21:05:21 scherm| [00:00:02] geluid fout 2: E (1919) i2s_common: i2s_new_channel(902): no available channel found
+21:05:21 scherm| [00:00:03] ===== OPSTART v70 | reden: CRASH (panic) | heap 115100 =====
+21:05:21 scherm| [00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+21:05:21 scherm| [00:00:03] borden geleerd van de telefoon: 1 punten
+21:05:21 scherm| [00:00:04] wifi verbonden (Sultra), IP 10.230.69.32
+21:05:21 scherm| [00:00:05] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:00:05] groet: Goedenavond, Ricardo! (vriend 100)
+21:05:21 scherm| [00:00:06] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+21:05:21 scherm| [00:00:07] BLE: telefoon verbonden
+21:05:21 scherm| [00:00:08] BLE: code goed, verbonden met de app
+21:05:21 scherm| [00:00:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+21:05:21 scherm| [00:01:00] status | klok 20:43 | gps zoekt sat=0 zicht=0 nmea=732/0 | 0 km/u | tel data | heap 69476 | licht 255 | fps 57 teken 11.5ms stuur 11.5ms
+21:05:21 scherm| [00:01:00] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+21:05:21 scherm| [00:01:08] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:02:00] status | klok 20:44 | gps zoekt sat=0 zicht=0 nmea=1452/0 | 0 km/u | tel stil | heap 69476 | licht 255 | fps 50 teken 15.0ms stuur 12.8ms
+21:05:21 scherm| [00:02:07] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:05:21 scherm| [00:02:10] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:05:21 scherm| [00:02:13] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:03:00] status | klok 20:45 | gps zoekt sat=0 zicht=0 nmea=2172/0 | 0 km/u | tel stil | heap 69476 | licht 255 | fps 51 teken 14.2ms stuur 12.3ms
+21:05:21 scherm| [00:03:13] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:04:00] status | klok 20:46 | gps zoekt sat=0 zicht=0 nmea=2892/0 | 0 km/u | tel data | heap 60328 | licht 255 | fps 49 teken 14.9ms stuur 14.8ms
+21:05:21 scherm| [00:04:08] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:05:21 scherm| [00:04:10] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:05:21 scherm| [00:04:13] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:05:00] status | klok 20:47 | gps zoekt sat=0 zicht=0 nmea=3612/0 | 0 km/u | tel data | heap 68900 | licht 255 | fps 51 teken 13.2ms stuur 11.9ms
+21:05:21 scherm| [00:05:13] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:06:00] status | klok 20:48 | gps zoekt sat=0 zicht=0 nmea=4332/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 52 teken 13.9ms stuur 11.9ms
+21:05:21 scherm| [00:06:09] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:05:21 scherm| [00:06:11] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:05:21 scherm| [00:06:13] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:07:00] status | klok 20:49 | gps zoekt sat=0 zicht=0 nmea=5052/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 53 teken 12.3ms stuur 11.0ms
+21:05:21 scherm| [00:07:14] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:08:00] status | klok 20:50 | gps zoekt sat=0 zicht=0 nmea=5772/0 | 0 km/u | tel data | heap 68900 | licht 255 | fps 47 teken 15.7ms stuur 13.6ms
+21:05:21 scherm| [00:08:09] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:05:21 scherm| [00:08:11] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:05:21 scherm| [00:08:14] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:09:00] status | klok 20:51 | gps zoekt sat=0 zicht=0 nmea=6492/0 | 0 km/u | tel data | heap 68900 | licht 255 | fps 49 teken 14.8ms stuur 12.9ms
+21:05:21 scherm| [00:09:14] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:10:00] status | klok 20:52 | gps zoekt sat=0 zicht=0 nmea=7212/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 50 teken 14.6ms stuur 12.7ms
+21:05:21 scherm| [00:10:11] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:05:21 scherm| [00:10:12] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:05:21 scherm| [00:10:14] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:11:00] status | klok 20:53 | gps zoekt sat=0 zicht=0 nmea=7932/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 48 teken 15.5ms stuur 13.4ms
+21:05:21 scherm| [00:11:17] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:12:00] status | klok 20:54 | gps zoekt sat=0 zicht=0 nmea=8652/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 52 teken 12.7ms stuur 11.0ms
+21:05:21 scherm| [00:12:10] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:05:21 scherm| [00:12:15] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:05:21 scherm| [00:12:17] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:13:00] status | klok 20:55 | gps zoekt sat=0 zicht=0 nmea=9372/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 51 teken 13.1ms stuur 11.1ms
+21:05:21 scherm| [00:13:17] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:14:00] status | klok 20:56 | gps zoekt sat=0 zicht=0 nmea=10092/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 47 teken 16.0ms stuur 13.5ms
+21:05:21 scherm| [00:14:11] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:05:21 scherm| [00:14:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:05:21 scherm| [00:14:20] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:15:00] status | klok 20:57 | gps zoekt sat=0 zicht=0 nmea=10812/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 48 teken 15.4ms stuur 11.8ms
+21:05:21 scherm| [00:15:20] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:16:00] status | klok 20:58 | gps zoekt sat=0 zicht=0 nmea=11532/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 54 teken 13.3ms stuur 11.1ms
+21:05:21 scherm| [00:16:12] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:05:21 scherm| [00:16:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:05:21 scherm| [00:16:24] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:17:00] status | klok 20:59 | gps zoekt sat=0 zicht=0 nmea=12252/0 | 0 km/u | tel stil | heap 68900 | licht 255 | fps 57 teken 11.6ms stuur 9.3ms
+21:05:21 scherm| [00:17:27] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:18:00] status | klok 21:00 | gps zoekt sat=0 zicht=0 nmea=12972/0 | 0 km/u | tel stil | heap 68900 | licht 114 | fps 47 teken 16.0ms stuur 13.3ms
+21:05:21 scherm| [00:18:12] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:05:21 scherm| [00:18:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:05:21 scherm| [00:18:27] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:19:00] status | klok 21:01 | gps zoekt sat=0 zicht=0 nmea=13692/0 | 0 km/u | tel stil | heap 68900 | licht 114 | fps 57 teken 10.9ms stuur 8.9ms
+21:05:21 scherm| [00:19:29] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:19:40] wifi ingesteld: Sultra
+21:05:21 scherm| [00:20:00] status | klok 21:02 | gps zoekt sat=0 zicht=0 nmea=14412/0 | 0 km/u | tel data | heap 68844 | licht 114 | fps 43 teken 18.5ms stuur 14.8ms
+21:05:21 scherm| [00:20:08] update gevraagd vanuit de app
+21:05:21 scherm| [00:20:08] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+21:05:21 scherm| [00:20:12] net: ers.dev/scherm?lat=0.00000&lon=0.00000&g=123456&van=bpwovzzuca0nf&sinds=4294967295 -> -1
+21:05:21 scherm| [00:20:13] internet-check: dns ok, verbinding ok, laatste download mislukt
+21:05:21 scherm| [00:20:25] update gevraagd vanuit de app
+21:05:21 scherm| [00:20:25] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1
+21:05:21 scherm| [00:20:29] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:20:30] wifi ingesteld: Sultra
+21:05:21 scherm| [00:00:01] geluid: start, vrij DMA 247960 (grootste blok 188404)
+21:05:21 scherm| [00:00:01] geluid fout 1: E (1438) gdma: gdma_register_tx_event_callbacks(464): user context not in internal RAM
+21:05:21 scherm| [00:00:01] geluid fout 2: E (1439) i2s_common: i2s_init_dma_intr(734): Register tx callback failed
+21:05:21 scherm| [00:00:01] geluid fout 3: E (1441) i2s_std: i2s_channel_init_std_mode(236): initialize dma interrupt failed
+21:05:21 scherm| [00:00:02] geluid fout 4: E (1449) i2s_common: i2s_channel_disable(1116): the channel has not been enabled yet
+21:05:21 scherm| [00:00:02] geluid: alleen speaker ook mislukt
+21:05:21 scherm| [00:00:02] geluid: I2S start mislukt
+21:05:21 scherm| [00:00:02] geluid fout 1: E (2148) i2s_common: i2s_channel_disable(1116): the channel has not been enabled yet
+21:05:21 scherm| [00:00:02] geluid fout 2: E (2299) i2s_common: i2s_new_channel(902): no available channel found
+21:05:21 scherm| [00:00:03] ===== OPSTART v70 | reden: stroom aan | heap 115100 =====
+21:05:21 scherm| [00:00:03] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+21:05:21 scherm| [00:00:03] borden geleerd van de telefoon: 1 punten
+21:05:21 scherm| [00:00:04] BLE: telefoon verbonden
+21:05:21 scherm| [00:00:04] BLE: code goed, verbonden met de app
+21:05:21 scherm| [00:00:04] wifi verbonden (Sultra), IP 10.230.69.32
+21:05:21 scherm| [00:00:05] groep/worker ingesteld (Ricardo)
+21:05:21 scherm| [00:00:06] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:00:06] groet: Goedenavond, Ricardo! (vriend 100)
+21:05:21 scherm| [00:00:07] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+21:05:21 scherm| [00:00:07] groep/worker ingesteld (Ricardo)
+21:05:21 scherm| [00:00:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+21:05:21 scherm| [00:00:54] update gevraagd vanuit de app
+21:05:21 scherm| [00:00:55] update: v70 -> v71 wordt op de achtergrond binnengehaald
+21:05:21 scherm| [00:01:00] status | klok 21:04 | gps zoekt sat=0 zicht=0 nmea=725/0 | 0 km/u | tel data | heap 18488 | licht 114 | fps 20 teken 33.8ms stuur 48.0ms
+21:05:21 scherm| [00:01:19] geluid: niet klaar (i2s-fout)
+21:05:21 scherm| [00:01:19] update: v71 staat klaar. Installeren via het info-venster of de app
+21:05:21 scherm| [00:01:25] update: v71 wordt geinstalleerd, herstarten...
+21:05:21 scherm| [00:00:01] geluid: start, vrij DMA 247768 (grootste blok 188404)
+21:05:21 scherm| [00:00:01] geluid: PSRAM tijdelijk bezet (3 blokken, 0 vrij over)
+21:05:21 scherm| [00:00:01] geluid: ES8311 klaar, volume 25
+21:05:21 scherm| [00:00:02] ===== OPSTART v71 | reden: herstart door software | heap 106864 =====
+21:05:21 scherm| [00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+21:05:21 scherm| [00:00:02] borden geleerd van de telefoon: 1 punten
+21:05:21 scherm| [00:00:03] wifi verbonden (Sultra), IP 10.230.69.32
+21:05:21 scherm| [00:00:05] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+21:05:21 scherm| [00:00:05] groet: Goedenavond, Ricardo! (vriend 100)
+21:05:21 scherm| [00:00:07] internet-check: dns ok, verbinding ok, laatste download gelukt
+21:05:21 scherm| [00:00:07] BLE: telefoon verbonden
+21:05:21 scherm| [00:00:07] BLE: code goed, verbonden met de app
+21:05:21 scherm| [00:00:09] groep/worker ingesteld (Ricardo)
+21:05:21 scherm| [00:00:10] groep/worker ingesteld (Ricardo)
