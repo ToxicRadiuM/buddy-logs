@@ -4355,3 +4355,23 @@
 10:27:21 ANWB verkeer geladen: 14 meldingen in de buurt (van 56)
 10:27:21 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=alert
 10:27:32 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+--- v133 · Linux; Android 10; K ---
+12:10:17 start v133
+12:10:17 bewegingssensor: granted
+12:10:18 groep ververst: 5
+12:10:18 GPS automatisch aan
+12:10:18 scherm-aan-slot gekregen
+12:10:18 voelen: geleerde richting van vorige keer meegedraaid
+12:10:19 limiet geschat uit je snelheid: 30
+12:10:19 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+12:10:19 osm werk via Worker (bewaard): 400 stuks
+12:10:19 wegwerkzaamheden geladen: 400
+12:10:19 weer: 8.7 graden, code 3, neerslag 0, wind 16
+12:10:19 matrix-locaties geladen: 6442
+12:10:19 ANWB verkeer geladen: 12 meldingen in de buurt (van 53)
+12:10:19 bruggen geladen: 0
+12:10:19 NDW geladen: 198 meldingen in de buurt {"lane":73,"closure":87,"speed":32,"jam":1,"accident":5}
+12:10:19 buienradar: nu 0 mm/u, regen over -1 min
+12:10:20 flitsers via /flitsers: 18/18
+--- v133 · Linux; Android 10; K ---
+12:10:33 back-up (dag) 77 kB
