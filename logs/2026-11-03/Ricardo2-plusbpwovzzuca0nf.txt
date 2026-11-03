@@ -226,3 +226,91 @@ _95: 876 wegvakken
 [00:00:11] groep/worker ingesteld (Ricardo2)
 [00:01:00] status | klok 23:38 | gps TEL sat=0 zicht=5 nmea=772/0 | 0 km/u | tel data | heap 58260 | licht 63 | fps 46 teken 16.6ms stuur 14.9ms
 [00:01:33] weer: 8.8 graden, code 3, regen over 40 min (buienradar)
+--- Buddy+ v80 ---
+ata | heap 61356 | licht 191 | fps 25 teken 35.3ms stuur 18.1ms
+[00:31:03] GPS-hulp gegeven: tijd ok, plek ok (51.9863, 5.0864)
+[00:31:04] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+[00:31:04] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
+[00:32:00] status | klok 15:30 | gps TEL sat=0 zicht=1 nmea=23203/0 | 102 km/u | tel data | heap 61356 | licht 191 | fps 25 teken 35.1ms stuur 18.2ms
+[00:33:00] status | klok 15:31 | gps TEL sat=0 zicht=0 nmea=23927/0 | 101 km/u | tel data | heap 61356 | licht 191 | fps 22 teken 41.1ms stuur 18.1ms
+[00:34:00] status | klok 15:32 | gps TEL sat=0 zicht=0 nmea=24651/0 | 50 km/u | tel data | heap 61356 | licht 191 | fps 25 teken 36.2ms stuur 18.5ms
+[00:34:26] retro meter: optrekken 6 -> 18
+[00:35:00] status | klok 15:33 | gps TEL sat=0 zicht=1 nmea=25375/0 | 73 km/u | tel data | heap 61356 | licht 191 | fps 23 teken 39.7ms stuur 18.5ms
+[00:36:00] status | klok 15:34 | gps TEL sat=0 zicht=2 nmea=26099/0 | 0 km/u | tel data | heap 61356 | licht 191 | fps 23 teken 39.7ms stuur 18.5ms
+[00:36:06] retro meter: optrekken 0 -> 20
+[00:36:49] retro meter: optrekken 37 -> 49
+[00:37:00] status | klok 15:35 | gps TEL sat=0 zicht=0 nmea=26823/0 | 78 km/u | tel data | heap 61356 | licht 191 | fps 23 teken 38.6ms stuur 18.2ms
+[00:37:31] gebaar: gooien
+[00:37:50] gebaar: gooien
+[00:38:01] status | klok 15:36 | gps TEL sat=0 zicht=0 nmea=27547/0 | 81 km/u | tel data | heap 61356 | licht 191 | fps 24 teken 36.4ms stuur 18.6ms
+[00:38:41] geluid: hing vast, losgemaakt
+[00:38:41] retro meter: optrekken 39 -> 51
+[00:39:01] status | klok 15:37 | gps TEL sat=0 zicht=0 nmea=28271/0 | 78 km/u | tel data | heap 61356 | licht 191 | fps 25 teken 35.1ms stuur 18.2ms
+[00:40:01] status | klok 15:38 | gps TEL sat=0 zicht=2 nmea=28995/0 | 85 km/u | tel data | heap 61356 | licht 191 | fps 26 teken 34.2ms stuur 18.3ms
+[00:41:01] status | klok 15:39 | gps TEL sat=0 zicht=2 nmea=29719/0 | 82 km/u | tel data | heap 61356 | licht 191 | fps 25 teken 35.9ms stuur 18.7ms
+[00:41:03] GPS-hulp gegeven: tijd ok, plek ok (51.9996, 5.0018)
+[00:41:04] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+[00:41:04] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
+[00:42:01] status | klok 15:40 | gps TEL sat=0 zicht=0 nmea=30447/0 | 83 km/u | tel data | heap 61356 | licht 191 | fps 25 teken 35.9ms stuur 18.4ms
+[00:43:01] status | klok 15:41 | gps TEL sat=0 zicht=2 nmea=31171/0 | 24 km/u | tel data | heap 61356 | licht 191 | fps 26 teken 34.3ms stuur 18.1ms
+[00:44:01] status | klok 15:42 | gps TEL sat=0 zicht=0 nmea=31895/0 | 79 km/u | tel data | heap 61356 | licht 191 | fps 25 teken 34.8ms stuur 18.2ms
+[00:45:01] status | klok 15:43 | gps TEL sat=0 zicht=0 nmea=32619/0 | 85 km/u | tel data | heap 61356 | licht 191 | fps 26 teken 34.0ms stuur 18.3ms
+[00:46:01] status | klok 15:44 | gps TEL sat=0 zicht=0 nmea=33343/0 | 84 km/u | tel data | heap 61356 | licht 191 | fps 25 teken 35.2ms stuur 18.2ms
+[00:47:01] status | klok 15:45 | gps TEL sat=0 zicht=1 nmea=34067/0 | 63 km/u | tel data | heap 61356 | licht 191 | fps 25 teken 36.1ms stuur 18.3ms
+[00:48:01] status | klok 15:46 | gps TEL sat=0 zicht=0 nmea=34791/0 | 3 km/u | tel data | heap 61356 | licht 191 | fps 26 teken 34.6ms stuur 18.3ms
+[00:48:01] retro meter: optrekken 0 -> 14
+[00:48:24] gebaar: gooien
+[00:49:01] status | klok 15:47 | gps TEL sat=0 zicht=0 nmea=35515/0 | 62 km/u | tel data | heap 61356 | licht 191 | fps 25 teken 35.9ms stuur 18.3ms
+[00:50:01] status | klok 15:48 | gps TEL sat=0 zicht=0 nmea=36239/0 | 41 km/u | tel data | heap 61356 | licht 191 | fps 25 teken 35.6ms stuur 18.0ms
+[00:51:01] status | klok 15:49 | gps TEL sat=0 zicht=0 nmea=36963/0 | 60 km/u | tel data | heap 56740 | licht 191 | fps 25 teken 34.9ms stuur 18.3ms
+[00:51:03] BLE: telefoon weg
+[00:51:05] GPS: fix kwijt (0 sat)
+[00:51:06] BLE: telefoon verbonden
+[00:51:07] BLE: code goed, verbonden met de app
+[00:51:07] GPS-hulp gegeven: tijd ok, plek ok (52.0239, 4.9052)
+[00:51:07] retro meter: optrekken 0 -> 60
+[00:51:08] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+[00:51:08] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
+[00:51:08] groep/worker ingesteld (Ricardo2)
+[00:51:11] GPS: fix kwijt (0 sat)
+[00:51:17] route ontvangen: 800 punten
+[00:51:18] retro meter: optrekken 0 -> 62
+[00:51:25] sprint-show 7
+[00:52:01] status | klok 15:50 | gps TEL sat=0 zicht=1 nmea=37691/0 | 59 km/u | tel data | heap 60664 | licht 191 | fps 25 teken 35.7ms stuur 18.3ms
+[00:53:01] status | klok 15:51 | gps TEL sat=0 zicht=1 nmea=38415/0 | 54 km/u | tel data | heap 60664 | licht 191 | fps 24 teken 36.9ms stuur 18.3ms
+[00:54:01] status | klok 15:52 | gps TEL sat=0 zicht=0 nmea=39139/0 | 51 km/u | tel data | heap 60664 | licht 191 | fps 24 teken 36.7ms stuur 18.0ms
+[00:55:01] status | klok 15:53 | gps TEL sat=0 zicht=1 nmea=39863/0 | 47 km/u | tel data | heap 60664 | licht 191 | fps 25 teken 35.7ms stuur 18.3ms
+[00:55:17] gebaar: gooien
+[00:56:01] status | klok 15:54 | gps TEL sat=0 zicht=0 nmea=40587/0 | 66 km/u | tel data | heap 60664 | licht 191 | fps 25 teken 36.2ms stuur 18.3ms
+[00:56:09] tegel 1733_96: 120 wegvakken
+[00:57:01] status | klok 15:55 | gps TEL sat=0 zicht=0 nmea=41311/0 | 60 km/u | tel data | heap 60664 | licht 191 | fps 24 teken 37.0ms stuur 18.2ms
+[00:58:01] status | klok 15:56 | gps TEL sat=0 zicht=0 nmea=42035/0 | 60 km/u | tel data | heap 60664 | licht 191 | fps 24 teken 36.5ms stuur 18.1ms
+[00:59:01] status | klok 15:57 | gps TEL sat=0 zicht=2 nmea=42759/0 | 61 km/u | tel data | heap 60664 | licht 191 | fps 24 teken 37.5ms stuur 18.2ms
+[00:59:42] tegel 1733_95: 876 wegvakken
+[01:00:01] status | klok 15:58 | gps TEL sat=0 zicht=0 nmea=43495/0 | 57 km/u | tel data | heap 60664 | licht 191 | fps 23 teken 38.5ms stuur 18.1ms
+[01:00:42] route gestopt
+[01:01:01] status | klok 15:59 | gps TEL sat=0 zicht=0 nmea=44207/0 | 51 km/u | tel data | heap 60664 | licht 191 | fps 39 teken 21.0ms stuur 15.6ms
+[01:01:07] GPS-hulp gegeven: tijd ok, plek ok (52.0017, 4.7860)
+[01:01:08] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+[01:01:08] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
+[01:02:01] status | klok 16:00 | gps TEL sat=0 zicht=0 nmea=44935/0 | 20 km/u | tel data | heap 60664 | licht 191 | fps 40 teken 20.2ms stuur 15.6ms
+[01:02:58] te hard: 37 bij 30
+[01:03:01] status | klok 16:01 | gps TEL sat=0 zicht=2 nmea=45659/0 | 37 km/u | tel data | heap 60664 | licht 191 | fps 39 teken 20.1ms stuur 15.8ms
+[01:04:01] status | klok 16:02 | gps TEL sat=0 zicht=0 nmea=46383/0 | 11 km/u | tel data | heap 60664 | licht 191 | fps 43 teken 18.9ms stuur 15.3ms
+[01:05:01] status | klok 16:03 | gps TEL sat=0 zicht=0 nmea=47107/0 | 3 km/u | tel data | heap 60664 | licht 191 | fps 43 teken 18.6ms stuur 14.1ms
+[01:06:01] status | klok 16:04 | gps TEL sat=0 zicht=2 nmea=47831/0 | 0 km/u | tel data | heap 60664 | licht 191 | fps 50 teken 15.2ms stuur 13.8ms
+[01:06:06] GPS: fix kwijt (0 sat)
+[01:06:08] BLE: telefoon weg
+[01:06:40] geluid: hing vast, losgemaakt
+[01:07:01] status | klok 16:05 | gps zoekt sat=0 zicht=0 nmea=48555/0 | 0 km/u | tel nee | heap 63280 | licht 191 | fps 49 teken 15.7ms stuur 13.9ms
+[00:00:01] geluid: start, vrij DMA 247832 (grootste blok 188404)
+[00:00:01] geluid: PSRAM tijdelijk bezet (3 blokken, 0 vrij over)
+[00:00:01] geluid: ES8311 klaar, volume 10
+[00:00:02] ===== OPSTART v80 | reden: stroom aan | heap 107024 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:02] borden geleerd van de telefoon: 135 punten
+[00:00:17] groet: Hoi, Ricardo2! Daar ben je! (vriend 100)
+[00:00:44] wifi verbonden (Sultra), IP 10.230.69.32
+[00:00:46] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:49] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:01:00] status | klok 16:07 | gps zoekt sat=0 zicht=2 nmea=725/0 | 0 km/u | tel nee | heap 65048 | licht 191 | fps 58 teken 10.0ms stuur 8.7ms
