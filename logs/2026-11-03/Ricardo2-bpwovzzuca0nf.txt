@@ -6023,3 +6023,27 @@
 17:59:31 flitsers via /flitsers: 21/21
 17:59:33 voelen: telefoon gedraaid (33°), richting meegedraaid
 17:59:40 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=21 stemming=anticipate
+--- v133 · Linux; Android 10; K ---
+22:18:19 start v133
+22:18:19 nachtstand aan
+22:18:20 groep ververst: 6
+22:18:20 GPS automatisch aan
+22:18:20 scherm-aan-slot gekregen
+22:18:21 voelen: geleerde richting van vorige keer meegedraaid
+22:18:26 bewegingssensor: granted
+22:18:31 voelen: sensor-teken gewoon
+--- v133 · Linux; Android 10; K ---
+22:18:19 start v133
+22:18:19 nachtstand aan
+22:18:20 groep ververst: 6
+22:18:20 GPS automatisch aan
+22:18:20 scherm-aan-slot gekregen
+22:18:21 voelen: geleerde richting van vorige keer meegedraaid
+22:18:26 bewegingssensor: granted
+22:18:31 voelen: sensor-teken gewoon
+--- v133 · Linux; Android 10; K ---
+22:24:02 GPS automatisch aan
+22:24:02 scherm-aan-slot gekregen
+--- v133 · Linux; Android 10; K ---
+22:33:33 GPS automatisch aan
+22:33:33 scherm-aan-slot gekregen
