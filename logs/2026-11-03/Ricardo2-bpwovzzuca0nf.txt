@@ -5907,3 +5907,119 @@
 16:14:57 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
 16:15:08 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
 16:15:18 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+--- v133 · Linux; Android 10; K ---
+17:51:58 scherm-aan-slot gekregen
+17:51:58 scherm-aan-slot gekregen
+17:51:58 nachtstand aan
+--- v133 · Linux; Android 10; K ---
+17:51:59 ev happy: Goedemiddag Ricardo2!
+17:52:01 terug na 823 s zonder GPS
+17:52:01 v=0 nauwk=26m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+17:52:02 weer: 7.3 graden, code 0, neerslag 0, wind 14
+17:52:02 osm werk via Worker (bewaard): 400 stuks
+17:52:02 wegwerkzaamheden geladen: 398
+17:52:02 groep ververst: 6
+17:52:02 ANWB verkeer geladen: 51 meldingen in de buurt (van 115)
+17:52:02 bruggen geladen: 9
+17:52:02 NDW geladen: 352 meldingen in de buurt {"closure":195,"speed":27,"lane":73,"jam":51,"accident":6}
+17:52:02 buienradar: nu 0 mm/u, regen over -1 min
+17:52:02 autostand aan
+17:52:02 voelen: telefoon gedraaid (66°), richting meegedraaid
+17:52:03 flitsers via /flitsers: 18/18
+17:52:05 ev happy: Henk heeft 1200 km met Buddy gereden!
+17:52:05 groepsbericht ontvangen: mijlpaal van Henk
+17:52:09 autostand uit
+17:52:12 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+17:52:19 autostand aan
+17:52:22 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+17:52:28 ev sleepy: Ik ben moe… mijn telefoon heeft stroom nodig.
+17:52:33 ev happy: Wiee, ander uitzicht!
+17:52:35 ev worried: Mijn hoofd tolt…
+17:52:38 ev happy: Wiee, ander uitzicht!
+17:52:41 ev happy: Zo zie ik het ook.
+17:52:41 ev startled: Hé! Waar gaan we heen?
+17:52:45 ev happy: Wiee, ander uitzicht!
+17:52:47 ev happy: Draaien! Hoei!
+17:52:49 ev worried: Ho ho, niet zo vaak!
+17:52:52 voelen: telefoon gedraaid (24°), richting meegedraaid
+17:52:52 ev content: Klik! Ik zit weer.
+17:52:57 ev happy: Zo zie ik het ook.
+17:52:59 ev happy: En weer terug!
+17:53:01 ev worried: Ho ho, niet zo vaak!
+17:53:09 ev clock: Het is 17:53.
+17:53:15 voelen: telefoon gedraaid (20°), richting meegedraaid
+17:53:21 ev happy: En weer terug!
+17:53:23 ev startled: Wiee, ik zweef!
+17:53:31 ev happy: Draaien! Hoei!
+17:53:31 terug na 65 s zonder GPS
+17:53:31 v=0 nauwk=13m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=happy
+17:53:34 ev content: Klik! Ik zit weer.
+17:53:40 ev excited: Ja? Ik ben er!
+17:53:40 geklopt (2×)
+17:53:41 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=excited
+17:53:52 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=anticipate
+17:54:03 ANWB verkeer geladen: 48 meldingen in de buurt (van 108)
+17:54:03 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=content
+17:54:04 flitsers via /flitsers: 18/18
+17:54:05 autostand uit
+17:54:13 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=love
+17:54:14 autostand aan
+17:54:19 ev startled: Wiee, ik zweef!
+17:54:21 ev content: Zo, mijn uitzicht is terug.
+17:54:24 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=happy
+17:54:34 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=anticipate
+17:54:42 autostand uit
+17:54:45 ev excited: Hoi! Zin om te rijden?
+17:54:45 geklopt (2×)
+17:54:45 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=excited
+17:54:49 animatietester: balloon
+17:54:55 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=anticipate
+17:54:57 animatietester: ruimte
+17:55:02 groep ververst: 6
+17:55:06 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=excited
+17:55:13 animatietester: drum
+17:55:17 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=happy
+17:55:23 animatietester: drum
+17:55:28 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=anticipate
+17:55:29 animatietester: cookie
+17:55:35 animatietester: rain
+17:55:38 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=worried
+17:55:42 animatietester: whistle
+17:55:48 animatietester: grens
+17:55:48 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=excited
+17:55:55 animatietester: magic
+17:55:58 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=excited
+17:56:02 animatietester: gooi
+17:56:04 ANWB verkeer geladen: 47 meldingen in de buurt (van 104)
+17:56:04 flitsers via /flitsers: 20/20
+17:56:07 animatietester: inhalen
+17:56:09 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=20 stemming=content
+17:56:11 ev clock: Het is 17:56.
+17:56:11 ev startled: Hé! Waar gaan we heen?
+17:56:12 animatietester: hiccup
+17:56:17 animatietester: shiver
+17:56:18 voelen: telefoon gedraaid (22°), richting meegedraaid
+17:56:18 ev content: Klik! Ik zit weer.
+17:56:19 animatietester: ghost
+17:56:19 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=20 stemming=alert
+17:56:25 animatietester: wheel
+17:56:30 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=20 stemming=focused
+17:56:40 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=20 stemming=anticipate
+17:56:51 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=20 stemming=focused
+17:57:01 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=20 stemming=anticipate
+17:57:03 NDW geladen: 344 meldingen in de buurt {"closure":194,"speed":27,"lane":73,"jam":45,"accident":5}
+17:57:12 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=20 stemming=yawn
+17:57:17 dagboek getoond
+17:57:20 weekrapport: 2 ritten, 83 km, cijfer 6.5
+17:57:21 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+17:57:22 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=20 stemming=sad
+--- v133 · Linux; Android 10; K ---
+17:59:29 scherm-aan-slot gekregen
+17:59:29 scherm-aan-slot gekregen
+17:59:30 terug na 38 s zonder GPS
+17:59:30 v=0 nauwk=17m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=20 stemming=yawn
+17:59:30 groep ververst: 6
+17:59:30 ANWB verkeer geladen: 47 meldingen in de buurt (van 98)
+17:59:31 flitsers via /flitsers: 21/21
+17:59:33 voelen: telefoon gedraaid (33°), richting meegedraaid
+17:59:40 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=21 stemming=anticipate
