@@ -5844,4 +5844,66 @@
 16:08:33 scherm| [00:00:09] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
 16:08:33 scherm| [00:00:09] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
 16:08:33 scherm| [00:00:11] route gestopt
-16:08:33 scherm| [00:00:11] groep/worker ingesteld (Ricardo2)
+16:08:33 scherm| [00:00:11] groep/worker ingesteld (Ricardo2)
+--- v133 · Linux; Android 10; K ---
+16:08:39 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=excited
+16:08:50 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=anticipate
+16:08:54 ANWB verkeer geladen: 38 meldingen in de buurt (van 86)
+16:08:54 flitsers via /flitsers: 16/16
+16:09:00 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=anticipate
+16:09:03 scherm geluid: ok/20/2
+16:09:10 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=blow
+16:09:21 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=anticipate
+16:09:31 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:09:33 scherm geluid: ok/50/5
+16:09:42 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:09:53 NDW geladen: 341 meldingen in de buurt {"closure":200,"jam":36,"speed":28,"lane":74,"accident":3}
+16:09:53 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:10:03 scherm geluid: bezig/50/11
+16:10:04 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:10:14 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:10:26 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:10:33 scherm geluid: ok/50/14
+16:10:36 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:10:46 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:10:50 groep ververst: 6
+16:10:53 autostand aan
+16:10:54 flitsers via /flitsers: 16/16
+16:10:55 ANWB verkeer geladen: 41 meldingen in de buurt (van 89)
+16:10:57 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:11:03 autostand uit
+16:11:07 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:11:17 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:11:27 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:11:38 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:11:49 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:11:59 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:12:10 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:12:21 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:12:31 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:12:42 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:12:52 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+16:12:54 flitsers via /flitsers: 14/14
+16:12:56 ANWB verkeer geladen: 40 meldingen in de buurt (van 85)
+16:13:03 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+16:13:13 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+16:13:23 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+16:13:33 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+16:13:44 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+16:13:50 groep ververst: 6
+16:13:52 scherm geluid: ok/50/16
+16:13:55 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+16:14:03 scherm geluid: ok/50/18
+16:14:05 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+16:14:15 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+16:14:27 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+16:14:37 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+16:14:47 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+--- v133 · Linux; Android 10; K ---
+16:14:53 bruggen geladen: 11
+16:14:54 NDW geladen: 348 meldingen in de buurt {"closure":202,"jam":41,"speed":28,"lane":74,"accident":3}
+16:14:55 flitsers via /flitsers: 14/14
+16:14:57 ANWB verkeer geladen: 39 meldingen in de buurt (van 87)
+16:14:57 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+16:15:08 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
+16:15:18 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sleeping
