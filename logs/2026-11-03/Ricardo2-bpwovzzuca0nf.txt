@@ -4193,3 +4193,165 @@
 10:07:42 ev clock: Het is 10:07.
 10:07:46 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
 10:07:50 animatietester: ruimte
+--- v131 · Linux; Android 10; K ---
+10:14:10 start v131
+10:14:10 bewegingssensor: granted
+10:14:10 groep ververst: 5
+10:14:11 GPS automatisch aan
+10:14:11 scherm-aan-slot gekregen
+10:14:12 limiet geschat uit je snelheid: 30
+10:14:12 flitsers via /flitsers: 20/20
+10:14:12 ANWB verkeer geladen: 13 meldingen in de buurt (van 57)
+10:14:12 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+10:14:12 bruggen geladen: 0
+10:14:12 NDW geladen: 194 meldingen in de buurt {"lane":74,"closure":87,"speed":32,"jam":1}
+10:14:12 weer: 8.7 graden, code 3, neerslag 0, wind 16
+10:14:12 matrix-locaties geladen: 6442
+10:14:12 buienradar: nu 0 mm/u, regen over -1 min
+10:14:13 voelen: geleerde richting van vorige keer overgenomen
+10:14:16 animatietester: ruimte
+10:14:20 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=excited
+--- v131 · Linux; Android 10; K ---
+10:14:31 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=excited
+10:14:35 voelen: sensor-teken gewoon
+10:14:35 vertrekcheck (rit): 0 meldingen op route
+10:14:36 animatietester: ruimte
+--- v131 · Linux; Android 10; K ---
+10:16:24 start v131
+10:16:24 bewegingssensor: granted
+10:16:24 groep ververst: 5
+10:16:25 GPS automatisch aan
+10:16:25 scherm-aan-slot gekregen
+10:16:25 voelen: geleerde richting van vorige keer overgenomen
+10:16:26 limiet geschat uit je snelheid: 30
+10:16:26 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+10:16:26 matrix-locaties geladen: 6442
+10:16:26 weer: 8.8 graden, code 3, neerslag 0, wind 16
+10:16:26 buienradar: nu 0 mm/u, regen over -1 min
+10:16:26 ANWB verkeer geladen: 15 meldingen in de buurt (van 58)
+10:16:26 bruggen geladen: 0
+10:16:26 NDW geladen: 194 meldingen in de buurt {"lane":74,"closure":87,"speed":32,"jam":1}
+10:16:26 flitsers via /flitsers: 18/18
+10:16:27 autostand aan
+10:16:34 v=0 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=worried
+10:16:37 voelen: sensor-teken gewoon
+--- v131 · Linux; Android 10; K ---
+10:16:44 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+10:16:49 vertrekcheck (rit): 0 meldingen op route
+10:16:52 ev excited: Ja? Ik ben er!
+10:16:52 geklopt (2×)
+10:16:54 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+10:16:56 ev clock: Het is 10:16.
+10:17:05 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+10:17:16 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=happy
+10:17:26 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+10:17:36 v=0 nauwk=6m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=content
+10:17:47 v=0 nauwk=7m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+10:17:58 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+--- v132 · Linux; Android 10; K ---
+10:18:29 start v132
+10:18:29 bewegingssensor: granted
+10:18:29 groep ververst: 5
+10:18:30 GPS automatisch aan
+10:18:30 scherm-aan-slot gekregen
+10:18:30 voelen: geleerde richting van vorige keer overgenomen
+10:18:33 limiet geschat uit je snelheid: 30
+10:18:33 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+10:18:33 matrix-locaties geladen: 6442
+10:18:34 osm werk via Worker (bewaard): 400 stuks
+10:18:34 wegwerkzaamheden geladen: 400
+10:18:34 weer: 8.8 graden, code 3, neerslag 0, wind 16
+10:18:34 bruggen geladen: 0
+10:18:34 buienradar: nu 0 mm/u, regen over -1 min
+10:18:34 ANWB verkeer geladen: 13 meldingen in de buurt (van 53)
+10:18:34 NDW geladen: 194 meldingen in de buurt {"lane":74,"closure":87,"speed":32,"jam":1}
+10:18:34 flitsers via /flitsers: 20/20
+10:18:34 voelen: sensor-teken gewoon
+10:18:39 animatietester: ruimte
+10:18:39 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=excited
+--- v132 · Linux; Android 10; K ---
+10:18:54 scherm-aan-slot gekregen
+10:18:54 scherm-aan-slot gekregen
+10:18:56 terug na 12 s zonder GPS
+10:18:56 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+10:18:59 vertrekcheck (rit): 0 meldingen op route
+10:19:07 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+10:19:08 animatietester: ruimte
+10:19:17 v=0 nauwk=6m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+--- v132 · Linux; Android 10; K ---
+10:20:14 scherm-aan-slot gekregen
+10:20:14 scherm-aan-slot gekregen
+10:20:15 terug na 57 s zonder GPS
+10:20:15 v=0 nauwk=11m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+10:20:25 v=0 nauwk=17m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+10:20:30 animatietester: whistle
+10:20:35 ANWB verkeer geladen: 13 meldingen in de buurt (van 54)
+10:20:35 flitsers via /flitsers: 18/18
+10:20:36 v=0 nauwk=6m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+10:20:38 animatietester: inhalen
+10:20:45 animatietester: inhalen
+10:20:46 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=excited
+10:20:49 ev clock: Het is 10:20.
+10:20:50 animatietester: hiccup
+10:20:55 animatietester: shiver
+10:20:57 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=worried
+10:21:00 animatietester: ghost
+10:21:06 animatietester: wheel
+10:21:07 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=focused
+10:21:12 animatietester: laser
+10:21:17 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=content
+10:21:19 animatietester: fly
+10:21:25 animatietester: juggle
+10:21:28 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=focused
+10:21:30 groep ververst: 5
+10:21:30 ev startled: Zet je me straks terug in de houder?
+10:21:30 animatietester: peekaboo
+10:21:31 ev content: Klik! Ik zit weer.
+10:21:31 ev happy: Drie keer kloppen: feestje!
+10:21:31 geklopt (3×)
+10:21:31 animatietester: stars
+--- v133 · Linux; Android 10; K ---
+10:25:15 start v133
+10:25:15 bewegingssensor: granted
+10:25:16 groep ververst: 5
+10:25:16 GPS automatisch aan
+10:25:16 scherm-aan-slot gekregen
+10:25:18 voelen: geleerde richting van vorige keer overgenomen
+10:25:18 autostand aan
+10:25:19 limiet geschat uit je snelheid: 30
+10:25:19 ANWB verkeer geladen: 13 meldingen in de buurt (van 55)
+10:25:19 flitsers via /flitsers: 18/18
+10:25:19 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+10:25:19 bruggen geladen: 0
+10:25:19 NDW geladen: 194 meldingen in de buurt {"lane":74,"closure":87,"speed":32,"jam":1}
+10:25:19 matrix-locaties geladen: 6442
+10:25:19 weer: 8.8 graden, code 3, neerslag 0, wind 16
+10:25:19 buienradar: nu 0 mm/u, regen over -1 min
+10:25:21 voelen: sensor-teken gewoon
+10:25:25 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+10:25:35 v=0 nauwk=6m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+--- v133 · Linux; Android 10; K ---
+10:25:40 vertrekcheck (rit): 0 meldingen op route
+10:25:43 eigen flitser opgeslagen (mobile, 1)
+10:25:43 ev happy: Mobiele controle onthouden!
+10:25:43 groep ververst: 6
+10:25:45 autostand uit
+10:25:46 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=alert
+10:25:51 ev clock: Het is 10:25.
+10:25:55 flitser verwijderd via de kaart (mobile, van Ricardo2)
+10:25:56 groep ververst: 5
+10:25:56 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+10:26:07 v=0 nauwk=6m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleepy
+10:26:17 v=0 nauwk=6m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+10:26:28 v=0 nauwk=7m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=focused
+10:26:38 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+10:26:44 dagboek getoond
+10:26:49 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+10:26:52 ev startled: Wiee, ik zweef!
+10:26:56 ev content: Ah, weer lekker vast.
+10:26:59 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=yawn
+10:27:10 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+10:27:21 flitsers via /flitsers: 18/18
+10:27:21 ANWB verkeer geladen: 14 meldingen in de buurt (van 56)
+10:27:21 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=alert
+10:27:32 v=0 nauwk=8m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
