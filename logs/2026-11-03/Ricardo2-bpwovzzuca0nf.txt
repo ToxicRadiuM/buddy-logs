@@ -3938,3 +3938,41 @@
 08:32:13 scherm-aan-slot gekregen
 08:32:13 scherm-aan-slot gekregen
 08:32:13 ev clock: Het is 08:32.
+--- v126 · Linux; Android 10; K ---
+08:49:34 scherm-aan-slot gekregen
+08:49:34 scherm-aan-slot gekregen
+--- v126 · Linux; Android 10; K ---
+08:49:35 ev happy: Goedemorgen Ricardo2!
+08:49:35 terug na 658 s zonder GPS
+08:49:35 v=0 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=happy
+08:49:35 groep ververst: 5
+08:49:35 ANWB verkeer geladen: 40 meldingen in de buurt (van 124)
+08:49:35 bruggen geladen: 0
+08:49:35 NDW geladen: 242 meldingen in de buurt {"lane":72,"jam":44,"closure":88,"speed":32,"accident":6}
+08:49:35 flitsers via /flitsers: 16/16
+08:49:45 v=0 nauwk=6m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=content
+08:49:45 ev clock: Het is 08:49.
+08:49:45 ev content: Zo, mijn uitzicht is terug.
+08:49:55 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=happy
+--- v126 · Linux; Android 10; K ---
+08:50:01 scherm-aan-slot gekregen
+08:50:01 scherm-aan-slot gekregen
+08:50:05 osm werk via Worker (overpass): 400 stuks
+08:50:05 wegwerkzaamheden geladen: 400
+08:50:05 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=anticipate
+08:50:09 voelen: telefoon gedraaid (35°), richting meegedraaid
+08:50:09 ev alert: Hoorde ik een deur? Daar ben je!
+08:50:09 deur dicht gevoeld
+08:50:13 autostand aan
+08:50:15 ev happy: Draaien! Hoei!
+08:50:16 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=happy
+08:50:17 voelen: telefoon gedraaid (47°), richting meegedraaid
+08:50:23 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+08:50:26 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=anticipate
+08:50:37 v=0 nauwk=3m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=yawn
+--- v126 · Linux; Android 10; K ---
+08:52:19 scherm-aan-slot gekregen
+08:52:19 scherm-aan-slot gekregen
+08:52:20 terug na 25 s zonder GPS
+08:52:20 v=2 nauwk=36m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=yawn
+08:52:20 ANWB verkeer geladen: 39 meldingen in de buurt (van 125)
