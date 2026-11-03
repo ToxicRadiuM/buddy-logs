@@ -1,0 +1,112 @@
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+13:54:07 start v133
+13:54:07 groep ververst: 5
+13:54:08 GPS automatisch aan
+13:54:08 scherm-aan-slot geweigerd: NotAllowedError (probeer opnieuw bij een tik)
+13:54:10 vaste flitsers NL: 515, trajectcontroles: 76 (versie 24-10-2026)
+13:54:12 limiet geschat uit je snelheid: 30
+13:54:12 matrix-locaties geladen: 6442
+13:54:12 ANWB verkeer geladen: 12 meldingen in de buurt (van 52)
+13:54:12 bruggen geladen: 0
+13:54:12 osm flits via Worker (bewaard): 18 stuks
+13:54:12 osm werk via Worker (bewaard): 400 stuks
+13:54:12 flitsdata geladen: 15 flitsers, 0 trajecten (totaal 15/0)
+13:54:12 wegwerkzaamheden geladen: 400
+13:54:12 weer: 10.4 graden, code 1, neerslag 0, wind 20
+13:54:12 osm wegen via Worker (bewaard): 958 stuks
+13:54:12 wegen geladen: 958 wegen
+13:54:12 NDW geladen: 193 meldingen in de buurt {"lane":74,"closure":87,"speed":32}
+13:54:12 rws tegel 1723_103 (internet): 1509 wegvakken, versie 01-10-2026
+13:54:13 flitsers via /flitsers: 20/20
+13:54:13 ev happy: Winnaar weekchallenge “Meeste meldingen voor de groep”: Henk met 2×!
+13:54:13 buienradar: nu 0 mm/u, regen over -1 min
+13:54:13 ev happy: Goedemiddag! Het is 10 graden, zonnig. Ricardo2 is ook al onderweg.
+13:54:13 briefing: Goedemiddag! Het is 10 graden, zonnig. Ricardo2 is ook al onderweg.
+13:54:15 back-up (dag) 40 kB
+13:54:18 wakker blijven: filmpje-truc aan
+13:54:19 bewegingssensor: granted
+13:54:19 ev excited: Joepie! Nu voel ik elke bocht.
+13:54:19 terug na 6 s zonder GPS
+13:54:19 v=0 nauwk=14m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=excited
+13:54:21 voelen: sensor-teken gewoon
+13:54:21 scherm-aan-slot gekregen
+13:54:21 scherm-aan-slot gekregen
+13:54:25 terug na 6 s zonder GPS
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+13:54:31 terug na 6 s zonder GPS
+13:54:31 v=2 nauwk=18m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:54:37 terug na 6 s zonder GPS
+13:54:43 terug na 6 s zonder GPS
+13:54:43 v=0 nauwk=19m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:54:46 ev love: Aangenaam, Joey! Zet de GPS aan, dan gaan we rijden.
+13:54:51 terug na 8 s zonder GPS
+13:54:56 v=0 nauwk=20m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:54:59 autostand aan
+13:55:01 terug na 5 s zonder GPS
+13:55:04 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+13:55:07 terug na 6 s zonder GPS
+13:55:07 v=3 nauwk=20m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=neutral
+13:55:17 terug na 10 s zonder GPS
+13:55:17 ev excited: Groen! Daar gaan we.
+13:55:18 v=3 nauwk=197m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=20 stemming=excited
+13:55:29 v=9 nauwk=13m limiet=30~ wegen=2467 draai=149 vaste=15/0 gemeld=20 stemming=neutral
+13:55:39 v=15 nauwk=11m limiet=30~ wegen=2467 draai=10 vaste=15/0 gemeld=20 stemming=happy
+13:55:40 drempel/schok sterkte 3.7 bij 10 km/h
+13:55:40 ev startled: Boing!
+13:55:40 drempel/schok sterkte 4.6 bij 9 km/h (tweede klap)
+13:55:41 ev happy: Ricardo2 in de Tesla Y zwaait naar je!
+13:55:41 groepsbericht ontvangen: zwaai van Ricardo2
+13:55:43 NDW melding lane 72 m: alleen icoontje
+13:55:49 v=11 nauwk=5m limiet=30~ wegen=2467 draai=-0 vaste=15/0 gemeld=20 stemming=neutral
+13:55:49 eigen flitser opgeslagen (fixed, 1)
+13:55:49 ev happy: Vaste flitser onthouden!
+13:55:49 groep ververst: 6
+13:55:50 eigen flitser opgeslagen (fixed, 2)
+13:55:50 ev happy: Vaste flitser onthouden!
+13:55:50 groep ververst: 6
+13:55:50 retro meter: optrekken 0 -> 13
+13:55:52 level 2
+13:55:56 ev happy: Level 2! Ik ben nu Ritmaatje.
+13:55:58 eigen flitser opgeslagen (mobile, 3)
+13:55:58 ev happy: Mobiele controle onthouden!
+13:55:58 groep ververst: 7
+13:55:59 ev startled: Zet je me straks terug in de houder?
+13:55:59 eigen flitser opgeslagen (mobile, 4)
+13:55:59 ev happy: Mobiele controle onthouden!
+13:55:59 groep ververst: 7
+13:55:59 autostand uit
+13:56:00 v=4 nauwk=15m limiet=30~ wegen=2467 draai=-13 vaste=15/0 gemeld=20 stemming=happy
+13:56:02 ev content: Zo, mijn uitzicht is terug.
+13:56:10 v=9 nauwk=9m limiet=30~ wegen=2467 draai=-2 vaste=15/0 gemeld=20 stemming=neutral
+13:56:12 ev excited: Helemaal rond! Wheee, ik word draaierig.
+13:56:12 rotonde: helemaal rond (301°)
+13:56:13 drempel/schok sterkte 4.0 bij 8 km/h
+13:56:13 ANWB verkeer geladen: 13 meldingen in de buurt (van 53)
+13:56:14 flitsers via /flitsers: 18/18
+13:56:20 v=6 nauwk=10m limiet=30~ wegen=2467 draai=20 vaste=15/0 gemeld=18 stemming=neutral
+13:56:30 flitser verwijderd via de kaart (fixed, van Joey)
+13:56:30 groep ververst: 6
+13:56:31 v=0 nauwk=8m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=neutral
+13:56:39 flitser verwijderd via de kaart (fixed, van Joey)
+13:56:39 groep ververst: 6
+13:56:42 v=0 nauwk=34m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=neutral
+13:56:43 flitser verwijderd via de kaart (mobile, van Joey)
+13:56:43 groep ververst: 6
+13:56:45 flitser verwijderd via de kaart (mobile, van Joey)
+13:56:45 groep ververst: 5
+13:56:52 v=5 nauwk=23m limiet=30~ wegen=2467 draai=0 vaste=15/0 gemeld=18 stemming=neutral
+13:56:54 ev startled: Hé! Waar gaan we heen?
+13:57:02 v=14 nauwk=14m limiet=30~ wegen=2467 draai=2 vaste=15/0 gemeld=18 stemming=neutral
+13:57:02 ev content: Klik! Ik zit weer.
+13:57:13 v=24 nauwk=14m limiet=30~ wegen=2467 draai=-0 vaste=15/0 gemeld=18 stemming=neutral
+13:57:13 retro meter: optrekken 3 -> 22
+13:57:16 ev startled: Oef, stevig remmen!
+13:57:23 v=0 nauwk=19m limiet=30~ wegen=2467 draai=-0 vaste=15/0 gemeld=18 stemming=neutral
+13:57:33 v=0 nauwk=15m limiet=30~ wegen=2467 draai=-0 vaste=15/0 gemeld=18 stemming=neutral
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+13:58:26 scherm-aan-slot gekregen
+13:58:26 scherm-aan-slot gekregen
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+13:58:36 scherm-aan-slot gekregen
+13:58:36 scherm-aan-slot gekregen
+13:58:41 voelen: telefoon gedraaid (55°), richting meegedraaid

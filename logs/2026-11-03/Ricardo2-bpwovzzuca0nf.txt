@@ -4375,3 +4375,277 @@
 12:10:20 flitsers via /flitsers: 18/18
 --- v133 · Linux; Android 10; K ---
 12:10:33 back-up (dag) 77 kB
+--- v133 · Linux; Android 10; K ---
+13:50:50 start v133
+13:50:51 bewegingssensor: granted
+13:50:51 groep ververst: 5
+13:50:51 GPS automatisch aan
+13:50:51 scherm-aan-slot gekregen
+13:50:52 voelen: sensor-teken gewoon
+13:50:54 limiet geschat uit je snelheid: 30
+13:50:54 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+13:50:54 osm werk via Worker (bewaard): 400 stuks
+13:50:54 wegwerkzaamheden geladen: 400
+13:50:54 ANWB verkeer geladen: 12 meldingen in de buurt (van 51)
+13:50:54 matrix-locaties geladen: 6442
+13:50:54 weer: 10.4 graden, code 1, neerslag 0, wind 20
+13:50:54 bruggen geladen: 0
+13:50:54 NDW geladen: 193 meldingen in de buurt {"lane":74,"closure":87,"speed":32}
+13:50:54 buienradar: nu 0 mm/u, regen over -1 min
+13:50:55 voelen: geleerde richting van vorige keer meegedraaid
+13:50:55 flitsers via /flitsers: 18/18
+13:51:00 ev startled: Hé! Waar gaan we heen?
+13:51:01 v=0 nauwk=17m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=startled
+13:51:02 voelen: telefoon gedraaid (33°), richting meegedraaid
+13:51:02 ev content: Ah, weer lekker vast.
+--- v133 · Linux; Android 10; K ---
+13:51:11 v=0 nauwk=6m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=happy
+13:51:16 vertrekcheck (rit): 0 meldingen op route
+13:51:16 voelen: telefoon gedraaid (39°), richting meegedraaid
+13:51:22 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=happy
+13:51:23 autostand aan
+13:51:29 voelen: telefoon gedraaid (33°), richting meegedraaid
+13:51:33 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=neutral
+13:51:35 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+13:51:41 voelen: telefoon gedraaid (37°), richting meegedraaid
+13:51:44 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=happy
+13:51:44 ev clock: Het is 13:51.
+13:51:50 ev startled: Wiee, ik zweef!
+13:51:54 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+--- v133 · Linux; Android 10; K ---
+13:51:56 scherm-aan-slot gekregen
+13:51:56 scherm-aan-slot gekregen
+13:52:01 ev content: Zo, mijn uitzicht is terug.
+13:52:05 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+--- v133 · Linux; Android 10; K ---
+13:52:12 scherm-aan-slot gekregen
+13:52:12 scherm-aan-slot gekregen
+13:52:15 v=0 nauwk=7m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+13:52:15 autostand uit
+13:52:18 autostand aan
+13:52:26 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+13:52:37 v=0 nauwk=3m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=yawn
+13:52:47 v=0 nauwk=3m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+13:52:49 ev happy: Zo zie ik het ook.
+13:52:50 ev startled: Wiee, ik zweef!
+13:52:50 voelen: telefoon gedraaid (102°), richting meegedraaid
+13:52:50 ev content: Klik! Ik zit weer.
+13:52:54 voelen: telefoon gedraaid (116°), richting meegedraaid
+13:52:55 ANWB verkeer geladen: 12 meldingen in de buurt (van 52)
+13:52:55 flitsers via /flitsers: 20/20
+13:52:57 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+13:52:58 route: 57.1 km, 67 stappen
+13:52:58 nav zegt: Route naar Haastrecht. 57 kilometer, ongeveer 62 minuten.
+13:52:58 ev happy: Op naar Haastrecht!
+13:52:58 nav zegt: Over 300 meter aan het eind van de weg rechtsaf.
+13:53:01 voelen: telefoon gedraaid (99°), richting meegedraaid
+13:53:08 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+13:53:11 ev worried: Mijn hoofd tolt…
+13:53:13 voelen: telefoon gedraaid (26°), richting meegedraaid
+13:53:18 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+--- v133 · Linux; Android 10; K ---
+13:53:27 start v133
+13:53:27 bewegingssensor: granted
+13:53:27 groep ververst: 5
+13:53:28 GPS automatisch aan
+13:53:28 scherm-aan-slot gekregen
+13:53:29 limiet geschat uit je snelheid: 30
+13:53:29 flitsers via /flitsers: 20/20
+13:53:29 ANWB verkeer geladen: 12 meldingen in de buurt (van 52)
+13:53:29 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+13:53:29 matrix-locaties geladen: 6442
+13:53:29 bruggen geladen: 0
+13:53:29 weer: 10.4 graden, code 1, neerslag 0, wind 20
+13:53:29 buienradar: nu 0 mm/u, regen over -1 min
+13:53:29 NDW geladen: 193 meldingen in de buurt {"lane":74,"closure":87,"speed":32}
+13:53:30 route: 57.1 km, 67 stappen
+13:53:30 nav zegt: Route naar Haastrecht. 57 kilometer, ongeveer 62 minuten.
+13:53:30 ev happy: Op naar Haastrecht!
+13:53:31 nav zegt: Over 300 meter aan het eind van de weg rechtsaf.
+13:53:31 voelen: sensor-teken gewoon
+13:53:31 ev excited: Ja? Ik ben er!
+13:53:31 geklopt (2×)
+--- v133 · Linux; Android 10; K ---
+13:55:29 scherm-aan-slot gekregen
+13:55:29 scherm-aan-slot gekregen
+13:55:30 terug na 64 s zonder GPS
+13:55:30 v=0 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=happy
+13:55:31 ANWB verkeer geladen: 13 meldingen in de buurt (van 53)
+13:55:31 vertrekcheck (rit): 0 meldingen op route
+13:55:32 autostand aan
+13:55:33 voelen: geleerde richting van vorige keer overgenomen
+13:55:37 ev happy: Ik zwaai naar de groep!
+13:55:37 groepsbericht verstuurd: zwaai
+13:55:41 v=0 nauwk=11m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+13:55:46 groepsbericht gezien door Joey
+13:55:50 autostand uit
+13:55:51 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=love
+13:55:53 ev clock: Het is 13:55.
+13:56:01 voelen: telefoon gedraaid (27°), richting meegedraaid
+13:56:02 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+13:56:07 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+13:56:12 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=20 stemming=bored
+13:56:18 ev startled: Zet je me straks terug in de houder?
+13:56:19 flitsers via /flitsers: 18/18
+13:56:20 ev content: Klik! Ik zit weer.
+13:56:23 v=0 nauwk=3m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=worried
+13:56:31 voelen: telefoon gedraaid (47°), richting meegedraaid
+13:56:33 v=0 nauwk=3m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+13:56:44 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=blow
+13:56:55 v=0 nauwk=7m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+13:56:57 voelen: telefoon gedraaid (50°), richting meegedraaid
+13:57:02 ev startled: Hé! Waar gaan we heen?
+13:57:04 ev content: Klik! Ik zit weer.
+13:57:05 v=0 nauwk=7m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=content
+13:57:16 v=0 nauwk=7m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+13:57:17 groep ververst: 5
+13:57:23 ev startled: Wooo, niet schudden! Ik word duizelig 😵
+13:57:26 v=0 nauwk=7m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=startled
+13:57:29 ev happy: En weer terug!
+13:57:31 voelen: telefoon gedraaid (22°), richting meegedraaid
+13:57:31 ev excited: Klop klop… wie is daar? 😄
+13:57:31 geklopt (2×)
+13:57:32 ANWB verkeer geladen: 13 meldingen in de buurt (van 53)
+13:57:35 voelen: telefoon gedraaid (38°), richting meegedraaid
+13:57:36 ev worried: Ho ho, niet zo vaak!
+13:57:37 v=0 nauwk=6m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=worried
+13:57:41 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+13:57:42 ev startled: Wiee, ik zweef!
+13:57:47 v=0 nauwk=6m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+13:57:51 osm laad via Worker (bewaard): 4 stuks
+13:57:51 laadpaal: niet gevonden in de buurt
+13:57:54 voelen: telefoon gedraaid (27°), richting meegedraaid
+13:57:54 ev content: Ah, weer lekker vast.
+13:57:57 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=bored
+13:57:59 voelen: telefoon gedraaid (49°), richting meegedraaid
+13:57:59 autostand aan
+13:58:01 ev happy: Draaien! Hoei!
+13:58:04 voelen: telefoon gedraaid (55°), richting meegedraaid
+--- v133 · Linux; Android 10; K ---
+13:58:06 ev worried: Mijn hoofd tolt…
+13:58:10 scherm-aan-slot gekregen
+13:58:10 scherm-aan-slot gekregen
+13:58:11 terug na 6 s zonder GPS
+13:58:11 v=0 nauwk=6m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=yawn
+--- v133 · Linux; Android 10; K ---
+13:58:19 scherm-aan-slot gekregen
+13:58:19 scherm-aan-slot gekregen
+13:58:20 terug na 9 s zonder GPS
+13:58:20 flitsers via /flitsers: 18/18
+13:58:21 v=0 nauwk=6m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=alert
+13:58:22 autostand uit
+13:58:24 voelen: telefoon gedraaid (50°), richting meegedraaid
+13:58:31 NDW geladen: 193 meldingen in de buurt {"lane":74,"closure":87,"speed":32}
+13:58:32 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleepy
+13:58:32 ev excited: Hoi! Zin om te rijden?
+13:58:32 geklopt (2×)
+13:58:43 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=happy
+13:58:54 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=alert
+13:58:58 ev clock: Het is 13:58.
+13:59:00 ev startled: Wiee, ik zweef!
+13:59:01 voelen: telefoon gedraaid (54°), richting meegedraaid
+13:59:01 ev content: Klik! Ik zit weer.
+13:59:04 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=yawn
+13:59:15 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleepy
+13:59:26 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleepy
+13:59:33 ANWB verkeer geladen: 12 meldingen in de buurt (van 51)
+13:59:37 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleepy
+13:59:37 voelen: telefoon gedraaid (56°), richting meegedraaid
+13:59:45 ev startled: Hé! Waar gaan we heen?
+13:59:47 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=startled
+13:59:51 voelen: telefoon gedraaid (39°), richting meegedraaid
+13:59:51 ev content: Klik! Ik zit weer.
+13:59:57 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleepy
+13:59:59 voelen: telefoon gedraaid (39°), richting meegedraaid
+14:00:08 v=0 nauwk=6m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+14:00:12 voelen: telefoon gedraaid (37°), richting meegedraaid
+14:00:17 groep ververst: 5
+14:00:19 v=0 nauwk=6m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=18 stemming=sleeping
+14:00:21 flitsers via /flitsers: 16/16
+14:00:21 voelen: telefoon gedraaid (39°), richting meegedraaid
+14:00:29 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+14:00:36 voelen: telefoon gedraaid (38°), richting meegedraaid
+14:00:40 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+14:00:41 ev happy: Plek onthouden! Kijk later bij Kaart.
+14:00:41 plek onthouden (knop)
+14:00:50 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=sleeping
+14:00:51 ev startled: Hé! Waar gaan we heen?
+14:01:01 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+14:01:02 voelen: telefoon gedraaid (33°), richting meegedraaid
+14:01:02 ev content: Klik! Ik zit weer.
+14:01:12 v=0 nauwk=6m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+14:01:22 v=0 nauwk=6m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+14:01:27 animatietester: ruimte
+14:01:31 ev startled: Zet je me straks terug in de houder?
+14:01:33 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=startled
+14:01:34 ANWB verkeer geladen: 12 meldingen in de buurt (van 51)
+14:01:41 ev content: Klik! Ik zit weer.
+14:01:43 v=0 nauwk=6m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=love
+14:01:44 animatietester: ruimte
+14:01:46 voelen: telefoon gedraaid (29°), richting meegedraaid
+14:01:53 v=0 nauwk=6m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=excited
+14:01:59 voelen: telefoon gedraaid (33°), richting meegedraaid
+--- v133 · Linux; Android 10; K ---
+14:03:29 scherm-aan-slot gekregen
+14:03:29 scherm-aan-slot gekregen
+14:03:30 terug na 64 s zonder GPS
+14:03:30 v=0 nauwk=11m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=worried
+14:03:30 bruggen geladen: 0
+14:03:30 flitsers via /flitsers: 16/16
+14:03:32 NDW geladen: 193 meldingen in de buurt {"lane":74,"closure":87,"speed":32}
+14:03:35 ANWB verkeer geladen: 11 meldingen in de buurt (van 50)
+14:03:41 v=0 nauwk=7m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=content
+14:03:41 groep ververst: 5
+14:03:48 ev clock: Het is 14:03.
+--- v133 · Linux; Android 10; K ---
+14:03:50 start v133
+14:03:50 groep ververst: 5
+14:03:51 GPS automatisch aan
+14:03:51 scherm-aan-slot gekregen
+14:03:52 limiet geschat uit je snelheid: 30
+14:03:52 flitsers via /flitsers: 16/16
+14:03:52 ANWB verkeer geladen: 11 meldingen in de buurt (van 50)
+14:03:52 bruggen geladen: 0
+14:03:52 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+14:03:52 NDW geladen: 192 meldingen in de buurt {"lane":73,"closure":87,"speed":32}
+14:03:52 matrix-locaties geladen: 6442
+14:03:52 weer: 10.4 graden, code 1, neerslag 0, wind 20
+14:03:53 buienradar: nu 0 mm/u, regen over -1 min
+14:03:53 voelen: geleerde richting van vorige keer overgenomen
+14:03:53 route: 57.1 km, 67 stappen
+14:03:53 nav zegt: Route naar Haastrecht. 57 kilometer, ongeveer 62 minuten.
+14:03:53 ev happy: Op naar Haastrecht!
+14:03:54 nav zegt: Over 300 meter aan het eind van de weg rechtsaf.
+14:03:55 autostand aan
+14:03:55 bewegingssensor: granted
+14:03:58 voelen: sensor-teken gewoon
+14:03:59 ev happy: Draaien! Hoei!
+14:04:00 ev startled: Hé! Waar gaan we heen?
+14:04:01 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=startled
+14:04:02 voelen: telefoon gedraaid (50°), richting meegedraaid
+14:04:02 ev content: Ah, weer lekker vast.
+--- v133 · Linux; Android 10; K ---
+14:04:11 v=0 nauwk=6m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+14:04:15 vertrekcheck (rit): 0 meldingen op route
+14:04:22 v=3 nauwk=10m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+14:04:22 voelen: telefoon gedraaid (42°), richting meegedraaid
+14:04:24 ev excited: Groen! Daar gaan we.
+14:04:33 v=6 nauwk=15m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+14:04:45 v=4 nauwk=15m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+14:04:49 ev happy: En weer terug!
+14:04:50 ev startled: Zet je me straks terug in de houder?
+14:04:55 autostand uit
+14:04:55 v=0 nauwk=9m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+14:04:57 voelen: telefoon gedraaid (77°), richting meegedraaid
+14:04:57 ev content: Zo, mijn uitzicht is terug.
+14:05:04 voelen: telefoon gedraaid (33°), richting meegedraaid
+14:05:06 v=0 nauwk=7m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+14:05:17 v=0 nauwk=6m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+14:05:28 v=0 nauwk=5m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+14:05:29 ev clock: Het is 14:05.
+--- v133 · Linux; Android 10; K ---
+14:06:27 scherm-aan-slot gekregen
+14:06:27 scherm-aan-slot gekregen
+14:06:28 terug na 13 s zonder GPS
+14:06:28 v=0 nauwk=12m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=16 stemming=alert
+14:06:28 ANWB verkeer geladen: 11 meldingen in de buurt (van 51)
