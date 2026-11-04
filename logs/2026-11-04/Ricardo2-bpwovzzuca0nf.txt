@@ -316,3 +316,30 @@
 12:38:45 voelen: telefoon gedraaid (80°), richting meegedraaid
 --- v133 · Linux; Android 10; K ---
 12:39:08 v=0 nauwk=4m limiet=50 wegen=3828 draai=0 vaste=117/12 gemeld=19 stemming=neutral
+--- v133 · Linux; Android 10; K ---
+13:15:33 start v133
+13:15:34 groep ververst: 6
+13:15:34 GPS automatisch aan
+13:15:34 scherm-aan-slot gekregen
+13:15:34 ev happy: Goedemiddag Ricardo2!
+13:15:34 limiet geschat uit je snelheid: 50
+13:15:34 rws tegel 1735_97 (telefoon): 1388 wegvakken, versie 01-10-2026
+13:15:35 weer: 9.6 graden, code 3, neerslag 0, wind 19
+13:15:35 matrix-locaties geladen: 6442
+13:15:35 bruggen geladen: 31
+13:15:35 ANWB verkeer geladen: 23 meldingen in de buurt (van 52)
+13:15:35 retro meter: optrekken 0 -> 22
+13:15:35 NDW geladen: 311 meldingen in de buurt {"closure":205,"lane":75,"speed":28,"accident":2,"jam":1}
+13:15:35 buienradar: nu 0 mm/u, regen over -1 min
+13:15:36 voelen: sensor-teken gewoon
+13:15:36 matrix geladen: 271 snelheid, 98 kruis
+13:15:36 flitsers via /flitsers: 19/19
+13:15:37 voelen: geleerde richting van vorige keer meegedraaid
+13:15:38 autostand aan
+13:15:38 bewegingssensor: granted
+13:15:39 drempel/schok sterkte 6.6 bij 69 km/h
+13:15:39 ev startled: Drempel! Boing!
+13:15:41 ev happy: En weer terug!
+13:15:43 voelen: telefoon gedraaid (78°), richting meegedraaid
+13:15:43 v=75 nauwk=4m limiet=80 wegen=3828 draai=0 vaste=117/12 gemeld=19 stemming=relaxed
+13:15:52 ev happy: Wiee, ander uitzicht!
