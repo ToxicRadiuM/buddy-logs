@@ -1,0 +1,3 @@
+--- v133 · Linux; Android 10; K ---
+10:38:25 start v133
+10:38:25 groep ververst: 6
