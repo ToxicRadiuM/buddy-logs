@@ -1,0 +1,213 @@
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:21:33 osm werk via Worker (oud): 400 stuks
+09:39:07 start v133
+09:39:07 groep ververst: 6
+09:39:08 GPS automatisch aan
+09:39:08 scherm-aan-slot geweigerd: NotAllowedError (probeer opnieuw bij een tik)
+09:39:10 limiet geschat uit je snelheid: 100
+09:39:10 matrix-locaties geladen: 6442
+09:39:10 retro meter: optrekken 0 -> 17
+09:39:10 flitsers via /flitsers: 18/18
+09:39:10 retro meter: optrekken 0 -> 17
+09:39:10 ANWB verkeer geladen: 16 meldingen in de buurt (van 59)
+09:39:10 retro meter: optrekken 0 -> 17
+09:39:10 retro meter: optrekken 0 -> 17
+09:39:10 retro meter: optrekken 0 -> 17
+09:39:10 NDW geladen: 201 meldingen in de buurt {"closure":133,"lane":40,"speed":16,"accident":7,"jam":5}
+09:39:10 retro meter: optrekken 0 -> 17
+09:39:10 retro meter: optrekken 0 -> 17
+09:39:10 bruggen geladen: 207
+09:39:10 retro meter: optrekken 0 -> 17
+09:39:10 weer: 7.5 graden, code 2, neerslag 0, wind 17
+09:39:10 retro meter: optrekken 0 -> 17
+09:39:10 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 rws tegel 1742_99 (internet): 1252 wegvakken, versie 01-10-2026
+09:39:11 rws tegel 1741_99 (internet): 365 wegvakken, versie 01-10-2026
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 buienradar: nu 0 mm/u, regen over -1 min
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 ev happy: Goedemorgen Aaan! Het is 8 graden, bewolkt. Henk is ook al onderweg.
+09:39:11 briefing: Goedemorgen Aaan! Het is 8 graden, bewolkt. Henk is ook al onderweg.
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 retro meter: optrekken 0 -> 17
+09:39:11 matrix geladen: 441 snelheid, 104 kruis
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 wakker blijven: filmpje-truc aan
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 75
+09:39:11 retro meter: optrekken 0 -> 94
+09:39:11 retro meter: optrekken 0 -> 94
+09:39:11 retro meter: optrekken 0 -> 94
+09:39:11 retro meter: optrekken 0 -> 94
+09:39:11 retro meter: optrekken 0 -> 94
+09:39:11 retro meter: optrekken 0 -> 94
+09:39:11 retro meter: optrekken 0 -> 94
+09:39:11 retro meter: optrekken 0 -> 94
+09:39:11 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 0 -> 94
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 17 -> 101
+09:39:12 retro meter: optrekken 75 -> 104
+09:39:12 retro meter: optrekken 75 -> 104
+09:39:12 retro meter: optrekken 75 -> 104
+09:39:12 retro meter: optrekken 75 -> 104
+09:39:12 retro meter: optrekken 75 -> 104
+09:39:12 retro meter: optrekken 75 -> 104
+09:39:12 retro meter: optrekken 75 -> 104
+09:39:12 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:13 retro meter: optrekken 75 -> 104
+09:39:14 flitsevent traj_start limiet=100
+09:39:14 ev alert: Trajectcontrole begint. Ik bewaak het gemiddelde.
+09:39:15 back-up (dag) 65 kB
+09:39:17 v=105 nauwk=2m limiet=100 wegen=1617 draai=0 vaste=88/14 gemeld=18 stemming=worried
+09:39:17 sprint-animatie: turbo
+09:39:21 ev worried: Voetje van het gas?
+09:39:27 v=106 nauwk=2m limiet=100 wegen=1617 draai=-1 vaste=88/14 gemeld=18 stemming=worried
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:39:29 ev happy: Henk heeft 1300 km met Buddy gereden!
+09:39:29 groepsbericht ontvangen: mijlpaal van Henk
+09:39:37 v=106 nauwk=2m limiet=100 wegen=1617 draai=-1 vaste=88/14 gemeld=18 stemming=worried
+09:39:42 osm flits Worker: http 503, ik probeer Overpass rechtstreeks
+09:39:42 overpass overpass-api.de: http 502
+09:39:47 osm wegen Worker: http 503, ik probeer Overpass rechtstreeks
+09:39:47 osm werk Worker: http 503, ik probeer Overpass rechtstreeks
+09:39:47 overpass overpass-api.de: http 502
+09:39:47 overpass overpass-api.de: http 502
+09:39:48 v=98 nauwk=2m limiet=100 wegen=1617 draai=0 vaste=88/14 gemeld=18 stemming=worried
+09:39:58 v=105 nauwk=2m limiet=100 wegen=1617 draai=0 vaste=88/14 gemeld=18 stemming=worried
+09:40:02 overpass maps.mail.ru: http 504
+09:40:02 overpass maps.mail.ru: http 504
+09:40:09 v=106 nauwk=2m limiet=100 wegen=1617 draai=0 vaste=88/14 gemeld=18 stemming=worried
+09:40:12 overpass overpass.private.coffee: te traag
+09:40:12 overpass overpass.private.coffee: te traag
+09:40:17 overpass overpass.private.coffee: te traag
+09:40:19 overpass overpass.kumi.systems: te traag
+09:40:19 overpass overpass.kumi.systems: te traag
+09:40:19 FOUT wegenlimiet laden mislukt (overpass.kumi.systems: te traag) opnieuw over 8 s
+09:40:20 v=105 nauwk=2m limiet=100 wegen=1617 draai=-0 vaste=88/14 gemeld=18 stemming=worried
+09:40:22 flitsdata geladen: 12 flitsers, 21 trajecten (totaal 100/29)
+09:40:24 overpass overpass.kumi.systems: te traag
+09:40:30 v=105 nauwk=2m limiet=100 wegen=1617 draai=-0 vaste=100/29 gemeld=18 stemming=worried
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:55:41 terug na 909 s zonder GPS
+09:55:41 v=0 nauwk=8m limiet=100 wegen=0 draai=0 vaste=100/29 gemeld=18 stemming=worried
+09:55:42 weer: 8.4 graden, code 2, neerslag 0, wind 18
+09:55:42 groep ververst: 6
+09:55:42 ev happy: Goedemorgen Aaan!
+09:55:42 rws tegel 1743_98 (internet): 2151 wegvakken, versie 01-10-2026
+09:55:42 flitsers via /flitsers: 18/18
+09:55:42 buienradar: nu 0 mm/u, regen over -1 min
+09:55:42 ANWB verkeer geladen: 11 meldingen in de buurt (van 56)
+09:55:42 bruggen geladen: 220
+09:55:43 NDW geladen: 186 meldingen in de buurt {"closure":130,"speed":14,"lane":33,"jam":3,"accident":6}
