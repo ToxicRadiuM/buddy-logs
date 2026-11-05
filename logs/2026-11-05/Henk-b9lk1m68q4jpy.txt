@@ -161,3 +161,901 @@
 08:36:49 v=60 nauwk=2m limiet=50 wegen=10906 draai=1 vaste=158/16 gemeld=18 stemming=relaxed
 08:37:00 v=53 nauwk=2m limiet=50 wegen=10906 draai=0 vaste=158/16 gemeld=18 stemming=alert
 08:37:11 v=51 nauwk=2m limiet=50 wegen=10906 draai=0 vaste=158/16 gemeld=18 stemming=relaxed
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+08:37:22 v=44 nauwk=2m limiet=50 wegen=10906 draai=-2 vaste=158/16 gemeld=18 stemming=relaxed
+08:37:24 bruggen geladen: 0
+08:37:25 NDW geladen: 327 meldingen in de buurt {"closure":177,"speed":30,"lane":74,"jam":34,"accident":12}
+08:37:28 ANWB verkeer geladen: 37 meldingen in de buurt (van 108)
+08:37:28 flitsers via /flitsers: 18/18
+08:37:33 v=37 nauwk=2m limiet=50 wegen=10906 draai=-1 vaste=158/16 gemeld=18 stemming=happy
+08:37:43 v=39 nauwk=2m limiet=50 wegen=10906 draai=-3 vaste=158/16 gemeld=18 stemming=relaxed
+08:37:53 v=0 nauwk=2m limiet=50 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=neutral
+08:37:59 ev excited: Whoeeh, optrekken!
+08:37:59 drempel/schok sterkte 3.1 bij 8 km/h
+08:37:59 ev startled: Boing!
+08:38:00 retro meter: optrekken 4 -> 19
+08:38:04 v=40 nauwk=2m limiet=50 wegen=10906 draai=0 vaste=158/16 gemeld=18 stemming=excited
+08:38:15 v=22 nauwk=2m limiet=50 wegen=11790 draai=0 vaste=158/16 gemeld=18 stemming=relaxed
+08:38:26 v=26 nauwk=2m limiet=50 wegen=11790 draai=1 vaste=158/16 gemeld=18 stemming=neutral
+08:38:36 v=28 nauwk=2m limiet=50 wegen=11790 draai=1 vaste=158/16 gemeld=18 stemming=relaxed
+08:38:43 matrix geladen: 1477 snelheid, 104 kruis
+08:38:47 v=36 nauwk=2m limiet=50 wegen=11790 draai=1 vaste=158/16 gemeld=18 stemming=relaxed
+08:38:58 v=35 nauwk=2m limiet=50 wegen=11790 draai=1 vaste=158/16 gemeld=18 stemming=happy
+08:39:08 v=39 nauwk=2m limiet=50 wegen=7640 draai=0 vaste=158/16 gemeld=18 stemming=relaxed
+08:39:18 v=42 nauwk=2m limiet=50 wegen=7640 draai=-0 vaste=158/16 gemeld=18 stemming=relaxed
+08:39:19 groep ververst: 6
+08:39:28 ev happy: Daar is weer de Draaimolen! Wiee!
+08:39:28 bekende plek: de Draaimolen
+08:39:29 v=43 nauwk=2m limiet=50 wegen=7640 draai=-1 vaste=158/16 gemeld=18 stemming=happy
+08:39:29 ANWB verkeer geladen: 40 meldingen in de buurt (van 117)
+08:39:29 flitsers via /flitsers: 20/20
+08:39:40 v=4 nauwk=2m limiet=50 wegen=7640 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:39:50 v=32 nauwk=2m limiet=50 wegen=7640 draai=1 vaste=158/16 gemeld=20 stemming=alert
+08:39:51 rws tegel 1731_91 (telefoon): 5503 wegvakken, versie 01-10-2026
+08:39:51 osm wegen uit telefoongeheugen: 3083 stuks
+08:39:51 wegen geladen: 3083 wegen
+08:40:01 v=36 nauwk=2m limiet=50 wegen=16226 draai=-11 vaste=158/16 gemeld=20 stemming=alert
+08:40:01 ev excited: Rotonde!
+08:40:01 rotonde: herkend op de kaart
+08:40:12 v=0 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=alert
+08:40:23 v=0 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=alert
+08:40:32 ev excited: Groen! Daar gaan we.
+08:40:33 v=11 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=excited
+08:40:39 drempel/schok sterkte 2.8 bij 24 km/h
+08:40:39 ev startled: Boing!
+08:40:44 v=31 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=alert
+08:40:53 flitsevent cam_pass v=28 limiet=50
+08:40:53 ev happy: Netjes! Flitser gepasseerd.
+08:40:54 v=25 nauwk=2m limiet=50 wegen=16226 draai=-0 vaste=158/16 gemeld=20 stemming=happy
+08:41:05 v=32 nauwk=2m limiet=50 wegen=16226 draai=-3 vaste=158/16 gemeld=20 stemming=relaxed
+08:41:14 matrix geladen: 1510 snelheid, 91 kruis
+08:41:15 v=36 nauwk=2m limiet=50 wegen=16226 draai=10 vaste=158/16 gemeld=20 stemming=relaxed
+08:41:26 v=42 nauwk=2m limiet=50 wegen=16226 draai=-2 vaste=158/16 gemeld=20 stemming=alert
+08:41:29 flitsers via /flitsers: 20/20
+08:41:30 ANWB verkeer geladen: 35 meldingen in de buurt (van 113)
+08:41:36 v=33 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=relaxed
+08:41:47 v=0 nauwk=2m limiet=50 wegen=16226 draai=-0 vaste=158/16 gemeld=20 stemming=neutral
+08:41:57 v=3 nauwk=2m limiet=50 wegen=16226 draai=-0 vaste=158/16 gemeld=20 stemming=anticipate
+08:41:58 ev excited: Groen! Daar gaan we.
+08:42:07 v=37 nauwk=2m limiet=50 wegen=16226 draai=-0 vaste=158/16 gemeld=20 stemming=relaxed
+08:42:18 v=0 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=neutral
+08:42:20 groep ververst: 6
+08:42:25 weer: 3 graden, code 0, neerslag 0, wind 15
+08:42:25 buienradar: nu 0 mm/u, regen over -1 min
+08:42:26 NDW geladen: 318 meldingen in de buurt {"closure":173,"speed":29,"lane":73,"jam":38,"accident":5}
+08:42:29 v=0 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=bored
+08:42:39 v=0 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=anticipate
+08:42:50 v=0 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=anticipate
+08:42:56 ev clock: Het is 08:42.
+08:43:00 v=0 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=clock
+08:43:11 v=0 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=excited
+08:43:14 ev excited: Whoeeh, optrekken!
+08:43:15 ev worried: File voor je, over 1,8 km (2,1 km lang, +5 min). Rustig aan.
+08:43:15 ANWB melding jam 1793 m: File voor je, over 1,8 km (2,1 km lang, +5 min). Rustig aan.
+08:43:15 retro meter: optrekken 2 -> 15
+08:43:21 v=36 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=excited
+08:43:30 flitsers via /flitsers: 20/20
+08:43:31 ANWB verkeer geladen: 38 meldingen in de buurt (van 104)
+08:43:32 v=47 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=relaxed
+08:43:42 v=48 nauwk=2m limiet=50 wegen=16226 draai=-1 vaste=158/16 gemeld=20 stemming=relaxed
+08:43:45 matrix geladen: 1508 snelheid, 93 kruis
+08:43:53 v=43 nauwk=2m limiet=50 wegen=16226 draai=-1 vaste=158/16 gemeld=20 stemming=relaxed
+08:44:03 v=42 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=relaxed
+08:44:14 v=46 nauwk=2m limiet=50 wegen=16226 draai=3 vaste=158/16 gemeld=20 stemming=relaxed
+08:44:25 v=45 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=content
+08:44:35 v=42 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=relaxed
+08:44:46 v=36 nauwk=2m limiet=50 wegen=16226 draai=-0 vaste=158/16 gemeld=20 stemming=relaxed
+08:44:56 v=4 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=neutral
+08:45:06 v=0 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=anticipate
+08:45:13 ev excited: Groen! Daar gaan we.
+08:45:17 v=24 nauwk=2m limiet=50 wegen=16226 draai=-2 vaste=158/16 gemeld=20 stemming=neutral
+08:45:21 groep ververst: 6
+08:45:27 v=40 nauwk=2m limiet=50 wegen=16226 draai=-0 vaste=158/16 gemeld=20 stemming=content
+08:45:31 flitsers via /flitsers: 20/20
+08:45:32 ANWB verkeer geladen: 39 meldingen in de buurt (van 110)
+08:45:37 v=47 nauwk=2m limiet=50 wegen=16226 draai=0 vaste=158/16 gemeld=20 stemming=relaxed
+08:45:48 v=43 nauwk=3m limiet=50 wegen=16226 draai=-2 vaste=158/16 gemeld=20 stemming=relaxed
+08:45:59 v=27 nauwk=2m limiet=50 wegen=16226 draai=-0 vaste=158/16 gemeld=20 stemming=neutral
+08:46:10 v=36 nauwk=2m limiet=50 wegen=16226 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:46:16 matrix geladen: 1562 snelheid, 102 kruis
+08:46:20 v=32 nauwk=2m limiet=50 wegen=8586 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:46:31 ev worried: File voor je, over 1,8 km (3,5 km lang, +8 min). Rustig aan.
+08:46:31 ANWB melding jam 1799 m: File voor je, over 1,8 km (3,5 km lang, +8 min). Rustig aan.
+08:46:31 v=38 nauwk=2m limiet=50 wegen=8586 draai=0 vaste=158/16 gemeld=20 stemming=alert
+08:46:41 v=38 nauwk=2m limiet=50 wegen=8586 draai=0 vaste=158/16 gemeld=20 stemming=alert
+08:46:52 v=32 nauwk=2m limiet=50 wegen=8586 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:47:03 v=0 nauwk=2m limiet=50 wegen=8586 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:47:13 v=0 nauwk=2m limiet=50 wegen=8586 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+08:47:23 v=0 nauwk=3m limiet=50 wegen=8586 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:47:25 bruggen geladen: 0
+08:47:27 NDW geladen: 310 meldingen in de buurt {"closure":170,"speed":29,"lane":71,"jam":35,"accident":5}
+08:47:32 flitsers via /flitsers: 18/18
+08:47:33 ANWB verkeer geladen: 42 meldingen in de buurt (van 117)
+08:47:34 v=10 nauwk=2m limiet=50 wegen=8586 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:47:34 ev excited: Groen! Daar gaan we.
+08:47:34 ev excited: Whoeeh, optrekken!
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:36 retro meter: optrekken 9 -> 21
+08:47:42 sprint-animatie: turbo
+08:47:43 rws tegel 1731_90 (telefoon): 4312 wegvakken, versie 01-10-2026
+08:47:44 v=31 nauwk=2m limiet=50 wegen=12898 draai=-1 vaste=158/16 gemeld=18 stemming=alert
+08:47:44 osm werk via Worker (bewaard): 400 stuks
+08:47:44 wegwerkzaamheden geladen: 389
+08:47:45 flitsevent cam_pass v=30 limiet=50
+08:47:45 ev happy: Netjes! Flitser gepasseerd.
+08:47:55 v=25 nauwk=2m limiet=50 wegen=12898 draai=-2 vaste=158/16 gemeld=18 stemming=relaxed
+08:48:06 v=36 nauwk=2m limiet=50 wegen=12898 draai=2 vaste=158/16 gemeld=18 stemming=focused
+08:48:16 v=10 nauwk=2m limiet=50 wegen=12898 draai=-0 vaste=158/16 gemeld=18 stemming=neutral
+08:48:21 groep ververst: 6
+08:48:27 v=28 nauwk=2m limiet=50 wegen=12898 draai=-0 vaste=158/16 gemeld=18 stemming=content
+08:48:38 v=40 nauwk=2m limiet=50 wegen=12898 draai=-0 vaste=158/16 gemeld=18 stemming=relaxed
+08:48:47 matrix geladen: 1533 snelheid, 99 kruis
+08:48:48 v=49 nauwk=4m limiet=50 wegen=12898 draai=-0 vaste=158/16 gemeld=18 stemming=happy
+08:48:49 rws tegel 1732_90 (telefoon): 2812 wegvakken, versie 01-10-2026
+08:48:59 v=50 nauwk=2m limiet=50 wegen=15710 draai=1 vaste=158/16 gemeld=18 stemming=alert
+08:49:10 v=14 nauwk=2m limiet=50 wegen=15710 draai=-2 vaste=158/16 gemeld=18 stemming=alert
+08:49:20 v=13 nauwk=2m limiet=50 wegen=15710 draai=-25 vaste=158/16 gemeld=18 stemming=alert
+08:49:20 drempel/schok sterkte 3.4 bij 12 km/h
+08:49:20 ev startled: Boing!
+08:49:30 v=7 nauwk=9m limiet=50 wegen=15710 draai=-1 vaste=158/16 gemeld=18 stemming=alert
+08:49:34 ANWB verkeer geladen: 35 meldingen in de buurt (van 110)
+08:49:34 flitsers via /flitsers: 20/20
+08:49:41 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:49:51 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:50:02 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:50:13 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:50:19 ev clock: Het is 08:50.
+08:50:23 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=clock
+08:50:34 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:50:44 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:50:55 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:51:06 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:51:08 parkeerplek onthouden
+08:51:17 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:51:22 groep ververst: 6
+08:51:28 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:51:33 flitsers via /flitsers: 20/20
+08:51:35 ANWB verkeer geladen: 36 meldingen in de buurt (van 109)
+08:51:38 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:51:49 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=yawn
+08:51:59 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:52:09 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=yawn
+08:52:09 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+08:52:09 osm laad via Worker (bewaard): 54 stuks
+08:52:09 laadpauze begonnen bij Rotterdam elektrisch
+08:52:09 ev excited: Laadpaal! Laadpauze, ik hou de tijd bij.
+08:52:20 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:52:28 NDW geladen: 308 meldingen in de buurt {"closure":170,"speed":29,"lane":72,"jam":30,"accident":7}
+08:52:30 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:52:40 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:52:51 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:53:01 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:53:12 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:53:19 ev clock: Het is 08:53.
+08:53:23 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=clock
+08:53:33 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:53:34 flitsers via /flitsers: 20/20
+08:53:36 ANWB verkeer geladen: 37 meldingen in de buurt (van 107)
+08:53:44 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:53:55 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:54:05 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:54:16 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=alert
+08:54:23 groep ververst: 6
+08:54:26 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+08:54:37 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+08:54:38 rit: {"t0":1793863643683,"t1":1793865031313,"km":9.4,"min":17,"stijl":71,"netjes":5,"vmax":63,"sec":1002,"g":0.39,"sch":0,"zacht":100,"van":[51.92272,4.62251],"naar":[51.95602,4.54912],"bm":"5× netjes
+08:54:38 ev worried: Pittige rit, rijstijl 71. Rustiger mag ook.
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+08:54:41 back-up (rit) 184 kB
+08:54:42 ev happy: Geen enkele schok deze rit. Wat een zen-rit 🧘
+08:54:47 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+08:54:49 ev happy: ⭐ Beste moment: 5× netjes langs een flitser 😇
+08:54:58 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+08:55:08 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+08:55:19 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+08:55:29 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+08:55:35 flitsers via /flitsers: 18/18
+08:55:37 ANWB verkeer geladen: 40 meldingen in de buurt (van 110)
+08:55:40 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:55:50 v=0 nauwk=7m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:56:01 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:56:11 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:56:22 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:56:32 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:56:43 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:56:53 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:57:04 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:57:14 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+08:57:24 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:57:24 groep ververst: 6
+08:57:25 weer: 3.2 graden, code 0, neerslag 0, wind 15
+08:57:25 buienradar: nu 0 mm/u, regen over -1 min
+08:57:26 bruggen geladen: 5
+08:57:29 NDW geladen: 313 meldingen in de buurt {"closure":170,"speed":29,"lane":72,"jam":35,"accident":7}
+08:57:35 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:57:36 flitsers via /flitsers: 18/18
+08:57:38 ANWB verkeer geladen: 37 meldingen in de buurt (van 108)
+08:57:46 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:57:57 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:58:07 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:58:18 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:58:28 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:58:38 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:58:49 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:59:00 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:59:10 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:59:21 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:59:31 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:59:37 flitsers via /flitsers: 18/18
+08:59:39 ANWB verkeer geladen: 37 meldingen in de buurt (van 108)
+08:59:42 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+08:59:52 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:00:03 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:00:14 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:00:24 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:00:25 groep ververst: 6
+09:00:34 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:00:45 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:00:56 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:01:06 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:01:17 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:01:27 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:01:38 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:01:38 flitsers via /flitsers: 20/20
+09:01:40 ANWB verkeer geladen: 40 meldingen in de buurt (van 111)
+09:01:48 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:01:59 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:02:09 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:02:20 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:02:30 NDW geladen: 310 meldingen in de buurt {"closure":170,"speed":29,"lane":72,"jam":29,"accident":10}
+09:02:31 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:02:41 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:02:52 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:03:02 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:03:13 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:03:23 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:03:26 groep ververst: 6
+09:03:33 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:03:39 flitsers via /flitsers: 20/20
+09:03:41 ANWB verkeer geladen: 37 meldingen in de buurt (van 111)
+09:03:44 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:03:54 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:04:05 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:04:16 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:04:27 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:04:38 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:04:48 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:04:59 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:05:09 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:05:20 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:05:30 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:05:39 flitsers via /flitsers: 20/20
+09:05:41 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:05:42 ANWB verkeer geladen: 34 meldingen in de buurt (van 102)
+09:05:51 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:06:02 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:06:13 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:06:24 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:06:27 groep ververst: 6
+09:06:35 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:06:45 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:06:55 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:07:06 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:07:16 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:07:26 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:07:27 bruggen geladen: 5
+09:07:31 NDW geladen: 306 meldingen in de buurt {"closure":170,"speed":29,"lane":71,"jam":26,"accident":10}
+09:07:37 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:07:40 flitsers via /flitsers: 18/18
+09:07:43 ANWB verkeer geladen: 36 meldingen in de buurt (van 110)
+09:07:47 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:07:58 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:08:09 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:08:20 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:08:30 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:08:41 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:08:52 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:09:02 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:09:12 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:09:23 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:09:28 groep ververst: 6
+09:09:33 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:09:41 flitsers via /flitsers: 20/20
+09:09:44 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:09:44 ANWB verkeer geladen: 37 meldingen in de buurt (van 99)
+09:09:54 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:10:05 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:10:16 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:10:26 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:10:36 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:10:47 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:10:58 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:11:09 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:11:19 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:11:29 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:11:40 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:11:41 flitsers via /flitsers: 20/20
+09:11:45 ANWB verkeer geladen: 35 meldingen in de buurt (van 95)
+09:11:50 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:12:00 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:12:11 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:12:22 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:12:26 weer: 3.5 graden, code 0, neerslag 0, wind 15
+09:12:26 buienradar: nu 0 mm/u, regen over -1 min
+09:12:29 groep ververst: 6
+09:12:32 NDW geladen: 303 meldingen in de buurt {"closure":170,"speed":29,"lane":71,"jam":23,"accident":10}
+09:12:33 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:12:43 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:12:54 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:13:04 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:13:15 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:13:25 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:13:35 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:13:42 flitsers via /flitsers: 20/20
+09:13:46 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:13:46 ANWB verkeer geladen: 34 meldingen in de buurt (van 94)
+09:13:57 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:14:08 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:14:19 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:14:30 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:14:41 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:14:51 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:15:02 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:15:12 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:15:23 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:15:30 groep ververst: 6
+09:15:34 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:15:42 flitsers via /flitsers: 18/18
+09:15:45 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:15:47 ANWB verkeer geladen: 31 meldingen in de buurt (van 86)
+09:15:56 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:16:06 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:16:16 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:16:26 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:16:37 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:16:47 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:16:58 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:17:09 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:17:20 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:17:28 bruggen geladen: 5
+09:17:31 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:17:33 NDW geladen: 296 meldingen in de buurt {"closure":170,"speed":29,"lane":71,"jam":19,"accident":7}
+09:17:41 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:17:43 flitsers via /flitsers: 20/20
+09:17:45 osm werk via Worker (bewaard): 400 stuks
+09:17:45 wegwerkzaamheden geladen: 389
+09:17:48 ANWB verkeer geladen: 31 meldingen in de buurt (van 83)
+09:17:51 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:18:01 v=0 nauwk=17m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:18:12 v=0 nauwk=18m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:18:22 v=0 nauwk=15m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:18:30 groep ververst: 6
+09:18:33 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:18:43 v=0 nauwk=14m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:18:53 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:19:04 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:19:15 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:19:25 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:19:35 v=0 nauwk=14m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:19:44 flitsers via /flitsers: 18/18
+09:19:46 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:19:49 ANWB verkeer geladen: 31 meldingen in de buurt (van 83)
+09:19:57 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:20:07 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:20:18 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:20:28 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:20:38 v=0 nauwk=14m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:20:49 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:21:00 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:21:10 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:21:21 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:21:31 groep ververst: 6
+09:21:32 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:21:42 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:21:44 flitsers via /flitsers: 18/18
+09:21:50 ANWB verkeer geladen: 32 meldingen in de buurt (van 87)
+09:21:53 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:22:03 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:22:14 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:22:24 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:22:34 NDW geladen: 291 meldingen in de buurt {"closure":168,"speed":29,"lane":71,"jam":17,"accident":6}
+09:22:35 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:22:45 v=0 nauwk=16m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:22:55 v=0 nauwk=16m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:23:06 v=0 nauwk=14m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:23:16 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:23:27 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:23:37 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=18 stemming=sleeping
+09:23:45 flitsers via /flitsers: 20/20
+09:23:48 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:23:51 ANWB verkeer geladen: 32 meldingen in de buurt (van 86)
+09:23:58 v=0 nauwk=14m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:24:09 v=0 nauwk=14m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:24:20 v=0 nauwk=15m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:24:30 v=0 nauwk=15m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:24:31 groep ververst: 6
+09:24:41 v=0 nauwk=14m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:24:52 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:25:02 v=0 nauwk=14m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:25:13 v=0 nauwk=14m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:25:24 v=0 nauwk=15m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:25:35 v=0 nauwk=13m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:25:46 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=20 stemming=sleeping
+09:25:46 flitsers via /flitsers: 21/21
+09:25:52 ANWB verkeer geladen: 30 meldingen in de buurt (van 83)
+09:25:56 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:26:07 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:26:18 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:26:28 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:26:39 v=7 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=happy
+09:26:43 laadpauze klaar na 37 min
+09:26:43 ev happy: Lekker opgeladen na 37 minuten. Rij voorzichtig!
+09:26:49 v=11 nauwk=8m limiet=50 wegen=15710 draai=-6 vaste=158/16 gemeld=21 stemming=neutral
+09:26:59 v=13 nauwk=6m limiet=50 wegen=15710 draai=15 vaste=158/16 gemeld=21 stemming=neutral
+09:27:09 v=8 nauwk=4m limiet=50 wegen=15710 draai=-12 vaste=158/16 gemeld=21 stemming=neutral
+09:27:13 ev alert: Afsluiting over 200 m. Let op de omleiding!
+09:27:13 ANWB melding closure 226 m: Afsluiting over 200 m. Let op de omleiding!
+09:27:13 ev excited: Whoeeh, optrekken!
+09:27:13 rws tegel 1732_91 (internet): 3229 wegvakken, versie 01-10-2026
+09:27:15 matrix geladen: 857 snelheid, 93 kruis
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:27:20 v=43 nauwk=2m limiet=50 wegen=18939 draai=-2 vaste=158/16 gemeld=21 stemming=alert
+09:27:27 weer: 3.8 graden, code 0, neerslag 0, wind 15
+09:27:27 buienradar: nu 0 mm/u, regen over -1 min
+09:27:29 bruggen geladen: 5
+09:27:31 v=49 nauwk=2m limiet=50 wegen=18939 draai=-0 vaste=158/16 gemeld=21 stemming=alert
+09:27:32 groep ververst: 6
+09:27:35 NDW geladen: 285 meldingen in de buurt {"closure":168,"speed":29,"lane":71,"jam":13,"accident":4}
+09:27:42 v=30 nauwk=2m limiet=50 wegen=18939 draai=-0 vaste=158/16 gemeld=21 stemming=alert
+09:27:46 flitsers via /flitsers: 21/21
+09:27:53 v=0 nauwk=2m limiet=50 wegen=18939 draai=-0 vaste=158/16 gemeld=21 stemming=alert
+09:27:53 ANWB verkeer geladen: 33 meldingen in de buurt (van 83)
+09:28:03 v=0 nauwk=2m limiet=50 wegen=18939 draai=-0 vaste=158/16 gemeld=21 stemming=alert
+09:28:14 v=0 nauwk=2m limiet=50 wegen=18939 draai=-0 vaste=158/16 gemeld=21 stemming=alert
+09:28:24 v=0 nauwk=2m limiet=50 wegen=18939 draai=-0 vaste=158/16 gemeld=21 stemming=alert
+09:28:31 ev clock: Het is 09:28.
+09:28:34 v=0 nauwk=2m limiet=50 wegen=18939 draai=-0 vaste=158/16 gemeld=21 stemming=clock
+09:28:37 ev excited: Groen! Daar gaan we.
+09:28:44 flitsevent cam_pass v=29 limiet=50
+09:28:44 ev happy: Netjes! Flitser gepasseerd.
+09:28:45 v=31 nauwk=2m limiet=50 wegen=18939 draai=1 vaste=158/16 gemeld=21 stemming=happy
+09:28:55 v=47 nauwk=2m limiet=50 wegen=18939 draai=0 vaste=158/16 gemeld=21 stemming=relaxed
+09:29:06 v=27 nauwk=2m limiet=50 wegen=18939 draai=2 vaste=158/16 gemeld=21 stemming=relaxed
+09:29:11 ev excited: Wieee, wat een bocht!
+09:29:11 ev excited: Rotonde!
+09:29:11 rotonde: herkend op de kaart
+09:29:17 v=23 nauwk=2m limiet=30 wegen=18939 draai=36 vaste=158/16 gemeld=21 stemming=neutral
+09:29:23 drempel/schok sterkte 3.6 bij 21 km/h
+09:29:23 ev startled: Boing!
+09:29:27 v=12 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=21 stemming=neutral
+09:29:37 ev happy: Rondje! Wheee.
+09:29:37 rotonde: rondje (192°)
+09:29:37 v=8 nauwk=2m limiet=30 wegen=18939 draai=4 vaste=158/16 gemeld=21 stemming=happy
+09:29:47 flitsers via /flitsers: 21/21
+09:29:48 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=21 stemming=anticipate
+09:29:54 ANWB verkeer geladen: 32 meldingen in de buurt (van 84)
+09:29:58 v=3 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=21 stemming=excited
+09:29:59 ev excited: Groen! Daar gaan we.
+09:30:09 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=21 stemming=anticipate
+09:30:20 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=21 stemming=alert
+09:30:30 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=21 stemming=anticipate
+09:30:33 groep ververst: 6
+09:30:40 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=21 stemming=neutral
+09:30:51 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=21 stemming=anticipate
+09:31:02 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=21 stemming=anticipate
+09:31:12 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=21 stemming=alert
+09:31:23 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=21 stemming=anticipate
+09:31:34 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=21 stemming=relaxed
+09:31:38 ev clock: Het is 09:31.
+09:31:44 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=21 stemming=yawn
+09:31:48 flitsers via /flitsers: 19/19
+09:31:55 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=love
+09:31:55 ANWB verkeer geladen: 31 meldingen in de buurt (van 77)
+09:32:06 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=alert
+09:32:17 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=anticipate
+09:32:28 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=yawn
+09:32:33 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+09:32:35 osm laad via Worker (bewaard): 54 stuks
+09:32:35 laadpauze begonnen bij Rotterdam elektrisch
+09:32:35 ev excited: Laadpaal! Laadpauze, ik hou de tijd bij.
+09:32:36 NDW geladen: 286 meldingen in de buurt {"closure":168,"jam":19,"speed":28,"lane":68,"accident":3}
+09:32:38 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=excited
+09:32:48 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=yawn
+09:32:59 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=anticipate
+09:33:10 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=yawn
+09:33:20 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=anticipate
+09:33:31 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=anticipate
+09:33:34 groep ververst: 6
+09:33:41 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=anticipate
+09:33:49 flitsers via /flitsers: 19/19
+09:33:51 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=anticipate
+09:33:56 ANWB verkeer geladen: 32 meldingen in de buurt (van 79)
+09:34:02 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=yawn
+09:34:13 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=anticipate
+09:34:23 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=anticipate
+09:34:34 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=alert
+09:34:38 ev clock: Het is 09:34.
+09:34:44 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=sleeping
+09:34:55 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=sleeping
+09:35:03 rit: {"t0":1793867199202,"t1":1793867461234,"km":0.9,"min":2,"stijl":97,"netjes":1,"vmax":49,"sec":129,"g":0.35,"sch":0,"van":[51.95589,4.5492],"naar":[51.95812,4.54488],"bm":"rijstijl 97, bijna perfe
+09:35:03 ev happy: Zachte rit, rijstijl 97. Top!
+09:35:05 v=0 nauwk=2m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=sleeping
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:35:07 back-up (rit) 179 kB
+09:35:14 ev happy: ⭐ Beste moment: rijstijl 97, bijna perfect 🧘
+09:35:16 v=0 nauwk=4m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=sleeping
+09:35:26 v=0 nauwk=5m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=sleeping
+09:35:37 v=3 nauwk=5m limiet=30 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=sleeping
+09:35:40 laadpauze klaar na 5 min
+09:35:40 ev happy: Lekker opgeladen na 5 minuten. Rij voorzichtig!
+09:35:48 v=0 nauwk=6m limiet=30 wegen=18939 draai=-0 vaste=158/16 gemeld=19 stemming=neutral
+09:35:50 flitsers via /flitsers: 19/19
+09:35:51 ev excited: Whoeeh, optrekken!
+09:35:57 ANWB verkeer geladen: 33 meldingen in de buurt (van 77)
+09:35:58 v=19 nauwk=6m limiet=50 wegen=18939 draai=-16 vaste=158/16 gemeld=19 stemming=neutral
+09:36:00 ev excited: Rotonde!
+09:36:00 rotonde: herkend op de kaart
+09:36:00 plek kreeg een naam: het Rondje Pret
+09:36:04 matrix geladen: 740 snelheid, 107 kruis
+09:36:09 v=40 nauwk=3m limiet=50 wegen=18939 draai=1 vaste=158/16 gemeld=19 stemming=relaxed
+09:36:19 v=41 nauwk=2m limiet=50 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=relaxed
+09:36:23 drempel/schok sterkte 3.1 bij 30 km/h
+09:36:23 ev startled: Boing!
+09:36:24 drempel/schok sterkte 2.9 bij 30 km/h (tweede klap)
+09:36:29 v=37 nauwk=2m limiet=50 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=relaxed
+09:36:35 groep ververst: 6
+09:36:39 v=49 nauwk=3m limiet=50 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=relaxed
+09:36:49 v=36 nauwk=2m limiet=50 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=relaxed
+09:37:00 v=29 nauwk=2m limiet=50 wegen=18939 draai=-5 vaste=158/16 gemeld=19 stemming=relaxed
+09:37:10 v=40 nauwk=2m limiet=50 wegen=18939 draai=-0 vaste=158/16 gemeld=19 stemming=blow
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:37:20 v=31 nauwk=2m limiet=50 wegen=18939 draai=-0 vaste=158/16 gemeld=19 stemming=relaxed
+09:37:30 bruggen geladen: 5
+09:37:31 v=20 nauwk=2m limiet=50 wegen=18939 draai=-5 vaste=158/16 gemeld=19 stemming=neutral
+09:37:35 ev worried: Ongeluk voor je, over 1,5 km. Voorzichtig!
+09:37:35 NDW melding accident 1490 m: Ongeluk voor je, over 1,5 km. Voorzichtig!
+09:37:37 NDW geladen: 278 meldingen in de buurt {"lane":67,"closure":167,"jam":15,"speed":27,"accident":2}
+09:37:41 v=34 nauwk=2m limiet=50 wegen=18939 draai=0 vaste=158/16 gemeld=19 stemming=relaxed
+09:37:51 flitsers via /flitsers: 19/19
+09:37:52 v=24 nauwk=2m limiet=50 wegen=18939 draai=19 vaste=158/16 gemeld=19 stemming=neutral
+09:37:58 ANWB verkeer geladen: 27 meldingen in de buurt (van 69)
+09:38:02 v=17 nauwk=2m limiet=50 wegen=18939 draai=-1 vaste=158/16 gemeld=19 stemming=content
+09:38:13 v=10 nauwk=2m limiet=50 wegen=15710 draai=-1 vaste=158/16 gemeld=19 stemming=neutral
+09:38:24 v=9 nauwk=2m limiet=50 wegen=15710 draai=-1 vaste=158/16 gemeld=19 stemming=neutral
+09:38:35 v=11 nauwk=2m limiet=50 wegen=15710 draai=-4 vaste=158/16 gemeld=19 stemming=neutral
+09:38:45 v=9 nauwk=3m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=neutral
+09:38:56 v=0 nauwk=3m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=neutral
+09:39:06 v=0 nauwk=3m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=anticipate
+09:39:16 v=0 nauwk=2m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=anticipate
+09:39:27 v=0 nauwk=2m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=worried
+09:39:36 groep ververst: 6
+09:39:36 ev clock: Het is 09:39.
+09:39:37 v=0 nauwk=2m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=clock
+09:39:48 v=0 nauwk=2m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=love
+09:39:52 flitsers via /flitsers: 19/19
+09:39:59 v=0 nauwk=2m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=anticipate
+09:39:59 ANWB verkeer geladen: 29 meldingen in de buurt (van 73)
+09:40:10 v=0 nauwk=3m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=yawn
+09:40:20 v=0 nauwk=3m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=anticipate
+09:40:31 v=0 nauwk=3m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=anticipate
+09:40:42 v=0 nauwk=3m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=anticipate
+09:40:53 v=0 nauwk=3m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=anticipate
+09:41:04 v=0 nauwk=3m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=anticipate
+09:41:14 v=0 nauwk=3m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=content
+09:41:24 v=0 nauwk=3m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=yawn
+09:41:28 osm laad via Worker (bewaard): 54 stuks
+09:41:28 laadpaal: niet gevonden in de buurt
+09:41:29 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+09:41:35 v=0 nauwk=3m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=anticipate
+09:41:46 v=0 nauwk=3m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=anticipate
+09:41:53 flitsers via /flitsers: 21/21
+09:41:57 v=0 nauwk=4m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=anticipate
+09:42:00 ANWB verkeer geladen: 27 meldingen in de buurt (van 71)
+09:42:08 v=0 nauwk=4m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=happy
+09:42:18 v=0 nauwk=4m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=anticipate
+09:42:28 weer: 4 graden, code 0, neerslag 0, wind 15
+09:42:28 buienradar: nu 0 mm/u, regen over -1 min
+09:42:29 v=0 nauwk=4m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=content
+09:42:36 groep ververst: 6
+09:42:36 ev clock: Het is 09:42.
+09:42:38 NDW geladen: 271 meldingen in de buurt {"lane":66,"closure":165,"jam":11,"speed":27,"accident":2}
+09:42:39 v=0 nauwk=4m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=clock
+09:42:50 v=0 nauwk=4m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=happy
+09:43:00 v=0 nauwk=4m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=anticipate
+09:43:11 v=0 nauwk=4m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=anticipate
+09:43:21 v=0 nauwk=4m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=alert
+09:43:32 v=0 nauwk=4m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=yawn
+09:43:42 v=0 nauwk=4m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:43:53 v=0 nauwk=4m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:43:53 flitsers via /flitsers: 19/19
+09:43:56 rit: {"t0":1793867738607,"t1":1793867989245,"km":1.3,"min":3,"stijl":99,"netjes":0,"vmax":49,"sec":182,"g":0.32,"sch":0,"van":[51.95814,4.54482],"naar":[51.9546,4.53128],"bm":"rijstijl 99, bijna perfe
+09:43:56 ev happy: Zachte rit, rijstijl 99. Top!
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:43:59 back-up (rit) 175 kB
+09:44:01 ANWB verkeer geladen: 29 meldingen in de buurt (van 77)
+09:44:04 v=0 nauwk=5m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:44:07 ev happy: ⭐ Beste moment: rijstijl 99, bijna perfect 🧘
+09:44:15 v=0 nauwk=7m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:44:25 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:44:36 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:44:46 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:44:57 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:45:07 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:45:18 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:45:29 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:45:37 groep ververst: 6
+09:45:39 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:45:50 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:45:54 flitsers via /flitsers: 19/19
+09:46:00 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:46:02 ANWB verkeer geladen: 26 meldingen in de buurt (van 74)
+09:46:10 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:46:21 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:46:32 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:46:42 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:46:53 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:47:03 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:47:14 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:47:24 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:47:31 bruggen geladen: 0
+09:47:35 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:47:39 NDW geladen: 269 meldingen in de buurt {"lane":66,"closure":164,"speed":27,"jam":10,"accident":2}
+09:47:45 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:47:46 osm werk via Worker (bewaard): 400 stuks
+09:47:46 wegwerkzaamheden geladen: 389
+09:47:55 flitsers via /flitsers: 19/19
+09:47:56 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:48:03 ANWB verkeer geladen: 25 meldingen in de buurt (van 73)
+09:48:06 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:48:17 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:48:27 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:48:38 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:48:38 groep ververst: 6
+09:48:48 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:48:59 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:49:09 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:49:20 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:49:30 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:49:41 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:49:51 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+09:49:55 flitsers via /flitsers: 21/21
+09:50:02 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:50:04 ANWB verkeer geladen: 24 meldingen in de buurt (van 72)
+09:50:12 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:50:23 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:50:33 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:50:44 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:50:54 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:51:05 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:51:16 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:51:26 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:51:37 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:51:39 groep ververst: 6
+09:51:48 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:51:56 flitsers via /flitsers: 21/21
+09:51:59 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:52:05 ANWB verkeer geladen: 24 meldingen in de buurt (van 71)
+09:52:09 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:52:20 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:52:30 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:52:40 NDW geladen: 268 meldingen in de buurt {"lane":66,"closure":164,"speed":27,"jam":9,"accident":2}
+09:52:41 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:52:51 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:53:02 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:53:12 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:53:23 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:53:33 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:53:44 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:53:54 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:53:57 flitsers via /flitsers: 21/21
+09:54:05 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:54:06 ANWB verkeer geladen: 25 meldingen in de buurt (van 71)
+09:54:15 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:54:26 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:54:37 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:54:40 groep ververst: 6
+09:54:47 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:54:58 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:55:08 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:55:19 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:55:29 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:55:40 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:55:50 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:55:58 flitsers via /flitsers: 21/21
+09:56:01 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:56:07 ANWB verkeer geladen: 23 meldingen in de buurt (van 67)
+09:56:11 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:56:21 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:56:32 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:56:43 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:56:53 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:57:04 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:57:14 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:57:25 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:57:29 weer: 4.4 graden, code 0, neerslag 0, wind 15
+09:57:29 buienradar: nu 0 mm/u, regen over -1 min
+09:57:32 bruggen geladen: 0
+09:57:35 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:57:41 groep ververst: 6
+09:57:41 NDW geladen: 266 meldingen in de buurt {"lane":66,"closure":164,"speed":27,"jam":7,"accident":2}
+09:57:46 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:57:56 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:57:58 flitsers via /flitsers: 21/21
+09:58:07 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:58:08 ANWB verkeer geladen: 24 meldingen in de buurt (van 67)
+09:58:17 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:58:28 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:58:38 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:58:49 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:58:59 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:59:10 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:59:20 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:59:31 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:59:41 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:59:52 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+09:59:59 flitsers via /flitsers: 19/19
+10:00:02 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:00:09 ANWB verkeer geladen: 24 meldingen in de buurt (van 65)
+10:00:13 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:00:23 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:00:34 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:00:42 groep ververst: 6
+10:00:45 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:00:55 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:01:05 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:01:16 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:01:27 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:01:38 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:01:49 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:01:59 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:02:00 flitsers via /flitsers: 21/21
+10:02:10 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:02:10 ANWB verkeer geladen: 22 meldingen in de buurt (van 65)
+10:02:20 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:02:31 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:02:41 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:02:42 NDW geladen: 264 meldingen in de buurt {"lane":68,"closure":164,"speed":27,"jam":3,"accident":2}
+10:02:51 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:03:02 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:03:13 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:03:23 v=0 nauwk=12m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:03:34 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:03:42 groep ververst: 6
+10:03:44 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:03:55 v=0 nauwk=11m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:04:01 flitsers via /flitsers: 19/19
+10:04:05 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:04:11 ANWB verkeer geladen: 23 meldingen in de buurt (van 65)
+10:04:16 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:04:26 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:04:37 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:04:47 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:04:58 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:05:08 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:05:19 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:05:29 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:05:40 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:05:50 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:06:01 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:06:02 flitsers via /flitsers: 21/21
+10:06:11 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:06:12 ANWB verkeer geladen: 19 meldingen in de buurt (van 60)
+10:06:22 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:06:33 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:06:43 groep ververst: 6
+10:06:44 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:06:55 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:07:05 v=0 nauwk=7m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:07:16 v=0 nauwk=7m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+10:07:26 v=0 nauwk=7m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:07:33 bruggen geladen: 0
+10:07:37 v=0 nauwk=7m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:07:43 NDW geladen: 265 meldingen in de buurt {"lane":68,"closure":164,"speed":27,"jam":4,"accident":2}
+10:07:47 v=0 nauwk=7m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:07:58 v=0 nauwk=7m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:08:03 flitsers via /flitsers: 19/19
+10:08:08 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:08:13 ANWB verkeer geladen: 20 meldingen in de buurt (van 60)
+10:08:19 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:08:29 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:08:40 v=0 nauwk=7m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:08:50 v=0 nauwk=7m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:09:01 v=0 nauwk=6m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:09:11 v=0 nauwk=7m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:09:22 v=0 nauwk=7m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:09:32 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:09:43 v=0 nauwk=7m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:09:44 groep ververst: 6
+10:09:53 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:10:04 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:10:04 flitsers via /flitsers: 21/21
+10:10:14 ANWB verkeer geladen: 18 meldingen in de buurt (van 57)
+10:10:15 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:10:25 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:10:35 v=0 nauwk=7m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:10:46 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:10:57 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:11:07 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:11:18 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:11:28 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:11:29 osm laad via Worker (bewaard): 54 stuks
+10:11:29 laadpaal: niet gevonden in de buurt
+10:11:39 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:11:49 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:12:00 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:12:05 flitsers via /flitsers: 19/19
+10:12:10 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:12:15 ANWB verkeer geladen: 20 meldingen in de buurt (van 57)
+10:12:21 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:12:30 weer: 4.7 graden, code 0, neerslag 0, wind 15
+10:12:30 buienradar: nu 0 mm/u, regen over -1 min
+10:12:31 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:12:41 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:12:44 NDW geladen: 264 meldingen in de buurt {"lane":69,"closure":164,"speed":27,"jam":3,"accident":1}
+10:12:45 groep ververst: 6
+10:12:52 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:13:03 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:13:13 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:13:23 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:13:34 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:13:45 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:13:56 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:14:06 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=19 stemming=sleeping
+10:14:06 flitsers via /flitsers: 21/21
+10:14:16 ANWB verkeer geladen: 20 meldingen in de buurt (van 59)
+10:14:17 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:14:28 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:14:38 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:14:49 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:14:59 v=0 nauwk=10m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:15:10 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:15:20 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:15:31 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:15:41 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:15:46 groep ververst: 6
+10:15:52 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:16:02 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:16:07 flitsers via /flitsers: 21/21
+10:16:13 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:16:17 ANWB verkeer geladen: 20 meldingen in de buurt (van 59)
+10:16:23 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:16:34 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:16:45 v=0 nauwk=9m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:16:55 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:17:05 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
+10:17:16 v=0 nauwk=8m limiet=50 wegen=15710 draai=-0 vaste=158/16 gemeld=21 stemming=sleeping
