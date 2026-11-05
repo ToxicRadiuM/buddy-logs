@@ -1,0 +1,163 @@
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+08:25:09 start v133
+08:25:10 groep ververst: 6
+08:25:10 GPS automatisch aan
+08:25:10 scherm-aan-slot geweigerd: NotAllowedError (probeer opnieuw bij een tik)
+08:25:11 limiet geschat uit je snelheid: 30
+08:25:11 rws tegel 1730_92 (telefoon): 2618 wegvakken, versie 01-10-2026
+08:25:11 osm werk via Worker (bewaard): 400 stuks
+08:25:11 wegwerkzaamheden geladen: 389
+08:25:11 bruggen geladen: 0
+08:25:11 NDW geladen: 351 meldingen in de buurt {"closure":194,"speed":31,"lane":79,"jam":37,"accident":10}
+08:25:11 matrix-locaties geladen: 6442
+08:25:11 ANWB verkeer geladen: 42 meldingen in de buurt (van 112)
+08:25:11 weer: 1.5 graden, code 0, neerslag 0, wind 12
+08:25:11 buienradar: nu 0 mm/u, regen over -1 min
+08:25:11 ev happy: Goedemorgen Henk! Het is 2 graden, zonnig. Let op: file op de A16 op je gewone route.
+08:25:11 briefing: Goedemorgen Henk! Het is 2 graden, zonnig. Let op: file op de A16 op je gewone route.
+08:25:13 wakker blijven: filmpje-truc aan
+08:25:13 flitsers via /flitsers: 18/18
+08:25:15 autostand aan
+08:25:17 bewegingssensor: granted
+08:25:18 voelen: sensor-teken gewoon
+08:25:19 ev happy: Draaien! Hoei!
+08:25:20 v=0 nauwk=5m limiet=30 wegen=4150 draai=0 vaste=158/16 gemeld=18 stemming=happy
+08:25:21 voelen: geleerde richting van vorige keer overgenomen
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+08:25:30 v=0 nauwk=2m limiet=30 wegen=4150 draai=0 vaste=158/16 gemeld=18 stemming=anticipate
+08:25:35 ev worried: Let op: file op de A16 bij Breda-Noord (+19 min) op je gewone route. En nog 5 meldingen.
+08:25:35 stil bij openen (niet uitgesproken): Let op: file op de A16 bij Breda-Noord (+19 min) op je gewone route. En nog 5 meldingen.
+08:25:35 vertrekcheck (rit): 6 meldingen op route
+08:25:40 v=0 nauwk=2m limiet=30 wegen=4150 draai=0 vaste=158/16 gemeld=18 stemming=anticipate
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+08:25:47 ev happy: Zo zie ik het ook.
+08:26:38 terug na 52 s zonder GPS
+08:26:38 v=28 nauwk=2m limiet=30 wegen=4150 draai=0 vaste=158/16 gemeld=18 stemming=bored
+08:26:38 ev excited: Groen! Daar gaan we.
+08:26:38 retro meter: optrekken 0 -> 28
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+08:27:17 start v133
+08:27:17 groep ververst: 6
+08:27:18 GPS automatisch aan
+08:27:18 scherm-aan-slot geweigerd: NotAllowedError (probeer opnieuw bij een tik)
+08:27:21 scherm-aan-slot gekregen
+08:27:21 scherm-aan-slot gekregen
+08:27:21 wakker blijven: filmpje-truc aan
+08:27:23 terug na 5 s zonder GPS
+08:27:23 limiet geschat uit je snelheid: 30
+08:27:23 ev content: Hier rijden we vaak. Ik ken dit stukje.
+08:27:23 rws tegel 1730_92 (telefoon): 2618 wegvakken, versie 01-10-2026
+08:27:23 matrix-locaties geladen: 6442
+08:27:23 weer: 2.3 graden, code 0, neerslag 0, wind 13
+08:27:23 retro meter: optrekken 0 -> 33
+08:27:23 bruggen geladen: 0
+08:27:23 flitsers via /flitsers: 18/18
+08:27:23 ANWB verkeer geladen: 47 meldingen in de buurt (van 116)
+08:27:23 NDW geladen: 349 meldingen in de buurt {"closure":187,"speed":31,"lane":79,"jam":40,"accident":12}
+08:27:23 buienradar: nu 0 mm/u, regen over -1 min
+08:27:28 v=33 nauwk=2m limiet=50 wegen=4150 draai=-14 vaste=158/16 gemeld=18 stemming=excited
+08:27:28 autostand aan
+08:27:30 sprint-animatie: ruimte
+08:27:33 bewegingssensor: granted
+08:27:34 voelen: geleerde richting van vorige keer meegedraaid
+08:27:35 voelen: sensor-teken gewoon
+08:27:37 drempel/schok sterkte 3.9 bij 34 km/h
+08:27:37 ev startled: Boing!
+08:27:37 drempel/schok sterkte 3.7 bij 34 km/h (tweede klap)
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+08:27:39 v=36 nauwk=2m limiet=50 wegen=4150 draai=-0 vaste=158/16 gemeld=18 stemming=relaxed
+08:27:39 ev happy: Wiee, ander uitzicht!
+08:27:42 ev worried: Let op: file op de A27 bij Geertruidenberg (+19 min) op je gewone route. En nog 6 meldingen.
+08:27:42 vertrekcheck (rit): 7 meldingen op route
+08:27:45 voelen: telefoon gedraaid (107°), richting meegedraaid
+08:27:49 v=38 nauwk=2m limiet=50 wegen=4150 draai=1 vaste=158/16 gemeld=18 stemming=relaxed
+08:27:59 v=39 nauwk=2m limiet=50 wegen=4150 draai=14 vaste=158/16 gemeld=18 stemming=relaxed
+08:28:09 v=43 nauwk=2m limiet=50 wegen=4150 draai=0 vaste=158/16 gemeld=18 stemming=relaxed
+08:28:20 v=46 nauwk=2m limiet=50 wegen=4150 draai=4 vaste=158/16 gemeld=18 stemming=relaxed
+08:28:31 v=43 nauwk=2m limiet=50 wegen=4150 draai=-2 vaste=158/16 gemeld=18 stemming=blow
+08:28:42 v=29 nauwk=2m limiet=50 wegen=4150 draai=-1 vaste=158/16 gemeld=18 stemming=relaxed
+08:28:44 voelen: ik weet nu waar vooruit is (67%)
+08:28:52 v=18 nauwk=2m limiet=50 wegen=4150 draai=-0 vaste=158/16 gemeld=18 stemming=neutral
+08:29:03 v=31 nauwk=2m limiet=50 wegen=4150 draai=5 vaste=158/16 gemeld=18 stemming=relaxed
+08:29:13 v=12 nauwk=2m limiet=50 wegen=4150 draai=-0 vaste=158/16 gemeld=18 stemming=neutral
+08:29:24 v=28 nauwk=2m limiet=50 wegen=4150 draai=-2 vaste=158/16 gemeld=18 stemming=focused
+08:29:24 flitsers via /flitsers: 18/18
+08:29:24 ANWB verkeer geladen: 39 meldingen in de buurt (van 108)
+08:29:35 v=38 nauwk=2m limiet=50 wegen=4150 draai=12 vaste=158/16 gemeld=18 stemming=relaxed
+08:29:43 ev happy: Daar komt de Schansspringer! Hou je vast!
+08:29:43 bekende groepsplek: de Schansspringer
+08:29:46 v=39 nauwk=2m limiet=50 wegen=4150 draai=-12 vaste=158/16 gemeld=18 stemming=relaxed
+08:29:53 ev content: Hier rijden we vaak. Ik ken dit stukje.
+08:29:57 v=43 nauwk=2m limiet=50 wegen=4150 draai=-1 vaste=158/16 gemeld=18 stemming=worried
+08:29:58 ev worried: Iets te snel, hè.
+08:30:08 v=41 nauwk=2m limiet=50 wegen=4150 draai=-0 vaste=158/16 gemeld=18 stemming=worried
+08:30:08 matrix geladen: 1429 snelheid, 94 kruis
+08:30:18 groep ververst: 6
+08:30:19 v=38 nauwk=2m limiet=50 wegen=4150 draai=-0 vaste=158/16 gemeld=18 stemming=worried
+08:30:25 rws tegel 1730_91 (telefoon): 4608 wegvakken, versie 01-10-2026
+08:30:29 v=38 nauwk=2m limiet=50 wegen=8758 draai=0 vaste=158/16 gemeld=18 stemming=worried
+08:30:40 v=43 nauwk=2m limiet=30 wegen=8758 draai=11 vaste=158/16 gemeld=18 stemming=worried
+08:30:48 flitsevent cam_pass v=40 limiet=30
+08:30:48 ev startled: Flitser gepasseerd met 40 bij limiet 30.
+08:30:50 v=39 nauwk=2m limiet=30 wegen=8758 draai=-7 vaste=158/16 gemeld=18 stemming=startled
+08:30:53 flitsevent cam_pass v=41 limiet=50
+08:30:53 ev happy: Netjes! Flitser gepasseerd.
+08:31:01 v=43 nauwk=2m limiet=50 wegen=8758 draai=-2 vaste=158/16 gemeld=18 stemming=alert
+08:31:11 v=45 nauwk=2m limiet=50 wegen=8758 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:31:15 flitsevent cam_pass v=44 limiet=50
+08:31:15 ev happy: Netjes! Flitser gepasseerd.
+08:31:21 ev happy: Nieuwe badge: Netjes-ster 😇!
+08:31:22 v=43 nauwk=2m limiet=50 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=happy
+08:31:25 ANWB verkeer geladen: 38 meldingen in de buurt (van 98)
+08:31:26 flitsers via /flitsers: 18/18
+08:31:33 v=23 nauwk=2m limiet=50 wegen=10906 draai=1 vaste=158/16 gemeld=18 stemming=relaxed
+08:31:37 ev excited: Whoeeh, optrekken!
+08:31:44 v=45 nauwk=2m limiet=50 wegen=10906 draai=4 vaste=158/16 gemeld=18 stemming=alert
+08:31:54 v=11 nauwk=2m limiet=50 wegen=10906 draai=0 vaste=158/16 gemeld=18 stemming=alert
+08:32:04 v=36 nauwk=2m limiet=50 wegen=10906 draai=0 vaste=158/16 gemeld=18 stemming=alert
+08:32:15 v=28 nauwk=2m limiet=50 wegen=10906 draai=-1 vaste=158/16 gemeld=18 stemming=alert
+08:32:24 NDW geladen: 330 meldingen in de buurt {"closure":178,"speed":31,"lane":76,"jam":36,"accident":9}
+08:32:26 v=0 nauwk=2m limiet=50 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:32:36 v=0 nauwk=2m limiet=50 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:32:47 v=0 nauwk=2m limiet=50 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:32:52 ev excited: Groen! Daar gaan we.
+08:32:57 v=12 nauwk=2m limiet=50 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:33:08 v=10 nauwk=2m limiet=50 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:33:18 v=16 nauwk=2m limiet=30 wegen=10906 draai=2 vaste=158/16 gemeld=18 stemming=alert
+08:33:18 groep ververst: 6
+08:33:26 ANWB verkeer geladen: 39 meldingen in de buurt (van 106)
+08:33:26 flitsers via /flitsers: 18/18
+08:33:29 v=5 nauwk=2m limiet=30 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:33:39 v=0 nauwk=2m limiet=30 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:33:49 v=0 nauwk=2m limiet=30 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:34:00 v=0 nauwk=2m limiet=30 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:34:10 ev clock: Het is 08:34.
+08:34:11 v=0 nauwk=2m limiet=30 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=clock
+08:34:21 v=0 nauwk=2m limiet=30 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:34:27 ev excited: Groen! Daar gaan we.
+08:34:32 v=20 nauwk=2m limiet=30 wegen=10906 draai=0 vaste=158/16 gemeld=18 stemming=alert
+08:34:42 v=18 nauwk=2m limiet=50 wegen=10906 draai=0 vaste=158/16 gemeld=18 stemming=alert
+08:34:53 v=0 nauwk=2m limiet=50 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:35:03 v=0 nauwk=2m limiet=50 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:35:14 v=0 nauwk=2m limiet=50 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:35:25 v=0 nauwk=2m limiet=50 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:35:27 ANWB verkeer geladen: 43 meldingen in de buurt (van 109)
+08:35:27 flitsers via /flitsers: 18/18
+08:35:35 v=0 nauwk=2m limiet=50 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:35:45 v=0 nauwk=2m limiet=50 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:35:56 v=0 nauwk=2m limiet=50 wegen=10906 draai=-0 vaste=158/16 gemeld=18 stemming=alert
+08:36:04 ev excited: Groen! Daar gaan we.
+08:36:05 drempel/schok sterkte 2.6 bij 8 km/h
+08:36:05 ev startled: Boing!
+08:36:07 v=22 nauwk=2m limiet=50 wegen=10906 draai=0 vaste=158/16 gemeld=18 stemming=alert
+08:36:12 matrix geladen: 1515 snelheid, 101 kruis
+08:36:18 v=45 nauwk=2m limiet=50 wegen=10906 draai=4 vaste=158/16 gemeld=18 stemming=alert
+08:36:19 groep ververst: 6
+08:36:28 v=38 nauwk=2m limiet=50 wegen=10906 draai=15 vaste=158/16 gemeld=18 stemming=alert
+08:36:28 flitsevent cam_pass v=46 limiet=50
+08:36:28 ev happy: Netjes! Flitser gepasseerd.
+08:36:39 v=58 nauwk=2m limiet=50 wegen=10906 draai=-1 vaste=158/16 gemeld=18 stemming=relaxed
+08:36:41 ev worried: Oei, we gaan net iets te hard.
+08:36:49 v=60 nauwk=2m limiet=50 wegen=10906 draai=1 vaste=158/16 gemeld=18 stemming=relaxed
+08:37:00 v=53 nauwk=2m limiet=50 wegen=10906 draai=0 vaste=158/16 gemeld=18 stemming=alert
+08:37:11 v=51 nauwk=2m limiet=50 wegen=10906 draai=0 vaste=158/16 gemeld=18 stemming=relaxed

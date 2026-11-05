@@ -1,0 +1,149 @@
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+06:29:40 start v133
+06:29:40 nachtstand aan
+06:29:41 groep ververst: 6
+06:29:41 GPS automatisch aan
+06:29:41 scherm-aan-slot geweigerd: NotAllowedError (probeer opnieuw bij een tik)
+06:29:42 limiet geschat uit je snelheid: 30
+06:29:43 bruggen geladen: 0
+06:29:43 ANWB verkeer geladen: 24 meldingen in de buurt (van 53)
+06:29:43 matrix-locaties geladen: 6442
+06:29:43 weer: 3.4 graden, code 0, neerslag 0, wind 13
+06:29:43 buienradar: nu 0 mm/u, regen over -1 min
+06:29:43 NDW geladen: 209 meldingen in de buurt {"speed":25,"lane":57,"closure":122,"jam":3,"accident":2}
+06:29:43 rws tegel 1736_102 (internet): 6455 wegvakken, versie 01-10-2026
+06:29:43 retro meter: optrekken 0 -> 15
+06:29:43 flitsers via /flitsers: 14/14
+06:29:44 ev happy: Goedemorgen Joey! Het is 3 graden, helder.
+06:29:44 briefing: Goedemorgen Joey! Het is 3 graden, helder.
+06:29:44 retro meter: optrekken 0 -> 24
+06:29:46 ev alert: Afsluiting over 400 m. Let op de omleiding!
+06:29:46 NDW melding closure 421 m: Afsluiting over 400 m. Let op de omleiding!
+06:29:49 back-up (dag) 43 kB
+06:29:49 sprint-animatie: ruimte
+06:29:50 v=29 nauwk=10m limiet=30 wegen=6455 draai=11 vaste=15/0 gemeld=14 stemming=excited
+06:29:52 matrix geladen: 417 snelheid, 192 kruis
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+06:31:08 osm werk Worker: http 503, ik probeer Overpass rechtstreeks
+06:31:08 osm wegen Worker: http 503, ik probeer Overpass rechtstreeks
+06:31:08 osm flits Worker: te traag, ik probeer Overpass rechtstreeks
+06:31:08 terug na 75 s zonder GPS
+06:31:08 v=0 nauwk=10m limiet=30 wegen=6455 draai=0 vaste=15/0 gemeld=14 stemming=neutral
+06:31:08 overpass overpass-api.de: http 429
+06:31:19 v=0 nauwk=10m limiet=50 wegen=6455 draai=0 vaste=15/0 gemeld=14 stemming=content
+06:31:23 overpass maps.mail.ru: http 504
+06:31:24 ev excited: Groen! Daar gaan we.
+06:31:25 retro meter: optrekken 0 -> 12
+06:31:26 rws tegel 1736_103 (internet): 1977 wegvakken, versie 01-10-2026
+06:31:28 ev worried: Rustig in de bocht!
+06:31:28 retro meter: optrekken 21 -> 35
+06:31:29 v=47 nauwk=10m limiet=50 wegen=8432 draai=49 vaste=15/0 gemeld=14 stemming=worried
+06:31:30 overpass maps.mail.ru: http 504
+06:31:30 overpass maps.mail.ru: http 504
+06:31:33 overpass overpass-api.de: te traag
+06:31:34 ev alert: Afsluiting over 900 m. Let op de omleiding!
+06:31:34 NDW melding closure 898 m: Afsluiting over 900 m. Let op de omleiding!
+06:31:34 retro meter: optrekken 65 -> 80
+06:31:38 overpass overpass-api.de: te traag
+06:31:38 overpass overpass.private.coffee: te traag
+06:31:39 ev angry: Hé! Dat is veel te hard. Gas eraf!
+06:31:40 v=84 nauwk=10m limiet=70 wegen=8432 draai=-0 vaste=15/0 gemeld=14 stemming=angry
+06:31:40 overpass overpass.private.coffee: te traag
+06:31:43 ANWB verkeer geladen: 24 meldingen in de buurt (van 55)
+06:31:43 flitsers via /flitsers: 16/16
+06:31:45 overpass overpass.private.coffee: te traag
+06:31:45 overpass overpass.kumi.systems: te traag
+06:31:45 FOUT flitsdata laden mislukt (overpass.kumi.systems: te traag) volgende poging over 15 s
+06:31:46 ev worried: Iets te snel, hè.
+06:31:47 overpass overpass.kumi.systems: te traag
+06:31:47 FOUT wegenlimiet laden mislukt (overpass.kumi.systems: te traag) opnieuw over 8 s
+06:31:50 v=71 nauwk=10m limiet=70 wegen=8432 draai=5 vaste=15/0 gemeld=16 stemming=relaxed
+06:31:52 overpass overpass.kumi.systems: te traag
+06:32:01 v=68 nauwk=10m limiet=70 wegen=8432 draai=-3 vaste=15/0 gemeld=16 stemming=content
+06:32:11 v=30 nauwk=10m limiet=70 wegen=8432 draai=1 vaste=15/0 gemeld=16 stemming=relaxed
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+06:32:23 terug na 10 s zonder GPS
+06:32:23 v=56 nauwk=10m limiet=80 wegen=8432 draai=0 vaste=15/0 gemeld=16 stemming=neutral
+06:32:23 matrix geladen: 443 snelheid, 169 kruis
+06:32:23 retro meter: optrekken 26 -> 58
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+06:36:52 osm flits Worker: te traag, ik probeer Overpass rechtstreeks
+06:36:52 terug na 267 s zonder GPS
+06:36:52 NDW melding speed 507 m: alleen icoontje
+06:36:52 limiet geschat uit je snelheid: 100
+06:36:52 v=111 nauwk=10m limiet=100~ wegen=0 draai=0 vaste=15/0 gemeld=16 stemming=neutral
+06:36:52 groep ververst: 6
+06:36:52 ANWB verkeer geladen: 29 meldingen in de buurt (van 57)
+06:36:52 rws tegel 1734_102 (internet): 2368 wegvakken, versie 01-10-2026
+06:36:52 retro meter: optrekken 68 -> 111
+06:36:52 NDW geladen: 229 meldingen in de buurt {"speed":27,"lane":62,"closure":132,"jam":6,"accident":2}
+06:36:53 matrix geladen: 466 snelheid, 163 kruis
+06:36:54 flitsers via /flitsers: 16/16
+06:36:57 wakker blijven: filmpje-truc aan
+06:36:59 ev angry: Hé! Dat is veel te hard. Gas eraf!
+06:37:02 bewegingssensor: granted
+06:37:03 v=107 nauwk=10m limiet=80 wegen=2368 draai=0 vaste=15/0 gemeld=16 stemming=worried
+06:37:05 NDW melding lane 118 m: alleen icoontje
+06:37:07 voelen: sensor-teken gewoon
+06:37:08 tijdelijke limiet 70 (NDW)
+06:37:10 tijdelijke limiet 70 (NDW)
+06:37:12 tijdelijke limiet 70 (NDW)
+06:37:13 v=106 nauwk=10m limiet=70 wegen=2368 draai=1 vaste=15/0 gemeld=16 stemming=worried
+06:37:14 tijdelijke limiet 70 (NDW)
+06:37:16 tijdelijke limiet 70 (NDW)
+06:37:17 flitsdata geladen: 20 flitsers, 12 trajecten (totaal 35/12)
+06:37:18 tijdelijke limiet 70 (NDW)
+06:37:20 tijdelijke limiet 70 (NDW)
+06:37:22 tijdelijke limiet 70 (NDW)
+06:37:24 tijdelijke limiet 70 (NDW)
+06:37:24 v=106 nauwk=10m limiet=70 wegen=2368 draai=0 vaste=35/12 gemeld=16 stemming=content
+06:37:26 tijdelijke limiet 70 (NDW)
+06:37:28 tijdelijke limiet 70 (NDW)
+06:37:30 osm wegen via Worker (overpass): 1674 stuks
+06:37:30 wegen geladen: 1674 wegen
+06:37:30 tijdelijke limiet 70 (NDW)
+06:37:32 tijdelijke limiet 70 (NDW)
+06:37:33 osm werk via Worker (overpass): 400 stuks
+06:37:33 wegwerkzaamheden geladen: 400
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+06:38:25 osm flits Worker: te traag, ik probeer Overpass rechtstreeks
+06:38:26 drempel/schok sterkte 8.0 bij 105 km/h
+06:38:26 ev startled: Oei, een hobbel.
+06:38:26 terug na 53 s zonder GPS
+06:38:26 tijdelijke limiet 70 (NDW)
+06:38:26 v=94 nauwk=10m limiet=70 wegen=4042 draai=0 vaste=35/12 gemeld=16 stemming=alert
+06:38:26 rws tegel 1733_102 (internet): 1911 wegvakken, versie 01-10-2026
+06:38:27 tijdelijke limiet 70 (NDW)
+06:38:29 tijdelijke limiet 70 (NDW)
+06:38:30 tijdelijke limiet 70 (NDW)
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+06:38:55 overpass overpass-api.de: te traag
+06:39:03 osm wegen Worker: http 503, ik probeer Overpass rechtstreeks
+06:39:08 overpass maps.mail.ru: http 504
+06:39:42 overpass overpass.private.coffee: te traag
+06:39:42 overpass overpass-api.de: te traag
+06:39:42 overpass overpass.kumi.systems: te traag
+06:39:42 FOUT flitsdata laden mislukt (overpass.kumi.systems: te traag) volgende poging over 15 s
+06:39:42 overpass overpass.private.coffee: te traag
+06:49:59 overpass overpass.kumi.systems: te traag
+06:49:59 overpass maps.mail.ru: te traag
+06:49:59 FOUT wegenlimiet laden mislukt (maps.mail.ru: te traag) opnieuw over 8 s
+06:52:13 terug na 823 s zonder GPS
+06:52:13 tijdelijke limiet voorbij
+06:52:13 limiet geschat uit je snelheid: 100
+06:52:13 v=97 nauwk=10m limiet=100~ wegen=0 draai=0 vaste=35/12 gemeld=16 stemming=alert
+06:52:13 groep ververst: 6
+06:52:13 weer: 2.2 graden, code 0, neerslag 0, wind 15
+06:52:13 osm flits via Worker (bewaard): 14 stuks
+06:52:13 flitsdata geladen: 11 flitsers, 0 trajecten (totaal 39/12)
+06:52:13 osm wegen via Worker (bewaard): 734 stuks
+06:52:13 wegen geladen: 734 wegen
+06:52:13 ANWB verkeer geladen: 23 meldingen in de buurt (van 63)
+06:52:13 NDW geladen: 229 meldingen in de buurt {"speed":34,"lane":80,"closure":102,"jam":11,"accident":2}
+06:52:13 rws tegel 1727_104 (internet): 1191 wegvakken, versie 01-10-2026
+06:52:13 bruggen geladen: 0
+06:52:13 rws tegel 1727_105 (internet): 1016 wegvakken, versie 01-10-2026
+06:52:13 matrix geladen: 509 snelheid, 135 kruis
+06:52:13 buienradar: nu 0 mm/u, regen over -1 min
+06:52:14 flitsers via /flitsers: 14/14
+06:52:14 retro meter: optrekken 0 -> 96
