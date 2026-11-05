@@ -94,3 +94,40 @@
 17:49:57 scherm-aan-slot gekregen
 --- v133 · Linux; Android 10; K ---
 17:49:59 voelen: telefoon gedraaid (93°), richting meegedraaid
+--- v133 · Linux; Android 10; K ---
+19:06:41 scherm-aan-slot gekregen
+19:06:41 scherm-aan-slot gekregen
+--- v133 · Linux; Android 10; K ---
+19:06:41 ev happy: Goedenavond Ricardo2!
+19:06:41 terug na 1901 s zonder GPS
+19:06:41 v=5 nauwk=7m limiet=60 wegen=1396 draai=0 vaste=117/12 gemeld=24 stemming=happy
+19:06:42 groep ververst: 6
+19:06:42 weer: 3.3 graden, code 0, neerslag 0, wind 7
+19:06:42 ANWB verkeer geladen: 32 meldingen in de buurt (van 72)
+19:06:42 bruggen geladen: 8
+19:06:42 NDW geladen: 305 meldingen in de buurt {"closure":185,"speed":28,"lane":74,"accident":6,"jam":12}
+19:06:42 buienradar: nu 0 mm/u, regen over -1 min
+19:06:43 flitsers via /flitsers: 20/20
+--- v133 · Linux; Android 10; K ---
+19:06:52 start v133
+19:06:52 nachtstand aan
+19:06:52 groep ververst: 6
+19:06:53 GPS automatisch aan
+19:06:53 scherm-aan-slot gekregen
+19:06:53 limiet geschat uit je snelheid: 30
+19:06:53 flitsers via /flitsers: 20/20
+19:06:53 ANWB verkeer geladen: 32 meldingen in de buurt (van 72)
+19:06:53 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+19:06:53 bruggen geladen: 8
+19:06:53 NDW geladen: 305 meldingen in de buurt {"closure":185,"speed":28,"lane":74,"accident":6,"jam":12}
+19:06:53 weer: 3.3 graden, code 0, neerslag 0, wind 7
+19:06:53 buienradar: nu 0 mm/u, regen over -1 min
+19:06:53 matrix-locaties geladen: 6442
+19:06:54 voelen: geleerde richting van vorige keer meegedraaid
+19:06:58 voelen: sensor-teken gewoon
+19:07:00 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+19:07:01 bewegingssensor: granted
+19:07:01 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=20 stemming=content
+--- v133 · Linux; Android 10; K ---
+19:07:12 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=20 stemming=neutral
+19:07:17 vertrekcheck (rit): 0 meldingen op route

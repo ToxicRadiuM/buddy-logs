@@ -147,3 +147,11 @@
 06:52:13 buienradar: nu 0 mm/u, regen over -1 min
 06:52:14 flitsers via /flitsers: 14/14
 06:52:14 retro meter: optrekken 0 -> 96
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+06:52:44 osm werk via Worker (oud): 400 stuks
+19:41:06 start v133
+19:41:06 nachtstand aan
+19:41:06 groep ververst: 6
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+19:41:07 GPS automatisch aan
+19:41:07 scherm-aan-slot geweigerd: NotAllowedError (probeer opnieuw bij een tik)
