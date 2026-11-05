@@ -1,0 +1,96 @@
+--- v133 · Linux; Android 10; K ---
+13:16:35 osm werk Worker: te traag, ik probeer Overpass rechtstreeks
+17:34:58 start v133
+17:34:58 nachtstand aan
+17:34:58 groep ververst: 6
+17:34:59 GPS automatisch aan
+17:34:59 scherm-aan-slot gekregen
+17:35:01 voelen: geleerde richting van vorige keer overgenomen
+17:35:02 voelen: sensor-teken gewoon
+17:35:04 autostand aan
+17:35:04 bewegingssensor: granted
+17:35:06 back-up (dag) 86 kB
+17:35:08 voelen: telefoon gedraaid (89°), richting meegedraaid
+17:35:12 autostand uit
+--- v133 · Linux; Android 10; K ---
+17:35:18 scherm-aan-slot gekregen
+17:35:19 limiet geschat uit je snelheid: 30
+17:35:19 v=0 nauwk=4m limiet=30~ wegen=520 draai=0 vaste=117/12 gemeld=0 stemming=yawn
+17:35:19 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+17:35:19 weer: 5.7 graden, code 0, neerslag 0, wind 10
+17:35:19 matrix-locaties geladen: 6442
+17:35:19 bruggen geladen: 10
+17:35:19 ANWB verkeer geladen: 73 meldingen in de buurt (van 162)
+17:35:19 NDW geladen: 378 meldingen in de buurt {"closure":190,"speed":28,"lane":76,"jam":71,"accident":13}
+17:35:20 buienradar: nu 0 mm/u, regen over -1 min
+17:35:20 ev happy: Goedemiddag Ricardo2! Het is 6 graden, helder. Let op: file op de A2 op je gewone route.
+17:35:20 briefing: Goedemiddag Ricardo2! Het is 6 graden, helder. Let op: file op de A2 op je gewone route.
+17:35:20 flitsers via /flitsers: 24/24
+17:35:22 autostand aan
+17:35:28 ev excited: Groen! Daar gaan we.
+17:35:29 v=9 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=24 stemming=excited
+17:35:33 ev content: Hier meldde Ricardo 3 dagen geleden een mobiele controle.
+17:35:33 spoor: Ricardo een mobiele controle
+17:35:39 v=13 nauwk=4m limiet=30 wegen=1396 draai=8 vaste=117/12 gemeld=24 stemming=neutral
+17:35:43 drempel/schok sterkte 4.2 bij 10 km/h
+17:35:43 ev startled: Boing!
+17:35:43 drempel/schok sterkte 4.4 bij 10 km/h (tweede klap)
+17:35:43 plek kreeg een naam: Boingstraat
+17:35:43 ev worried: Let op: file op de A2 bij Culemborg (+25 min) op je gewone route. En nog 1 melding.
+17:35:43 vertrekcheck (rit): 2 meldingen op route
+17:35:50 v=24 nauwk=4m limiet=30 wegen=1396 draai=-2 vaste=117/12 gemeld=24 stemming=content
+17:35:53 drempel/schok sterkte 5.1 bij 24 km/h
+17:35:53 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+17:35:53 hobbelige weg (4 klappen in 20 s)
+17:36:01 v=9 nauwk=4m limiet=30 wegen=1396 draai=-1 vaste=117/12 gemeld=24 stemming=neutral
+17:36:02 osm werk via Worker (oud): 400 stuks
+17:36:02 wegwerkzaamheden geladen: 398
+17:36:08 ev happy: Daar is weer de Hobbelberg! Hou je vast!
+17:36:08 bekende plek: de Hobbelberg
+17:36:10 voelen: ik weet nu waar vooruit is (51%)
+17:36:12 voelen: ik weet nu waar vooruit is (54%)
+17:36:12 v=32 nauwk=4m limiet=30 wegen=1396 draai=-2 vaste=117/12 gemeld=24 stemming=alert
+17:36:19 ev worried: Voetje van het gas?
+17:36:22 v=43 nauwk=4m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=24 stemming=relaxed
+17:36:33 v=31 nauwk=4m limiet=30 wegen=1396 draai=1 vaste=117/12 gemeld=24 stemming=happy
+17:36:43 voelen: ik weet nu waar vooruit is (57%)
+17:36:43 v=18 nauwk=4m limiet=30 wegen=1396 draai=-1 vaste=117/12 gemeld=24 stemming=neutral
+17:36:53 v=0 nauwk=4m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=24 stemming=neutral
+17:37:03 drempel/schok sterkte 5.4 bij 27 km/h
+17:37:04 v=34 nauwk=4m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=24 stemming=content
+17:37:14 v=35 nauwk=4m limiet=30 wegen=1396 draai=1 vaste=117/12 gemeld=24 stemming=relaxed
+17:37:20 flitsers via /flitsers: 22/22
+17:37:20 ANWB verkeer geladen: 71 meldingen in de buurt (van 151)
+17:37:23 ev excited: Rotonde!
+17:37:23 rotonde: herkend op de kaart
+17:37:23 plek kreeg een naam: de Draaimolen
+17:37:24 v=23 nauwk=4m limiet=50 wegen=1396 draai=-26 vaste=117/12 gemeld=22 stemming=excited
+17:37:34 v=41 nauwk=4m limiet=50 wegen=1396 draai=4 vaste=117/12 gemeld=22 stemming=happy
+17:37:44 v=47 nauwk=4m limiet=50 wegen=1396 draai=1 vaste=117/12 gemeld=22 stemming=relaxed
+17:37:54 v=47 nauwk=4m limiet=50 wegen=1396 draai=-4 vaste=117/12 gemeld=22 stemming=relaxed
+17:37:59 groep ververst: 6
+17:38:05 v=48 nauwk=4m limiet=50 wegen=1396 draai=1 vaste=117/12 gemeld=22 stemming=relaxed
+17:38:15 v=47 nauwk=4m limiet=50 wegen=1396 draai=-0 vaste=117/12 gemeld=22 stemming=relaxed
+17:38:26 v=50 nauwk=4m limiet=50 wegen=1396 draai=2 vaste=117/12 gemeld=22 stemming=alert
+17:38:37 v=57 nauwk=4m limiet=60 wegen=1396 draai=-4 vaste=117/12 gemeld=22 stemming=relaxed
+17:38:47 v=54 nauwk=4m limiet=60 wegen=1396 draai=3 vaste=117/12 gemeld=22 stemming=relaxed
+17:38:51 rws tegel 1733_94 (internet): 2875 wegvakken, versie 01-10-2026
+17:38:57 v=52 nauwk=4m limiet=60 wegen=4271 draai=-1 vaste=117/12 gemeld=22 stemming=relaxed
+17:39:08 v=51 nauwk=4m limiet=60 wegen=4271 draai=1 vaste=117/12 gemeld=22 stemming=relaxed
+17:39:19 v=52 nauwk=4m limiet=60 wegen=4271 draai=2 vaste=117/12 gemeld=22 stemming=love
+17:39:21 flitsers via /flitsers: 24/24
+17:39:21 ANWB verkeer geladen: 71 meldingen in de buurt (van 153)
+17:39:30 v=50 nauwk=4m limiet=60 wegen=4271 draai=1 vaste=117/12 gemeld=24 stemming=relaxed
+17:39:40 v=51 nauwk=4m limiet=60 wegen=4271 draai=-2 vaste=117/12 gemeld=24 stemming=relaxed
+17:39:41 drempel/schok sterkte 6.4 bij 51 km/h
+17:39:41 ev startled: Drempel! Boing!
+17:39:50 drempel/schok sterkte 10.9 bij 47 km/h
+17:39:50 ev worried: Au! Wat een gat.
+17:39:50 drempel/schok sterkte 5.3 bij 47 km/h (tweede klap)
+17:39:50 v=49 nauwk=4m limiet=60 wegen=4271 draai=1 vaste=117/12 gemeld=24 stemming=worried
+--- v133 · Linux; Android 10; K ---
+17:39:54 ev happy: Wiee, ander uitzicht!
+17:49:57 scherm-aan-slot gekregen
+17:49:57 scherm-aan-slot gekregen
+--- v133 · Linux; Android 10; K ---
+17:49:59 voelen: telefoon gedraaid (93°), richting meegedraaid
