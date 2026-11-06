@@ -192,3 +192,8 @@
 09:14:53 voelen: telefoon gedraaid (34°), richting meegedraaid
 09:14:54 v=0 nauwk=3m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=excited
 09:15:00 groep ververst: 6
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+10:43:22 terug na 339 s zonder GPS
+10:43:22 v=0 nauwk=20m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=neutral
+10:43:22 scherm-aan-slot gekregen
+10:43:22 scherm-aan-slot gekregen

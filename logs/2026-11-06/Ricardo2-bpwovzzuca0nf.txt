@@ -912,3 +912,100 @@
 09:19:07 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
 09:19:17 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
 09:19:17 groep ververst: 6
+--- v133 · Linux; Android 10; K ---
+09:19:23 bruggen geladen: 0
+09:19:24 NDW geladen: 188 meldingen in de buurt {"lane":63,"closure":92,"speed":29,"accident":4}
+09:19:25 flitsers via /flitsers: 17/17
+09:19:26 ANWB verkeer geladen: 9 meldingen in de buurt (van 50)
+09:19:27 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:19:37 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:19:47 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:19:57 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:20:07 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:20:17 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:20:27 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:20:37 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:20:48 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:20:58 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:21:08 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:21:18 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:21:26 flitsers via /flitsers: 15/15
+09:21:27 ANWB verkeer geladen: 9 meldingen in de buurt (van 51)
+09:21:28 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:21:38 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:21:48 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:21:58 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:22:09 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:22:18 groep ververst: 6
+09:22:19 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:22:30 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:22:40 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:22:50 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:23:01 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:23:11 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:23:21 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:23:26 flitsers via /flitsers: 17/17
+09:23:28 ANWB verkeer geladen: 9 meldingen in de buurt (van 52)
+09:23:31 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:23:42 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:23:52 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:24:02 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:24:12 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:24:23 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:24:24 weer: 2.3 graden, code 0, neerslag 0, wind 7
+09:24:24 buienradar: nu 0 mm/u, regen over -1 min
+09:24:25 NDW geladen: 187 meldingen in de buurt {"lane":63,"closure":92,"speed":29,"accident":3}
+09:24:34 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:24:44 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:24:54 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:25:04 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:25:14 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:25:18 groep ververst: 6
+09:25:24 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:25:27 flitsers via /flitsers: 17/17
+09:25:28 ANWB verkeer geladen: 9 meldingen in de buurt (van 53)
+09:25:34 v=0 nauwk=3m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:25:44 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:25:54 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:26:04 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:26:14 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:26:24 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:26:34 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:26:44 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:26:55 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:27:05 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:27:15 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:27:25 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleeping
+09:27:28 flitsers via /flitsers: 15/15
+09:27:29 ANWB verkeer geladen: 9 meldingen in de buurt (van 52)
+09:27:35 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:27:45 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:27:55 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:28:05 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:28:15 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:28:19 groep ververst: 6
+09:28:25 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:28:35 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:28:45 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:28:55 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:29:05 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:29:15 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+--- v133 · Linux; Android 10; K ---
+09:29:23 bruggen geladen: 0
+09:29:26 NDW geladen: 187 meldingen in de buurt {"lane":63,"closure":92,"speed":29,"accident":2,"jam":1}
+09:29:26 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:29:29 flitsers via /flitsers: 15/15
+09:29:30 ANWB verkeer geladen: 10 meldingen in de buurt (van 52)
+09:29:36 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:29:46 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:29:57 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:30:08 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:30:18 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:30:28 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:30:39 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:30:49 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:30:59 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:31:09 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:31:20 groep ververst: 6
+09:31:20 v=0 nauwk=3m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:31:26 voelen: telefoon gedraaid (53°), richting meegedraaid
