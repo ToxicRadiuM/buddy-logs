@@ -1,0 +1,96 @@
+--- v133 · Linux; Android 10; K ---
+00:02:29 start v133
+00:02:29 nachtstand aan
+00:02:29 groep ververst: 6
+00:02:30 GPS automatisch aan
+00:02:30 ev relaxed: Weekend! Lekker rustig aan.
+00:02:30 scherm-aan-slot gekregen
+00:02:32 bewegingssensor: granted
+00:02:34 voelen: geleerde richting van vorige keer meegedraaid
+00:02:35 autostand aan
+00:02:36 voelen: sensor-teken gewoon
+00:02:37 back-up (dag) 93 kB
+--- v133 · Linux; Android 10; K ---
+00:02:54 vertrekcheck (rit): 4 meldingen op route
+00:02:56 autostand uit
+00:02:59 scherm-aan-slot gekregen
+00:03:01 limiet geschat uit je snelheid: 30
+00:03:01 v=0 nauwk=11m limiet=30~ wegen=520 draai=0 vaste=117/12 gemeld=0 stemming=neutral
+00:03:01 ANWB verkeer geladen: 37 meldingen in de buurt (van 74)
+00:03:01 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+00:03:01 weer: 0.2 graden, code 3, neerslag 0, wind 7
+00:03:01 bruggen geladen: 0
+00:03:01 osm werk via Worker (bewaard): 400 stuks
+00:03:01 wegwerkzaamheden geladen: 398
+00:03:01 NDW geladen: 397 meldingen in de buurt {"closure":228,"accident":3,"speed":61,"lane":105}
+00:03:01 buienradar niet gelukt: HTTP 403
+00:03:02 matrix-locaties geladen: 6442
+00:03:02 flitsers via /flitsers: 14/14
+00:03:03 ev happy: Hé nachtuil Ricardo2! Het is 0 graden, bewolkt. Let op: een afsluiting op de A2 op je gewone route.
+00:03:03 briefing: Hé nachtuil Ricardo2! Het is 0 graden, bewolkt. Let op: een afsluiting op de A2 op je gewone route.
+00:03:04 autostand aan
+00:03:12 route: 1.9 km, 7 stappen
+00:03:12 nav zegt: Route naar Haastrecht. 2 kilometer, ongeveer 4 minuten.
+00:03:12 ev happy: Op naar Haastrecht!
+00:03:12 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=happy
+00:03:12 nav zegt: Linksaf naar Bergvlietlaan.
+00:03:12 ev alert: Linksaf naar Bergvlietlaan!
+00:03:19 ev worried: Let op: een afsluiting op de A2 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+00:03:19 vertrekcheck (rit): 4 meldingen op route
+00:03:23 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=worried
+--- v133 · Linux; Android 10; K ---
+00:02:54 vertrekcheck (rit): 4 meldingen op route
+00:02:56 autostand uit
+00:02:59 scherm-aan-slot gekregen
+00:03:01 limiet geschat uit je snelheid: 30
+00:03:01 v=0 nauwk=11m limiet=30~ wegen=520 draai=0 vaste=117/12 gemeld=0 stemming=neutral
+00:03:01 ANWB verkeer geladen: 37 meldingen in de buurt (van 74)
+00:03:01 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+00:03:01 weer: 0.2 graden, code 3, neerslag 0, wind 7
+00:03:01 bruggen geladen: 0
+00:03:01 osm werk via Worker (bewaard): 400 stuks
+00:03:01 wegwerkzaamheden geladen: 398
+00:03:01 NDW geladen: 397 meldingen in de buurt {"closure":228,"accident":3,"speed":61,"lane":105}
+00:03:01 buienradar niet gelukt: HTTP 403
+00:03:02 matrix-locaties geladen: 6442
+00:03:02 flitsers via /flitsers: 14/14
+00:03:03 ev happy: Hé nachtuil Ricardo2! Het is 0 graden, bewolkt. Let op: een afsluiting op de A2 op je gewone route.
+00:03:03 briefing: Hé nachtuil Ricardo2! Het is 0 graden, bewolkt. Let op: een afsluiting op de A2 op je gewone route.
+00:03:04 autostand aan
+00:03:12 route: 1.9 km, 7 stappen
+00:03:12 nav zegt: Route naar Haastrecht. 2 kilometer, ongeveer 4 minuten.
+00:03:12 ev happy: Op naar Haastrecht!
+00:03:12 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=happy
+00:03:12 nav zegt: Linksaf naar Bergvlietlaan.
+00:03:12 ev alert: Linksaf naar Bergvlietlaan!
+00:03:19 ev worried: Let op: een afsluiting op de A2 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+00:04:48 start v133
+00:04:48 nachtstand aan
+00:04:48 groep ververst: 6
+00:04:49 GPS automatisch aan
+00:04:49 scherm-aan-slot gekregen
+00:04:49 voelen: geleerde richting van vorige keer overgenomen
+00:04:50 limiet geschat uit je snelheid: 30
+00:04:50 bruggen geladen: 0
+00:04:50 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+00:04:50 ANWB verkeer geladen: 37 meldingen in de buurt (van 74)
+00:04:50 flitsers via /flitsers: 14/14
+00:04:50 weer: 0.2 graden, code 3, neerslag 0, wind 7
+00:04:50 buienradar niet gelukt: HTTP 403
+00:04:50 matrix-locaties geladen: 6442
+00:04:50 NDW geladen: 394 meldingen in de buurt {"closure":226,"accident":3,"speed":60,"lane":105}
+00:04:51 route: 1.9 km, 7 stappen
+00:04:51 nav zegt: Route naar Haastrecht. 2 kilometer, ongeveer 4 minuten.
+00:04:51 ev happy: Op naar Haastrecht!
+00:04:51 nav zegt: Linksaf naar Bergvlietlaan.
+00:04:51 ev alert: Linksaf naar Bergvlietlaan!
+00:04:58 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=focused
+00:04:59 voelen: sensor-teken gewoon
+00:05:00 ev excited: Binnen!
+00:05:00 geklopt (2×)
+00:05:05 bewegingssensor: granted
+00:05:06 autostand aan
+--- v133 · Linux; Android 10; K ---
+00:05:09 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=neutral
+00:05:13 ev worried: Let op: een afsluiting op de A2 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+00:05:13 vertrekcheck (rit): 4 meldingen op route
