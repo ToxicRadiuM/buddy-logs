@@ -1,0 +1,24 @@
+--- v133 · Linux; Android 10; K ---
+20:51:01 start v133
+20:51:01 nachtstand aan
+20:51:01 groep ververst: 6
+20:51:02 GPS automatisch aan
+20:51:02 scherm-aan-slot gekregen
+20:51:02 ev excited: Vrijdagmiddag! Bijna weekend.
+20:51:03 voelen: geleerde richting van vorige keer meegedraaid
+20:51:03 vaste flitsers NL: 515, trajectcontroles: 76 (versie 24-10-2026)
+20:51:06 ev happy: Winnaar weekchallenge “Meeste meldingen voor de groep”: Henk met 2×!
+20:51:09 back-up (dag) 52 kB
+20:51:09 terug na 7 s zonder GPS
+20:51:09 limiet geschat uit je snelheid: 30
+20:51:09 rws tegel 1724_114 (telefoon): 833 wegvakken, versie 01-10-2026
+20:51:09 matrix-locaties geladen: 6442
+20:51:09 bruggen geladen: 0
+20:51:09 weer: 1.8 graden, code 2, neerslag 0, wind 6
+20:51:09 ANWB verkeer geladen: 7 meldingen in de buurt (van 51)
+20:51:09 NDW geladen: 111 meldingen in de buurt {"lane":32,"closure":61,"speed":16,"accident":2}
+20:51:09 buienradar: nu 0 mm/u, regen over -1 min
+20:51:11 ev happy: Goedenavond IVAN H! Het is 2 graden, bewolkt.
+20:51:11 briefing: Goedenavond IVAN H! Het is 2 graden, bewolkt.
+20:51:11 flitsers via /flitsers: 17/17
+20:51:12 v=3 nauwk=17m limiet=30 wegen=833 draai=0 vaste=55/2 gemeld=17 stemming=happy
