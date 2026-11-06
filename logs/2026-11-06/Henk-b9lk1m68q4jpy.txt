@@ -1,0 +1,44 @@
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+07:05:54 start v133
+07:05:54 nachtstand aan
+07:05:55 groep ververst: 6
+07:05:55 GPS automatisch aan
+07:05:55 scherm-aan-slot geweigerd: NotAllowedError (probeer opnieuw bij een tik)
+07:05:56 wakker blijven: filmpje-truc aan
+07:05:57 limiet geschat uit je snelheid: 30
+07:05:57 rws tegel 1730_92 (telefoon): 2618 wegvakken, versie 01-10-2026
+07:05:57 osm wegen uit telefoongeheugen: 1532 stuks
+07:05:57 wegen geladen: 1532 wegen
+07:05:58 bruggen geladen: 0
+07:05:58 ANWB verkeer geladen: 18 meldingen in de buurt (van 48)
+07:05:58 NDW geladen: 291 meldingen in de buurt {"closure":192,"speed":28,"lane":66,"accident":4,"jam":1}
+07:05:58 weer: 0.3 graden, code 0, neerslag 0, wind 8
+07:05:58 matrix-locaties geladen: 6442
+07:05:58 buienradar: nu 0 mm/u, regen over -1 min
+07:05:58 autostand aan
+07:05:58 ev happy: Goedemorgen Henk! Het is 0 graden, helder. Ricardo2 is ook al onderweg. Geen files op je gewone route.
+07:05:58 briefing: Goedemorgen Henk! Het is 0 graden, helder. Ricardo2 is ook al onderweg. Geen files op je gewone route.
+07:05:59 flitsers via /flitsers: 16/16
+07:06:00 bewegingssensor: granted
+07:06:01 voelen: sensor-teken gewoon
+07:06:03 ev excited: Klop klop… wie is daar? 😄
+07:06:03 geklopt (2×)
+07:06:04 voelen: geleerde richting van vorige keer meegedraaid
+07:06:05 v=0 nauwk=6m limiet=30~ wegen=4150 draai=0 vaste=177/24 gemeld=16 stemming=excited
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+07:06:15 v=5 nauwk=5m limiet=30~ wegen=4150 draai=0 vaste=177/24 gemeld=16 stemming=anticipate
+07:06:19 vertrekcheck (rit): 0 meldingen op route
+07:06:24 ev content: Hier rijden we vaak. Ik ken dit stukje.
+07:06:25 v=17 nauwk=2m limiet=30 wegen=4150 draai=5 vaste=177/24 gemeld=16 stemming=content
+07:06:27 drempel/schok sterkte 3.3 bij 23 km/h
+07:06:27 ev startled: Boing!
+07:06:29 osm werk via Worker (oud): 400 stuks
+07:06:29 wegwerkzaamheden geladen: 389
+07:06:36 v=33 nauwk=2m limiet=30 wegen=4150 draai=9 vaste=177/24 gemeld=16 stemming=relaxed
+07:06:37 ev happy: Daar is weer de Hobbelberg! Hou je vast!
+07:06:37 bekende plek: de Hobbelberg
+07:06:45 ev worried: Voetje van het gas?
+07:06:46 v=35 nauwk=2m limiet=30 wegen=4150 draai=0 vaste=177/24 gemeld=16 stemming=worried
+07:06:49 voelen: ik weet nu waar vooruit is (66%)
+07:06:54 ev alert: Afsluiting over 800 m. Let op de omleiding!
+07:06:54 NDW melding closure 819 m: Afsluiting over 800 m. Let op de omleiding!
