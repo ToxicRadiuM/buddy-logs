@@ -94,3 +94,61 @@
 00:05:09 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=neutral
 00:05:13 ev worried: Let op: een afsluiting op de A2 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
 00:05:13 vertrekcheck (rit): 4 meldingen op route
+--- v133 · Linux; Android 10; K ---
+00:31:14 start v133
+00:31:14 nachtstand aan
+00:31:14 groep ververst: 6
+00:31:15 GPS automatisch aan
+00:31:15 scherm-aan-slot gekregen
+00:31:15 voelen: geleerde richting van vorige keer overgenomen
+00:31:16 limiet geschat uit je snelheid: 30
+00:31:16 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+00:31:16 ANWB verkeer geladen: 37 meldingen in de buurt (van 74)
+00:31:16 weer: 0.3 graden, code 3, neerslag 0, wind 5
+00:31:16 matrix-locaties geladen: 6442
+00:31:16 bruggen geladen: 0
+00:31:16 NDW geladen: 394 meldingen in de buurt {"closure":227,"speed":60,"lane":106,"accident":1}
+00:31:16 buienradar: nu 0 mm/u, regen over -1 min
+00:31:17 route: 1.9 km, 7 stappen
+00:31:17 nav zegt: Route naar Haastrecht. 2 kilometer, ongeveer 4 minuten.
+00:31:17 ev happy: Op naar Haastrecht!
+00:31:17 flitsers via /flitsers: 14/14
+00:31:17 nav zegt: Linksaf naar Bergvlietlaan.
+00:31:17 ev alert: Linksaf naar Bergvlietlaan!
+00:31:20 bewegingssensor: granted
+--- v133 · Linux; Android 10; K ---
+00:31:23 scherm-aan-slot gekregen
+00:31:23 scherm-aan-slot gekregen
+00:31:23 voelen: sensor-teken gewoon
+00:31:24 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=happy
+--- v133 · Linux; Android 10; K ---
+00:31:43 scherm-aan-slot gekregen
+00:31:43 scherm-aan-slot gekregen
+00:31:44 ev worried: Let op: een afsluiting op de A2 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+00:31:44 vertrekcheck (rit): 4 meldingen op route
+00:31:44 terug na 21 s zonder GPS
+00:31:44 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=worried
+00:31:45 ev excited: Ja? Ik ben er!
+00:31:45 geklopt (2×)
+--- v133 · Linux; Android 10; K ---
+00:42:48 scherm-aan-slot gekregen
+--- v133 · Linux; Android 10; K ---
+00:42:48 scherm-aan-slot gekregen
+00:42:50 terug na 656 s zonder GPS
+00:42:50 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=excited
+00:42:50 bruggen geladen: 0
+00:42:50 groep ververst: 6
+00:42:50 osm werk via Worker (bewaard): 400 stuks
+00:42:50 wegwerkzaamheden geladen: 398
+00:42:50 ANWB verkeer geladen: 37 meldingen in de buurt (van 74)
+00:42:50 NDW geladen: 394 meldingen in de buurt {"closure":227,"speed":60,"lane":106,"accident":1}
+00:42:51 flitsers via /flitsers: 16/16
+00:42:55 ev happy: Ik zwaai naar de groep!
+00:42:55 groepsbericht verstuurd: zwaai
+00:43:00 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+--- v133 · Linux; Android 10; K ---
+00:43:39 scherm-aan-slot gekregen
+00:43:39 scherm-aan-slot gekregen
+00:43:41 terug na 32 s zonder GPS
+00:43:41 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=anticipate
+00:43:51 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
