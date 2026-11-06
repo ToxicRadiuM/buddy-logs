@@ -1560,3 +1560,21 @@
 13:28:16 groep ververst: 6
 13:28:16 ANWB verkeer geladen: 23 meldingen in de buurt (van 59)
 13:28:17 NDW geladen: 323 meldingen in de buurt {"closure":193,"speed":28,"lane":95,"jam":3,"accident":4}
+--- v133 · Linux; Android 10; K ---
+15:58:45 start v133
+15:58:45 groep ververst: 6
+15:58:46 GPS automatisch aan
+15:58:46 scherm-aan-slot gekregen
+15:58:46 voelen: geleerde richting van vorige keer meegedraaid
+15:58:47 limiet geschat uit je snelheid: 30
+15:58:47 ANWB verkeer geladen: 49 meldingen in de buurt (van 107)
+15:58:47 flitsers via /flitsers: 18/18
+15:58:47 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+15:58:47 bruggen geladen: 9
+15:58:47 NDW geladen: 345 meldingen in de buurt {"accident":14,"closure":188,"jam":45,"speed":25,"lane":73}
+15:58:47 weer: 8.6 graden, code 0, neerslag 0, wind 6
+15:58:47 matrix-locaties geladen: 6442
+15:58:47 buienradar: nu 0 mm/u, regen over -1 min
+15:58:48 weekrapport: 2 ritten, 83 km, cijfer 6.1
+15:58:48 bewegingssensor: granted
+15:58:55 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=18 stemming=content
