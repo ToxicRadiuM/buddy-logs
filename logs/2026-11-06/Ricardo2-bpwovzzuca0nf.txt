@@ -1,0 +1,307 @@
+--- v133 · Linux; Android 10; K ---
+19:07:21 osm werk Worker: Failed to fetch, ik probeer Overpass rechtstreeks
+05:33:37 start v133
+05:33:37 nachtstand aan
+05:33:38 groep ververst: 6
+05:33:38 GPS automatisch aan
+05:33:38 scherm-aan-slot gekregen
+--- v133 · Linux; Android 10; K ---
+05:55:19 start v133
+05:55:19 nachtstand aan
+05:55:19 groep ververst: 6
+05:55:20 GPS automatisch aan
+05:55:20 scherm-aan-slot gekregen
+05:55:20 bewegingssensor: granted
+05:55:21 limiet geschat uit je snelheid: 30
+05:55:21 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+05:55:21 ANWB verkeer geladen: 21 meldingen in de buurt (van 53)
+05:55:21 bruggen geladen: 9
+05:55:21 weer: 0.6 graden, code 0, neerslag 0, wind 9
+05:55:21 NDW geladen: 301 meldingen in de buurt {"closure":200,"speed":29,"lane":72}
+05:55:21 matrix-locaties geladen: 6442
+05:55:21 buienradar: nu 0 mm/u, regen over -1 min
+05:55:22 flitsers via /flitsers: 14/14
+05:55:23 ev happy: Goedemorgen Ricardo2! Het is 1 graden, helder. Geen files op je gewone route.
+05:55:23 briefing: Goedemorgen Ricardo2! Het is 1 graden, helder. Geen files op je gewone route.
+05:55:24 autostand aan
+05:55:27 voelen: sensor-teken gewoon
+05:55:29 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=happy
+05:55:36 route: 56.3 km, 65 stappen
+05:55:36 nav zegt: Route naar Nieuwkuijk 43. 56 kilometer, ongeveer 60 minuten.
+05:55:36 ev happy: Op naar Nieuwkuijk 43!
+05:55:36 nav zegt: Linksaf naar Bergvlietlaan.
+05:55:36 ev alert: Linksaf naar Bergvlietlaan!
+05:55:38 ev startled: Wooo, niet schudden! Ik word duizelig 😵
+--- v133 · Linux; Android 10; K ---
+05:55:39 voelen: geleerde richting van vorige keer overgenomen
+05:55:39 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=startled
+05:55:44 vertrekcheck (rit): 0 meldingen op route
+05:55:51 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=alert
+05:56:01 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=neutral
+05:56:01 osm werk via Worker (overpass): 400 stuks
+05:56:01 wegwerkzaamheden geladen: 398
+05:56:02 ev clock: Het is 05:56.
+05:56:11 v=6 nauwk=4m limiet=15 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=happy
+05:56:11 ev excited: Groen! Daar gaan we.
+05:56:13 drempel/schok sterkte 3.4 bij 8 km/h
+05:56:13 ev startled: Boing!
+05:56:14 drempel/schok sterkte 2.6 bij 8 km/h (tweede klap)
+05:56:14 ev content: Hier rijden we vaak. Ik ken dit stukje.
+05:56:19 route: afslag 1 voorbij (linksaf naar Bergvlietlaan)
+05:56:22 v=9 nauwk=4m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=14 stemming=neutral
+05:56:23 FOUT groepsberichten: Failed to fetch
+05:56:32 v=14 nauwk=4m limiet=30 wegen=1396 draai=-3 vaste=117/12 gemeld=14 stemming=neutral
+05:56:36 ev content: Hier meldde Ricardo 4 dagen geleden een mobiele controle.
+05:56:36 spoor: Ricardo een mobiele controle
+05:56:41 drempel/schok sterkte 4.3 bij 17 km/h
+05:56:42 v=17 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=happy
+05:56:44 drempel/schok sterkte 5.9 bij 18 km/h
+05:56:52 v=19 nauwk=4m limiet=30 wegen=1396 draai=-1 vaste=117/12 gemeld=14 stemming=neutral
+05:56:53 drempel/schok sterkte 6.4 bij 19 km/h
+05:56:54 nav zegt: Aan het eind van de weg rechtsaf naar Bredeweg.
+05:56:54 ev alert: Aan het eind van de weg rechtsaf naar Bredeweg!
+05:56:54 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+05:56:54 hobbelige weg (4 klappen in 20 s)
+05:57:01 route: afslag 2 voorbij (aan het eind van de weg rechtsaf naar Bredeweg)
+05:57:03 v=14 nauwk=4m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=14 stemming=neutral
+05:57:04 voelen: ik weet nu waar vooruit is (55%)
+05:57:12 ev happy: Daar is weer de Hobbelberg! Hou je vast!
+05:57:12 bekende plek: de Hobbelberg
+05:57:13 v=21 nauwk=4m limiet=30 wegen=1396 draai=-5 vaste=117/12 gemeld=14 stemming=happy
+05:57:22 route: van de route af (100 m)
+05:57:22 ANWB verkeer geladen: 21 meldingen in de buurt (van 53)
+05:57:22 flitsers via /flitsers: 16/16
+05:57:22 route: 56.2 km, 63 stappen (opnieuw berekend)
+05:57:22 nav zegt: Route opnieuw berekend.
+05:57:23 v=33 nauwk=4m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=relaxed
+05:57:33 v=33 nauwk=4m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=relaxed
+05:57:41 drempel/schok sterkte 8.7 bij 28 km/h
+05:57:42 route: van de route af (172 m)
+05:57:42 route: 56.4 km, 63 stappen (opnieuw berekend)
+05:57:42 nav zegt: Route opnieuw berekend.
+05:57:43 v=31 nauwk=4m limiet=30 wegen=1396 draai=-2 vaste=117/12 gemeld=16 stemming=alert
+05:57:48 ev happy: Daar is weer de Draaimolen! Wiee!
+05:57:48 bekende plek: de Draaimolen
+05:57:54 v=30 nauwk=4m limiet=30 wegen=1396 draai=1 vaste=117/12 gemeld=16 stemming=relaxed
+05:57:54 drempel/schok sterkte 5.8 bij 30 km/h
+05:57:54 ev startled: Drempel! Boing!
+05:57:55 ev neutral: Hobbelige weg. Ik laat de boings even zitten.
+05:57:55 hobbelige weg (4 klappen in 20 s)
+05:58:03 route: van de route af (186 m)
+05:58:03 route: 56.6 km, 64 stappen (opnieuw berekend)
+05:58:03 nav zegt: Route opnieuw berekend.
+05:58:05 v=32 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=alert
+05:58:16 v=27 nauwk=4m limiet=50 wegen=1396 draai=17 vaste=117/12 gemeld=16 stemming=neutral
+05:58:19 groep ververst: 6
+05:58:24 route: van de route af (140 m)
+05:58:24 route: 57 km, 67 stappen (opnieuw berekend)
+05:58:24 nav zegt: Route opnieuw berekend.
+05:58:25 nav zegt: Omkeren naar N228.
+05:58:25 ev alert: Omkeren naar N228!
+05:58:26 v=50 nauwk=4m limiet=50 wegen=1396 draai=5 vaste=117/12 gemeld=16 stemming=alert
+05:58:29 route: afslag 1 voorbij (omkeren naar N228)
+05:58:35 nav zegt: Over 300 meter neem op de rotonde de 3e afslag naar Grote Haven.
+05:58:37 v=52 nauwk=4m limiet=50 wegen=1396 draai=3 vaste=117/12 gemeld=16 stemming=relaxed
+05:58:45 route: van de route af (214 m)
+05:58:45 route: 57.1 km, 66 stappen (opnieuw berekend)
+05:58:45 nav zegt: Route opnieuw berekend.
+05:58:45 nav zegt: Over 400 meter neem op de rotonde de 3e afslag naar Grote Haven.
+05:58:48 v=52 nauwk=4m limiet=50 wegen=1396 draai=-3 vaste=117/12 gemeld=16 stemming=relaxed
+05:58:58 v=51 nauwk=4m limiet=50 wegen=1396 draai=-2 vaste=117/12 gemeld=16 stemming=relaxed
+05:59:06 route: van de route af (295 m)
+05:59:06 route: 57.4 km, 66 stappen (opnieuw berekend)
+05:59:06 nav zegt: Route opnieuw berekend.
+05:59:09 v=51 nauwk=4m limiet=50 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=relaxed
+05:59:20 v=55 nauwk=4m limiet=60 wegen=1396 draai=-1 vaste=117/12 gemeld=16 stemming=relaxed
+05:59:23 flitsers via /flitsers: 14/14
+05:59:23 ANWB verkeer geladen: 21 meldingen in de buurt (van 54)
+05:59:26 route: van de route af (297 m)
+05:59:26 route: 57.7 km, 66 stappen (opnieuw berekend)
+05:59:26 nav zegt: Route opnieuw berekend.
+05:59:30 v=60 nauwk=4m limiet=60 wegen=1396 draai=1 vaste=117/12 gemeld=14 stemming=relaxed
+05:59:32 drempel/schok sterkte 5.1 bij 59 km/h
+05:59:32 ev startled: Drempel! Boing!
+05:59:40 v=58 nauwk=4m limiet=60 wegen=1396 draai=1 vaste=117/12 gemeld=14 stemming=relaxed
+05:59:46 rws tegel 1733_96 (telefoon): 120 wegvakken, versie 01-10-2026
+05:59:47 route: van de route af (338 m)
+05:59:47 route: 58.1 km, 66 stappen (opnieuw berekend)
+05:59:47 nav zegt: Route opnieuw berekend.
+05:59:51 v=59 nauwk=4m limiet=60 wegen=1516 draai=-2 vaste=117/12 gemeld=14 stemming=relaxed
+06:00:01 v=61 nauwk=4m limiet=60 wegen=1516 draai=-0 vaste=117/12 gemeld=14 stemming=alert
+06:00:07 route: van de route af (325 m)
+06:00:07 route: 58.4 km, 66 stappen (opnieuw berekend)
+06:00:07 nav zegt: Route opnieuw berekend.
+06:00:12 v=61 nauwk=4m limiet=60 wegen=1516 draai=2 vaste=117/12 gemeld=14 stemming=relaxed
+06:00:22 NDW geladen: 308 meldingen in de buurt {"closure":203,"speed":30,"lane":74,"accident":1}
+06:00:23 v=61 nauwk=4m limiet=60 wegen=1516 draai=2 vaste=117/12 gemeld=14 stemming=content
+06:00:27 route: van de route af (332 m)
+06:00:27 route: 73.3 km, 32 stappen (opnieuw berekend)
+06:00:27 nav zegt: Route opnieuw berekend.
+06:00:33 v=57 nauwk=4m limiet=60 wegen=1516 draai=-0 vaste=117/12 gemeld=14 stemming=relaxed
+06:00:43 v=62 nauwk=4m limiet=60 wegen=1516 draai=2 vaste=117/12 gemeld=14 stemming=alert
+06:00:54 v=60 nauwk=4m limiet=60 wegen=1516 draai=-2 vaste=117/12 gemeld=14 stemming=relaxed
+06:01:04 v=57 nauwk=4m limiet=60 wegen=1516 draai=2 vaste=117/12 gemeld=14 stemming=content
+06:01:15 v=57 nauwk=4m limiet=60 wegen=1516 draai=1 vaste=117/12 gemeld=14 stemming=relaxed
+06:01:19 groep ververst: 6
+06:01:24 ANWB verkeer geladen: 20 meldingen in de buurt (van 46)
+06:01:24 flitsers via /flitsers: 14/14
+06:01:26 v=59 nauwk=4m limiet=60 wegen=1516 draai=-2 vaste=117/12 gemeld=14 stemming=relaxed
+06:01:30 ev content: Hier rijden we vaak. Ik ken dit stukje.
+06:01:36 v=59 nauwk=4m limiet=60 wegen=1516 draai=0 vaste=117/12 gemeld=14 stemming=relaxed
+06:01:47 v=59 nauwk=4m limiet=60 wegen=1516 draai=-1 vaste=117/12 gemeld=14 stemming=relaxed
+06:01:57 v=62 nauwk=4m limiet=60 wegen=1516 draai=-0 vaste=117/12 gemeld=14 stemming=relaxed
+06:02:07 v=59 nauwk=4m limiet=60 wegen=1516 draai=1 vaste=117/12 gemeld=14 stemming=relaxed
+06:02:18 v=51 nauwk=4m limiet=60 wegen=1516 draai=7 vaste=117/12 gemeld=14 stemming=relaxed
+06:02:28 v=57 nauwk=4m limiet=60 wegen=1516 draai=-0 vaste=117/12 gemeld=14 stemming=relaxed
+06:02:38 v=61 nauwk=4m limiet=60 wegen=1516 draai=-0 vaste=117/12 gemeld=14 stemming=relaxed
+06:02:49 v=61 nauwk=4m limiet=60 wegen=1516 draai=-1 vaste=117/12 gemeld=14 stemming=relaxed
+06:03:00 v=61 nauwk=4m limiet=60 wegen=120 draai=-0 vaste=117/12 gemeld=14 stemming=relaxed
+06:03:10 v=57 nauwk=4m limiet=60 wegen=120 draai=-3 vaste=117/12 gemeld=14 stemming=love
+06:03:20 v=61 nauwk=4m limiet=60 wegen=120 draai=-0 vaste=117/12 gemeld=14 stemming=relaxed
+06:03:24 flitsers via /flitsers: 14/14
+06:03:25 ANWB verkeer geladen: 20 meldingen in de buurt (van 46)
+06:03:30 v=62 nauwk=4m limiet=60 wegen=564 draai=-2 vaste=117/12 gemeld=14 stemming=relaxed
+06:03:32 rws tegel 1733_97 (telefoon): 416 wegvakken, versie 01-10-2026
+06:03:41 v=63 nauwk=4m limiet=60 wegen=980 draai=0 vaste=117/12 gemeld=14 stemming=relaxed
+06:03:51 rws tegel 1734_97 (telefoon): 667 wegvakken, versie 01-10-2026
+06:03:52 v=64 nauwk=4m limiet=60 wegen=1647 draai=-2 vaste=117/12 gemeld=14 stemming=relaxed
+06:04:02 v=60 nauwk=4m limiet=60 wegen=1647 draai=1 vaste=117/12 gemeld=14 stemming=content
+06:04:04 route: afslag 1 voorbij (rechtdoor naar N228)
+06:04:12 v=61 nauwk=4m limiet=60 wegen=1647 draai=2 vaste=117/12 gemeld=14 stemming=relaxed
+06:04:19 groep ververst: 6
+06:04:23 v=62 nauwk=4m limiet=60 wegen=1647 draai=-1 vaste=117/12 gemeld=14 stemming=focused
+06:04:33 v=64 nauwk=4m limiet=60 wegen=1647 draai=-1 vaste=117/12 gemeld=14 stemming=relaxed
+06:04:41 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+06:04:43 v=62 nauwk=4m limiet=60 wegen=1647 draai=1 vaste=117/12 gemeld=14 stemming=content
+06:04:53 v=63 nauwk=4m limiet=60 wegen=1647 draai=1 vaste=117/12 gemeld=14 stemming=relaxed
+06:04:56 nav zegt: Over 500 meter neem op de rotonde de 1e afslag naar N228.
+06:05:04 v=47 nauwk=4m limiet=50 wegen=1647 draai=0 vaste=117/12 gemeld=14 stemming=relaxed
+06:05:13 osm werk via Worker (oud): 400 stuks
+06:05:13 wegwerkzaamheden geladen: 397
+06:05:14 v=49 nauwk=4m limiet=50 wegen=1647 draai=2 vaste=117/12 gemeld=14 stemming=relaxed
+06:05:15 ev happy: Daar is weer de Carrousel! Wiee!
+06:05:15 bekende plek: de Carrousel
+--- v133 · Linux; Android 10; K ---
+06:05:22 bruggen geladen: 9
+06:05:23 NDW geladen: 299 meldingen in de buurt {"closure":195,"speed":29,"lane":74,"accident":1}
+06:05:24 v=47 nauwk=4m limiet=50 wegen=1647 draai=-2 vaste=117/12 gemeld=14 stemming=happy
+06:05:24 flitsers via /flitsers: 16/16
+06:05:26 ANWB verkeer geladen: 19 meldingen in de buurt (van 46)
+06:05:27 nav zegt: Neem op de rotonde de 1e afslag naar N228, en daarna rechtsaf naar N228.
+06:05:27 ev alert: Neem op de rotonde de 1e afslag naar N228!
+06:05:33 route: afslag 2 voorbij (neem op de rotonde de 1e afslag naar N228)
+06:05:33 nav zegt: Rechtsaf naar N228.
+06:05:33 ev alert: Rechtsaf naar N228!
+06:05:34 v=26 nauwk=4m limiet=50 wegen=1647 draai=1 vaste=117/12 gemeld=16 stemming=alert
+06:05:37 route: afslag 3 voorbij (rechtsaf naar N228)
+06:05:44 v=39 nauwk=4m limiet=50 wegen=1647 draai=2 vaste=117/12 gemeld=16 stemming=relaxed
+06:05:53 route: afslag 4 voorbij (rechtdoor naar N228)
+06:05:55 v=34 nauwk=4m limiet=50 wegen=1647 draai=12 vaste=117/12 gemeld=16 stemming=relaxed
+06:06:06 v=43 nauwk=4m limiet=50 wegen=1647 draai=-5 vaste=117/12 gemeld=16 stemming=happy
+06:06:16 v=47 nauwk=4m limiet=50 wegen=1647 draai=2 vaste=117/12 gemeld=16 stemming=relaxed
+06:06:27 v=47 nauwk=4m limiet=50 wegen=1647 draai=1 vaste=117/12 gemeld=16 stemming=relaxed
+06:06:36 v=48 nauwk=4m limiet=50 wegen=1647 draai=0 vaste=117/12 gemeld=16 stemming=content
+06:06:47 v=49 nauwk=4m limiet=50 wegen=1647 draai=-1 vaste=117/12 gemeld=16 stemming=relaxed
+06:06:57 v=47 nauwk=4m limiet=50 wegen=1647 draai=-4 vaste=117/12 gemeld=16 stemming=relaxed
+06:07:00 route: afslag 5 voorbij (rechtdoor naar N228)
+06:07:08 v=52 nauwk=4m limiet=50 wegen=1527 draai=3 vaste=117/12 gemeld=16 stemming=relaxed
+06:07:18 v=57 nauwk=4m limiet=60 wegen=1527 draai=1 vaste=117/12 gemeld=16 stemming=relaxed
+06:07:19 groep ververst: 6
+06:07:24 drempel/schok sterkte 5.2 bij 54 km/h
+06:07:24 ev startled: Drempel! Boing!
+06:07:25 flitsers via /flitsers: 14/14
+06:07:27 ANWB verkeer geladen: 19 meldingen in de buurt (van 46)
+06:07:28 v=55 nauwk=4m limiet=60 wegen=1527 draai=-1 vaste=117/12 gemeld=14 stemming=relaxed
+06:07:39 v=56 nauwk=4m limiet=60 wegen=1527 draai=0 vaste=117/12 gemeld=14 stemming=relaxed
+06:07:49 v=64 nauwk=4m limiet=60 wegen=1527 draai=5 vaste=117/12 gemeld=14 stemming=happy
+06:08:00 v=61 nauwk=4m limiet=60 wegen=1527 draai=-5 vaste=117/12 gemeld=14 stemming=relaxed
+06:08:01 drempel/schok sterkte 7.2 bij 62 km/h
+06:08:08 rws tegel 1734_98 (telefoon): 731 wegvakken, versie 01-10-2026
+06:08:10 v=63 nauwk=4m limiet=60 wegen=2258 draai=1 vaste=117/12 gemeld=14 stemming=relaxed
+06:08:20 v=59 nauwk=4m limiet=60 wegen=2258 draai=-0 vaste=117/12 gemeld=14 stemming=happy
+06:08:26 drempel/schok sterkte 6.3 bij 54 km/h
+06:08:31 v=54 nauwk=4m limiet=60 wegen=2258 draai=-1 vaste=117/12 gemeld=14 stemming=relaxed
+06:08:41 v=55 nauwk=4m limiet=60 wegen=2258 draai=-0 vaste=117/12 gemeld=14 stemming=relaxed
+06:08:51 v=55 nauwk=4m limiet=60 wegen=2258 draai=1 vaste=117/12 gemeld=14 stemming=relaxed
+06:08:55 drempel/schok sterkte 6.5 bij 54 km/h
+06:08:55 ev startled: Drempel! Boing!
+06:09:02 v=59 nauwk=4m limiet=60 wegen=2258 draai=0 vaste=117/12 gemeld=14 stemming=happy
+06:09:12 v=60 nauwk=4m limiet=60 wegen=2258 draai=0 vaste=117/12 gemeld=14 stemming=relaxed
+06:09:23 v=60 nauwk=4m limiet=60 wegen=2258 draai=3 vaste=117/12 gemeld=14 stemming=relaxed
+06:09:26 flitsers via /flitsers: 16/16
+06:09:28 ANWB verkeer geladen: 17 meldingen in de buurt (van 46)
+06:09:33 v=50 nauwk=4m limiet=60 wegen=2258 draai=-0 vaste=117/12 gemeld=16 stemming=relaxed
+06:09:44 v=61 nauwk=4m limiet=60 wegen=2258 draai=-2 vaste=117/12 gemeld=16 stemming=happy
+06:09:49 voelen: ik weet nu waar vooruit is (55%)
+06:09:54 v=53 nauwk=4m limiet=60 wegen=2258 draai=-0 vaste=117/12 gemeld=16 stemming=relaxed
+06:10:04 v=59 nauwk=4m limiet=60 wegen=2258 draai=3 vaste=117/12 gemeld=16 stemming=content
+06:10:15 v=55 nauwk=4m limiet=60 wegen=2258 draai=1 vaste=117/12 gemeld=16 stemming=relaxed
+06:10:17 voelen: ik weet nu waar vooruit is (61%)
+06:10:20 groep ververst: 6
+06:10:22 weer: 0.8 graden, code 0, neerslag 0, wind 9
+06:10:22 buienradar: nu 0 mm/u, regen over -1 min
+06:10:24 NDW geladen: 281 meldingen in de buurt {"closure":179,"speed":29,"lane":72,"accident":1}
+06:10:25 v=63 nauwk=4m limiet=60 wegen=1842 draai=-1 vaste=117/12 gemeld=16 stemming=relaxed
+06:10:36 v=63 nauwk=4m limiet=60 wegen=1842 draai=-0 vaste=117/12 gemeld=16 stemming=relaxed
+06:10:46 v=59 nauwk=4m limiet=60 wegen=1842 draai=2 vaste=117/12 gemeld=16 stemming=happy
+06:10:57 v=58 nauwk=4m limiet=60 wegen=731 draai=-0 vaste=117/12 gemeld=16 stemming=relaxed
+06:11:02 drempel/schok sterkte 5.3 bij 58 km/h
+06:11:02 ev startled: Drempel! Boing!
+06:11:07 v=57 nauwk=4m limiet=60 wegen=731 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+06:11:18 v=60 nauwk=4m limiet=60 wegen=731 draai=0 vaste=117/12 gemeld=16 stemming=happy
+06:11:26 flitsers via /flitsers: 14/14
+06:11:28 v=59 nauwk=4m limiet=60 wegen=731 draai=-0 vaste=117/12 gemeld=14 stemming=relaxed
+06:11:29 ANWB verkeer geladen: 17 meldingen in de buurt (van 46)
+06:11:36 nav zegt: Over 500 meter aan het eind van de weg rechtsaf naar N204.
+06:11:39 v=58 nauwk=4m limiet=60 wegen=731 draai=-0 vaste=117/12 gemeld=14 stemming=alert
+06:11:49 v=54 nauwk=4m limiet=60 wegen=731 draai=-6 vaste=117/12 gemeld=14 stemming=relaxed
+06:11:59 v=54 nauwk=4m limiet=60 wegen=731 draai=4 vaste=117/12 gemeld=14 stemming=relaxed
+06:12:01 nav zegt: Aan het eind van de weg rechtsaf naar N204, en daarna rechtsaf naar N204.
+06:12:01 ev alert: Aan het eind van de weg rechtsaf naar N204!
+06:12:09 route: afslag 6 voorbij (aan het eind van de weg rechtsaf naar N204)
+06:12:09 nav zegt: Rechtsaf naar N204.
+06:12:09 ev alert: Rechtsaf naar N204!
+06:12:10 v=23 nauwk=4m limiet=60 wegen=731 draai=1 vaste=117/12 gemeld=14 stemming=alert
+06:12:10 route: afslag 7 voorbij (rechtsaf naar N204)
+06:12:20 v=52 nauwk=4m limiet=80 wegen=731 draai=0 vaste=117/12 gemeld=14 stemming=relaxed
+06:12:28 drempel/schok sterkte 7.0 bij 71 km/h
+06:12:30 v=76 nauwk=4m limiet=60 wegen=731 draai=0 vaste=117/12 gemeld=14 stemming=happy
+06:12:41 v=79 nauwk=4m limiet=80 wegen=731 draai=-1 vaste=117/12 gemeld=14 stemming=relaxed
+06:12:51 v=79 nauwk=4m limiet=80 wegen=731 draai=0 vaste=117/12 gemeld=14 stemming=relaxed
+06:12:55 nav zegt: Over 500 meter neem op de rotonde de 2e afslag naar N204.
+06:13:02 v=78 nauwk=4m limiet=80 wegen=731 draai=-1 vaste=117/12 gemeld=14 stemming=relaxed
+06:13:09 rws tegel 1734_99 (telefoon): 607 wegvakken, versie 01-10-2026
+06:13:10 ev happy: Daar is weer de Carrousel! Wiee!
+06:13:10 bekende plek: de Carrousel
+06:13:13 v=70 nauwk=4m limiet=80 wegen=1572 draai=0 vaste=117/12 gemeld=14 stemming=happy
+06:13:13 nav zegt: Neem op de rotonde de 2e afslag naar N204, en daarna rechtsaf naar N204.
+06:13:13 ev alert: Neem op de rotonde de 2e afslag naar N204!
+06:13:14 voelen: ik weet nu waar vooruit is (54%)
+06:13:19 osm werk via Worker (overpass): 400 stuks
+06:13:19 wegwerkzaamheden geladen: 397
+06:13:20 groep ververst: 6
+06:13:22 route: afslag 8 voorbij (neem op de rotonde de 2e afslag naar N204)
+06:13:22 nav zegt: Rechtsaf naar N204.
+06:13:22 ev alert: Rechtsaf naar N204!
+06:13:23 v=16 nauwk=4m limiet=80 wegen=1572 draai=-1 vaste=117/12 gemeld=14 stemming=alert
+06:13:27 flitsers via /flitsers: 16/16
+06:13:28 route: afslag 9 voorbij (rechtsaf naar N204)
+06:13:29 rws tegel 1733_98 (telefoon): 118 wegvakken, versie 01-10-2026
+06:13:30 ANWB verkeer geladen: 17 meldingen in de buurt (van 46)
+06:13:32 ev excited: Rotonde!
+06:13:32 rotonde: herkend op de kaart
+06:13:34 v=29 nauwk=4m limiet=80 wegen=1690 draai=12 vaste=117/12 gemeld=16 stemming=excited
+06:13:35 rws tegel 1733_99 (telefoon): 343 wegvakken, versie 01-10-2026
+06:13:44 v=68 nauwk=4m limiet=80 wegen=2033 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+06:13:55 v=79 nauwk=4m limiet=80 wegen=2033 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+06:14:05 v=80 nauwk=4m limiet=80 wegen=2033 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+06:14:13 drempel/schok sterkte 6.8 bij 79 km/h
+06:14:13 ev startled: Oei, een hobbel.
+06:14:15 v=79 nauwk=4m limiet=80 wegen=2033 draai=0 vaste=117/12 gemeld=16 stemming=happy
+06:14:27 v=80 nauwk=4m limiet=80 wegen=2033 draai=-2 vaste=117/12 gemeld=16 stemming=relaxed
+06:14:37 v=78 nauwk=4m limiet=80 wegen=2033 draai=2 vaste=117/12 gemeld=16 stemming=relaxed
+06:14:48 v=78 nauwk=4m limiet=80 wegen=2033 draai=1 vaste=117/12 gemeld=16 stemming=relaxed
+06:14:58 v=78 nauwk=4m limiet=80 wegen=2033 draai=-0 vaste=117/12 gemeld=16 stemming=relaxed
+06:14:59 drempel/schok sterkte 7.8 bij 78 km/h
+06:15:09 v=79 nauwk=4m limiet=80 wegen=2033 draai=-0 vaste=117/12 gemeld=16 stemming=alert
+06:15:19 v=76 nauwk=4m limiet=80 wegen=1302 draai=0 vaste=117/12 gemeld=16 stemming=alert
