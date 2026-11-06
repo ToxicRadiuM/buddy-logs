@@ -772,3 +772,143 @@
 06:56:37 ev startled: Hé! Waar gaan we heen?
 06:56:38 v=3 nauwk=4m limiet=70 wegen=3127 draai=-0 vaste=117/12 gemeld=14 stemming=startled
 06:56:47 ev happy: Draaien! Hoei!
+--- v133 · Linux; Android 10; K ---
+06:55:25 file herkend
+06:55:26 v=0 nauwk=4m limiet=70 wegen=3127 draai=-0 vaste=117/12 gemeld=14 stemming=bored
+06:55:32 ev clock: Het is 06:55.
+06:55:36 v=0 nauwk=4m limiet=70 wegen=3127 draai=-0 vaste=117/12 gemeld=14 stemming=neutral
+06:55:47 v=0 nauwk=4m limiet=70 wegen=3127 draai=-0 vaste=117/12 gemeld=14 stemming=alert
+06:55:57 v=0 nauwk=4m limiet=70 wegen=3127 draai=-0 vaste=117/12 gemeld=14 stemming=bored
+06:56:07 groep ververst: 6
+06:56:07 v=0 nauwk=4m limiet=70 wegen=3127 draai=-0 vaste=117/12 gemeld=14 stemming=happy
+06:56:17 v=0 nauwk=4m limiet=70 wegen=3127 draai=-0 vaste=117/12 gemeld=14 stemming=bored
+06:56:20 parkeerplek onthouden
+06:56:28 v=0 nauwk=4m limiet=70 wegen=3127 draai=-0 vaste=117/12 gemeld=14 stemming=bored
+06:56:37 ev startled: Hé! Waar gaan we heen?
+06:56:38 v=3 nauwk=4m limiet=70 wegen=3127 draai=-0 vaste=117/12 gemeld=14 stemming=startled
+06:56:47 ev happy: Draaien! Hoei!
+09:09:20 start v133
+09:09:21 groep ververst: 6
+09:09:21 GPS automatisch aan
+09:09:21 scherm-aan-slot gekregen
+09:09:22 voelen: geleerde richting van vorige keer meegedraaid
+09:09:22 limiet geschat uit je snelheid: 30
+09:09:22 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+09:09:22 osm wegen uit telefoongeheugen: 958 stuks
+09:09:22 wegen geladen: 958 wegen
+09:09:23 ANWB verkeer geladen: 9 meldingen in de buurt (van 50)
+09:09:23 osm werk via Worker (bewaard): 400 stuks
+09:09:23 wegwerkzaamheden geladen: 400
+09:09:23 bruggen geladen: 0
+09:09:23 flitsers via /flitsers: 17/17
+09:09:23 matrix-locaties geladen: 6442
+09:09:23 NDW geladen: 187 meldingen in de buurt {"lane":63,"closure":91,"speed":29,"accident":3,"jam":1}
+09:09:23 weer: 1.8 graden, code 0, neerslag 0, wind 7
+09:09:23 buienradar: nu 0 mm/u, regen over -1 min
+09:09:30 bewegingssensor: granted
+09:09:30 v=0 nauwk=7m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=anticipate
+09:09:32 voelen: sensor-teken gewoon
+--- v133 · Linux; Android 10; K ---
+09:09:40 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=neutral
+09:09:45 vertrekcheck (rit): 0 meldingen op route
+09:09:50 v=0 nauwk=3m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=happy
+09:09:52 ev startled: Zet je me straks terug in de houder?
+09:09:54 ev clock: Het is 09:09.
+09:10:01 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=bored
+09:10:04 autostand aan
+09:10:07 ev content: Zo, mijn uitzicht is terug.
+09:10:10 ev happy: Zo zie ik het ook.
+09:10:11 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=happy
+09:10:13 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+09:10:13 voelen: telefoon gedraaid (47°), richting meegedraaid
+09:10:17 ev worried: Ho ho, niet zo vaak!
+09:10:19 voelen: telefoon gedraaid (52°), richting meegedraaid
+09:10:22 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=bored
+09:10:23 ev worried: Mijn hoofd tolt…
+09:10:25 voelen: telefoon gedraaid (65°), richting meegedraaid
+09:10:32 v=0 nauwk=3m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=excited
+09:10:42 v=0 nauwk=3m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=bored
+09:10:53 v=0 nauwk=3m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=bored
+09:10:58 ev happy: Draaien! Hoei!
+09:10:59 voelen: telefoon gedraaid (68°), richting meegedraaid
+09:11:04 ev startled: Hé! Waar gaan we heen?
+09:11:04 v=0 nauwk=3m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=startled
+--- v133 · Linux; Android 10; K ---
+09:11:10 scherm-aan-slot gekregen
+09:11:10 scherm-aan-slot gekregen
+09:11:12 autostand uit
+09:11:14 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=bored
+09:11:15 ev content: Klik! Ik zit weer.
+09:11:20 ev happy: En weer terug!
+09:11:22 ev happy: Zo zie ik het ook.
+09:11:23 flitsers via /flitsers: 15/15
+09:11:23 ANWB verkeer geladen: 9 meldingen in de buurt (van 49)
+09:11:24 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=yawn
+09:11:33 voelen: telefoon gedraaid (28°), richting meegedraaid
+09:11:35 v=0 nauwk=4m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=bored
+09:11:39 ev excited: Klop klop… wie is daar? 😄
+09:11:39 geklopt (2×)
+--- v133 · Linux; Android 10; K ---
+09:13:16 scherm-aan-slot gekregen
+09:13:16 scherm-aan-slot gekregen
+09:13:16 terug na 95 s zonder GPS
+09:13:16 v=0 nauwk=32m limiet=30~ wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=yawn
+09:13:17 groep ververst: 6
+09:13:24 flitsers via /flitsers: 17/17
+09:13:24 ANWB verkeer geladen: 9 meldingen in de buurt (van 51)
+09:13:24 voelen: telefoon gedraaid (24°), richting meegedraaid
+09:13:25 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+09:13:26 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sad
+09:13:27 osm laad via Worker (bewaard): 4 stuks
+09:13:27 laadpaal: niet gevonden in de buurt
+09:13:30 ev clock: Het is 09:13.
+09:13:37 v=0 nauwk=3m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=bored
+09:13:47 v=0 nauwk=3m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=bored
+09:13:52 voelen: telefoon gedraaid (26°), richting meegedraaid
+09:13:58 v=0 nauwk=3m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=happy
+09:14:01 ev startled: Wiee, ik zweef!
+09:14:02 voelen: telefoon gedraaid (33°), richting meegedraaid
+09:14:02 ev content: Ah, weer lekker vast.
+09:14:08 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleepy
+09:14:18 voelen: telefoon gedraaid (30°), richting meegedraaid
+09:14:19 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=excited
+09:14:21 voelen: telefoon gedraaid (25°), richting meegedraaid
+09:14:24 NDW geladen: 187 meldingen in de buurt {"lane":63,"closure":91,"speed":29,"accident":4}
+09:14:30 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleepy
+09:14:40 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=startled
+09:14:50 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=yawn
+09:14:58 ev happy: Wiee, ander uitzicht!
+09:15:00 ev startled: Hé! Waar gaan we heen?
+09:15:01 ev content: Ah, weer lekker vast.
+09:15:01 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=content
+09:15:11 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleepy
+09:15:22 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=17 stemming=sleepy
+09:15:25 flitsers via /flitsers: 15/15
+09:15:25 ANWB verkeer geladen: 9 meldingen in de buurt (van 50)
+09:15:32 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:15:42 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:15:52 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:16:03 v=0 nauwk=10m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:16:14 v=0 nauwk=10m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:16:17 groep ververst: 6
+09:16:24 v=0 nauwk=10m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:16:34 v=0 nauwk=10m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:16:44 v=0 nauwk=10m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:16:55 v=0 nauwk=10m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:17:05 v=0 nauwk=10m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:17:15 v=0 nauwk=10m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:17:25 flitsers via /flitsers: 15/15
+09:17:26 ANWB verkeer geladen: 9 meldingen in de buurt (van 50)
+09:17:26 v=0 nauwk=10m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:17:36 v=0 nauwk=5m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:17:46 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:17:56 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:18:07 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:18:17 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:18:27 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:18:37 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:18:47 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:18:57 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:19:07 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:19:17 v=0 nauwk=4m limiet=70 wegen=3121 draai=0 vaste=117/12 gemeld=15 stemming=sleeping
+09:19:17 groep ververst: 6

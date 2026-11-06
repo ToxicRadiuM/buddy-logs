@@ -42,3 +42,153 @@
 07:06:49 voelen: ik weet nu waar vooruit is (66%)
 07:06:54 ev alert: Afsluiting over 800 m. Let op de omleiding!
 07:06:54 NDW melding closure 819 m: Afsluiting over 800 m. Let op de omleiding!
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:07:51 start v133
+09:07:51 groep ververst: 6
+09:07:52 GPS automatisch aan
+09:07:52 scherm-aan-slot geweigerd: NotAllowedError (probeer opnieuw bij een tik)
+09:07:52 wakker blijven: filmpje-truc aan
+09:07:54 limiet geschat uit je snelheid: 30
+09:07:54 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+09:07:54 osm werk via Worker (bewaard): 400 stuks
+09:07:54 wegwerkzaamheden geladen: 400
+09:07:54 weer: 1.8 graden, code 0, neerslag 0, wind 7
+09:07:54 ANWB verkeer geladen: 9 meldingen in de buurt (van 50)
+09:07:54 matrix-locaties geladen: 6442
+09:07:54 bruggen geladen: 0
+09:07:54 NDW geladen: 188 meldingen in de buurt {"lane":64,"closure":91,"speed":29,"accident":3,"jam":1}
+09:07:54 buienradar: nu 0 mm/u, regen over -1 min
+09:07:55 flitsers via /flitsers: 17/17
+09:07:56 autostand aan
+09:07:58 bewegingssensor: granted
+09:07:59 scherm-aan-slot gekregen
+09:07:59 scherm-aan-slot gekregen
+09:07:59 voelen: geleerde richting van vorige keer meegedraaid
+09:08:01 v=0 nauwk=8m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=bored
+09:08:05 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:08:27 start v133
+09:08:27 groep ververst: 6
+09:08:28 GPS automatisch aan
+09:08:28 scherm-aan-slot geweigerd: NotAllowedError (probeer opnieuw bij een tik)
+09:08:28 wakker blijven: filmpje-truc aan
+09:08:30 limiet geschat uit je snelheid: 30
+09:08:30 rws tegel 1723_103 (telefoon): 1509 wegvakken, versie 01-10-2026
+09:08:30 flitsers via /flitsers: 17/17
+09:08:30 ANWB verkeer geladen: 9 meldingen in de buurt (van 50)
+09:08:30 bruggen geladen: 0
+09:08:30 NDW geladen: 188 meldingen in de buurt {"lane":64,"closure":91,"speed":29,"accident":3,"jam":1}
+09:08:30 weer: 1.8 graden, code 0, neerslag 0, wind 7
+09:08:30 matrix-locaties geladen: 6442
+09:08:30 scherm-aan-slot gekregen
+09:08:30 scherm-aan-slot gekregen
+09:08:30 buienradar: nu 0 mm/u, regen over -1 min
+09:08:33 bewegingssensor: granted
+09:08:33 scherm-aan-slot gekregen
+09:08:33 limiet geschat uit je snelheid: 30
+09:08:34 voelen: geleerde richting van vorige keer overgenomen
+09:08:34 wakker blijven: filmpje-truc aan
+09:08:34 autostand aan
+09:08:36 voelen: sensor-teken gewoon
+09:08:38 ev startled: Wiee, ik zweef!
+09:08:42 terug na 6 s zonder GPS
+09:08:42 v=0 nauwk=12m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=anticipate
+09:08:44 voelen: telefoon gedraaid (24°), richting meegedraaid
+09:08:44 ev content: Zo, mijn uitzicht is terug.
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:08:48 terug na 6 s zonder GPS
+09:08:50 ev content: Je hangt me een beetje scheef. Ik hou mijn hoofd wel recht 😉
+09:08:54 ev happy: En weer terug!
+09:08:54 voelen: telefoon gedraaid (100°), richting meegedraaid
+09:08:55 terug na 7 s zonder GPS
+09:08:55 v=0 nauwk=15m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=happy
+09:08:57 vertrekcheck (rit): 0 meldingen op route
+09:08:59 ev happy: Zo zie ik het ook.
+09:09:01 terug na 6 s zonder GPS
+09:09:01 voelen: telefoon gedraaid (100°), richting meegedraaid
+09:09:07 terug na 6 s zonder GPS
+09:09:07 v=0 nauwk=13m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=anticipate
+09:09:12 ev clock: Het is 09:09.
+09:09:13 terug na 6 s zonder GPS
+09:09:19 autostand uit
+09:09:19 terug na 6 s zonder GPS
+09:09:19 v=0 nauwk=10m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=yawn
+09:09:25 terug na 6 s zonder GPS
+09:09:31 terug na 6 s zonder GPS
+09:09:31 v=0 nauwk=8m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=anticipate
+09:09:37 terug na 6 s zonder GPS
+09:09:43 terug na 6 s zonder GPS
+09:09:43 v=0 nauwk=7m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=anticipate
+09:09:50 terug na 7 s zonder GPS
+09:09:55 terug na 6 s zonder GPS
+09:09:55 v=0 nauwk=11m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=neutral
+09:10:06 v=0 nauwk=3m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=anticipate
+09:10:16 v=0 nauwk=3m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=happy
+09:10:26 v=0 nauwk=2m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=anticipate
+09:10:31 ANWB verkeer geladen: 9 meldingen in de buurt (van 49)
+09:10:31 flitsers via /flitsers: 15/15
+09:10:36 ev excited: Hoi! Zin om te rijden?
+09:10:36 geklopt (2×)
+09:10:37 v=4 nauwk=4m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=15 stemming=excited
+09:10:38 plek kreeg een naam: het Eeuwige Stoplicht
+09:10:45 autostand aan
+09:10:48 v=0 nauwk=4m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=15 stemming=anticipate
+09:10:48 ev happy: En weer terug!
+09:10:49 ev startled: Zet je me straks terug in de houder?
+09:10:51 voelen: telefoon gedraaid (65°), richting meegedraaid
+09:10:51 ev content: Zo, mijn uitzicht is terug.
+09:10:56 ev happy: En weer terug!
+09:10:58 v=0 nauwk=3m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=15 stemming=happy
+09:11:01 voelen: telefoon gedraaid (70°), richting meegedraaid
+09:11:09 v=3 nauwk=15m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=15 stemming=anticipate
+09:11:14 voelen: telefoon gedraaid (30°), richting meegedraaid
+09:11:19 ev excited: Groen! Daar gaan we.
+09:11:19 retro meter: optrekken 1 -> 15
+09:11:20 v=6 nauwk=24m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=15 stemming=excited
+09:11:26 sprint-animatie: tijdreis
+09:11:27 autostand uit
+09:11:27 groep ververst: 6
+09:11:30 v=0 nauwk=6m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=15 stemming=excited
+09:11:38 ev startled: Zet je me straks terug in de houder?
+09:11:40 v=4 nauwk=7m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=15 stemming=startled
+09:11:42 ev content: Ah, weer lekker vast.
+09:11:51 v=0 nauwk=5m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=15 stemming=anticipate
+09:12:01 v=0 nauwk=4m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=15 stemming=happy
+09:12:11 v=0 nauwk=18m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=15 stemming=bored
+09:12:19 ev startled: Hé! Waar gaan we heen?
+09:12:22 v=3 nauwk=7m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=15 stemming=anticipate
+09:12:22 ev content: Ah, weer lekker vast.
+09:12:32 ANWB verkeer geladen: 9 meldingen in de buurt (van 51)
+09:12:32 flitsers via /flitsers: 17/17
+09:12:33 v=0 nauwk=4m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=anticipate
+09:12:40 ev excited: Groen! Daar gaan we.
+09:12:43 v=7 nauwk=31m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=neutral
+09:12:46 retro meter: optrekken 6 -> 22
+09:12:54 v=3 nauwk=11m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=anticipate
+09:13:04 v=0 nauwk=4m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=anticipate
+09:13:15 v=0 nauwk=4m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=anticipate
+09:13:18 ev startled: Zet je me straks terug in de houder?
+09:13:22 ev content: Zo, mijn uitzicht is terug.
+09:13:26 v=0 nauwk=4m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=anticipate
+09:13:31 NDW geladen: 188 meldingen in de buurt {"lane":64,"closure":91,"speed":29,"accident":4}
+09:13:35 ev clock: Het is 09:13.
+09:13:36 v=0 nauwk=4m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=clock
+--- v133 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+09:14:21 scherm-aan-slot gekregen
+09:14:21 scherm-aan-slot gekregen
+09:14:21 terug na 9 s zonder GPS
+09:14:21 v=0 nauwk=19m limiet=70 wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=anticipate
+09:14:25 ev excited: ⚔️ Ricardo2 daagt je uit op de 0–100! Verbeter je 5,2 s binnen 7 dagen.
+09:14:25 groepsbericht ontvangen: uitdaging van Ricardo2
+09:14:32 terug na 6 s zonder GPS
+09:14:32 limiet geschat uit je snelheid: 30
+09:14:32 v=9 nauwk=16m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=neutral
+09:14:32 ANWB verkeer geladen: 9 meldingen in de buurt (van 50)
+09:14:37 drempel/schok sterkte 5.1 bij 9 km/h
+09:14:37 ev startled: Drempel! Boing!
+09:14:38 terug na 6 s zonder GPS
+09:14:43 terug na 5 s zonder GPS
+09:14:43 v=0 nauwk=66m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=anticipate
+09:14:53 voelen: telefoon gedraaid (34°), richting meegedraaid
+09:14:54 v=0 nauwk=3m limiet=30~ wegen=2466 draai=0 vaste=177/24 gemeld=17 stemming=excited
+09:15:00 groep ververst: 6
