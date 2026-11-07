@@ -1789,3 +1789,618 @@
 10:07:07 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=neutral
 10:07:12 ev worried: Let op: een afsluiting op de A2 bij Culemborg (+23 min) op je gewone route. En nog 3 meldingen.
 10:07:12 vertrekcheck (rit): 4 meldingen op route
+--- v153 · Linux; Android 10; K ---
+10:20:46 start v153
+10:20:47 groep ververst: 6
+10:20:47 GPS automatisch aan
+10:20:47 scherm-aan-slot gekregen
+10:20:48 voelen: geleerde richting van vorige keer overgenomen
+10:20:49 limiet geschat uit je snelheid: 30
+10:20:49 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+10:20:50 ANWB verkeer geladen: 33 meldingen in de buurt (van 59)
+10:20:50 flitsers via /flitsers: 17/17
+10:20:50 matrix geladen: 335 snelheid, 304 kruis/pijl (17 min oud)
+10:20:50 bruggen geladen: 11
+10:20:50 weer: 2 graden, code 3, neerslag 0, wind 4
+10:20:50 buienradar niet gelukt: HTTP 403
+10:20:50 NDW geladen: 342 meldingen in de buurt {"closure":218,"speed":43,"lane":80,"jam":1}
+10:20:56 v=0 nauwk=9m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=bored
+10:21:00 voelen: sensor-teken gewoon
+10:21:06 bewegingssensor: granted
+--- v153 · Linux; Android 10; K ---
+10:21:07 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=neutral
+10:21:11 ev worried: Let op: een afsluiting op de A2 bij Beesd (+22 min) op je gewone route. En nog 3 meldingen.
+10:21:11 vertrekcheck (rit): 4 meldingen op route
+10:21:17 Buddy-scherm verbonden
+10:21:17 scherm: meldingen aan
+10:21:17 scherm: code goed, verbonden
+10:21:18 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=alert
+10:21:19 wifi naar scherm gestuurd: Sultra
+10:21:20 scherm geluid: ok/30/100
+10:21:21 wifi naar scherm gestuurd: Sultra
+10:21:22 ev clock: Het is 10:21.
+10:21:28 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=bored
+10:21:30 scherm| groep/worker ingesteld (Ricardo2)
+10:21:30 scherm| [00:00:12] wifi ingesteld: Sultra
+10:21:30 scherm| [00:00:20] GPS: fix kwijt (0 sat)
+10:21:30 scherm| [00:01:00] status | klok 09:32 | gps TEL sat=0 zicht=0 nmea=728/0 | 0 km/u | tel data | heap 57152 | licht 255 | fps 31 teken 27.9ms stuur 19.4ms
+10:21:30 scherm| [00:01:04] weer: 1.5 graden, code 3, regen over -1 min (buienradar)
+10:21:30 scherm| [00:01:07] update: dit is de nieuwste (v88)
+10:21:30 scherm| [00:01:24] GPS: fix kwijt (0 sat)
+10:21:30 scherm| [00:01:30] geluid: hing vast, losgemaakt
+10:21:30 scherm| [00:02:00] status | klok 09:33 | gps zoekt sat=0 zicht=0 nmea=1452/0 | 0 km/u | tel data | heap 59652 | licht 255 | fps 35 teken 23.8ms stuur 18.2ms
+10:21:30 scherm| [00:02:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:02:55] geluid: hing vast, losgemaakt
+10:21:30 scherm| [00:03:00] status | klok 09:34 | gps zoekt sat=0 zicht=0 nmea=2176/0 | 0 km/u | tel stil | heap 59652 | licht 255 | fps 34 teken 24.0ms stuur 18.5ms
+10:21:30 scherm| [00:04:00] status | klok 09:35 | gps zoekt sat=0 zicht=0 nmea=2900/0 | 0 km/u | tel data | heap 59652 | licht 255 | fps 35 teken 24.0ms stuur 18.4ms
+10:21:30 scherm| [00:04:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:05:00] status | klok 09:36 | gps zoekt sat=0 zicht=0 nmea=3624/0 | 0 km/u | tel stil | heap 59652 | licht 255 | fps 35 teken 24.0ms stuur 18.4ms
+10:21:30 scherm| [00:05:24] GPS: fix kwijt (0 sat)
+10:21:30 scherm| [00:05:26] BLE: telefoon weg
+10:21:30 scherm| [00:06:00] status | klok 09:37 | gps zoekt sat=0 zicht=0 nmea=4348/0 | 0 km/u | tel nee | heap 62100 | licht 255 | fps 35 teken 23.8ms stuur 18.3ms
+10:21:30 scherm| [00:06:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:06:25] uit (diepe slaap): deur dicht en daarna stil. Wakker bij beweging.
+10:21:30 scherm| [00:00:01] geluid: start, vrij DMA 247472 (grootste blok 188404)
+10:21:30 scherm| [00:00:01] geluid: PSRAM tijdelijk bezet (3 blokken, 0 vrij over)
+10:21:30 scherm| [00:00:01] geluid: ES8311 klaar, volume 0
+10:21:30 scherm| [00:00:02] ===== OPSTART v88 | reden: uit diepe slaap | heap 106740 =====
+10:21:30 scherm| [00:00:02] wakker geworden door beweging (instappen?)
+10:21:30 scherm| [00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+10:21:30 scherm| [00:00:02] borden geleerd van de telefoon: 145 punten
+10:21:30 scherm| [00:00:03] wifi verbonden (Sultra), IP 10.96.117.32
+10:21:30 scherm| [00:00:05] groet: Waar wás je nou, Ricardo2?! 3 dagen! (vriend 80)
+10:21:30 scherm| [00:00:06] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+10:21:30 scherm| [00:00:07] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:01:00] status | klok 09:44 | gps zoekt sat=0 zicht=0 nmea=569/0 | 0 km/u | tel nee | heap 64656 | licht 255 | fps 38 teken 22.1ms stuur 18.2ms
+10:21:30 scherm| [00:01:03] update: dit is de nieuwste (v88)
+10:21:30 scherm| [00:01:32] sprint-show 16
+10:21:30 scherm| [00:02:00] status | klok 09:45 | gps zoekt sat=0 zicht=0 nmea=1277/0 | 0 km/u | tel nee | heap 64656 | licht 255 | fps 37 teken 22.3ms stuur 18.2ms
+10:21:30 scherm| [00:02:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:03:00] status | klok 09:46 | gps zoekt sat=0 zicht=0 nmea=1997/0 | 0 km/u | tel nee | heap 60176 | licht 255 | fps 37 teken 22.2ms stuur 18.1ms
+10:21:30 scherm| [00:04:00] status | klok 09:47 | gps zoekt sat=0 zicht=0 nmea=2717/0 | 0 km/u | tel nee | heap 64656 | licht 255 | fps 37 teken 22.4ms stuur 18.3ms
+10:21:30 scherm| [00:04:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:04:49] geluid: hing vast, losgemaakt
+10:21:30 scherm| [00:05:00] status | klok 09:48 | gps zoekt sat=0 zicht=0 nmea=3437/0 | 0 km/u | tel nee | heap 64656 | licht 255 | fps 39 teken 21.1ms stuur 18.1ms
+10:21:30 scherm| [00:06:00] status | klok 09:49 | gps zoekt sat=0 zicht=0 nmea=4157/0 | 0 km/u | tel nee | heap 64656 | licht 255 | fps 39 teken 21.3ms stuur 18.3ms
+10:21:30 scherm| [00:06:10] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:07:00] status | klok 09:50 | gps zoekt sat=0 zicht=1 nmea=4877/0 | 0 km/u | tel nee | heap 64656 | licht 12 | fps 10 teken 14.9ms stuur 12.9ms | SLAAPT
+10:21:30 scherm| [00:07:52] geluid: hing vast, losgemaakt
+10:21:30 scherm| [00:08:00] status | klok 09:51 | gps zoekt sat=0 zicht=1 nmea=5597/0 | 0 km/u | tel nee | heap 64656 | licht 12 | fps 10 teken 15.5ms stuur 13.0ms | SLAAPT
+10:21:30 scherm| [00:08:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:09:00] status | klok 09:52 | gps zoekt sat=0 zicht=1 nmea=6317/0 | 0 km/u | tel nee | heap 64656 | licht 12 | fps 10 teken 15.4ms stuur 13.0ms | SLAAPT
+10:21:30 scherm| [00:10:00] status | klok 09:53 | gps zoekt sat=0 zicht=1 nmea=7037/0 | 0 km/u | tel nee | heap 64656 | licht 12 | fps 10 teken 15.4ms stuur 12.9ms | SLAAPT
+10:21:30 scherm| [00:10:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:10:24] BLE: telefoon verbonden
+10:21:30 scherm| [00:10:25] BLE: code goed, verbonden met de app
+10:21:30 scherm| [00:10:26] groep/worker ingesteld (Ricardo2)
+10:21:30 scherm| [00:10:26] GPS-hulp gegeven: tijd ok, plek ok (51.9959, 4.7771)
+10:21:30 scherm| [00:10:26] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+10:21:30 scherm| [00:10:27] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
+10:21:30 scherm| [00:10:27] tegel 1733_95: 876 wegvakken
+10:21:30 scherm| [00:10:28] route gestopt
+10:21:30 scherm| [00:10:31] wifi ingesteld: Sultra
+10:21:30 scherm| [00:10:35] flitsers van de app: 18
+10:21:30 scherm| [00:10:51] GPS: fix kwijt (0 sat)
+10:21:30 scherm| [00:11:00] status | klok 09:54 | gps zoekt sat=0 zicht=0 nmea=7763/0 | 0 km/u | tel stil | heap 57176 | licht 255 | fps 34 teken 24.7ms stuur 20.3ms
+10:21:30 scherm| [00:11:32] geluid: hing vast, losgemaakt
+10:21:30 scherm| [00:11:41] weer: 1.4 graden, code 3, regen over -1 min (buienradar)
+10:21:30 scherm| [00:12:00] status | klok 09:55 | gps zoekt sat=0 zicht=0 nmea=8483/0 | 0 km/u | tel data | heap 59780 | licht 255 | fps 34 teken 23.8ms stuur 18.3ms
+10:21:30 scherm| [00:12:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:13:00] status | klok 09:56 | gps zoekt sat=0 zicht=0 nmea=9204/0 | 0 km/u | tel stil | heap 59780 | licht 255 | fps 35 teken 23.8ms stuur 18.3ms
+10:21:30 scherm| [00:14:00] status | klok 09:57 | gps zoekt sat=0 zicht=0 nmea=9925/0 | 0 km/u | tel stil | heap 59780 | licht 255 | fps 36 teken 23.2ms stuur 18.2ms
+10:21:30 scherm| [00:14:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:14:58] update gevraagd vanuit de app
+10:21:30 scherm| [00:14:59] update: v88 -> v90 wordt op de achtergrond binnengehaald
+10:21:30 scherm| [00:15:00] status | klok 09:58 | gps TEL sat=0 zicht=0 nmea=10657/0 | 0 km/u | tel data | heap 57296 | licht 255 | fps 30 teken 25.5ms stuur 23.4ms
+10:21:30 scherm| [00:15:14] flitsers van de app: 18
+10:21:30 scherm| [00:15:38] geluid: hing vast, losgemaakt
+10:21:30 scherm| [00:15:38] update: v90 staat klaar. Installeren via het info-venster of de app
+10:21:30 scherm| [00:15:49] update: v90 wordt geinstalleerd, herstarten...
+10:21:30 scherm| [00:00:01] geluid: start, vrij DMA 247424 (grootste blok 188404)
+10:21:30 scherm| [00:00:01] geluid: PSRAM tijdelijk bezet (3 blokken, 0 vrij over)
+10:21:30 scherm| [00:00:01] geluid: ES8311 klaar, volume 50
+10:21:30 scherm| [00:00:02] ===== OPSTART v90 | reden: herstart door software | heap 106692 =====
+10:21:30 scherm| [00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+10:21:30 scherm| [00:00:02] borden geleerd van de telefoon: 146 punten
+10:21:30 scherm| [00:00:04] wifi verbonden (Sultra), IP 10.96.117.32
+10:21:30 scherm| [00:00:05] groet: Waar wás je nou, Ricardo2?! 3 dagen! (vriend 71)
+10:21:30 scherm| [00:00:06] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+10:21:30 scherm| [00:00:07] BLE: telefoon verbonden
+10:21:30 scherm| [00:00:07] BLE: code goed, verbonden met de app
+10:21:30 scherm| [00:00:08] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:00:09] groep/worker ingesteld (Ricardo2)
+10:21:30 scherm| [00:00:09] GPS-hulp gegeven: tijd ok, plek ok (51.9959, 4.7772)
+10:21:30 scherm| [00:00:09] tegel 1733_95: 876 wegvakken
+10:21:30 scherm| [00:00:09] wifi ingesteld: Sultra
+10:21:30 scherm| [00:00:10] route gestopt
+10:21:30 scherm| [00:00:11] groep/worker ingesteld (Ricardo2)
+10:21:30 scherm| [00:00:16] GPS: fix kwijt (0 sat)
+10:21:30 scherm| [00:00:44] flitsers van de app: 18
+10:21:30 scherm| [00:01:00] status | klok 10:00 | gps TEL sat=0 zicht=0 nmea=725/0 | 0 km/u | tel data | heap 57224 | licht 255 | fps 33 teken 25.2ms stuur 19.6ms
+10:21:30 scherm| [00:01:06] weer: 1.4 graden, code 3, regen over -1 min (buienradar)
+10:21:30 scherm| [00:01:08] update: dit is de nieuwste (v90)
+10:21:30 scherm| [00:01:19] geluid: hing vast, losgemaakt
+10:21:30 scherm| [00:02:00] status | klok 10:01 | gps TEL sat=0 zicht=0 nmea=1446/0 | 0 km/u | tel data | heap 59700 | licht 255 | fps 38 teken 21.8ms stuur 15.6ms
+10:21:30 scherm| [00:02:02] BLE: telefoon weg
+10:21:30 scherm| [00:02:05] GPS: fix kwijt (0 sat)
+10:21:30 scherm| [00:02:08] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:03:00] status | klok 10:02 | gps zoekt sat=0 zicht=0 nmea=2166/0 | 0 km/u | tel nee | heap 62000 | licht 255 | fps 28 teken 31.0ms stuur 18.3ms
+10:21:30 scherm| [00:04:00] status | klok 10:03 | gps zoekt sat=0 zicht=0 nmea=2886/0 | 0 km/u | tel nee | heap 62000 | licht 255 | fps 35 teken 24.1ms stuur 18.4ms
+10:21:30 scherm| [00:04:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:05:00] status | klok 10:04 | gps zoekt sat=0 zicht=0 nmea=3607/0 | 0 km/u | tel nee | heap 62000 | licht 255 | fps 35 teken 23.5ms stuur 18.4ms
+10:21:30 scherm| [00:06:00] status | klok 10:05 | gps zoekt sat=0 zicht=0 nmea=4327/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 23.5ms stuur 18.3ms
+10:21:30 scherm| [00:06:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:07:00] status | klok 10:06 | gps zoekt sat=0 zicht=0 nmea=5047/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 24.0ms stuur 18.4ms
+10:21:30 scherm| [00:08:00] status | klok 10:07 | gps zoekt sat=0 zicht=0 nmea=5767/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 23.6ms stuur 18.4ms
+10:21:30 scherm| [00:08:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:09:00] status | klok 10:08 | gps zoekt sat=0 zicht=0 nmea=6488/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 33 teken 25.6ms stuur 18.3ms
+10:21:30 scherm| [00:10:00] status | klok 10:09 | gps zoekt sat=0 zicht=0 nmea=7208/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 24.0ms stuur 18.4ms
+10:21:30 scherm| [00:10:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:11:00] status | klok 10:10 | gps zoekt sat=0 zicht=0 nmea=7928/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 34 teken 24.3ms stuur 18.3ms
+10:21:30 scherm| [00:11:59] geluid: hing vast, losgemaakt
+10:21:30 scherm| [00:12:00] status | klok 10:11 | gps zoekt sat=0 zicht=0 nmea=8648/0 | 0 km/u | tel nee | heap 57472 | licht 255 | fps 36 teken 22.8ms stuur 18.2ms
+10:21:30 scherm| [00:12:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:13:00] status | klok 10:12 | gps zoekt sat=0 zicht=0 nmea=9369/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 23.5ms stuur 18.3ms
+10:21:30 scherm| [00:14:00] status | klok 10:13 | gps zoekt sat=0 zicht=0 nmea=10089/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 23.6ms stuur 18.3ms
+10:21:30 scherm| [00:14:13] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:15:00] status | klok 10:14 | gps zoekt sat=0 zicht=0 nmea=10809/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 23.7ms stuur 18.3ms
+10:21:30 scherm| [00:15:46] sprint-show 16
+10:21:30 scherm| [00:16:00] status | klok 10:15 | gps zoekt sat=0 zicht=0 nmea=11529/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 23.9ms stuur 18.3ms
+10:21:30 scherm| [00:16:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:17:00] status | klok 10:16 | gps zoekt sat=0 zicht=0 nmea=12250/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 23.6ms stuur 18.3ms
+10:21:30 scherm| [00:18:00] status | klok 10:17 | gps zoekt sat=0 zicht=0 nmea=12970/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 23.6ms stuur 18.3ms
+10:21:30 scherm| [00:18:15] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:19:00] status | klok 10:18 | gps zoekt sat=0 zicht=0 nmea=13690/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 36 teken 22.7ms stuur 18.3ms
+10:21:30 scherm| [00:20:00] status | klok 10:19 | gps zoekt sat=0 zicht=0 nmea=14410/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 36 teken 23.2ms stuur 18.3ms
+10:21:30 scherm| [00:20:15] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:21:30 scherm| [00:21:00] status | klok 10:20 | gps zoekt sat=0 zicht=0 nmea=15131/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 36 teken 23.2ms stuur 18.3ms
+10:21:30 scherm| [00:21:14] geluid: hing vast, losgemaakt
+10:21:30 scherm| [00:21:57] BLE: telefoon verbonden
+10:21:30 scherm| [00:21:58] BLE: code goed, verbonden met de app
+10:21:30 scherm| [00:21:59] GPS-hulp gegeven: tijd ok, plek ok (51.9959, 4.7771)
+10:21:30 scherm| [00:21:59] groep/worker ingesteld (Ricardo2)
+10:21:30 scherm| [00:21:59] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+10:21:30 scherm| [00:22:00] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
+10:21:30 scherm| [00:22:00] status | klok 10:21 | gps TEL sat=0 zicht=0 nmea=15855/0 | 0 km/u | tel data | heap 56108 | licht 255 | fps 29 teken 28.0ms stuur 22.1ms
+10:21:30 scherm| [00:22:00] wifi ingesteld: Sultra
+10:21:30 scherm| [00:22:01] route gestopt
+--- v153 · Linux; Android 10; K ---
+10:21:38 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=alert
+10:21:49 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=bored
+10:21:53 scherm: kon niet versturen: UPD
+10:21:54 scherm geluid: ok/30/103
+10:21:59 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=content
+10:22:05 ev excited: Ja? Ik ben er!
+10:22:05 geklopt (2×)
+10:22:09 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=bored
+10:22:20 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=focused
+10:22:30 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=bored
+10:22:41 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=content
+10:22:49 scherm geluid: ok/30/105
+10:22:50 flitsers via /flitsers: 19/19
+10:22:51 ANWB verkeer geladen: 33 meldingen in de buurt (van 59)
+10:22:51 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=bored
+10:23:01 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=bored
+10:23:10 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+10:23:12 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=sad
+10:23:17 osm laad via Worker (bewaard): 3 stuks
+10:23:17 laadpaal: niet gevonden in de buurt
+10:23:22 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=bored
+10:23:32 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=bored
+10:23:35 Buddy-scherm verbonden
+10:23:35 scherm: meldingen aan
+10:23:35 scherm: code goed, verbonden
+10:23:38 scherm geluid: ok/30/1
+10:23:42 ev excited: Binnen!
+10:23:42 geklopt (2×)
+10:23:43 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=excited
+10:23:46 groep ververst: 6
+10:23:54 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=sleepy
+10:24:02 ev startled: Zet je me straks terug in de houder?
+10:24:04 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=sleepy
+10:24:10 ev content: Zo, mijn uitzicht is terug.
+10:24:15 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=sleepy
+10:24:25 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=blow
+10:24:27 ev clock: Het is 10:24.
+10:24:32 autostand aan
+10:24:36 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=yawn
+10:24:47 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=sleepy
+10:24:50 flitsers via /flitsers: 19/19
+10:24:51 matrix geladen: 335 snelheid, 304 kruis/pijl (21 min oud)
+10:24:52 ANWB verkeer geladen: 33 meldingen in de buurt (van 60)
+10:24:54 route zonder pontjes lukt niet, toch mét
+10:24:54 route: 55.5 km, 67 stappen
+10:24:54 nav zegt: Route naar Vimmerik. 56 kilometer, ongeveer 60 minuten.
+10:24:54 ev happy: Op naar Vimmerik!
+10:24:54 nav zegt: Linksaf naar Bergvlietlaan.
+10:24:54 ev alert: Linksaf naar Bergvlietlaan!
+10:24:55 route naar Buddy+: 793 punten
+10:24:57 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=yawn
+10:24:58 overpass overpass-api.de: te traag
+10:25:04 route: 55.5 km, 67 stappen (opnieuw berekend)
+10:25:04 nav zegt: Route opnieuw berekend.
+10:25:05 overpass overpass.private.coffee: te traag
+10:25:05 nav zegt: Linksaf naar Bergvlietlaan.
+10:25:05 ev alert: Linksaf naar Bergvlietlaan!
+10:25:07 route zonder pontjes lukt niet, toch mét
+10:25:07 route: 55.5 km, 67 stappen (opnieuw berekend)
+10:25:07 nav zegt: Route opnieuw berekend.
+10:25:07 route naar Buddy+: 793 punten
+10:25:07 nav zegt: Linksaf naar Bergvlietlaan.
+10:25:07 ev alert: Linksaf naar Bergvlietlaan!
+10:25:08 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=alert
+10:25:10 ev startled: Hé! Waar gaan we heen?
+10:25:12 route: 55.5 km, 67 stappen (opnieuw berekend)
+10:25:12 nav zegt: Route opnieuw berekend.
+10:25:12 overpass overpass.kumi.systems: te traag
+10:25:12 nav zegt: Linksaf naar Bergvlietlaan.
+10:25:12 ev alert: Linksaf naar Bergvlietlaan!
+10:25:15 ev content: Ah, weer lekker vast.
+10:25:16 laadpalen: 113 snelladers in de buurt
+10:25:17 route naar Buddy+: 793 punten
+10:25:19 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=sleeping
+10:25:30 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=19 stemming=sleeping
+--- v153 · Linux; Android 10; K ---
+10:27:37 scherm-aan-slot gekregen
+10:27:37 scherm-aan-slot gekregen
+--- v153 · Linux; Android 10; K ---
+10:27:51 start v153
+10:27:51 groep ververst: 6
+10:27:52 GPS automatisch aan
+10:27:52 scherm-aan-slot gekregen
+10:27:52 voelen: geleerde richting van vorige keer overgenomen
+10:27:53 limiet geschat uit je snelheid: 30
+10:27:53 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+10:27:53 flitsers via /flitsers: 17/17
+10:27:53 ANWB verkeer geladen: 33 meldingen in de buurt (van 61)
+10:27:53 bruggen geladen: 10
+10:27:53 NDW geladen: 344 meldingen in de buurt {"closure":219,"speed":43,"lane":80,"jam":2}
+10:27:53 matrix geladen: 335 snelheid, 304 kruis/pijl (24 min oud)
+10:27:53 weer: 2 graden, code 3, neerslag 0, wind 4
+10:27:53 buienradar: nu 0 mm/u, regen over -1 min
+10:27:54 route: 55.5 km, 67 stappen
+10:27:54 nav zegt: Route naar Vimmerik. 56 kilometer, ongeveer 60 minuten.
+10:27:54 ev happy: Op naar Vimmerik!
+10:27:54 nav zegt: Linksaf naar Bergvlietlaan.
+10:27:54 ev alert: Linksaf naar Bergvlietlaan!
+10:27:55 voelen: sensor-teken gewoon
+10:27:58 ev startled: Zet je me straks terug in de houder?
+10:28:01 v=0 nauwk=4m limiet=15 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=alert
+10:28:10 ev content: Zo, mijn uitzicht is terug.
+--- v154 · Linux; Android 10; K ---
+10:28:22 start v154
+10:28:22 groep ververst: 6
+10:28:23 GPS automatisch aan
+10:28:23 scherm-aan-slot gekregen
+10:28:23 limiet geschat uit je snelheid: 30
+10:28:23 flitsers via /flitsers: 17/17
+10:28:23 ANWB verkeer geladen: 33 meldingen in de buurt (van 61)
+10:28:23 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+10:28:23 bruggen geladen: 10
+10:28:23 NDW geladen: 344 meldingen in de buurt {"closure":219,"speed":43,"lane":80,"jam":2}
+10:28:23 matrix geladen: 335 snelheid, 304 kruis/pijl (24 min oud)
+10:28:23 bewegingssensor: granted
+10:28:23 weer: 2 graden, code 3, neerslag 0, wind 4
+10:28:23 buienradar: nu 0 mm/u, regen over -1 min
+10:28:23 voelen: sensor-teken gewoon
+10:28:25 route: 55.5 km, 67 stappen
+10:28:25 nav zegt: Route naar Vimmerik. 55 kilometer, ongeveer 60 minuten.
+10:28:25 ev happy: Op naar Vimmerik!
+10:28:25 nav zegt: Linksaf naar Bergvlietlaan.
+10:28:25 ev alert: Linksaf naar Bergvlietlaan!
+10:28:26 osm werk via Worker (bewaard): 400 stuks
+10:28:26 wegwerkzaamheden geladen: 398
+10:28:26 autostand aan
+10:28:28 voelen: geleerde richting van vorige keer overgenomen
+10:28:32 v=0 nauwk=4m limiet=15 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=love
+10:28:38 route: 55.5 km, 67 stappen
+10:28:38 nav zegt: Route naar Vimmerik. 56 kilometer, ongeveer 60 minuten.
+10:28:38 ev happy: Op naar Vimmerik!
+10:28:38 nav zegt: Linksaf naar Bergvlietlaan.
+10:28:38 ev alert: Linksaf naar Bergvlietlaan!
+--- v154 · Linux; Android 10; K ---
+10:28:43 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=neutral
+10:28:47 ev worried: Let op: een afsluiting op de A2 bij Culemborg (+18 min) op je gewone route. En nog 3 meldingen.
+10:28:47 vertrekcheck (rit): 4 meldingen op route
+10:28:49 overpass maps.mail.ru: http 504
+10:28:50 autostand uit
+10:28:52 autostand aan
+10:28:52 overpass overpass-api.de: te traag
+10:28:53 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=alert
+10:28:57 ev clock: Het is 10:28.
+10:28:58 route: 55.5 km, 67 stappen
+10:28:58 nav zegt: Route naar Vimmerik. 56 kilometer, ongeveer 60 minuten.
+10:28:58 ev happy: Op naar Vimmerik!
+10:28:58 nav zegt: Linksaf naar Bergvlietlaan.
+10:28:58 ev alert: Linksaf naar Bergvlietlaan!
+10:28:59 overpass overpass.private.coffee: te traag
+10:29:04 voelen: telefoon gedraaid (27°), richting meegedraaid
+10:29:04 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=neutral
+10:29:06 overpass overpass.kumi.systems: te traag
+10:29:06 laadpalen niet gelukt: overpass.kumi.systems: te traag
+10:29:14 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=excited
+10:29:24 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=neutral
+10:29:35 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=anticipate
+10:29:45 v=0 nauwk=9m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=neutral
+10:29:55 v=0 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=content
+10:30:05 v=2 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=17 stemming=excited
+10:30:12 ev startled: Hé! Waar gaan we heen?
+10:30:13 rit vanzelf afgesloten (app dicht)
+--- v155 · Linux; Android 10; K ---
+10:55:32 start v155
+10:55:32 groep ververst: 6
+10:55:33 GPS automatisch aan
+10:55:33 scherm-aan-slot gekregen
+10:55:33 voelen: geleerde richting van vorige keer meegedraaid
+10:55:35 bewegingssensor: granted
+10:55:42 terug na 10 s zonder GPS
+10:55:42 limiet geschat uit je snelheid: 30
+10:55:42 v=0 nauwk=61m limiet=30~ wegen=0 draai=0 vaste=117/12 gemeld=17 stemming=love
+10:55:42 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+10:55:43 ANWB verkeer geladen: 34 meldingen in de buurt (van 61)
+10:55:43 bruggen geladen: 11
+10:55:43 weer: 2.7 graden, code 2, neerslag 0, wind 5
+10:55:43 NDW geladen: 342 meldingen in de buurt {"closure":219,"speed":42,"lane":79,"accident":1,"jam":1}
+10:55:43 flitsers via /flitsers: 16/16
+10:55:43 matrix geladen: 352 snelheid, 230 kruis/pijl (11 min oud)
+10:55:43 buienradar: nu 0 mm/u, regen over -1 min
+10:55:44 Buddy-scherm verbonden
+10:55:44 scherm: meldingen aan
+10:55:45 scherm: code goed, verbonden
+10:55:47 scherm geluid: ok/30/162
+--- v155 · Linux; Android 10; K ---
+10:55:52 terug na 9 s zonder GPS
+10:55:57 ev worried: Let op: een afsluiting op de A2 bij Beesd (+18 min) op je gewone route. En nog 3 meldingen.
+10:55:57 vertrekcheck (rit): 4 meldingen op route
+10:55:58 terug na 7 s zonder GPS
+10:55:58 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=worried
+10:56:04 ev clock: Het is 10:56.
+10:56:09 v=0 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:56:19 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:56:25 Buddy-scherm verbonden
+10:56:25 scherm: meldingen aan
+10:56:25 scherm: code goed, verbonden
+10:56:29 autostand aan
+10:56:30 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+10:56:35 route: 81.1 km, 53 stappen
+10:56:35 nav zegt: Route naar Vimmerik. 81 kilometer, ongeveer 79 minuten.
+10:56:35 ev happy: Op naar Vimmerik!
+10:56:35 nav zegt: Linksaf naar Bergvlietlaan.
+10:56:35 ev alert: Linksaf naar Bergvlietlaan!
+10:56:38 route naar Buddy+: 969 punten
+10:56:39 scherm|  internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:11:00] status | klok 10:10 | gps zoekt sat=0 zicht=0 nmea=7928/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 34 teken 24.3ms stuur 18.3ms
+10:56:39 scherm| [00:11:59] geluid: hing vast, losgemaakt
+10:56:39 scherm| [00:12:00] status | klok 10:11 | gps zoekt sat=0 zicht=0 nmea=8648/0 | 0 km/u | tel nee | heap 57472 | licht 255 | fps 36 teken 22.8ms stuur 18.2ms
+10:56:39 scherm| [00:12:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:13:00] status | klok 10:12 | gps zoekt sat=0 zicht=0 nmea=9369/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 23.5ms stuur 18.3ms
+10:56:39 scherm| [00:14:00] status | klok 10:13 | gps zoekt sat=0 zicht=0 nmea=10089/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 23.6ms stuur 18.3ms
+10:56:39 scherm| [00:14:13] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:15:00] status | klok 10:14 | gps zoekt sat=0 zicht=0 nmea=10809/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 23.7ms stuur 18.3ms
+10:56:39 scherm| [00:15:46] sprint-show 16
+10:56:39 scherm| [00:16:00] status | klok 10:15 | gps zoekt sat=0 zicht=0 nmea=11529/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 23.9ms stuur 18.3ms
+10:56:39 scherm| [00:16:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:17:00] status | klok 10:16 | gps zoekt sat=0 zicht=0 nmea=12250/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 23.6ms stuur 18.3ms
+10:56:39 scherm| [00:18:00] status | klok 10:17 | gps zoekt sat=0 zicht=0 nmea=12970/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 35 teken 23.6ms stuur 18.3ms
+10:56:39 scherm| [00:18:15] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:19:00] status | klok 10:18 | gps zoekt sat=0 zicht=0 nmea=13690/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 36 teken 22.7ms stuur 18.3ms
+10:56:39 scherm| [00:20:00] status | klok 10:19 | gps zoekt sat=0 zicht=0 nmea=14410/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 36 teken 23.2ms stuur 18.3ms
+10:56:39 scherm| [00:20:15] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:21:00] status | klok 10:20 | gps zoekt sat=0 zicht=0 nmea=15131/0 | 0 km/u | tel nee | heap 61952 | licht 255 | fps 36 teken 23.2ms stuur 18.3ms
+10:56:39 scherm| [00:21:14] geluid: hing vast, losgemaakt
+10:56:39 scherm| [00:21:57] BLE: telefoon verbonden
+10:56:39 scherm| [00:21:58] BLE: code goed, verbonden met de app
+10:56:39 scherm| [00:21:59] GPS-hulp gegeven: tijd ok, plek ok (51.9959, 4.7771)
+10:56:39 scherm| [00:21:59] groep/worker ingesteld (Ricardo2)
+10:56:39 scherm| [00:21:59] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+10:56:39 scherm| [00:22:00] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
+10:56:39 scherm| [00:22:00] status | klok 10:21 | gps TEL sat=0 zicht=0 nmea=15855/0 | 0 km/u | tel data | heap 56108 | licht 255 | fps 29 teken 28.0ms stuur 22.1ms
+10:56:39 scherm| [00:22:00] wifi ingesteld: Sultra
+10:56:39 scherm| [00:22:01] route gestopt
+10:56:39 scherm| [00:22:03] wifi ingesteld: Sultra
+10:56:39 scherm| [00:22:08] flitsers van de app: 18
+10:56:39 scherm| [00:22:15] GPS: fix kwijt (0 sat)
+10:56:39 scherm| [00:23:00] status | klok 10:22 | gps TEL sat=0 zicht=0 nmea=16575/0 | 0 km/u | tel data | heap 56572 | licht 255 | fps 31 teken 27.8ms stuur 19.8ms
+10:56:39 scherm| [00:23:16] weer: 2.0 graden, code 3, regen over -1 min (buienradar)
+10:56:39 scherm| [00:23:18] update gevraagd vanuit de app
+10:56:39 scherm| [00:23:19] update: v90 -> v91 wordt op de achtergrond binnengehaald
+10:56:39 scherm| [00:24:00] status | klok 10:23 | gps TEL sat=0 zicht=1 nmea=17299/0 | 0 km/u | tel data | heap 51980 | licht 255 | fps 32 teken 26.1ms stuur 19.5ms
+10:56:39 scherm| [00:24:02] update: v91 staat klaar. Installeren via het info-venster of de app
+10:56:39 scherm| [00:24:02] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:24:07] update: v91 wordt geinstalleerd, herstarten...
+10:56:39 scherm| [00:00:01] geluid: start, vrij DMA 247424 (grootste blok 188404)
+10:56:39 scherm| [00:00:01] geluid: PSRAM tijdelijk bezet (3 blokken, 0 vrij over)
+10:56:39 scherm| [00:00:01] geluid: ES8311 klaar, volume 30
+10:56:39 scherm| [00:00:02] ===== OPSTART v91 | reden: herstart door software | heap 106620 =====
+10:56:39 scherm| [00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+10:56:39 scherm| [00:00:02] borden geleerd van de telefoon: 147 punten
+10:56:39 scherm| [00:00:03] wifi verbonden (Sultra), IP 10.96.117.32
+10:56:39 scherm| [00:00:05] groet: Waar wás je nou, Ricardo2?! 3 dagen! (vriend 63)
+10:56:39 scherm| [00:00:06] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+10:56:39 scherm| [00:00:07] BLE: telefoon verbonden
+10:56:39 scherm| [00:00:08] BLE: code goed, verbonden met de app
+10:56:39 scherm| [00:00:09] GPS-hulp gegeven: tijd ok, plek ok (51.9959, 4.7771)
+10:56:39 scherm| [00:00:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:00:09] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+10:56:39 scherm| [00:00:09] groep/worker ingesteld (Ricardo2)
+10:56:39 scherm| [00:00:10] tegel 1733_95: 876 wegvakken
+10:56:39 scherm| [00:00:10] route gestopt
+10:56:39 scherm| [00:00:11] groep/worker ingesteld (Ricardo2)
+10:56:39 scherm| [00:00:21] flitsers van de app: 18
+10:56:39 scherm| [00:00:22] GPS: fix kwijt (0 sat)
+10:56:39 scherm| [00:00:36] GPS: fix kwijt (0 sat)
+10:56:39 scherm| [00:01:00] status | klok 10:24 | gps TEL sat=0 zicht=1 nmea=740/0 | 0 km/u | tel data | heap 57704 | licht 255 | fps 34 teken 25.2ms stuur 20.8ms
+10:56:39 scherm| [00:01:06] weer: 2.0 graden, code 3, regen over -1 min (buienradar)
+10:56:39 scherm| [00:01:09] update: dit is de nieuwste (v91)
+10:56:39 scherm| [00:01:30] GPS: fix kwijt (0 sat)
+10:56:39 scherm| [00:01:36] route ontvangen: 793 punten
+10:56:39 scherm| [00:01:42] GPS: fix kwijt (0 sat)
+10:56:39 scherm| [00:01:48] route ontvangen: 793 punten
+10:56:39 scherm| [00:01:56] route ontvangen: 793 punten
+10:56:39 scherm| [00:02:00] status | klok 10:25 | gps TEL sat=0 zicht=0 nmea=1464/0 | 0 km/u | tel data | heap 60192 | licht 255 | fps 27 teken 32.5ms stuur 20.1ms
+10:56:39 scherm| [00:02:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:02:11] GPS: fix kwijt (0 sat)
+10:56:39 scherm| [00:02:19] flitsers van de app: 18
+10:56:39 scherm| [00:03:00] status | klok 10:26 | gps zoekt sat=0 zicht=0 nmea=2188/0 | 0 km/u | tel data | heap 60192 | licht 255 | fps 38 teken 21.6ms stuur 18.4ms
+10:56:39 scherm| [00:03:14] geluid: hing vast, losgemaakt
+10:56:39 scherm| [00:04:00] status | klok 10:27 | gps zoekt sat=0 zicht=0 nmea=2913/0 | 0 km/u | tel stil | heap 60192 | licht 255 | fps 35 teken 24.2ms stuur 18.1ms
+10:56:39 scherm| [00:04:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:04:15] BLE: telefoon weg
+10:56:39 scherm| [00:05:00] status | klok 10:28 | gps zoekt sat=0 zicht=0 nmea=3637/0 | 0 km/u | tel nee | heap 62652 | licht 255 | fps 35 teken 24.0ms stuur 18.1ms
+10:56:39 scherm| [00:06:00] status | klok 10:29 | gps zoekt sat=0 zicht=0 nmea=4361/0 | 0 km/u | tel nee | heap 62652 | licht 255 | fps 35 teken 23.6ms stuur 18.3ms
+10:56:39 scherm| [00:06:11] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:06:32] sprint-show 16
+10:56:39 scherm| [00:07:00] status | klok 10:30 | gps zoekt sat=0 zicht=0 nmea=5087/0 | 0 km/u | tel nee | heap 62652 | licht 255 | fps 35 teken 23.7ms stuur 18.2ms
+10:56:39 scherm| [00:07:47] geluid: hing vast, losgemaakt
+10:56:39 scherm| [00:08:00] status | klok 10:31 | gps zoekt sat=0 zicht=0 nmea=5811/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 36 teken 23.3ms stuur 18.2ms
+10:56:39 scherm| [00:08:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:09:00] status | klok 10:32 | gps zoekt sat=0 zicht=2 nmea=6535/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 35 teken 23.6ms stuur 18.1ms
+10:56:39 scherm| [00:09:24] geluid: hing vast, losgemaakt
+10:56:39 scherm| [00:10:00] status | klok 10:33 | gps zoekt sat=0 zicht=4 nmea=7259/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 35 teken 23.6ms stuur 18.1ms
+10:56:39 scherm| [00:10:12] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:11:00] status | klok 10:34 | gps zoekt sat=0 zicht=0 nmea=7983/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 34 teken 24.3ms stuur 18.3ms
+10:56:39 scherm| [00:12:00] status | klok 10:35 | gps zoekt sat=0 zicht=0 nmea=8696/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 34 teken 24.4ms stuur 18.2ms
+10:56:39 scherm| [00:12:14] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:13:00] status | klok 10:36 | gps zoekt sat=0 zicht=0 nmea=9431/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 34 teken 24.9ms stuur 18.2ms
+10:56:39 scherm| [00:14:00] status | klok 10:37 | gps zoekt sat=0 zicht=0 nmea=10155/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 35 teken 24.0ms stuur 18.2ms
+10:56:39 scherm| [00:14:16] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:15:00] status | klok 10:38 | gps zoekt sat=0 zicht=1 nmea=10879/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 34 teken 24.6ms stuur 18.1ms
+10:56:39 scherm| [00:16:00] status | klok 10:39 | gps zoekt sat=0 zicht=1 nmea=11603/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 34 teken 24.5ms stuur 18.3ms
+10:56:39 scherm| [00:16:16] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:17:00] status | klok 10:40 | gps zoekt sat=0 zicht=4 nmea=12327/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 35 teken 24.3ms stuur 18.2ms
+10:56:39 scherm| [00:18:00] status | klok 10:41 | gps zoekt sat=0 zicht=0 nmea=13051/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 35 teken 24.2ms stuur 18.1ms
+10:56:39 scherm| [00:18:17] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:19:00] status | klok 10:42 | gps zoekt sat=0 zicht=0 nmea=13775/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 35 teken 24.1ms stuur 18.1ms
+10:56:39 scherm| [00:20:00] status | klok 10:43 | gps zoekt sat=0 zicht=0 nmea=14499/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 35 teken 24.0ms stuur 18.2ms
+10:56:39 scherm| [00:20:18] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:21:00] status | klok 10:44 | gps zoekt sat=0 zicht=0 nmea=15223/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 35 teken 24.0ms stuur 18.3ms
+10:56:39 scherm| [00:21:38] sprint-show 16
+10:56:39 scherm| [00:22:00] status | klok 10:45 | gps zoekt sat=0 zicht=0 nmea=15947/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 34 teken 24.4ms stuur 18.4ms
+10:56:39 scherm| [00:22:18] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:23:00] status | klok 10:46 | gps zoekt sat=0 zicht=1 nmea=16671/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 35 teken 24.3ms stuur 18.4ms
+10:56:39 scherm| [00:24:00] status | klok 10:47 | gps zoekt sat=0 zicht=1 nmea=17396/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 34 teken 24.3ms stuur 18.3ms
+10:56:39 scherm| [00:24:19] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:24:55] geluid: hing vast, losgemaakt
+10:56:39 scherm| [00:25:00] status | klok 10:48 | gps zoekt sat=0 zicht=0 nmea=18120/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 35 teken 24.2ms stuur 18.1ms
+10:56:39 scherm| [00:26:00] status | klok 10:49 | gps zoekt sat=0 zicht=0 nmea=18844/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 34 teken 24.3ms stuur 18.2ms
+10:56:39 scherm| [00:26:19] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:27:00] status | klok 10:50 | gps zoekt sat=0 zicht=0 nmea=19568/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 34 teken 24.7ms stuur 18.2ms
+10:56:39 scherm| [00:28:00] status | klok 10:51 | gps zoekt sat=0 zicht=0 nmea=20294/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 34 teken 24.6ms stuur 18.2ms
+10:56:39 scherm| [00:28:19] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:29:00] status | klok 10:52 | gps zoekt sat=0 zicht=0 nmea=21018/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 34 teken 24.6ms stuur 18.2ms
+10:56:39 scherm| [00:30:00] status | klok 10:53 | gps zoekt sat=0 zicht=0 nmea=21742/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 34 teken 24.4ms stuur 18.3ms
+10:56:39 scherm| [00:30:20] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:31:00] status | klok 10:54 | gps zoekt sat=0 zicht=0 nmea=22466/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 34 teken 24.3ms stuur 18.3ms
+10:56:39 scherm| [00:32:00] status | klok 10:55 | gps zoekt sat=0 zicht=0 nmea=23190/0 | 0 km/u | tel nee | heap 62604 | licht 255 | fps 34 teken 24.5ms stuur 18.1ms
+10:56:39 scherm| [00:32:16] BLE: telefoon verbonden
+10:56:39 scherm| [00:32:17] BLE: code goed, verbonden met de app
+10:56:39 scherm| [00:32:18] groep/worker ingesteld (Ricardo2)
+10:56:39 scherm| [00:32:19] route gestopt
+10:56:39 scherm| [00:32:21] internet-check: dns ok, verbinding ok, laatste download gelukt
+10:56:39 scherm| [00:32:54] BLE: telefoon weg
+10:56:39 scherm| [00:32:57] BLE: telefoon verbonden
+10:56:39 scherm| [00:32:58] BLE: code goed, verbonden met de app
+10:56:39 scherm| [00:32:58] GPS-hulp gegeven: tijd ok, plek ok (51.9959, 4.7772)
+10:56:39 scherm| [00:32:58] route gestopt
+10:56:39 scherm| [00:32:58] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+10:56:39 scherm| [00:32:58] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
+10:56:39 scherm| [00:32:59] groep/worker ingesteld (Ricardo2)
+10:56:39 scherm| [00:33:00] status | klok 10:56 | gps TEL sat=0 zicht=0 nmea=23918/0 | 0 km/u | tel data | heap 56652 | licht 127 | fps 35 teken 23.7ms stuur 19.1ms
+10:56:39 scherm| [00:33:01] groep/worker ingesteld (Ricardo2)
+--- v155 · Linux; Android 10; K ---
+10:56:40 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:56:48 scherm geluid: ok/0/165
+10:56:51 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:56:55 overpass overpass-api.de: te traag
+10:57:01 v=0 nauwk=13m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:57:02 overpass overpass.private.coffee: te traag
+10:57:09 overpass overpass.kumi.systems: te traag
+10:57:11 v=0 nauwk=15m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:57:16 overpass maps.mail.ru: te traag
+10:57:16 laadpalen niet gelukt: maps.mail.ru: te traag
+10:57:22 v=2 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:57:32 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:57:43 v=2 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=alert
+10:57:44 ANWB verkeer geladen: 34 meldingen in de buurt (van 61)
+10:57:44 flitsers via /flitsers: 16/16
+10:57:46 scherm geluid: ok/0/167
+10:57:53 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:58:03 v=0 nauwk=12m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=content
+10:58:13 v=2 nauwk=13m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:58:16 scherm geluid: ok/0/168
+10:58:24 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:58:27 osm werk via Worker (bewaard): 400 stuks
+10:58:27 wegwerkzaamheden geladen: 398
+10:58:32 groep ververst: 6
+10:58:32 overpass overpass-api.de: http 502
+10:58:35 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:58:44 osm laad via Worker (bewaard): 3 stuks
+10:58:44 laadpaal: niet gevonden in de buurt
+10:58:45 v=0 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:58:46 scherm geluid: ok/0/170
+10:58:55 v=0 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:58:57 overpass overpass.private.coffee: te traag
+10:58:59 ev excited: Groen! Daar gaan we.
+10:58:59 retro meter: optrekken 0 -> 26
+10:59:04 ev startled: Oef, stevig remmen!
+10:59:04 overpass overpass.kumi.systems: te traag
+10:59:05 sprint-animatie: scheet
+10:59:06 v=0 nauwk=28m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=worried
+10:59:11 overpass maps.mail.ru: te traag
+10:59:11 laadpalen niet gelukt: maps.mail.ru: te traag
+10:59:16 scherm geluid: ok/0/175
+10:59:16 v=5 nauwk=24m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:59:27 v=5 nauwk=14m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:59:38 v=6 nauwk=17m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+10:59:44 matrix geladen: 352 snelheid, 230 kruis/pijl (15 min oud)
+10:59:44 flitsers via /flitsers: 16/16
+10:59:45 ANWB verkeer geladen: 34 meldingen in de buurt (van 61)
+10:59:48 v=6 nauwk=18m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:00:01 terug na 10 s zonder GPS
+11:00:01 v=2 nauwk=26m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:00:02 voelen: ik weet nu waar vooruit is (65%)
+11:00:11 v=0 nauwk=22m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:00:21 v=3 nauwk=16m limiet=30 wegen=1396 draai=5 vaste=117/12 gemeld=16 stemming=neutral
+11:00:32 overpass overpass-api.de: http 502
+11:00:32 v=3 nauwk=15m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:00:43 v=5 nauwk=14m limiet=15 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:00:44 NDW geladen: 341 meldingen in de buurt {"closure":218,"speed":42,"lane":79,"accident":1,"jam":1}
+11:00:54 v=4 nauwk=11m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:00:57 overpass overpass.private.coffee: te traag
+11:01:02 laadpalen: 113 snelladers in de buurt
+11:01:04 v=5 nauwk=11m limiet=15 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:01:15 v=6 nauwk=23m limiet=15 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:01:25 v=7 nauwk=24m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:01:32 groep ververst: 6
+11:01:36 v=8 nauwk=29m limiet=30 wegen=1396 draai=1 vaste=117/12 gemeld=16 stemming=neutral
+11:01:45 flitsers via /flitsers: 16/16
+11:01:45 ANWB verkeer geladen: 34 meldingen in de buurt (van 61)
+11:01:46 v=4 nauwk=20m limiet=15 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:01:52 nieuwe gemeente: Krimpenerwaard (1)
+11:01:56 v=3 nauwk=23m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=neutral
+11:02:07 v=5 nauwk=23m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=neutral
+11:02:17 v=4 nauwk=19m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=neutral
+11:02:27 v=6 nauwk=16m limiet=15 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=neutral
+11:02:37 v=8 nauwk=18m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=neutral
+11:02:48 v=6 nauwk=20m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:02:59 v=6 nauwk=22m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:03:09 v=8 nauwk=22m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:03:20 v=0 nauwk=23m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:03:31 v=2 nauwk=18m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:03:42 v=4 nauwk=17m limiet=15 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:03:45 matrix geladen: 352 snelheid, 230 kruis/pijl (19 min oud)
+11:03:46 flitsers via /flitsers: 16/16
+11:03:46 ANWB verkeer geladen: 34 meldingen in de buurt (van 61)
+11:03:52 v=2 nauwk=13m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:04:02 v=4 nauwk=14m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:04:12 v=5 nauwk=16m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:04:23 v=5 nauwk=16m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:04:32 groep ververst: 6
+11:04:33 v=7 nauwk=18m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+11:04:44 v=6 nauwk=20m limiet=15 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=neutral
+11:04:54 v=7 nauwk=18m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=neutral
+11:04:57 voelen: sensor-teken gewoon
+11:05:04 v=0 nauwk=12m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=neutral
+11:05:05 ev relaxed: Ah, even plat. Heerlijk.
+11:05:14 v=0 nauwk=9m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=happy
+11:05:24 v=0 nauwk=9m limiet=30 wegen=1396 draai=-0 vaste=117/12 gemeld=16 stemming=neutral
