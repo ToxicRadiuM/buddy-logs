@@ -1485,3 +1485,300 @@ ordt op hulp: $PAIR001,590,0 (0 = gelukt)
 [00:16:00] status | klok 14:15 | gps zoekt sat=0 zicht=0 nmea=11756/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.8ms stuur 18.2ms
 [00:16:39] internet-check: dns ok, verbinding ok, laatste download gelukt
 [00:17:00] status | klok 14:16 | gps zoekt sat=0 zicht=0 nmea=12480/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 22.0ms stuur 18.3ms
+--- Buddy+ v91 ---
+[00:18:00] status | klok 14:17 | gps zoekt sat=0 zicht=0 nmea=13204/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.7ms stuur 18.2ms
+[00:18:39] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:19:00] status | klok 14:18 | gps zoekt sat=0 zicht=0 nmea=13928/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 34 teken 24.5ms stuur 18.4ms
+[00:19:31] geluid: hing vast, losgemaakt
+[00:20:00] status | klok 14:19 | gps zoekt sat=0 zicht=1 nmea=14652/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.9ms stuur 18.4ms
+[00:20:40] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:21:00] status | klok 14:20 | gps zoekt sat=0 zicht=0 nmea=15376/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.5ms stuur 18.2ms
+[00:22:00] status | klok 14:21 | gps zoekt sat=0 zicht=1 nmea=16100/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 21.3ms stuur 18.2ms
+--- Buddy+ v91 ---
+[00:22:40] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:23:00] status | klok 14:22 | gps zoekt sat=0 zicht=0 nmea=16824/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 21.1ms stuur 18.3ms
+[00:24:00] status | klok 14:23 | gps zoekt sat=0 zicht=1 nmea=17548/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 37 teken 22.5ms stuur 18.2ms
+[00:24:40] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:25:00] status | klok 14:24 | gps zoekt sat=0 zicht=0 nmea=18272/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.4ms stuur 18.4ms
+[00:26:00] status | klok 14:25 | gps zoekt sat=0 zicht=0 nmea=18996/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 20.7ms stuur 18.3ms
+[00:26:41] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:27:00] status | klok 14:26 | gps zoekt sat=0 zicht=0 nmea=19720/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.6ms stuur 18.4ms
+--- Buddy+ v91 ---
+[00:28:00] status | klok 14:27 | gps zoekt sat=0 zicht=0 nmea=20444/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 22.0ms stuur 18.4ms
+[00:28:42] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:29:00] status | klok 14:28 | gps zoekt sat=0 zicht=0 nmea=21168/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 36 teken 23.3ms stuur 18.3ms
+[00:30:00] status | klok 14:29 | gps zoekt sat=0 zicht=0 nmea=21892/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 37 teken 22.1ms stuur 18.4ms
+[00:30:42] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:30:59] sprint-show 16
+[00:31:00] status | klok 14:30 | gps zoekt sat=0 zicht=0 nmea=22616/0 | 0 km/u | tel stil | heap 59404 | licht 255 | fps 33 teken 24.9ms stuur 18.2ms
+[00:32:00] status | klok 14:31 | gps zoekt sat=0 zicht=0 nmea=23340/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 37 teken 22.0ms stuur 18.3ms
+--- Buddy+ v91 ---
+00:22] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:00:45] flitsers van de app: 18
+[00:00:46] geluid: hing vast, losgemaakt
+[00:00:59] geluid: hing vast, losgemaakt
+[00:01:00] status | klok 14:00 | gps TEL sat=0 zicht=0 nmea=896/0 | 0 km/u | tel data | heap 52776 | licht 255 | fps 31 teken 25.7ms stuur 23.0ms
+[00:01:28] geluid: hing vast, losgemaakt
+[00:01:35] weer: 6.5 graden, code 3, regen over -1 min (buienradar)
+[00:01:35] update gevraagd vanuit de app
+[00:01:38] update: v91 -> v93 wordt op de achtergrond binnengehaald
+[00:01:42] wifi ingesteld: Sultra
+[00:02:00] status | klok 14:01 | gps TEL sat=0 zicht=0 nmea=1620/0 | 0 km/u | tel data | heap 52668 | licht 255 | fps 32 teken 26.3ms stuur 18.7ms
+[00:02:06] GPS: fix kwijt (0 sat)
+[00:02:14] geluid: hing vast, losgemaakt
+[00:02:19] update: v93 staat klaar. Installeren via het info-venster of de app
+[00:02:28] net: ers.dev/scherm?lat=51.99592&lon=4.77718&g=123456&van=bpwovzzuca0nf&sinds=1794056363740 -> -1 ERROR - Generic error (vrij 81776, blok 31732)
+[00:02:28] update gevraagd vanuit de app
+[00:02:36] net: ToxicRadiuM/GeenIdee/firmware/versie.txt -> -1 ERROR - Generic error (vrij 81836, blok 31732)
+[00:02:43] internet-check: dns MISLUKT, verbinding -, laatste download mislukt
+[00:03:00] status | klok 14:02 | gps zoekt sat=0 zicht=0 nmea=2344/0 | 0 km/u | tel data | heap 59600 | licht 255 | fps 38 teken 21.7ms stuur 18.4ms
+[00:04:00] status | klok 14:03 | gps zoekt sat=0 zicht=0 nmea=3068/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.7ms stuur 18.3ms
+[00:04:37] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:05:00] status | klok 14:04 | gps zoekt sat=0 zicht=0 nmea=3792/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 37 teken 22.1ms stuur 18.4ms
+[00:06:00] status | klok 14:05 | gps zoekt sat=0 zicht=0 nmea=4516/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.8ms stuur 18.2ms
+[00:06:37] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:07:00] status | klok 14:06 | gps zoekt sat=0 zicht=0 nmea=5240/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.5ms stuur 18.3ms
+[00:08:00] status | klok 14:07 | gps zoekt sat=0 zicht=1 nmea=5964/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 35 teken 23.8ms stuur 18.2ms
+[00:08:14] geluid: hing vast, losgemaakt
+[00:08:37] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:09:00] status | klok 14:08 | gps zoekt sat=0 zicht=1 nmea=6688/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 21.2ms stuur 18.2ms
+[00:10:00] status | klok 14:09 | gps zoekt sat=0 zicht=0 nmea=7412/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.7ms stuur 18.2ms
+[00:10:38] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:11:00] status | klok 14:10 | gps zoekt sat=0 zicht=0 nmea=8136/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 37 teken 22.1ms stuur 18.2ms
+[00:12:00] status | klok 14:11 | gps zoekt sat=0 zicht=1 nmea=8860/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 20.9ms stuur 18.3ms
+[00:12:39] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:13:00] status | klok 14:12 | gps zoekt sat=0 zicht=0 nmea=9584/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 21.0ms stuur 18.2ms
+[00:14:00] status | klok 14:13 | gps zoekt sat=0 zicht=0 nmea=10308/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.4ms stuur 18.3ms
+[00:14:39] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:15:00] status | klok 14:14 | gps zoekt sat=0 zicht=0 nmea=11032/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.4ms stuur 18.2ms
+[00:15:58] sprint-show 16
+[00:16:00] status | klok 14:15 | gps zoekt sat=0 zicht=0 nmea=11756/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.8ms stuur 18.2ms
+[00:16:39] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:17:00] status | klok 14:16 | gps zoekt sat=0 zicht=0 nmea=12480/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 22.0ms stuur 18.3ms
+[00:18:00] status | klok 14:17 | gps zoekt sat=0 zicht=0 nmea=13204/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.7ms stuur 18.2ms
+[00:18:39] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:19:00] status | klok 14:18 | gps zoekt sat=0 zicht=0 nmea=13928/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 34 teken 24.5ms stuur 18.4ms
+[00:19:31] geluid: hing vast, losgemaakt
+[00:20:00] status | klok 14:19 | gps zoekt sat=0 zicht=1 nmea=14652/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.9ms stuur 18.4ms
+[00:20:40] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:21:00] status | klok 14:20 | gps zoekt sat=0 zicht=0 nmea=15376/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.5ms stuur 18.2ms
+[00:22:00] status | klok 14:21 | gps zoekt sat=0 zicht=1 nmea=16100/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 21.3ms stuur 18.2ms
+[00:22:40] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:23:00] status | klok 14:22 | gps zoekt sat=0 zicht=0 nmea=16824/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 21.1ms stuur 18.3ms
+[00:24:00] status | klok 14:23 | gps zoekt sat=0 zicht=1 nmea=17548/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 37 teken 22.5ms stuur 18.2ms
+[00:24:40] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:25:00] status | klok 14:24 | gps zoekt sat=0 zicht=0 nmea=18272/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.4ms stuur 18.4ms
+[00:26:00] status | klok 14:25 | gps zoekt sat=0 zicht=0 nmea=18996/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 20.7ms stuur 18.3ms
+[00:26:41] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:27:00] status | klok 14:26 | gps zoekt sat=0 zicht=0 nmea=19720/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.6ms stuur 18.4ms
+[00:28:00] status | klok 14:27 | gps zoekt sat=0 zicht=0 nmea=20444/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 22.0ms stuur 18.4ms
+[00:28:42] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:29:00] status | klok 14:28 | gps zoekt sat=0 zicht=0 nmea=21168/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 36 teken 23.3ms stuur 18.3ms
+[00:30:00] status | klok 14:29 | gps zoekt sat=0 zicht=0 nmea=21892/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 37 teken 22.1ms stuur 18.4ms
+[00:30:42] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:30:59] sprint-show 16
+[00:31:00] status | klok 14:30 | gps zoekt sat=0 zicht=0 nmea=22616/0 | 0 km/u | tel stil | heap 59404 | licht 255 | fps 33 teken 24.9ms stuur 18.2ms
+[00:32:00] status | klok 14:31 | gps zoekt sat=0 zicht=0 nmea=23340/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 37 teken 22.0ms stuur 18.3ms
+[00:32:43] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:33:00] status | klok 14:32 | gps zoekt sat=0 zicht=0 nmea=24064/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.7ms stuur 18.2ms
+[00:00:01] geluid: start, vrij DMA 247424 (grootste blok 188404)
+[00:00:01] geluid: PSRAM tijdelijk bezet (3 blokken, 0 vrij over)
+[00:00:01] geluid: ES8311 klaar, volume 20
+[00:00:02] ===== OPSTART v91 | reden: CRASH (panic) | heap 106592 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:02] borden geleerd van de telefoon: 166 punten
+[00:00:04] wifi verbonden (Sultra), IP 10.96.117.32
+[00:00:05] groet: Vroeg vandaag, Ricardo2! (vriend 68)
+[00:00:07] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:08] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:01:00] status | klok 14:33 | gps zoekt sat=0 zicht=0 nmea=724/0 | 0 km/u | tel nee | heap 64612 | licht 255 | fps 38 teken 22.0ms stuur 18.2ms
+--- Buddy+ v93 ---
+uur 18.2ms
+[00:06:37] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:07:00] status | klok 14:06 | gps zoekt sat=0 zicht=0 nmea=5240/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.5ms stuur 18.3ms
+[00:08:00] status | klok 14:07 | gps zoekt sat=0 zicht=1 nmea=5964/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 35 teken 23.8ms stuur 18.2ms
+[00:08:14] geluid: hing vast, losgemaakt
+[00:08:37] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:09:00] status | klok 14:08 | gps zoekt sat=0 zicht=1 nmea=6688/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 21.2ms stuur 18.2ms
+[00:10:00] status | klok 14:09 | gps zoekt sat=0 zicht=0 nmea=7412/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.7ms stuur 18.2ms
+[00:10:38] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:11:00] status | klok 14:10 | gps zoekt sat=0 zicht=0 nmea=8136/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 37 teken 22.1ms stuur 18.2ms
+[00:12:00] status | klok 14:11 | gps zoekt sat=0 zicht=1 nmea=8860/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 20.9ms stuur 18.3ms
+[00:12:39] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:13:00] status | klok 14:12 | gps zoekt sat=0 zicht=0 nmea=9584/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 21.0ms stuur 18.2ms
+[00:14:00] status | klok 14:13 | gps zoekt sat=0 zicht=0 nmea=10308/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.4ms stuur 18.3ms
+[00:14:39] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:15:00] status | klok 14:14 | gps zoekt sat=0 zicht=0 nmea=11032/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.4ms stuur 18.2ms
+[00:15:58] sprint-show 16
+[00:16:00] status | klok 14:15 | gps zoekt sat=0 zicht=0 nmea=11756/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.8ms stuur 18.2ms
+[00:16:39] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:17:00] status | klok 14:16 | gps zoekt sat=0 zicht=0 nmea=12480/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 22.0ms stuur 18.3ms
+[00:18:00] status | klok 14:17 | gps zoekt sat=0 zicht=0 nmea=13204/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.7ms stuur 18.2ms
+[00:18:39] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:19:00] status | klok 14:18 | gps zoekt sat=0 zicht=0 nmea=13928/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 34 teken 24.5ms stuur 18.4ms
+[00:19:31] geluid: hing vast, losgemaakt
+[00:20:00] status | klok 14:19 | gps zoekt sat=0 zicht=1 nmea=14652/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.9ms stuur 18.4ms
+[00:20:40] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:21:00] status | klok 14:20 | gps zoekt sat=0 zicht=0 nmea=15376/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.5ms stuur 18.2ms
+[00:22:00] status | klok 14:21 | gps zoekt sat=0 zicht=1 nmea=16100/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 21.3ms stuur 18.2ms
+[00:22:40] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:23:00] status | klok 14:22 | gps zoekt sat=0 zicht=0 nmea=16824/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 21.1ms stuur 18.3ms
+[00:24:00] status | klok 14:23 | gps zoekt sat=0 zicht=1 nmea=17548/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 37 teken 22.5ms stuur 18.2ms
+[00:24:40] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:25:00] status | klok 14:24 | gps zoekt sat=0 zicht=0 nmea=18272/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.4ms stuur 18.4ms
+[00:26:00] status | klok 14:25 | gps zoekt sat=0 zicht=0 nmea=18996/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 39 teken 20.7ms stuur 18.3ms
+[00:26:41] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:27:00] status | klok 14:26 | gps zoekt sat=0 zicht=0 nmea=19720/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.6ms stuur 18.4ms
+[00:28:00] status | klok 14:27 | gps zoekt sat=0 zicht=0 nmea=20444/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 22.0ms stuur 18.4ms
+[00:28:42] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:29:00] status | klok 14:28 | gps zoekt sat=0 zicht=0 nmea=21168/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 36 teken 23.3ms stuur 18.3ms
+[00:30:00] status | klok 14:29 | gps zoekt sat=0 zicht=0 nmea=21892/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 37 teken 22.1ms stuur 18.4ms
+[00:30:42] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:30:59] sprint-show 16
+[00:31:00] status | klok 14:30 | gps zoekt sat=0 zicht=0 nmea=22616/0 | 0 km/u | tel stil | heap 59404 | licht 255 | fps 33 teken 24.9ms stuur 18.2ms
+[00:32:00] status | klok 14:31 | gps zoekt sat=0 zicht=0 nmea=23340/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 37 teken 22.0ms stuur 18.3ms
+[00:32:43] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:33:00] status | klok 14:32 | gps zoekt sat=0 zicht=0 nmea=24064/0 | 0 km/u | tel stil | heap 59600 | licht 255 | fps 38 teken 21.7ms stuur 18.2ms
+[00:00:01] geluid: start, vrij DMA 247424 (grootste blok 188404)
+[00:00:01] geluid: PSRAM tijdelijk bezet (3 blokken, 0 vrij over)
+[00:00:01] geluid: ES8311 klaar, volume 20
+[00:00:02] ===== OPSTART v91 | reden: CRASH (panic) | heap 106592 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:02] borden geleerd van de telefoon: 166 punten
+[00:00:04] wifi verbonden (Sultra), IP 10.96.117.32
+[00:00:05] groet: Vroeg vandaag, Ricardo2! (vriend 68)
+[00:00:07] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:08] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:01:00] status | klok 14:33 | gps zoekt sat=0 zicht=0 nmea=724/0 | 0 km/u | tel nee | heap 64612 | licht 255 | fps 38 teken 22.0ms stuur 18.2ms
+[00:01:02] update: v93 staat al klaar om te installeren
+[00:02:00] status | klok 14:34 | gps zoekt sat=0 zicht=0 nmea=1448/0 | 0 km/u | tel nee | heap 64612 | licht 255 | fps 40 teken 20.6ms stuur 18.3ms
+[00:02:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:02:56] BLE: telefoon verbonden
+[00:02:56] BLE: code goed, verbonden met de app
+[00:02:57] GPS-hulp gegeven: tijd ok, plek ok (51.9958, 4.7770)
+[00:02:57] tegel 1733_95: 876 wegvakken
+[00:02:57] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+[00:02:58] groep/worker ingesteld (Ricardo2)
+[00:02:58] route gestopt
+[00:02:59] groep/worker ingesteld (Ricardo2)
+[00:03:00] status | klok 14:35 | gps TEL sat=0 zicht=0 nmea=2188/0 | 0 km/u | tel data | heap 57780 | licht 255 | fps 36 teken 23.0ms stuur 20.2ms
+[00:03:04] GPS: fix kwijt (0 sat)
+[00:03:24] update: v93 wordt geinstalleerd, herstarten...
+[00:00:01] geluid: start, vrij DMA 247352 (grootste blok 188404)
+[00:00:01] geluid: PSRAM tijdelijk bezet (3 blokken, 0 vrij over)
+[00:00:01] geluid: ES8311 klaar, volume 20
+[00:00:02] ===== OPSTART v93 | reden: herstart door software | heap 106516 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:02] borden geleerd van de telefoon: 166 punten
+[00:00:03] wifi verbonden (Sultra), IP 10.96.117.32
+[00:00:05] groet: Vroeg vandaag, Ricardo2! (vriend 68)
+[00:00:06] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:07] BLE: telefoon verbonden
+[00:00:08] BLE: code goed, verbonden met de app
+[00:00:08] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:00:09] route gestopt
+[00:00:11] flitsers van de app: 21
+[00:00:51] geluid test (scherm): klaar=1 volume=44 status=ok
+[00:00:54] geluid test (scherm): klaar=1 volume=41 status=ok
+[00:01:00] status | klok 14:36 | gps zoekt sat=0 zicht=0 nmea=724/0 | 0 km/u | tel data | heap 60464 | licht 255 | fps 32 teken 25.5ms stuur 18.3ms
+--- Buddy+ v94 ---
+s | klok 14:34 | gps zoekt sat=0 zicht=0 nmea=1448/0 | 0 km/u | tel nee | heap 64612 | licht 255 | fps 40 teken 20.6ms stuur 18.3ms
+[00:02:09] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:02:56] BLE: telefoon verbonden
+[00:02:56] BLE: code goed, verbonden met de app
+[00:02:57] GPS-hulp gegeven: tijd ok, plek ok (51.9958, 4.7770)
+[00:02:57] tegel 1733_95: 876 wegvakken
+[00:02:57] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+[00:02:58] groep/worker ingesteld (Ricardo2)
+[00:02:58] route gestopt
+[00:02:59] groep/worker ingesteld (Ricardo2)
+[00:03:00] status | klok 14:35 | gps TEL sat=0 zicht=0 nmea=2188/0 | 0 km/u | tel data | heap 57780 | licht 255 | fps 36 teken 23.0ms stuur 20.2ms
+[00:03:04] GPS: fix kwijt (0 sat)
+[00:03:24] update: v93 wordt geinstalleerd, herstarten...
+[00:00:01] geluid: start, vrij DMA 247352 (grootste blok 188404)
+[00:00:01] geluid: PSRAM tijdelijk bezet (3 blokken, 0 vrij over)
+[00:00:01] geluid: ES8311 klaar, volume 20
+[00:00:02] ===== OPSTART v93 | reden: herstart door software | heap 106516 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:02] borden geleerd van de telefoon: 166 punten
+[00:00:03] wifi verbonden (Sultra), IP 10.96.117.32
+[00:00:05] groet: Vroeg vandaag, Ricardo2! (vriend 68)
+[00:00:06] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:07] BLE: telefoon verbonden
+[00:00:08] BLE: code goed, verbonden met de app
+[00:00:08] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:00:09] route gestopt
+[00:00:11] flitsers van de app: 21
+[00:00:51] geluid test (scherm): klaar=1 volume=44 status=ok
+[00:00:54] geluid test (scherm): klaar=1 volume=41 status=ok
+[00:01:00] status | klok 14:36 | gps zoekt sat=0 zicht=0 nmea=724/0 | 0 km/u | tel data | heap 60464 | licht 255 | fps 32 teken 25.5ms stuur 18.3ms
+[00:01:02] update: dit is de nieuwste (v93)
+[00:01:04] GPS-hulp gegeven: tijd ok, plek ok (51.9959, 4.7772)
+[00:01:04] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+[00:01:04] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
+[00:01:05] tegel 1733_95: 876 wegvakken
+[00:01:07] GPS: fix kwijt (0 sat)
+[00:01:08] net: ers.dev/regen?lat=52.00&lon=4.78 -> -1 ERROR - Generic error (vrij 57040, blok 31732)
+[00:01:08] weer: 6.8 graden, code 3, regen over -1 min
+[00:02:00] status | klok 14:37 | gps zoekt sat=0 zicht=0 nmea=1452/0 | 0 km/u | tel nee | heap 62140 | licht 255 | fps 40 teken 20.3ms stuur 18.1ms
+[00:03:00] status | klok 14:38 | gps zoekt sat=0 zicht=0 nmea=2176/0 | 0 km/u | tel nee | heap 62140 | licht 255 | fps 37 teken 22.1ms stuur 18.3ms
+[00:04:00] status | klok 14:39 | gps zoekt sat=0 zicht=0 nmea=2900/0 | 0 km/u | tel nee | heap 62140 | licht 255 | fps 37 teken 21.8ms stuur 18.0ms
+[00:05:00] status | klok 14:40 | gps zoekt sat=0 zicht=0 nmea=3624/0 | 0 km/u | tel nee | heap 62140 | licht 255 | fps 38 teken 21.6ms stuur 18.2ms
+[00:05:42] geluid: hing vast, losgemaakt
+[00:06:00] status | klok 14:41 | gps zoekt sat=0 zicht=0 nmea=4348/0 | 0 km/u | tel nee | heap 57660 | licht 255 | fps 38 teken 21.4ms stuur 18.0ms
+[00:06:05] geluid: hing vast, losgemaakt
+[00:07:00] status | klok 14:42 | gps zoekt sat=0 zicht=0 nmea=5072/0 | 0 km/u | tel nee | heap 62140 | licht 255 | fps 38 teken 21.6ms stuur 18.3ms
+[00:08:00] status | klok 14:43 | gps zoekt sat=0 zicht=0 nmea=5796/0 | 0 km/u | tel nee | heap 62140 | licht 255 | fps 38 teken 21.3ms stuur 18.1ms
+[00:09:00] status | klok 14:44 | gps zoekt sat=0 zicht=0 nmea=6520/0 | 0 km/u | tel nee | heap 62140 | licht 255 | fps 38 teken 21.8ms stuur 18.3ms
+[00:09:23] sprint-show 16
+[00:10:00] status | klok 14:45 | gps zoekt sat=0 zicht=0 nmea=7244/0 | 0 km/u | tel nee | heap 62140 | licht 255 | fps 35 teken 23.6ms stuur 18.0ms
+[00:11:00] status | klok 14:46 | gps zoekt sat=0 zicht=0 nmea=7968/0 | 0 km/u | tel nee | heap 62140 | licht 255 | fps 38 teken 21.4ms stuur 18.3ms
+[00:12:00] status | klok 14:47 | gps zoekt sat=0 zicht=0 nmea=8692/0 | 0 km/u | tel nee | heap 62140 | licht 255 | fps 38 teken 21.4ms stuur 18.1ms
+[00:13:00] status | klok 14:48 | gps zoekt sat=0 zicht=0 nmea=9428/0 | 0 km/u | tel nee | heap 62140 | licht 255 | fps 37 teken 22.3ms stuur 18.1ms
+[00:14:00] status | klok 14:49 | gps zoekt sat=0 zicht=0 nmea=10140/0 | 0 km/u | tel nee | heap 62140 | licht 255 | fps 38 teken 21.4ms stuur 18.1ms
+[00:15:00] status | klok 14:50 | gps zoekt sat=0 zicht=0 nmea=10864/0 | 0 km/u | tel nee | heap 61996 | licht 255 | fps 37 teken 21.9ms stuur 18.1ms
+[00:16:00] status | klok 14:51 | gps zoekt sat=0 zicht=1 nmea=11600/0 | 0 km/u | tel nee | heap 61996 | licht 12 | fps 10 teken 15.3ms stuur 13.2ms | SLAAPT
+[00:17:00] status | klok 14:52 | gps zoekt sat=0 zicht=0 nmea=12324/0 | 0 km/u | tel nee | heap 61996 | licht 12 | fps 10 teken 15.5ms stuur 13.1ms | SLAAPT
+[00:18:00] status | klok 14:53 | gps zoekt sat=0 zicht=0 nmea=13048/0 | 0 km/u | tel nee | heap 61996 | licht 12 | fps 10 teken 15.1ms stuur 13.1ms | SLAAPT
+[00:19:00] status | klok 14:54 | gps zoekt sat=0 zicht=0 nmea=13760/0 | 0 km/u | tel nee | heap 61996 | licht 12 | fps 10 teken 15.2ms stuur 13.1ms | SLAAPT
+[00:20:00] status | klok 14:55 | gps zoekt sat=0 zicht=0 nmea=14484/0 | 0 km/u | tel nee | heap 61996 | licht 12 | fps 10 teken 15.5ms stuur 13.1ms | SLAAPT
+[00:20:13] BLE: telefoon verbonden
+[00:20:14] BLE: code goed, verbonden met de app
+[00:20:15] groep/worker ingesteld (Ricardo2)
+[00:20:15] GPS-hulp gegeven: tijd ok, plek ok (51.9959, 4.7772)
+[00:20:15] route gestopt
+[00:20:16] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+[00:20:16] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
+[00:20:20] wifi ingesteld: Sultra
+[00:20:24] GPS: fix kwijt (0 sat)
+[00:20:28] net: cast?latitude=51.996&longitude=4.777&current=temperature_2m,weather_code,precipitation&minutely_15=precipitation&forecast_minutely_15=4&timezone=auto -> -1 ERROR - Generic error (vrij
+[00:20:35] net: ers.dev/scherm?lat=51.99586&lon=4.77713&g=123456&van=bpwovzzuca0nf&sinds=1794058544770 -> -1 ERROR - Generic error (vrij 81056, blok 31732)
+[00:20:42] internet-check: dns MISLUKT, verbinding -, laatste download mislukt
+[00:20:47] flitsers van de app: 21
+[00:20:52] update gevraagd vanuit de app
+[00:20:53] update: v93 -> v94 wordt op de achtergrond binnengehaald
+[00:21:00] status | klok 14:56 | gps TEL sat=0 zicht=0 nmea=15224/0 | 0 km/u | tel data | heap 51632 | licht 255 | fps 5 teken 105.0ms stuur 164.2ms
+[00:21:27] update: v94 staat klaar. Installeren via het info-venster of de app
+[00:21:36] update: v94 wordt geinstalleerd, herstarten...
+[00:00:01] geluid: start, vrij DMA 247352 (grootste blok 188404)
+[00:00:01] geluid: PSRAM tijdelijk bezet (3 blokken, 0 vrij over)
+[00:00:01] geluid: ES8311 klaar, volume 20
+[00:00:02] ===== OPSTART v94 | reden: herstart door software | heap 106616 =====
+[00:00:02] flitsers: 515 vast, 76 trajectcontroles (uit geheugen)
+[00:00:02] borden geleerd van de telefoon: 167 punten
+[00:00:03] wifi verbonden (Sultra), IP 10.96.117.32
+[00:00:05] groet: Vroeg vandaag, Ricardo2! (vriend 69)
+[00:00:06] flitsers: 515 vast, 76 trajectcontroles (nieuw van internet)
+[00:00:07] BLE: telefoon verbonden
+[00:00:07] internet-check: dns ok, verbinding ok, laatste download gelukt
+[00:00:08] BLE: code goed, verbonden met de app
+[00:00:08] GPS-hulp gegeven: tijd ok, plek ok (51.9959, 4.7772)
+[00:00:09] groep/worker ingesteld (Ricardo2)
+[00:00:09] GPS antwoordt op hulp: $PAIR001,590,0 (0 = gelukt)
+[00:00:09] GPS antwoordt op hulp: $PAIR001,600,0 (0 = gelukt)
+[00:00:09] tegel 1733_95: 876 wegvakken
+[00:00:11] groep/worker ingesteld (Ricardo2)
+[00:00:16] GPS: fix kwijt (0 sat)
+[00:00:44] net: ers.dev/regen?lat=52.00&lon=4.78 -> 403  (vrij 56984, blok 31732)
+[00:00:44] weer: 6.8 graden, code 3, regen over -1 min
+[00:01:00] status | klok 14:58 | gps TEL sat=0 zicht=0 nmea=734/0 | 0 km/u | tel data | heap 59680 | licht 255 | fps 39 teken 21.1ms stuur 18.6ms
