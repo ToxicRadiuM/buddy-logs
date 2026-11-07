@@ -1,0 +1,105 @@
+--- v156 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+16:24:25 start v156
+16:24:25 groep ververst: 6
+16:24:26 GPS automatisch aan
+16:24:26 scherm-aan-slot geweigerd: NotAllowedError (probeer opnieuw bij een tik)
+16:24:26 wakker blijven: filmpje-truc aan
+16:24:28 limiet geschat uit je snelheid: 80
+16:24:28 rws tegel 1731_94 (telefoon): 138 wegvakken, versie 01-10-2026
+16:24:28 rws tegel 1730_94 (telefoon): 184 wegvakken, versie 01-10-2026
+16:24:28 osm wegen uit telefoongeheugen: 172 stuks
+16:24:28 wegen geladen: 172 wegen
+16:24:29 osm werk via Worker (bewaard): 400 stuks
+16:24:29 wegwerkzaamheden geladen: 398
+16:24:29 retro meter: optrekken 0 -> 25
+16:24:29 bruggen geladen: 0
+16:24:29 weer: 7 graden, code 3, neerslag 0, wind 5
+16:24:29 ANWB verkeer geladen: 38 meldingen in de buurt (van 72)
+16:24:29 matrix geladen: 520 snelheid, 188 kruis/pijl (18 min oud)
+16:24:29 NDW geladen: 312 meldingen in de buurt {"closure":169,"jam":10,"speed":45,"lane":84,"accident":4}
+16:24:29 scherm-aan-slot gekregen
+16:24:29 scherm-aan-slot gekregen
+16:24:29 autostand aan
+16:24:29 buienradar: nu 0 mm/u, regen over -1 min
+16:24:29 ev happy: Goedemiddag Henk! Het is 7 graden, bewolkt. Ricardo2 is ook al onderweg. Let op: een afsluiting op de A27 op je gewone route.
+16:24:29 briefing: Goedemiddag Henk! Het is 7 graden, bewolkt. Ricardo2 is ook al onderweg. Let op: een afsluiting op de A27 op je gewone route.
+16:24:29 retro meter: optrekken 0 -> 61
+16:24:30 flitsers via /flitsers: 23/23
+16:24:31 bewegingssensor: granted
+16:24:32 voelen: geleerde richting van vorige keer overgenomen
+16:24:33 voelen: sensor-teken gewoon
+16:24:33 back-up (dag) 174 kB
+16:24:35 v=85 nauwk=10m limiet=80 wegen=920 draai=-0 vaste=177/24 gemeld=23 stemming=happy
+16:24:38 drempel/schok sterkte 6.9 bij 84 km/h
+16:24:38 ev startled: Hobbel!
+--- v156 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+16:24:41 FOUT thuis-hint http 400
+--- v156 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+16:31:39 overpass overpass-api.de: te traag
+16:31:39 overpass overpass.private.coffee: te traag
+16:31:39 scherm-aan-slot gekregen
+16:31:39 scherm-aan-slot gekregen
+16:31:39 terug na 422 s zonder GPS
+16:31:39 limiet geschat uit je snelheid: 80
+16:31:39 v=69 nauwk=10m limiet=80~ wegen=0 draai=0 vaste=177/24 gemeld=23 stemming=love
+16:31:39 nieuwe gemeente: Krimpenerwaard (1)
+16:31:39 groep ververst: 6
+16:31:39 ANWB verkeer geladen: 38 meldingen in de buurt (van 69)
+16:31:39 NDW geladen: 336 meldingen in de buurt {"closure":195,"speed":45,"lane":84,"jam":9,"accident":3}
+16:31:39 matrix geladen: 520 snelheid, 188 kruis/pijl (25 min oud)
+16:31:39 rws tegel 1732_95 (internet): 330 wegvakken, versie 01-10-2026
+16:31:40 flitsers via /flitsers: 21/21
+16:31:40 retro meter: optrekken 0 -> 70
+16:31:44 ev worried: Let op: een afsluiting op de A27 bij knp. Hooipolder op je gewone route.
+16:31:44 vertrekcheck (rit): 1 meldingen op route
+16:31:46 overpass maps.mail.ru: http 504
+16:31:49 v=75 nauwk=10m limiet=80 wegen=330 draai=-2 vaste=177/24 gemeld=21 stemming=relaxed
+16:31:59 v=83 nauwk=10m limiet=80 wegen=330 draai=0 vaste=177/24 gemeld=21 stemming=relaxed
+16:32:04 overpass overpass.kumi.systems: te traag
+16:32:04 laadpalen niet gelukt: overpass.kumi.systems: te traag
+16:32:10 v=81 nauwk=10m limiet=80 wegen=330 draai=0 vaste=177/24 gemeld=21 stemming=alert
+16:32:16 osm wegen Worker: http 503, ik probeer Overpass rechtstreeks
+16:32:16 overpass overpass-api.de: http 502
+16:32:17 eigen flitser opgeslagen (fixed, 7)
+16:32:17 ev happy: Vaste flitser onthouden!
+16:32:17 groep ververst: 7
+16:32:20 v=78 nauwk=10m limiet=80 wegen=330 draai=0 vaste=177/24 gemeld=21 stemming=relaxed
+16:32:24 voelen: ik weet nu waar vooruit is (65%)
+16:32:24 rws tegel 1732_94 (internet): 48 wegvakken, versie 01-10-2026
+16:32:27 osm werk via Worker (bewaard): 400 stuks
+16:32:27 wegwerkzaamheden geladen: 398
+16:32:29 overpass overpass-api.de: te traag
+16:32:30 v=89 nauwk=10m limiet=80 wegen=378 draai=1 vaste=177/24 gemeld=21 stemming=relaxed
+16:32:30 ev worried: Voetje van het gas?
+16:32:31 overpass maps.mail.ru: http 504
+16:32:36 overpass overpass.private.coffee: te traag
+16:32:40 v=89 nauwk=10m limiet=80 wegen=378 draai=-0 vaste=177/24 gemeld=21 stemming=content
+16:32:41 overpass overpass.private.coffee: te traag
+16:32:41 rws tegel 1733_94 (internet): 2875 wegvakken, versie 01-10-2026
+16:32:43 overpass overpass.kumi.systems: te traag
+16:32:43 laadpalen: 113 snelladers in de buurt
+16:32:48 overpass overpass.kumi.systems: te traag
+16:32:48 FOUT wegenlimiet laden mislukt (overpass.kumi.systems: te traag) opnieuw over 8 s
+16:32:50 v=85 nauwk=10m limiet=80 wegen=3253 draai=0 vaste=177/24 gemeld=21 stemming=relaxed
+16:33:00 v=72 nauwk=10m limiet=80 wegen=3253 draai=8 vaste=177/24 gemeld=21 stemming=relaxed
+16:33:01 osm wegen via Worker (bewaard): 520 stuks
+16:33:01 wegen geladen: 520 wegen
+16:33:02 rws tegel 1733_95 (internet): 876 wegvakken, versie 01-10-2026
+16:33:10 v=66 nauwk=10m limiet=50 wegen=4649 draai=-5 vaste=177/24 gemeld=21 stemming=relaxed
+16:33:18 ev worried: Iets te snel, hè.
+16:33:20 v=73 nauwk=10m limiet=50 wegen=4649 draai=-1 vaste=177/24 gemeld=21 stemming=worried
+16:33:24 ev angry: Hé! Dat is veel te hard. Gas eraf!
+16:33:27 osm flits via Worker (oud): 153 stuks
+16:33:27 flitsdata geladen: 70 flitsers, 0 trajecten (totaal 177/24)
+16:33:31 v=75 nauwk=10m limiet=80 wegen=4649 draai=-2 vaste=177/24 gemeld=21 stemming=relaxed
+16:33:40 ANWB verkeer geladen: 38 meldingen in de buurt (van 67)
+16:33:40 flitsers via /flitsers: 21/21
+16:33:41 v=75 nauwk=10m limiet=80 wegen=4649 draai=-0 vaste=177/24 gemeld=21 stemming=relaxed
+16:33:52 v=83 nauwk=10m limiet=80 wegen=4649 draai=0 vaste=177/24 gemeld=21 stemming=relaxed
+16:34:03 v=80 nauwk=10m limiet=80 wegen=4649 draai=-0 vaste=177/24 gemeld=21 stemming=relaxed
+16:34:13 v=81 nauwk=10m limiet=80 wegen=4649 draai=-0 vaste=177/24 gemeld=21 stemming=relaxed
+--- v156 · iPhone; CPU iPhone OS 18_7 like Mac OS X ---
+16:57:22 ev excited: Die meeuw had het op ons gemunt.
+16:57:22 ev excited: Eh… zie jij dat ook?
+16:57:22 werk (kaart) 766 m: alleen icoontje
+16:57:22 nachtstand aan
