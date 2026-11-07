@@ -4359,3 +4359,30 @@
 15:02:19 scherm-aan-slot gekregen
 15:02:23 scherm geluid: ok/20/21
 15:02:28 v=0 nauwk=3m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=23 stemming=sleeping
+--- v156 · Linux; Android 10; K ---
+15:06:19 start v156
+15:06:19 groep ververst: 6
+15:06:20 bewegingssensor: granted
+15:06:20 GPS automatisch aan
+15:06:20 scherm-aan-slot gekregen
+15:06:20 ev happy: Goedemiddag Ricardo2!
+15:06:20 voelen: geleerde richting van vorige keer overgenomen
+15:06:22 limiet geschat uit je snelheid: 30
+15:06:22 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+15:06:22 bruggen geladen: 6
+15:06:22 flitsers via /flitsers: 21/21
+15:06:23 osm werk via Worker (bewaard): 400 stuks
+15:06:23 wegwerkzaamheden geladen: 398
+15:06:23 ANWB verkeer geladen: 37 meldingen in de buurt (van 68)
+15:06:23 weer: 6.8 graden, code 3, neerslag 0, wind 4
+15:06:23 NDW geladen: 334 meldingen in de buurt {"closure":204,"speed":41,"lane":78,"jam":7,"accident":4}
+15:06:23 matrix geladen: 530 snelheid, 177 kruis/pijl (16 min oud)
+15:06:23 buienradar: nu 0 mm/u, regen over -1 min
+15:06:29 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=21 stemming=content
+--- v156 · Linux; Android 10; K ---
+15:06:40 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=21 stemming=neutral
+15:06:44 ev worried: Let op: een afsluiting op de A2 bij Culemborg (+15 min) op je gewone route. En nog 3 meldingen.
+15:06:44 vertrekcheck (rit): 4 meldingen op route
+15:06:51 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=21 stemming=alert
+15:06:55 ev clock: Het is 15:06.
+15:07:01 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=21 stemming=bored
