@@ -466,3 +466,205 @@
 --- v141 · Linux; Android 10; K ---
 02:21:48 route klaarzetten: 32 wegvakken
 02:21:48 route klaarzetten: 32/32
+--- v141 · Linux; Android 10; K ---
+02:26:43 start v141
+02:26:43 nachtstand aan
+02:26:43 groep ververst: 6
+02:26:44 GPS automatisch aan
+02:26:44 scherm-aan-slot gekregen
+02:26:44 bewegingssensor: granted
+02:26:47 voelen: geleerde richting van vorige keer overgenomen
+02:26:47 limiet geschat uit je snelheid: 30
+02:26:47 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+02:26:48 bruggen geladen: 0
+02:26:48 weer: 0.7 graden, code 3, neerslag 0, wind 8
+02:26:48 ANWB verkeer geladen: 37 meldingen in de buurt (van 74)
+02:26:48 NDW geladen: 388 meldingen in de buurt {"closure":230,"speed":56,"lane":102}
+02:26:48 matrix geladen: 70 snelheid, 60 kruis/pijl (77 min oud)
+02:26:48 buienradar: nu 0 mm/u, regen over -1 min
+02:26:49 flitsers via /flitsers: 14/14
+02:26:50 route: 145.4 km, 46 stappen
+02:26:50 nav zegt: Route naar Gemeente Ommen. 145 kilometer, ongeveer 129 minuten.
+02:26:50 ev happy: Op naar Gemeente Ommen!
+02:26:50 nav zegt: Linksaf naar Bergvlietlaan.
+02:26:50 ev alert: Linksaf naar Bergvlietlaan!
+02:26:53 v=0 nauwk=9m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=happy
+--- v141 · Linux; Android 10; K ---
+02:27:03 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=neutral
+02:27:08 ev worried: Let op: een afsluiting op de A2 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+02:27:08 vertrekcheck (rit): 4 meldingen op route
+02:27:09 voelen: sensor-teken gewoon
+02:27:14 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=neutral
+02:27:15 ev clock: Het is 02:27.
+02:27:24 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=startled
+02:27:30 osm werk via Worker (bewaard): 400 stuks
+02:27:30 wegwerkzaamheden geladen: 398
+02:27:35 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=bored
+02:27:45 v=0 nauwk=4m limiet=15 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=bored
+--- v144 · Linux; Android 10; K ---
+02:33:31 start v144
+02:33:31 nachtstand aan
+02:33:32 groep ververst: 6
+02:33:32 GPS automatisch aan
+02:33:32 scherm-aan-slot gekregen
+02:33:33 voelen: geleerde richting van vorige keer meegedraaid
+02:33:33 bewegingssensor: granted
+02:33:34 limiet geschat uit je snelheid: 30
+02:33:34 ANWB verkeer geladen: 37 meldingen in de buurt (van 74)
+02:33:34 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+02:33:35 NDW geladen: 389 meldingen in de buurt {"closure":230,"speed":56,"lane":102,"accident":1}
+02:33:35 matrix geladen: 70 snelheid, 60 kruis/pijl (84 min oud)
+02:33:35 bruggen geladen: 0
+02:33:35 weer: 0.7 graden, code 3, neerslag 0, wind 8
+02:33:35 buienradar: nu 0 mm/u, regen over -1 min
+02:33:35 flitsers via /flitsers: 16/16
+02:33:38 route: 145.4 km, 46 stappen
+02:33:38 nav zegt: Route naar Gemeente Ommen. 145 kilometer, ongeveer 129 minuten.
+02:33:38 ev happy: Op naar Gemeente Ommen!
+02:33:38 nav zegt: Linksaf naar Bergvlietlaan.
+02:33:38 ev alert: Linksaf naar Bergvlietlaan!
+02:33:40 autostand aan
+02:33:41 v=0 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=bored
+--- v144 · Linux; Android 10; K ---
+02:33:52 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+02:33:57 ev worried: Let op: een afsluiting op de A2 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+02:33:57 vertrekcheck (rit): 4 meldingen op route
+02:34:02 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=excited
+02:34:04 ev happy: Zo zie ik het ook.
+02:34:05 voelen: sensor-teken gewoon
+02:34:06 ev clock: Het is 02:34.
+02:34:06 ev startled: Wiee, ik zweef!
+02:34:07 ev content: Klik! Ik zit weer.
+02:34:07 ev excited: Hoi! Zin om te rijden?
+02:34:07 geklopt (2×)
+02:34:12 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=bored
+--- v144 · Linux; Android 10; K ---
+02:35:33 start v144
+02:35:33 nachtstand aan
+02:35:33 groep ververst: 6
+02:35:34 GPS automatisch aan
+02:35:34 scherm-aan-slot gekregen
+02:35:34 voelen: geleerde richting van vorige keer overgenomen
+02:35:36 autostand aan
+02:35:36 bewegingssensor: granted
+02:35:36 limiet geschat uit je snelheid: 30
+02:35:37 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+02:35:37 matrix geladen: 70 snelheid, 60 kruis/pijl (86 min oud)
+02:35:37 flitsers via /flitsers: 16/16
+02:35:37 bruggen geladen: 0
+02:35:37 ANWB verkeer geladen: 37 meldingen in de buurt (van 74)
+02:35:37 weer: 0.7 graden, code 3, neerslag 0, wind 8
+02:35:37 buienradar: nu 0 mm/u, regen over -1 min
+02:35:37 NDW geladen: 389 meldingen in de buurt {"closure":230,"speed":56,"lane":102,"accident":1}
+02:35:39 route: 145.4 km, 46 stappen
+02:35:39 nav zegt: Route naar Gemeente Ommen. 145 kilometer, ongeveer 129 minuten.
+02:35:39 ev happy: Op naar Gemeente Ommen!
+02:35:39 nav zegt: Linksaf naar Bergvlietlaan.
+02:35:39 ev alert: Linksaf naar Bergvlietlaan!
+02:35:43 v=0 nauwk=13m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=relaxed
+--- v144 · Linux; Android 10; K ---
+02:39:54 scherm-aan-slot gekregen
+02:39:54 scherm-aan-slot gekregen
+02:39:55 ev worried: Let op: een afsluiting op de A2 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+02:39:55 vertrekcheck (rit): 4 meldingen op route
+--- v144 · Linux; Android 10; K ---
+02:40:04 start v144
+02:40:04 nachtstand aan
+02:40:04 groep ververst: 6
+02:40:05 GPS automatisch aan
+02:40:05 scherm-aan-slot gekregen
+02:40:05 voelen: geleerde richting van vorige keer overgenomen
+--- v145 · Linux; Android 10; K ---
+02:40:13 start v145
+02:40:13 nachtstand aan
+02:40:14 groep ververst: 6
+02:40:14 GPS automatisch aan
+02:40:14 scherm-aan-slot gekregen
+02:40:15 voelen: geleerde richting van vorige keer overgenomen
+02:40:15 bewegingssensor: granted
+02:40:17 limiet geschat uit je snelheid: 30
+02:40:17 ANWB verkeer geladen: 37 meldingen in de buurt (van 74)
+02:40:17 rws tegel 1733_95 (telefoon): 876 wegvakken, versie 01-10-2026
+02:40:18 weer: 0.3 graden, code 2, neerslag 0, wind 7
+02:40:18 bruggen geladen: 0
+02:40:18 NDW geladen: 386 meldingen in de buurt {"closure":228,"speed":55,"lane":102,"accident":1}
+02:40:18 matrix geladen: 70 snelheid, 60 kruis/pijl (91 min oud)
+02:40:18 flitsers via /flitsers: 16/16
+02:40:18 buienradar: nu 0 mm/u, regen over -1 min
+02:40:20 route: 145.4 km, 46 stappen
+02:40:20 nav zegt: Route naar Gemeente Ommen. 145 kilometer, ongeveer 129 minuten.
+02:40:20 ev happy: Op naar Gemeente Ommen!
+02:40:20 retro meter: optrekken 0 -> 16
+02:40:20 nav zegt: Linksaf naar Bergvlietlaan.
+02:40:20 ev alert: Linksaf naar Bergvlietlaan!
+02:40:20 retro meter: optrekken 0 -> 16
+02:40:23 v=0 nauwk=10m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=excited
+02:40:27 sprint-animatie: podium
+--- v145 · Linux; Android 10; K ---
+02:40:35 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+02:40:38 ev worried: Let op: een afsluiting op de A2 bij knp. Everdingen op je gewone route. En nog 3 meldingen.
+02:40:38 vertrekcheck (rit): 4 meldingen op route
+02:40:44 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+02:40:54 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+02:41:02 ev clock: Het is 02:41.
+02:41:05 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=clock
+02:41:15 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=happy
+--- v145 · Linux; Android 10; K ---
+02:42:05 scherm-aan-slot gekregen
+02:42:05 scherm-aan-slot gekregen
+02:42:06 terug na 11 s zonder GPS
+02:42:06 v=0 nauwk=13m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=bored
+02:42:16 v=0 nauwk=8m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=anticipate
+02:42:19 ANWB verkeer geladen: 37 meldingen in de buurt (van 74)
+02:42:26 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=bored
+02:42:37 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=happy
+02:42:47 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=bored
+02:42:58 flitsers via /flitsers: 16/16
+02:42:58 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=bored
+02:43:06 autostand aan
+02:43:08 v=0 nauwk=4m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+02:43:18 v=0 nauwk=5m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+02:43:29 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+02:43:39 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=neutral
+02:43:40 ev happy: Draaien! Hoei!
+02:43:40 voelen: sensor-teken gewoon
+02:43:41 osm laad via Worker (bewaard): 3 stuks
+02:43:41 laadpaal: niet gevonden in de buurt
+02:43:41 ev startled: Hé! Waar gaan we heen?
+02:43:44 ev happy: Zo zie ik het ook.
+02:43:47 ev worried: Mijn hoofd tolt…
+02:43:48 voelen: telefoon gedraaid (64°), richting meegedraaid
+02:43:48 ev content: Ah, weer lekker vast.
+02:43:50 voelen: telefoon gedraaid (84°), richting meegedraaid
+02:43:50 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=worried
+02:43:52 voelen: telefoon gedraaid (34°), richting meegedraaid
+02:43:53 groep ververst: 6
+02:43:53 ev happy: Zo zie ik het ook.
+02:43:55 voelen: telefoon gedraaid (52°), richting meegedraaid
+02:44:01 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=bored
+02:44:11 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=bored
+02:44:20 ANWB verkeer geladen: 37 meldingen in de buurt (van 74)
+02:44:21 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=bored
+02:44:31 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=yawn
+02:44:41 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=bored
+02:44:42 ev clock: Het is 02:44.
+02:44:52 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=16 stemming=bored
+02:44:58 matrix geladen: 70 snelheid, 60 kruis/pijl (95 min oud)
+02:44:59 flitsers via /flitsers: 14/14
+02:45:02 v=0 nauwk=7m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=bored
+02:45:10 ev happy: Zo zie ik het ook.
+02:45:12 ev startled: Hé! Waar gaan we heen?
+02:45:13 ev content: Klik! Ik zit weer.
+02:45:13 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=content
+02:45:19 NDW geladen: 386 meldingen in de buurt {"closure":228,"speed":55,"lane":102,"accident":1}
+02:45:23 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=bored
+02:45:32 ev sad: Ik voel me een beetje alleen… gaan we nog rijden?
+02:45:33 v=0 nauwk=6m limiet=30 wegen=1396 draai=0 vaste=117/12 gemeld=14 stemming=sad
+02:45:36 rit vanzelf afgesloten (app dicht)
+--- v145 · Linux; Android 10; K ---
+02:54:31 start v145
+02:54:31 nachtstand aan
+02:54:31 groep ververst: 6
+02:54:31 GPS automatisch aan
+02:54:31 ev happy: Het is laat Ricardo2. Rij voorzichtig.
+02:54:31 scherm-aan-slot gekregen
